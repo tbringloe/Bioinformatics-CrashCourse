@@ -13,7 +13,7 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 - [Tutorial 1 Linux based commands](#tutorial-1-linux-based-commands)
 - [Tutorial 2 High Performance Computing](#tutorial-2-high-performance-computing)
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
-- [Lab 2 Assembling organellar genomes](#lab-2-assembling-organellar-genomes)
+- [Lab 2 Assembling and annotating organellar genomes](#lab-2-assembling-and-annotating-organellar-genomes)
 - [Lab 3 Distilling Norwegian algal turf read datasets](#lab-3-distilling-norwegian-algal-turf-read-datasets)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
@@ -256,7 +256,7 @@ Next, repeat the exercise, but flip all the LEGO pieces to the site labelled wit
 
 2. As before, draw a diagram of your assembly graph. Provide a figure title, indicating the k-mer size used.
 
-3. Here we have assumed unlimited coverage for the assemblies. What was the effect of k-mer size on the assembly graphs?
+3. Here we have assumed unlimited coverage for the assemblies. What was the effect of k-mer size on the assembly graphs? How did repetitive elements impact the graph?
 
 4. Had coverage been limited, how might the assembly at the larger k-mer size been impacted?
 
@@ -266,15 +266,17 @@ You have now assembled several sequences. Compare the sequences to NCBI's databa
 
 1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records?
 
-## Lab 2 Assembling organellar genomes
+## Lab 2 Assembling and annotating organellar genomes
+Now that our reads are trimmed, and we are confident our data is of high quality, we can begin assembling reads. One option is to assemble the entire dataset. This would produce millions of contigs. It would also be computationally demanding (potentially impossible depending on the complexity of the dataset and the resources required to assemble). Rather than assemble the entire dataset, we will assemble the organellar genomes. This can be achieved using NOVOPlasty, a clever program that leverages a seed sequence and coverage information to infer circular organellar genomes. The following tutorial will produce mitochondrial and chloroplast sequences in two samples. The remainder of the lab will be dedicated to understanding annotations.
 
+NOVOPlasty is a perl script that elongates a specified seed file. The seed file represents a sequence, either in the target organism or a closely related organism. For instance, DNA barcodes coxI and rbcL are good seed candidates for assembling algal organellar genomes (because that reference data exists). The script will then map reads to the seed sequence, determine a high coverage k-mers, and start elongating the assembly graph from these k-mers while incorporating coverage information to hopefully avoid any breaks in the assembly. This works because organellar genomes occur as many copies within cells, meaning they are disproportionately represented in read datasets. Other assemblers such as SPAdes also incorporates coverage information into the assembly graph. Once the program elongates enough such that it begins overlapping the other side of the same sequence, it confirms the sequence is circular and outputs the organellar genome as a fasta file.
 
 ## Lab 3 Distilling Norwegian algal turf read datasets
 
 For this lab, students will go through the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The lab will process the following three samples:
 
 ## Acknowledgements
-All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics, of which this workflow is a direct result.
+All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics.
 
 ## References
 **Other potentially useful tutorials:**
