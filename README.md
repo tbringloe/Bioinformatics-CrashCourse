@@ -11,8 +11,8 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 - [Objective](#objective)
 - [Project Summary](#project-summary)
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
-- [Lab 2 Distilling Norwegian algal turf read datasets](#lab-2-distilling-norwegian-algal-turf-read-datasets)
-- [Lab 3 Assembling organellar genomes](#lab-3-assembling-organellar-genomes)
+- [Lab 2 Assembling organellar genomes](#lab-2-assembling-organellar-genomes)
+- [Lab 3 Distilling Norwegian algal turf read datasets](#lab-3-distilling-norwegian-algal-turf-read-datasets)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
@@ -88,9 +88,11 @@ You have now assembled several sequences. Compare the sequences to NCBI's databa
 
 1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records?
 
-## Lab 2 Distilling Norwegian algal turf read datasets
+## Lab 2 Assembling organellar genomes
 
-## Lab 3 Assembling organellar genomes
+## Lab 3 Distilling Norwegian algal turf read datasets
+
+For this lab, students will go through the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The lab will process the following three samples:
 
 ## Acknowledgements
 All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics, of which this workflow is a direct result.
@@ -103,6 +105,8 @@ Variant calling for phylogenomic and population genomics: [https://github.com/tb
 Reference genome assembly and annotation: https://github.com/tbringloe/Monodontid_assemblies_2023
 
 **Citations for programs:**
+
+Bolger, A. M., Lohse, M., & Usadel, B. (2015). Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 30, 2114-20.
 
 Danacek, P., Bonfield, J. K., Liddle, J., Marshall, J., Ohan, V., Pollard, M. O., Whitwham. A., Keane, T., McCarthy, S. A., Davies, R. M., & Li, H. (2021). Twelve years of SAMtools and BCFtools. Gigascience, 10, giab008. https://github.com/samtools/bcftools.
 
