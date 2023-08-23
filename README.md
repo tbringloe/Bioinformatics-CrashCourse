@@ -31,10 +31,39 @@ Using the tutorials provided here, students are expected to take these whole gen
 
 ## Tutorial 1 Linux based commands
 
-Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Students are not required to do anything for this tutorial, though ideally, students would have access to a linux based environment (e.g. a virtual box or software such as Ubuntu). This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs.
+Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Students are not required to do anything for this tutorial, though ideally, students would have access to a linux based environment (e.g. a virtual box or software such as Ubuntu) and test commands themselves to foster comprehension. This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs. It is by no means comprehensive; the intention is to put these tools in the hands of up and coming biologists. Most people learn how to drive without ever knowing exactly how their vehicle works.
 
+A couple further things to note. You cannot visualize or interact with linux file systems the same way we click and see file heirarchies in windows or apple OS. Rather, the user must create and familiarize themselves with file heirarchies, and use file pathways (e.g. /home/trevor/data) to move about and interact with their environment and the files therein. Some third party programs can help, however, with connecting and navigating this environment, specifically if the environment is remote and you must login to it (e.g. [Filezilla](https://filezilla-project.org/). A good SSH client for remote work is [PuTTy](https://www.putty.org/). 
+A hashtag indicates to not execute proceeding text as commands. They are therefore a useful tool for annotating scripts.
+You can use the TAB key to finish a filename or pathway. If multiple options are present, they will be displayed. This can save typing out everything.
+The up arrow key can be used to recall previously used commands, in order of more recent
+Many commands will display output at the command line interface. End any command with '> file.name' to output command to a the specified file (i.e. something more informative than file.name.
+
+*list of common linux-based commands*
+
+pwd # list present working directory, useful to get oriented in your environment
 ```
-
+pwd
+/home/tbringloe/Norway_turfs
+ls # list files in present directory, or in specified directory. Can be used in combination with file names and wildcards.
+ls *_R1.fastq.gz
+TTB000600_R1.fastq.gz
+TTB000601_R1.fastq.gz
+cd # change directory, use in combination with downstream file pathway, or use full pathway to exit and enter new pathways
+cd /home/tbringloe/Norway_turfs/
+cd raw_reads # changes to file raw_reads folder in present working directory
+.. # move up one directory
+nano # this will open and display contents of any specified file (providing it is text). This is useful for editing files. Be sure to save edits when exiting with CTRL+X.
+cat # list, combine or write file contents, useful for combining files or listing contents to be used in another command
+cp # copy specified file
+cp TTB000600_R1.fastq.gz raw_reads # copies fastq file to raw_read folder in present working directory
+mkdir # make a new specified directory
+mkdir trimmed_reads # creates new directoru trimmed_reads in present working directory
+mv # move specified file to new location or rename file
+mv raw_reads/TTB000600_R1.fastq.gz trimmed_reads # moves file TTB000600_R1.fastq.gz in raw_reads directory to trimmed_reads folder
+mv trimmed_reads/TTB000600_R1.fastq.gz trimmed_reads/TTB000600_trimmed_R1.fastq.gz # renames file moved to trimmed reads above
+rm trimmed_reads/TTB000600_trimmed_R1.fastq.gz # removes file TTB000600_trimmed_R1.fastq.gz from trimmed_reads directory
+rmdir trimmed_reads # removes directory trimmed_reads, along with its contents
 ```
 
 ## Tutorial 2 High Performance Computing
