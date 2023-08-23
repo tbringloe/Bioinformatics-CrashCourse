@@ -48,44 +48,61 @@ You can pipe the output of one command into a new command using |. This helps av
 pwd # list present working directory, useful to get oriented in your environment
 pwd
 /home/tbringloe/Norway_turfs
+
 ls # list files in present directory, or in specified directory. Can be used in combination with file names and wildcards.
 ls *_R1.fastq.gz
 TTB000600_R1.fastq.gz
 TTB000601_R1.fastq.gz
+
 cd # change directory, use in combination with downstream file pathway, or use full pathway to exit and enter new pathways
 cd /home/tbringloe/Norway_turfs/
 cd raw_reads # changes to file raw_reads folder in present working directory
+
 .. # move up one directory
+
 nano # this will open and display contents of any specified file (providing it is text). This is useful for editing files. Be sure to save edits when exiting with CTRL+X.
+
 cat # list, combine or write file contents, useful for combining files or listing contents to be used in another command
+
 cp # copy specified file
 cp TTB000600_R1.fastq.gz raw_reads # copies fastq file to raw_read folder in present working directory
+
 mkdir # make a new specified directory
 mkdir trimmed_reads # creates new directoru trimmed_reads in present working directory
+
 mv # move specified file to new location or rename file
 mv raw_reads/TTB000600_R1.fastq.gz trimmed_reads # moves file TTB000600_R1.fastq.gz in raw_reads directory to trimmed_reads folder
 mv trimmed_reads/TTB000600_R1.fastq.gz trimmed_reads/TTB000600_trimmed_R1.fastq.gz # renames file moved to trimmed reads above
+
 rm trimmed_reads/TTB000600_trimmed_R1.fastq.gz # removes file TTB000600_trimmed_R1.fastq.gz from trimmed_reads directory, can also use rm -R to delete files recursively
 rmdir trimmed_reads # removes directory trimmed_reads, along with its contents
+
 grep # prints lines matching criteria in a specified file. Can also use -v flag to pring inverse (any lines not matching criteria)
 grep TTB sample.list
 TTB000600
 TTB000601
 TTB000602
+
 df -H # displays disk usage in human readable format
+
 head -n 10 # displays first ten lines in a specified file
 tail -n 10 # displays last ten lines in a specified file
+
 top # displays running processes on the system, along with resource usage in terms of cores and RAM
 htop # similar to top, but with different display
+ps -x --forest # will display a tree of processes and subprocesses
+
 echo # will display string to standard output, useful to output text in scripts or try commands without running them, particularly if variables are set
+
 bash script.sh # execute lines of code in script.sh
+
 # Some more advanced commands
 nohup # when working on a remote server, use nohup to run command so that it continues to run if you exit the session or connection drops
 screen # an alternative to nohup, which allows users to run tasks in multiple windows. Will also prevent command from hanging if connection drops of session is exited.
+
 CTRL+Z # will suspend the currently running process
 bg # run suspended process in the background
 fg # bring background process into the foreground (i.e. commmand line)
-ps -x --forest # will display a tree of processes and subprocesses
 ```
 
 *Some example command strings that are useful in bioinformatics*
