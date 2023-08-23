@@ -188,9 +188,13 @@ salloc --time 60 --mem 20 # launch an interactive session with a time limit of 6
 exit # leave interactive or global session
 
 diskusage_report # shows current storage and storage limits, both in terms of disk space and number of files. Projects are allocated a set amount of disk space.
+
+sshare -l -A <user_account>_cpu -u tbringlo # check account and user usage, including levelFS, which proxies queue priority; <1 and priority is low because the account has used more resources than allocated, >1 and priority is higher because the account has used less resources than allocated
 ```
 
+When working in an HPC environment, users must be mindful of the resources they are requesting and using. Large jobs take longer to process in the queue. The user is therefore incentivized to request only the required amount of resources to complete a task; estimating the appropriate amount of resources needed is gained with experience. When an account utilizes a lot of resources, users under that account receive less priority in the queue. Users are therefore also incentivized to be efficient with their resources, or risk long wait times to complete tasks. Use the above command sshare to monitor resource usage and queue priority.
 
+When considering usage, users must consider two factors, the number of tasks to run and the job wall time. For instance, a single tasks running on a single thread for 24 hours=24 hours of computation time. But 32 tasks on 32 threads (or one tasks divided among 32 threads) running for 24 hours=768 (32 x 24) computation hours. Regardless of whether your tasks uses the available threads requested, the user account is "charged" for the time resources are tied up for a given job. It is therefore critical to ensure the resources requested are being used efficiently.
 
 
 ## Lab 1 Assembling LEGO k-mers
