@@ -38,11 +38,14 @@ A hashtag indicates to not execute proceeding text as commands. They are therefo
 You can use the TAB key to finish a filename or pathway. If multiple options are present, they will be displayed. This can save typing out everything.
 The up arrow key can be used to recall previously used commands, in order of more recent
 Many commands will display output at the command line interface. End any command with '> file.name' to output command to a the specified file (i.e. something more informative than file.name.
+You can set environment variables, which sub in text in specified locations. This can cut down on text, and facilitate more advanced commands such as looping through sample IDs
+Watch out for double and single quotations, they must be closed, otherwise your command/script will break. Single quotes tell the sytem to interpret text as written.
+You can pipe the output of one command into a new command using |. This helps avoid bulky writing and writing intermediate files.
 
 *list of common linux-based commands*
 
-pwd # list present working directory, useful to get oriented in your environment
 ```
+pwd # list present working directory, useful to get oriented in your environment
 pwd
 /home/tbringloe/Norway_turfs
 ls # list files in present directory, or in specified directory. Can be used in combination with file names and wildcards.
@@ -62,8 +65,58 @@ mkdir trimmed_reads # creates new directoru trimmed_reads in present working dir
 mv # move specified file to new location or rename file
 mv raw_reads/TTB000600_R1.fastq.gz trimmed_reads # moves file TTB000600_R1.fastq.gz in raw_reads directory to trimmed_reads folder
 mv trimmed_reads/TTB000600_R1.fastq.gz trimmed_reads/TTB000600_trimmed_R1.fastq.gz # renames file moved to trimmed reads above
-rm trimmed_reads/TTB000600_trimmed_R1.fastq.gz # removes file TTB000600_trimmed_R1.fastq.gz from trimmed_reads directory
+rm trimmed_reads/TTB000600_trimmed_R1.fastq.gz # removes file TTB000600_trimmed_R1.fastq.gz from trimmed_reads directory, can also use rm -R to delete files recursively
 rmdir trimmed_reads # removes directory trimmed_reads, along with its contents
+grep # prints lines matching criteria in a specified file. Can also use -v flag to pring inverse (any lines not matching criteria)
+grep TTB sample.list
+TTB000600
+TTB000601
+TTB000602
+df -H # displays disk usage in human readable format
+head -n 10 # displays first ten lines in a specified file
+tail -n 10 # displays last ten lines in a specified file
+top # displays running processes on the system, along with resource usage in terms of cores and RAM
+htop # similar to top, but with different display
+echo # will display string to standard output, useful to output text in scripts or try commands without running them, particularly if variables are set
+sh # execute bash 
+```
+
+*Some example commands that are useful in bioinformatics*
+
+```
+# Create a list of sample IDs
+cd /home/tbringloe/raw_reads
+ls *_R1.fastq.gz > sample.IDs
+# since we only want the prefix for downstream commmands, remove _R1.fastq.gz using sed
+sed 's/_R1.fastq.gz//g' sample.IDs > sample.IDs2
+#remove old sample ID file and rename to sample.ID2
+rm sample.IDs
+mv sample.IDs2 sample.IDs
+
+# Loop command through set of sample IDs stored in text file sample.list. Cat reads sample.IDs file, then for each line execute the command
+cat sample.IDs | while read line
+do
+fastqc "$line"_R1.fastq.gz "$line"_R2.fastq.gz -o .
+done
+
+# Can also use xargs command to perform command in parallel using multiple system threads.
+cat sample.list | xargs -I {} -n 1 -P $threads sh -c "fastqc {}_R1.fastq.gz {}_R2.fastq.gz -o ."
+
+# Set variables so you can quickly swap out relevant information througout lines of code
+marker=coxI
+echo ls /home/tbringloe/assembled_reads/"$marker"
+ls /home/tbringloe/assembled_reads/coxI
+
+# create forks in your workflow based on specified criteria. You can create elaborate bash scripts this way
+trim_raw_reads=1 # 1 to trim raw reads, 0 to skip step
+echo running workflow
+if [$trim_raw_reads -eq 1]
+then
+  echo run trimmmomatic
+  echo insert trimmomatic code here
+else
+  echo User has specified to skip raw read trimming
+fi
 ```
 
 ## Tutorial 2 High Performance Computing
