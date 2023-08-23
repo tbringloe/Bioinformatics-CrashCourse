@@ -174,6 +174,8 @@ cat sample.list | xargs -I {} -n 1 -P $threads sh -c "fastqc {}_R1.fastq.gz {}_R
 ```
 In this example, the user has specified the account under which to run tasks (computation resources are carefully allocated and monitored across accounts to ensure resources are utilized in an equitable manner). The maximum amount of time to run the task(s) (i.e. wall time) has been specified at just under 4 hours. The job name has been specified as 'fastqc_raw_check', which will appear when monitoring the job status. -n specifies to use 4 threads or tasks when running the command, and --mem specifies the amount of extra memory or RAM to allocate to the job (usually there is a maximum amount of memory provided per node, so users will need to request additional memory if needed). -N indicates to run on a single node (most actions can be performed on a single node, except in more advanced tasks that require running seperate tasks on multiple nodes). --mail-user specified an email where notifications can be sent when the job enters a new status (e.g. --mail-type=BEGIN, END, FAIL). Shared environments typically have staff who can install software of interest; as such, programs needed to run commands are loaded as modules, and become available for use once loaded. Oftentimes, system dependencies must also be loaded to run particular programs. Job commands are the commands you want to run. When working in a HPC environment, some specific and additional commands are available for use.
 
+**NEVER RUN TASKS DIRECTLY ON A SHARED HIGH PERFORMANCE COMPUTER. DEPENDING ON THE SIZE OF THE TAKS, YOU RUN THE RISK OF CRASHING THE ENTIRE SYSTEM. THIS WILL RESULT IN POTENTIAL PENALTIES FROM STAFF, AND A LOT OF GRUMPY USERS WHOSE JOBS YOU KILLED IN ONE FELL SWOOP. ALWAYS USE SALLOC IF AN INTERACTIVE SESSION IS REQUIRED**
+
 *list of common HPC commands*
 
 ```
@@ -183,6 +185,10 @@ sbatch # submit slurm script to the system queue
 sbatch yourscript.slurm
 
 squeue -u tbringlo # check status of jobs submitted by specified user
+
+module spider <program.of.interest> # lists modules matching specified text. Useful to determine availability, including versions and dependencies
+
+module load <program.of.interest> # load specified module
 
 salloc --time 60 --mem 20 # launch an interactive session with a time limit of 60 minutes and with 20 GB of RAM. This is particularly useful for troubleshooting commands without repeatedly submitting jobs that fail, or smaller tasks that require more user input
 exit # leave interactive or global session
@@ -198,7 +204,7 @@ When considering usage, users must consider two factors, the number of tasks to 
 
 
 ## Lab 1 Assembling LEGO k-mers
-Following the lecture introducing concepts related to bioinformatics, and a tutorial on linux based High Performance Computing, complete the following lab. Note, the following commands require some user input to run, i.e. defining particular variables and establishing sample lists.
+Following the lecture introducing concepts related to bioinformatics, and the tutorials above, complete the following lab. Note, the following commands require some user input to run, i.e. defining particular variables and establishing sample lists.
 
 *Exercise 1: Evaluating read quality*
 
@@ -225,7 +231,7 @@ cat sample.list | xargs -I {} -n 1 -P $threads sh -c "fastqc {}_R1.fastq.gz {}_R
 $multiqc . -o .
 ```
 
-Investigate the FASTQC reports and answer the following questions.
+Investigate the FASTQC reports (individually or using multiQC) and answer the following questions.
 1.	Briefly define the variables specified stated above by consulting the [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) manual.
 
 2.	Fill the following table:
@@ -261,6 +267,7 @@ You have now assembled several sequences. Compare the sequences to NCBI's databa
 1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records?
 
 ## Lab 2 Assembling organellar genomes
+
 
 ## Lab 3 Distilling Norwegian algal turf read datasets
 
