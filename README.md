@@ -11,6 +11,8 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 - [Objective](#objective)
 - [Project Summary](#project-summary)
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
+- [Lab 2 Distilling Norwegian algal turf read datasets](#lab-2-distilling-norwegian-algal-turf-read-datasets)
+- [Lab 3 Assembling organellar genomes](#lab-3-assembling-organellar-genomes)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
@@ -58,7 +60,7 @@ Investigate the FASTQC reports and answer the following questions.
 
 | File name | # of read before trimming | # of reads after trimming | Average read quality before trimming | Average read quality after trimming | GC content before trimmming | GC content after trimming |
 | --- | --- | --- | --- | --- | --- | --- |
-| TTB000600 |
+| TTB000601 |
 | TTB000606 |
 | TTB000611 |
 
@@ -66,13 +68,29 @@ Investigate the FASTQC reports and answer the following questions.
 
 4.	Visit this [bad quality report](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/bad_sequence_fastqc.html). What are potential issues with the read data and what trimming could be done to improve the quality of the specified read dataset?
 
-Exercise 2: Build an assembly graph 
+*Exercise 2: Build an assembly graph* 
 
-and answer the following questions.
+You have been provided long LEGO pieces with sequences labelled on them. These represent k-mers. Start by turning all pieces to the side labelled with the red circle. This represents your read data as k-mers at length XX. Start overlapping and connecting the pieces at your k-mer size-1 (i.e. XX, your pieces should overlap almost entirely, extending the graph one node at a time). Note when multiple pathways occur, and whether m there are multiple unconnected pathways. 
 
-Exercise 3: Blast assembled sequences
-1.	What are the top BLAST hits for each sequence assembled with the lego k-mers?
+1. Draw a diagram of your assembly graph (an example can be provided in lab, or see [BANDAGE](https://rrwick.github.io/Bandage/) for conceptual examples, though ours will be much simpler than what is shown here). Provide a figure title, indicating the k-mer size used.
 
+Next, repeat the exercise, but flip all the LEGO pieces to the site labelled with a blue square. This represents your read data as k-mers at length XX. As before, start overlapping and connecting the pieces at your k-mer size-1.
+
+2. As before, draw a diagram of your assembly graph. Provide a figure title, indicating the k-mer size used.
+
+3. Here we have assumed unlimited coverage for the assemblies. What was the effect of k-mer size on the assembly graphs?
+
+4. Had coverage been limited, how might the assembly at the larger k-mer size been impacted?
+
+*Exercise 3: Blast assembled sequences*
+
+You have now assembled several sequences. Compare the sequences to NCBI's database using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) and to [BOLD](http://v4.boldsystems.org/) records under the "identification" tab to assign taxonomic information to the sequences.
+
+1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records?
+
+## Lab 2 Distilling Norwegian algal turf read datasets
+
+## Lab 3 Assembling organellar genomes
 
 ## Acknowledgements
 All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics, of which this workflow is a direct result.
