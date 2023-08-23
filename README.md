@@ -51,6 +51,8 @@ done
 ```
 # Run fastqc, using xargs command to run fastqc over all samples simultaneously using multiple threads (i.e. in parallel to reduce linear computation time)
 cat sample.list | xargs -I {} -n 1 -P $threads sh -c "fastqc {}_R1.fastq.gz {}_R2.fastq.gz -o ."
+# Combine reports into a single html using multiQC
+$multiqc . -o .
 ```
 
 Investigate the FASTQC reports and answer the following questions.
