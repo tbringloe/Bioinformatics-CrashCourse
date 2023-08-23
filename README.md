@@ -1,8 +1,8 @@
 # Basic Introduction to Bioinformatics for Undergraduate Teaching
 
 __Main author:__  Trevor T. Bringloe  
-__Affiliation:__  Fisheries and Oceans Canada (DFO)   
-__Group:__        NA   
+__Affiliation:__  University of New Brunswick (UNB)   
+__Group:__        Biology Department   
 __Location:__     New Brunswick, Canada  
 __Affiliated publication:__  
 __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
