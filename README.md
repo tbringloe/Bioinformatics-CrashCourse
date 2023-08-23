@@ -78,10 +78,17 @@ tail -n 10 # displays last ten lines in a specified file
 top # displays running processes on the system, along with resource usage in terms of cores and RAM
 htop # similar to top, but with different display
 echo # will display string to standard output, useful to output text in scripts or try commands without running them, particularly if variables are set
-sh # execute bash 
+bash script.sh # execute lines of code in script.sh
+# Some more advanced commands
+nohup # when working on a remote server, use nohup to run command so that it continues to run if you exit the session or connection drops
+screen # an alternative to nohup, which allows users to run tasks in multiple windows. Will also prevent command from hanging if connection drops of session is exited.
+CTRL+Z # will suspend the currently running process
+bg # run suspended process in the background
+fg # bring background process into the foreground (i.e. commmand line)
+ps -x --forest # will display a tree of processes and subprocesses
 ```
 
-*Some example commands that are useful in bioinformatics*
+*Some example command strings that are useful in bioinformatics*
 
 ```
 # Create a list of sample IDs
