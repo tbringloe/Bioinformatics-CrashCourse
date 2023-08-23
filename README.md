@@ -10,6 +10,8 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 
 - [Objective](#objective)
 - [Project Summary](#project-summary)
+- [Tutorial 1 Linux based commands](#tutorial-1-linux-based-commands)
+- [Tutorial 2 High Performance Computing](#tutorial-2-high-performance-computing)
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
 - [Lab 2 Assembling organellar genomes](#lab-2-assembling-organellar-genomes)
 - [Lab 3 Distilling Norwegian algal turf read datasets](#lab-3-distilling-norwegian-algal-turf-read-datasets)
@@ -26,6 +28,16 @@ Macroalgae (seaweeds) represent a conglomerate of species, particularly turf for
 Bioinformatics offers one such glimpse into the structure of holobiomes. August 7-12, 2022. I was fortunate enough to join colleagues on a research cruise to collect seaweeds in Tjongspollen Fjord, south of Bergen, Norway as part of a taxonomic survey funded by the Norwegian Taxonomic Inititiative. Prior to the cruise, I also dove several sites in the area of Bergen with colleagues from France. We were able to collect and document algal turfs, including photo evidence of the turf samples as seen from a dissecting microscope. These samples were subsequently preserve in silica, had DNA extracted at the University of New Brunswick, Canada, and were sequenced at Genome Quebec using the NovaSeq6000 platform, targeting 100 million 150 bp paired-reads reads in 25 samples (though closer to 3 billion reads were generated in total). Our objective was to infer the presence of inconspicous species using molecular data that were otherwise escaping labour intensive sorting under the microscope. Because we were interested in species level inferences, we used a whole genome approach rather than traditional metabarcoding (see introduction to bioinformtics lecture).
 
 Using the tutorials provided here, students are expected to take these whole genome sequencing datasets, and distil them into usable information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. Some of the computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning bioinformatics otherwise carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion, along with supplemental code and one figure generated in R.
+
+## Tutorial 1 Linux based commands
+
+Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Students are not required to do anything for this tutorial, though ideally, students would have access to a linux based environment (e.g. a virtual box or software such as Ubuntu). This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs.
+
+```
+
+```
+
+## Tutorial 2 High Performance Computing
 
 ## Lab 1 Assembling LEGO k-mers
 Following the lecture introducing concepts related to bioinformatics, and a tutorial on linux based High Performance Computing, complete the following lab. Note, the following commands require some user input to run, i.e. defining particular variables and establishing sample lists.
