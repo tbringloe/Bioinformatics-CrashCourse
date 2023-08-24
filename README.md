@@ -267,7 +267,7 @@ Next, repeat the exercise, but flip all the LEGO pieces to the site labelled wit
 
 You have now assembled several sequences. Compare the sequences to NCBI's database using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) and to [BOLD](http://v4.boldsystems.org/) records under the "identification" tab to assign taxonomic information to the sequences.
 
-1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records?
+1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records? Using the information in BOLD, can you describe the global distribution of the identified species?
 
 ## Lab 2 Assembling and annotating organellar genomes
 Now that our reads are trimmed, and we are confident our data is of high quality, we can begin assembling reads. One option is to assemble the entire dataset. This would produce millions of contigs. It would also be computationally demanding (potentially impossible depending on the complexity of the dataset and the resources required to assemble). Rather than assemble the entire dataset, we will assemble the organellar genomes. This can be achieved using NOVOPlasty, a clever program that leverages a seed sequence and coverage information to infer circular organellar genomes. The following tutorial will produce mitochondrial and chloroplast sequences in two samples. The remainder of the lab will be dedicated to understanding annotations.
@@ -278,6 +278,34 @@ Now that our reads are trimmed, and we are confident our data is of high quality
 # clone github files into the working directory
 git clone https://github.com/ndierckx/NOVOPlasty.git
 cd NOVOPlasty
+
+# Update the config file; annotations have been provided for relevant fields, but the full config file has descriptors at the end:
+Project:
+-----------------------
+Project name          = SAMPLEID_TAXA_mito # give your project a meaningful name
+Type                  = mito # mito of chloro, depending on whether you are fetching a mitochondrial or chloroplast genome
+Genome Range          = 20000-50000 # approximate expected range in lengths (base pairs)
+K-mer                 = 57 # k-mer at which to assemble
+Max memory            =
+Extended log          = 0
+Save assembled reads  = no # optional flag to save mapped reads
+Seed Input            = TAXA_coxI.fasta # the fasta file with the seed sequence
+Extend seed directly  = no # you can incorporate the seed sequence directly if you are confident it represents a true sequence from the target organellar genome, but it is safer to simply leave as no. NOVOPlasty will then incorporate any differences in the seed sequence.
+Reference sequence    =
+Variance detection    =
+Chloroplast sequence  =
+
+Dataset 1:
+-----------------------
+Read Length           = 151 # length of the 
+Insert size           = 300
+Platform              = illumina
+Single/Paired         = PE
+Combined reads        = 
+Forward reads         = SAMPLEID_R1_trimmed.fastq
+Reverse reads         = SAMPLEID_R2_trimmed.fastq
+Store Hash            =
+
 
 
 It is possible to run NOVOPlasty over many samples simultaneously, we simply need more advanced code to swap in relevant sample details and create new output directories. See [this](https://github.com/tbringloe/WGS-NOVAC) tutorial and bash script for a potential solution.
