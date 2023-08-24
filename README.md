@@ -41,6 +41,7 @@ Many commands will display output at the command line interface. End any command
 You can set environment variables, which sub in text in specified locations. This can cut down on text, and facilitate more advanced commands such as looping through sample IDs
 Watch out for double and single quotations, they must be closed, otherwise your command/script will break. Single quotes tell the sytem to interpret text as written.
 You can pipe the output of one command into a new command using |. This helps avoid bulky writing and writing intermediate files.
+You can paste copied text into a command window by right clicking
 
 *list of common linux-based commands*
 
@@ -185,6 +186,8 @@ sbatch # submit slurm script to the system queue
 sbatch yourscript.slurm
 
 squeue -u tbringlo # check status of jobs submitted by specified user
+
+scancel <jobID> # cancel a job that is queued or running
 
 module spider <program.of.interest> # lists modules matching specified text. Useful to determine availability, including versions and dependencies
 
