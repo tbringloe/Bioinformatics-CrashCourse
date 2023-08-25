@@ -17,6 +17,7 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 - [Lab 2 Assembling and annotating organellar genomes](#lab-2-assembling-and-annotating-organellar-genomes)
 - [Lab 3 Distilling Norwegian algal turf read datasets](#lab-3-distilling-norwegian-algal-turf-read-datasets)
 - [Lab 3 Assignment](#lab-3-assignment)
+- [Final Word](#final-word)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
@@ -492,14 +493,32 @@ Now we have curated DNA barcode sequences from our samples, and BLAST output, wh
 
 ## Lab 3 Assignment
 
-Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to produce a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/edi) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flowdiagram of the above worflow could look like this:
+Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to produce a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/edi) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flow diagram could look like this:
 
 ```
-# Mermaid lines of code to generate a workflow diagram
-
+# Mermaid lines of code to generate a generic workflow diagram
+graph TD
+    A((Input data 1 <br> file format)) --> B(Step 1 <br> programs used)
+B --> C(Step 2 <br> programs used)
+C --> D(Step 3 <br> programs used)
+D --> DJ
+DE((Input data 2 <br> file format)) --> DF(Step 4 <br> programs used)
+DF --> DJ(Step 5 + Programs used)
+DJ --> F(Step 6 <br> Programs used)
+G((Input data 3 <br> file format)) --> H(Step 7 <br> Programs used)
+H --> J
+F --> J(Step 8 <br> Program used)
+J --> JI(Final dataset)
+style A fill:#f9f,stroke:#333,stroke-width:4px
+style DE fill:#f9f,stroke:#333,stroke-width:4px
+style G fill:#f9f,stroke:#333,stroke-width:4px
+style JI fill:#bbf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5 5
 ```
+For this assignment, plug in the above code into Mermaid live edit, and create a workflow diagram of the steps taken to arrive at the curated DNA barcode datasets of Norwegian algal turf samples. You do not necessarily need to follow the above code; feel free to research other coding options to make your diagram striking and unique.
 
-This is the end of the crash-course in bioinformatics.
+## Final word
+
+This is the end of the crash-course in bioinformatics. I hope the material was instructive. Feel free to email me at tbringloe@gmail.com if you have questions of concerns.
 
 ## Acknowledgements
 All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics.
@@ -509,7 +528,7 @@ All the inspirational students, postdocs, mentors, DFO research scientists, and 
 
 Variant calling for phylogenomic and population genomics: [https://github.com/tbringloe/WGS-NOVAC](https://github.com/tbringloe/WGS-NOVAC/tree/DFO_workflow_2023)
 
-Reference genome assembly and annotation: https://github.com/tbringloe/Monodontid_assemblies_2023
+Reference genome assembly and annotation: [https://github.com/tbringloe/Monodontid_assemblies_2023](https://github.com/tbringloe/Monodontid_assemblies_2023)
 
 **Citations for programs:**
 
