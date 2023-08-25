@@ -357,7 +357,7 @@ Bonus questions
 
 ## Tutorial 3 Distilling Norwegian algal turf read datasets
 
-For this lab, students will go through the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The lab will process the following three samples:
+For this lab, students will review the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The tutorial will cover steps taken to process the following three samples:
 
 |Sample ID | Species | Sampling Location | Lat | Long | Date Sampled | Collector | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
