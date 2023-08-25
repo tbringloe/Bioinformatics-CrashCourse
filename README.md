@@ -363,7 +363,7 @@ For this lab, students will go through the various steps to distill large raw re
 | TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
 | TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| Stipe scrapes |
 
-Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to create a reference database of DNA barcode sequences. In order to reduce computational time during read mapping, we will cluster sequences at 90% similarity, and keep a single representative sequence from each cluster (reducing out database from millions of sequences to ~200,000). We will use this to map reads and identify candidate DNA barcode reads. The following code is meant to illustrate the steps taken to arrive at a reference database. Students are not expected to understand these steps, they are meant to supplement learning. Students will engage with data downstream, post mapping.
+Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to create a reference database of DNA barcode sequences. In order to reduce computational time during read mapping, using [mmseqs2](https://github.com/soedinglab/MMseqs2) (Steinegger & Söding, 2017) we will cluster sequences at 90% similarity, and keep a single representative sequence from each cluster (reducing out database from millions of sequences to ~200,000). We will use this to map reads and identify candidate DNA barcode reads. The following code is meant to illustrate the steps taken to arrive at a reference database. Students are not expected to understand these steps, they are meant to supplement learning. Students will engage with data downstream, post mapping.
 
 ```
 # We can retrieve DNA barcode sequences from BOLD. This is a better option, as the data is curated towards taxonomically informative regions, whereas NCBI would have full length DNA barcode genes that would create interpretation problems downstream when we start blasting sequences.
@@ -400,8 +400,10 @@ done
 
 The [clustal-omega](https://www.ebi.ac.uk/Tools/msa/clustalo/) alignments were curated in geneious to ensure the database consisted of only DNA barcode regions (some sequences hang off the end of these regions; we don't want reads mapping outside). Sequences with a lot of missing data were also deleted, and alignments were manually edited where possible.
 
-Now that we have reasonably comprehensive files of available DNA barcode sequences (we started with 1,291,373 sequences downloaded from BOLD, down to 181,554 representative sequences).
+Now that we have reasonably comprehensive files of available DNA barcode sequences (we started with 1,291,373 sequences downloaded from BOLD, down to 181,554 representative sequences), we can create our database and map reads using [Bowtie2](https://bowtie-bio.sourceforge.net/bowtie2/manual.shtml) (Langmead & Salzberg 2012). We will use local alignments (i.e. read sequences can be clipped) matching to within 25% similarity to our reference database.
 
+
+```
 # NBCI build-db function does not like duplicate names in the input fasta, so this one liner cleared that up
 awk '/^>/{f=!d[$1];d[$1]=1}f' in.fa > out.fa
 
@@ -438,3 +440,5 @@ Dierckxsens, N., Mardulyn, P., & Smits, G. (2017). NOVOPlasty: de novo assembly 
 Langmead, B., & Salzberg, S. L. (2012). Fast gapped-read alignment with Bowtie 2. Nature Methods, 9, 357-9. http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
 
 Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth, G., Abecasis, G., Durbin, R., & 1000 Genome Project Data Processing Subgroup. (2009). The sequence alignment/map format and SAMtools. Bioinformatics 25: 2078-9. http://www.htslib.org/
+
+Steinegger, M, Söding, J. (2017) MMseqs2 enables sensitive protein sequence searching for the analysis of massive datasets. Nature Biotechnology, 35, 1026-1028.
