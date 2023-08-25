@@ -342,6 +342,7 @@ perl MFannotSQL2GGF3.pl mfannot_75ed117a7fa2.fasta.new.sqn TTB000605_Coccotylus_
 ```
 
 *Exercise 1 observed annotations in geneious*
+
 Make sure the organellar genomes are now in Geneious, and named accordingly. Drag the gff3 file into geneious and the annotations should automatically apply to the appropriate genome. Have a look at the annotations and answer the following questions.
 
 1. How many coding sequences (labelled in yellow) were annotated for each genome? RNA sequences (labelled red)? Transfer RNA (leballed in pink)? Are the numbers the same or different between the two species?
@@ -349,11 +350,13 @@ Make sure the organellar genomes are now in Geneious, and named accordingly. Dra
 2. Find and [blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) the coxI and rbcL sequences for both species. Were the original species identifications correct? Elaborate.
 
 *Exercise 2 align genomes*
+
 Now download the [MAUVE](https://darlinglab.org/mauve/mauve.html) alignment plugin for geneious. This alignment algorithm detects homologous "blocks" between two genomes. This is handy because organellar genomes are not always [co-linear](https://academic.oup.com/gbe/article/13/7/evab124/6290714); genes and intergenic regions can be present/absent between genomes, and some regions may appear in different orders. One cannot expect a an alignment between genomes then, without the option of "chopping" the alignment up. Select both mitochondrial genomes and perform the MAUVE alignment option. Do the same for the chloroplast sequences.
 
 3. Are the mitochondrial and chloroplast genomes co-linear, or do genomic regions appear out of order across genomes?
 
 *Bonus exercise Group II introns*
+
 4. Have a closer look at the coxI sequence of Meredithia. Investigate the group II intron by [blasting](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) the sequence. Try also a [blastx](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Tdranslations&PROGRAM=blastx&PAGE_TYPE=BlastSearch&BLAST_SPEC=) search (searching the translated sequence, i.e. amino acid level). What is the closest match? Blast the flanking coxI sequence and determine its closest match. Can you explain the origin of the group II intron and provide hypotheses as to why it might appear specifically in the coxI sequence?
 
 5. What purpose might it serve to have fully resolved organellar genomes as opposed to DNA barcoding genes?
