@@ -20,27 +20,27 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 
 
 ## Objective
-The repository provides a basic introduction to bioinformatics intended for upper level undergraduate students. The content covers read quality control, assembly of short reads, read mapping, and similarity searches of DNA barcodes against NCBI ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) searches) and the Barcode of Life Data Systems ([BOLD](http://v4.boldsystems.org/)). The content required to complete the project and lab assignments detailed here are not provided in their entirety due to data storage limitations on github, or otherwise because materials are physical (i.e. lego assembly lab).
+The repository provides a basic introduction to bioinformatics intended for upper level undergraduate students. The content covers read quality control, assembly of short reads, read mapping, and similarity searches of DNA barcodes against NCBI ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) searches) and the Barcode of Life Data Systems ([BOLD](http://v4.boldsystems.org/)). The content required to complete the project and lab assignments detailed here are not provided in their entirety due to data storage limitations on github, or otherwise because materials are physical (i.e. lego assembly lab). Note also, steps to complete are not prescribed, but require some level of user input to modify directory pathways, file names, ect. This is by design, so ensure students are engaging with the material on a deeper level.
 
 ## Project Summary
-Macroalgae (seaweeds) represent a conglomerate of species, particularly turf forming species that grow entangled with one another close to rocky coastal substrate. Moreover, the seaweeds themselves are home to a host of bacterial and eukaryotic taxa, many of which are unknown to science. Seaweed holobiomes are not simply a grouping of species, they represent an ecosystem of relationships, some obligate, some passive, some mutualistic, and some parasitic. The complexity of seaweed holobiomes (and holobiomes in general) in term of the number of species and their relation to one another simmply outscales human comprehension. Nonetheless, we can use big-data approaches to gleam some insight into these complex biological worlds.
+Macroalgae (seaweeds) represent a conglomerate of species, particularly turf forming species that grow entangled with one another close to rocky coastal substrate. Moreover, the seaweeds themselves are home to a host of bacterial and eukaryotic taxa, many of which are unknown to science. Seaweed holobiomes are not simply a grouping of species, they represent an ecosystem of relationships, some obligate, some passive, some mutualistic, and some parasitic. The complexity of seaweed holobiomes (and holobiomes in general) in terms of the number of species and their relation to one another simply outscales human comprehension. Nonetheless, we can use big-data approaches to gleam some insight into these complex biological worlds.
 
-Bioinformatics offers one such glimpse into the structure of holobiomes. August 7-12, 2022. I was fortunate enough to join colleagues on a research cruise to collect seaweeds in Tjongspollen Fjord, south of Bergen, Norway as part of a taxonomic survey funded by the Norwegian Taxonomic Inititiative. Prior to the cruise, I also dove several sites in the area of Bergen with colleagues from France. We were able to collect and document algal turfs, including photo evidence of the turf samples as seen from a dissecting microscope. These samples were subsequently preserve in silica, had DNA extracted at the University of New Brunswick, Canada, and were sequenced at Genome Quebec using the NovaSeq6000 platform, targeting 100 million 150 bp paired-reads reads in 25 samples (though closer to 3 billion reads were generated in total). Our objective was to infer the presence of inconspicous species using molecular data that were otherwise escaping labour intensive sorting under the microscope. Because we were interested in species level inferences, we used a whole genome approach rather than traditional metabarcoding (see introduction to bioinformtics lecture).
+Bioinformatics offers one such glimpse into the structure of holobiomes. Between August 7-12, 2022, I was fortunate enough to join colleagues on a research cruise to collect seaweeds in Tjongspollen Fjord, south of Bergen, Norway, as part of a taxonomic survey funded by the Norwegian Taxonomic Inititiative. Prior to the cruise, I also dove several sites in the area of Bergen with colleagues from France. We were able to collect and document algal turfs, including photo evidence of the turf samples as seen from a dissecting microscope. These samples were subsequently preserve in silica, had DNA extracted at the University of New Brunswick, Canada, and were sequenced at Genome Quebec using the NovaSeq6000 platform, targeting 100 million 150 bp paired-reads reads in 25 samples (though closer to 3 billion reads were generated in total). Our objective was to infer the presence of inconspicous species using molecular data that were otherwise escaping labour intensive sorting under the microscope. Because we were interested in species level inferences, we used a whole genome approach rather than traditional metabarcoding (see introduction to bioinformatics lecture).
 
-Using the tutorials provided here, students are expected to take these whole genome sequencing datasets, and distil them into usable information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. Some of the computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning bioinformatics otherwise carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion, along with supplemental code and one figure generated in R.
+Using the tutorials provided here, students are expected to distil these whole genome sequencing datasets into information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. Some of the computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning bioinformatics otherwise carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion, along with supplemental code and one figure generated in R.
 
 ## Tutorial 1 Linux based commands
 
-Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Students are not required to do anything for this tutorial, though ideally, students would have access to a linux based environment (e.g. a virtual box or software such as Ubuntu) and test commands themselves to foster comprehension. This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs. It is by no means comprehensive; the intention is to put these tools in the hands of up and coming biologists. Most people learn how to drive without ever knowing exactly how their vehicle works.
+Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Exercises are provided to test commands and reinforce comprehension, which evidently require students have access to a linux based environment (e.g. a virtual box or software such as Ubuntu; covered in class). This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs. It is by no means comprehensive; the intention is to put these tools in the hands of up and coming biologists. Most people learn how to drive without ever knowing exactly how their vehicle works. Students should seek out a computer science course or linux-based workshop to further learning in this area.
 
-A couple further things to note. You cannot visualize or interact with linux file systems the same way we click and see file heirarchies in windows or apple OS. Rather, the user must create and familiarize themselves with file heirarchies, and use file pathways (e.g. /home/trevor/data) to move about and interact with their environment and the files therein. Some third party programs can help, however, with connecting and navigating this environment, specifically if the environment is remote and you must login to it (e.g. [Filezilla](https://filezilla-project.org/). A good SSH client for remote work is [PuTTy](https://www.putty.org/). 
+A couple further things to note. You cannot visualize or interact with linux file systems the same way we click and see directory heirarchies in windows or apple OS. Rather, the user must create and familiarize themselves with directory heirarchies, and use pathways (e.g. /home/trevor/data) to move about and interact with their environment and the files therein. Some third party programs can help, however, with connecting and navigating this environment, specifically if the environment is remote and you must login to it (e.g. [Filezilla](https://filezilla-project.org/). A good SSH client for remote work is [PuTTy](https://www.putty.org/). 
 A hashtag indicates to not execute proceeding text as commands. They are therefore a useful tool for annotating scripts.
-You can use the TAB key to finish a filename or pathway. If multiple options are present, they will be displayed. This can save typing out everything.
-The up arrow key can be used to recall previously used commands, in order of more recent
-Many commands will display output at the command line interface. End any command with '> file.name' to output command to a the specified file (i.e. something more informative than file.name.
-You can set environment variables, which sub in text in specified locations. This can cut down on text, and facilitate more advanced commands such as looping through sample IDs
+You can use the TAB key to finish a filename or pathway. If multiple options are present, they will be displayed. This can save on typing.
+The up arrow key can be used to recall previously used commands, in order of most recent.
+Many commands will display output at the command line interface. End any command with '> file.name' to output command to a the specified file (i.e. something more informative than file.name).
+You can set environment variables, which sub in text in specified locations (see examples below). This can cut down on text, and facilitate more advanced commands such as looping through sample IDs
 Watch out for double and single quotations, they must be closed, otherwise your command/script will break. Single quotes tell the sytem to interpret text as written.
-You can pipe the output of one command into a new command using |. This helps avoid bulky writing and writing intermediate files.
+You can pipe the output of one command into a new command using |. This helps avoid bulky commands/scripts and writing intermediate files.
 You can paste copied text into a command window by right clicking
 
 *list of common linux-based commands*
@@ -143,7 +143,7 @@ exit 0
 ```
 
 ## Tutorial 2 High Performance Computing
-Bioinformatics usually involves working with large datasets containing many GBs or even TBs of sequence information. Because there is so much information to work with, we cannot use normal laptops or desktops. We need computers with a lot of storage (i.e. disk) space for storing and writing files, and a lot of RAM (Random Access Memory) to work with lots of data at a given moment. Furthermore, resources can be distributed across nodes and cores in a system, allowing users to run many commands at the same time, or divide tasks into many smaller tasks, thus allowing users to complete commands in a shorter time frame. These needs are met by High Performance Computers (High Performance Computing; HPC). Canadian Universities share access to Compute Canada servers, but many institutions host private servers. One of the challenges on a shared system is tasks must be executed in an efficient manner; the system cannot be overloaded with tasks (otherwise this would quickly crash the system) and computational resources must be used in the most efficient manner possible to ensure the most amount of computation gets completed in the shortest amount of linear time. To facilitate this, shared servers use slurm scripts, which users use to submit their tasks to perform. Tasks are then queued and run when resources become available.
+Bioinformatics usually involves working with large datasets containing many GBs or even TBs of sequence information. Because there is so much information to work with, we cannot use normal laptops or desktops. We need computers with a lot of storage (i.e. disk) space for storing and writing files, and a lot of RAM (Random Access Memory) to work with lots of data at a given moment. Furthermore, resources can be distributed across nodes and cores in a system, allowing users to run many commands at the same time, or divide tasks into many smaller tasks, thus allowing users to complete commands in a shorter time frame. These needs are met by High Performance Computers (i.e. High Performance Computing; HPC). Canadian Universities share access to Compute Canada servers, but many institutions host private servers. One of the challenges on a shared system is tasks must be executed in an efficient manner; the system cannot be overloaded with tasks (otherwise this would quickly crash the system) and computational resources must be used in the most efficient manner possible to ensure the most amount of computation gets completed in the shortest amount of linear time. To facilitate this, shared servers use slurm scripts, which users use to submit their tasks to perform. Tasks are then queued and run when resources become available.
 
 Here is an example slurm script one can submit to Compute Canada servers. The slurm script may look slightly different depending on how the shared system has been orchestrated.
 ```
@@ -173,7 +173,7 @@ module load fastqc/0.11.9
 threads=20
 cat sample.list | xargs -I {} -n 1 -P $threads sh -c "fastqc {}_R1.fastq.gz {}_R2.fastq.gz -o ."
 ```
-In this example, the user has specified the account under which to run tasks (computation resources are carefully allocated and monitored across accounts to ensure resources are utilized in an equitable manner). The maximum amount of time to run the task(s) (i.e. wall time) has been specified at just under 4 hours. The job name has been specified as 'fastqc_raw_check', which will appear when monitoring the job status. -n specifies to use 4 threads or tasks when running the command, and --mem specifies the amount of extra memory or RAM to allocate to the job (usually there is a maximum amount of memory provided per node, so users will need to request additional memory if needed). -N indicates to run on a single node (most actions can be performed on a single node, except in more advanced tasks that require running seperate tasks on multiple nodes). --mail-user specified an email where notifications can be sent when the job enters a new status (e.g. --mail-type=BEGIN, END, FAIL). Shared environments typically have staff who can install software of interest; as such, programs needed to run commands are loaded as modules, and become available for use once loaded. Oftentimes, system dependencies must also be loaded to run particular programs. Job commands are the commands you want to run. When working in a HPC environment, some specific and additional commands are available for use.
+In this example, the user has specified the account under which to run tasks (computation resources are carefully allocated and monitored across accounts to ensure resources are utilized in an equitable manner). The maximum amount of time to run the task(s) (i.e. wall time) has been specified at just under 4 hours. The job name has been specified as 'fastqc_raw_check', which will appear when monitoring the job status. -n specifies to use 4 threads or tasks when running the command, and --mem specifies the amount of extra memory or RAM to allocate to the job (usually there is a maximum amount of memory provided per node, so users will need to request additional memory if needed). -N indicates to run on a single node (most actions can be performed on a single node, except in more advanced tasks that require running seperate tasks on multiple nodes). --mail-user specifies an email where notifications can be sent when the job enters a new status (e.g. --mail-type=BEGIN, END, FAIL). Shared environments typically have staff who can install software of interest; as such, programs needed to run commands are loaded as modules, and become available for use once loaded. Oftentimes, system dependencies must also be loaded to run particular programs. Job commands are the commands you want to run. When working in a HPC environment, some specific and additional commands are available for use.
 
 **NEVER RUN TASKS DIRECTLY ON A SHARED HIGH PERFORMANCE COMPUTER. DEPENDING ON THE SIZE OF THE TAKS, YOU RUN THE RISK OF CRASHING THE ENTIRE SYSTEM. THIS WILL RESULT IN POTENTIAL PENALTIES FROM STAFF, AND A LOT OF GRUMPY USERS WHOSE JOBS YOU KILLED IN ONE FELL SWOOP. ALWAYS USE SALLOC IF AN INTERACTIVE SESSION IS REQUIRED**
 
@@ -203,7 +203,7 @@ sshare -l -A <user_account>_cpu -u tbringlo # check account and user usage, incl
 
 When working in an HPC environment, users must be mindful of the resources they are requesting and using. Large jobs take longer to process in the queue. The user is therefore incentivized to request only the required amount of resources to complete a task; estimating the appropriate amount of resources needed is gained with experience. When an account utilizes a lot of resources, users under that account receive less priority in the queue. Users are therefore also incentivized to be efficient with their resources, or risk long wait times to complete tasks. Use the above command sshare to monitor resource usage and queue priority.
 
-When considering usage, users must consider two factors, the number of tasks to run and the job wall time. For instance, a single tasks running on a single thread for 24 hours=24 hours of computation time. But 32 tasks on 32 threads (or one tasks divided among 32 threads) running for 24 hours=768 (32 x 24) computation hours. Regardless of whether your tasks uses the available threads requested, the user account is "charged" for the time resources are tied up for a given job. It is therefore critical to ensure the resources requested are being used efficiently.
+When considering usage, users must consider two factors, the number of tasks to run and the job wall time. For instance, a single tasks running on a single thread for 24 hours=24 hours of computation time. But 32 tasks on 32 threads (or one tasks divided among 32 threads) running for 24 hours=768 (32 x 24) computation hours. Regardless of whether your tasks uses the available threads requested, the user account is "charged" for the time resources are tied up performing a given job. It is therefore critical to ensure the resources requested are being used efficiently.
 
 
 ## Lab 1 Assembling LEGO k-mers
@@ -236,8 +236,13 @@ $multiqc . -o .
 
 Investigate the FASTQC reports (individually or using multiQC) and answer the following questions.
 1.	Briefly define the variables specified stated above by consulting the [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) manual.
+trailing=
+headcrop=
+avgqual= 
+minlen=
+adapter=
 
-2.	Fill the following table:
+3.	Fill the following table:
 
 | File name | # of read before trimming | # of reads after trimming | Average read quality before trimming | Average read quality after trimming | GC content before trimmming | GC content after trimming |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -272,14 +277,14 @@ You have now assembled several sequences. Compare the sequences to NCBI's databa
 ## Lab 2 Assembling and annotating organellar genomes
 Now that our reads are trimmed, and we are confident our data is of high quality, we can begin assembling reads. One option is to assemble the entire dataset. This would produce millions of contigs. It would also be computationally demanding (potentially impossible depending on the complexity of the dataset and the resources required to assemble). Rather than assemble the entire dataset, we will assemble the organellar genomes. This can be achieved using NOVOPlasty, a clever program that leverages a seed sequence and coverage information to infer circular organellar genomes. The following tutorial will produce mitochondrial and chloroplast sequences in two samples. The remainder of the lab will be dedicated to understanding annotations.
 
-[NOVOPlasty](https://github.com/ndierckx/NOVOPlasty) is a perl script that elongates a specified seed file. The seed file represents a sequence, either in the target organism or a closely related organism. For instance, DNA barcodes coxI and rbcL are good seed candidates for assembling algal organellar genomes (because that reference data exists). The script will then map reads to the seed sequence, determine a high coverage k-mers, and start elongating the assembly graph from these k-mers while incorporating coverage information to hopefully avoid any breaks in the assembly. This works because organellar genomes occur as many copies within cells, meaning they are disproportionately represented in read datasets. Other assemblers such as [SPAdes](https://github.com/ablab/spades) also incorporates coverage information into the assembly graph. Once the program elongates enough such that it begins overlapping the other side of the same sequence, it confirms the sequence is circular and outputs the organellar genome as a fasta file.
+[NOVOPlasty](https://github.com/ndierckx/NOVOPlasty) is a perl script that elongates a specified seed file. The seed file represents a sequence, either in the target organism or a closely related organism. For instance, DNA barcodes coxI and rbcL are good seed candidates for assembling algal organellar genomes (because that reference data is abundant). The script will then map reads to the seed sequence, determine high coverage k-mers, and start elongating the assembly graph from these k-mers while incorporating coverage information to hopefully avoid any breaks in the assembly. This works because organellar genomes occur as many copies within cells, meaning they are disproportionately represented in read datasets. Other assemblers such as [SPAdes](https://github.com/ablab/spades) also incorporates coverage information into the assembly graph. Once the program elongates enough such that it begins overlapping the other side of the same sequence, it confirms the sequence is circular and outputs the organellar genome as a fasta file.
 
 ```
 # clone github files into the working directory
 git clone https://github.com/ndierckx/NOVOPlasty.git
 cd NOVOPlasty
 
-# Update the config file; annotations have been provided for relevant fields, but the full config file has descriptors at the end:
+# Update the config file, ideally saving to a seperate file; annotations have been provided for relevant fields, but the full config file has descriptors at the end:
 Project:
 -----------------------
 Project name          = SAMPLEID_TAXA_mito # give your project a meaningful name
@@ -297,22 +302,33 @@ Chloroplast sequence  =
 
 Dataset 1:
 -----------------------
-Read Length           = 151 # length of the 
-Insert size           = 300
-Platform              = illumina
-Single/Paired         = PE
+Read Length           = 135 # length of the reads, note, we performed a head crop of 15 bp, making read lengths 150-15=135
+Insert size           = 300 # approximate insert size of the libraries, i.e. the approximate distance between paired reads
+Platform              = illumina # platform used for sequencing
+Single/Paired         = PE # PE=paired-end reads
 Combined reads        = 
-Forward reads         = SAMPLEID_R1_trimmed.fastq
-Reverse reads         = SAMPLEID_R2_trimmed.fastq
+Forward reads         = SAMPLEID_R1_trimmed.fastq # forward reads dataset, must be uncompressed
+Reverse reads         = SAMPLEID_R2_trimmed.fastq # reverse reads dataset, must be uncompressed
 Store Hash            =
 
-
-
+# Be sure to add the seed files to the NOVOPlasty directory and uncompress the read files, also in the NOVOPlasty directory
+# Example command to uncompress .gz file : gzip -d TTB000632_R1_trimmed.fastq.gz
+# Run NOVOPlasty, either via the command line interface if on a private computer, or via a slurm script as detailed above when working with HPC
+perl NOVOPlasty4.3.3.pl -c TTB000632_P_rubens_mito_config.txt
+```
 It is possible to run NOVOPlasty over many samples simultaneously, we simply need more advanced code to swap in relevant sample details and create new output directories. See [this](https://github.com/tbringloe/WGS-NOVAC) tutorial and bash script for a potential solution.
+
+Now that we have a circular sequence, we can annotate the genomes. Note, NOVOPlasty won't necessarily produce a confirmed circular sequence. Depending on the complexity of the dataset, coverage, seed, k-mer size, ect. the output may occur as a fragmented or partial genome. Users will have to troubleshoot.
 
 ## Lab 3 Distilling Norwegian algal turf read datasets
 
 For this lab, students will go through the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The lab will process the following three samples:
+
+|Sample ID | Species | Sampling Location | Lat | Long | Date Sampled | Collector | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TTB000601 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
+| TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
+| TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| Stipe scrapes |
 
 ## Acknowledgements
 All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics.
