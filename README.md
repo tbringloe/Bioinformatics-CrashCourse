@@ -402,13 +402,96 @@ The [clustal-omega](https://www.ebi.ac.uk/Tools/msa/clustalo/) alignments were c
 
 Now that we have reasonably comprehensive files of available DNA barcode sequences (we started with 1,291,373 sequences downloaded from BOLD, down to 181,554 representative sequences), we can create our database and map reads using [Bowtie2](https://bowtie-bio.sourceforge.net/bowtie2/manual.shtml) (Langmead & Salzberg 2012). We will use local alignments (i.e. read sequences can be clipped) matching to within 25% similarity to our reference database.
 
+```
+# concatenate all the barcodes across phyla to create marker specific databases
+marker=coxI
+threads=32
+cat *_"$marker"_final.rep.fasta > "$marker"_barcodes_final.fasta
+# index the database so bowtie2 can retrieve sequences for mapping. Here we build in directory IDX (mkdir if needed)
+bowtie2-build "$marker"_barcodes_final.fasta IDX/BOLD_"$marker"
+
+# Map reads from sample datasets. Prefix is stored in file sample.list. --al-gz saves mapped reads into the mapped_reads directory and into a new fastq.gz file
+cat sample.list | while read line
+do
+bowtie2 --local --score-min G,1,1 --al-conc-gz mapped_reads/"$marker"/"$line"_"$marker".fastq.gz --al-gz mapped_reads/"$marker"/"$line"_"$marker".fastq.gz -p $threads -x IDX/BOLD_"$marker" -1 trimmed_reads/"$line"_R1_trimmed.fastq.gz -2 trimmed_reads/"$line"_R2_trimmed.fastq.gz -S "$line"_"$marker".sam
+# reads are also stored in an alignment file. We won't need this
+rm "$line"_"$marker".sam
+done
+
+# repeat analysis for other markers of interest
+```
+
+Next, the saved mapped reads (which correspond to putative DNA barcode reads) are assembled using [SPAdes](https://github.com/ablab/spades) short read assembler (Bankevich et al. 2012). SPAdes can assemble at different k-mer sizes specified with the -k flag, and produce an assembly concensus across k-mers.
+
+```
+module load spades/3.15.4
+marker=coxI
+cat sample.list | while read line
+do
+spades.py -1 mapped_reads/"$marker"/"$line"_"$marker".R1.fastq.gz -2 mapped_reads/"$marker"/"$line"_"$marker".R2.fastq.gz -k 21,33,55,77,109 -t $threads -m 50 -o assembled_reads/"$marker"/"$line"
+# move and rename assemblies
+mv assembled_reads/"$marker"/"$line"/contigs.fasta barcode_results/"$marker"/"$line"_"$marker".fasta
+done
+```
+
+Now we have assembled barcode sequences from our read datasets, among many other types of sequences (by catch). Now we need to assign taxonomic information and curate the dataset into something manageable and easy to interpret. We start this process by creating a local blast database of our barcode sequences, and blasting the assembled barcodes to this database. Sequences with positive hits, and the beginning and end position of alignments of positive hits, are then extracted from the initial assemblies. This way we can weed out assembled by-catch (reads that mapped to our database but don't represent true barcodes). The curated sequences are then [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) compared to the full NCBI nt database.
 
 ```
 # NBCI build-db function does not like duplicate names in the input fasta, so this one liner cleared that up
 awk '/^>/{f=!d[$1];d[$1]=1}f' in.fa > out.fa
 
+# Make a custom nucleotide blast database
+module load blast+/2.12.0
+marker=coxI
+makeblastdb -in "$marker"_barcodes_final.fasta -dbtype nucl -parse_seqids -out blastdb/BOLD_"$marker"
 
-Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to procude a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/edi) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flowdiagram of the above worflow could look like this:
+# Blast assembly output to custom database
+cat sample.list | while read line
+do
+blastn -query barcode_results/"$marker"/"$line"_"$marker".fasta -db BLAST/BOLD_"$marker" -num_threads 32 -max_target_seqs 10 -outfmt "7 qseqid staxids bitscore std stitle evalue" -out blast_results/"$marker"/"$line"_"$marker"_blastout.txt
+done
+
+# This series of commmands will curate the assemblies so we are left with putative barcode sequences, and only barcode regions
+module load seqtk/1.3
+module load bedtools/2.30.0
+mkdir sequence_extraction
+cat sample.list | while read line
+do
+# Use grep to extract sequences with hits to the barcode database. We can reverse grep the hashtag symbol, since this represents sequences without a hit
+grep -v -E "#" blast_results/"$marker"/"$line"_"$marker"_blastout.txt > sequence_extraction/"$line".hits.txt
+# We want to exclude positive hits with an alignment length less than 250 (more artifacts at smaller alignment legnths). Start by sorting lines by sequence names followed by alignment length
+sort -k 1,1 -k 7,7rn sequence_extraction/"$line".hits.txt > sequence_extraction/"$line".hits.sorted.txt
+# Since the blast output contains 10 lines of positive hits, we remove redundancy by extracting the first instance of unique sequence names (i.e. extracts hit with longest alignment)
+sort -k 1,1 -u sequence_extraction/"$line".hits.sorted.txt > sequence_extraction/"$line".hits.sorted.unique.txt
+# Now we can remove sequences with alignment lengths less than 250
+awk '$7 >= 250' sequence_extraction/"$line".hits.sorted.unique.txt > sequence_extraction/"$line".hits.sorted.unique.250.txt
+# Extract sequence IDs for seqtk
+awk '{print $1}' sequence_extraction/"$line".hits.sorted.unique.250.txt > sequence_extraction/"$line".hits.sorted.unique.250.IDs.txt
+# Run seqtk to extract relevant sequences from assembly fasta file
+seqtk subseq barcode_results/"$marker"/"$line"_"$marker".fasta sequence_extraction/"$line".hits.sorted.unique.250.IDs.txt > sequence_extraction/"$line".hits.sorted.unique.250.IDs.fasta
+# Extract start and stop positions for relevant sequences
+awk 'BEGIN { OFS="\t" }{print $1,$10,$11}' sequence_extraction/"$line".hits.sorted.unique.250.txt > sequence_extraction/"$line".hits.sorted.unique.250.regions.bed
+# Extract barcode regions from fasta subset
+bedtools getfasta -fi sequence_extraction/"$line".hits.sorted.unique.250.IDs.fasta -bed sequence_extraction/"$line".hits.sorted.unique.250.regions.bed -fo sequence_extraction/"$marker"/"$line".hits.sorted.unique.250.IDs."$marker".barcodes.fasta
+# Clean up environment by removing intermediate files
+rm sequence_extraction/"$line".*
+done
+```
+Now we have curated files of DNA barcode regions for our samples. We can then BLAST these sequences against the full NCBI non-redundant nucleotide (nt) database. Users might consider BLASTX against the protein (nr) database to ID highly divergent sequences. Note, the nt database is typically downloaded and regularly updated on shared servers. So we can specify the directory path to the database (bloked out here)
+
+```
+marker=coxI
+cat file.list | while read line
+do
+blastn -query sequence_extraction/"$marker"/"$line".hits.sorted.unique.250.IDs."$marker".barcodes.fasta -db <directory.pathway>/blast_dbs/2022_03_23/nt -num_threads 32 -max_target_seqs 10 -outfmt "7 qseqid staxids bitscore std stitle evalue" -out blast_results/"$marker"/"$line"_"$marker"_blastout_regions_nr_24viii23.txt
+done
+```
+
+Now we have curated DNA barcode sequences from our samples, and BLAST output, which can be used to infer species present in the algal turfs :)
+
+## Lab 3 Assignment
+
+Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to produce a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/edi) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flowdiagram of the above worflow could look like this:
 
 ```
 # Mermaid lines of code to generate a workflow diagram
@@ -428,6 +511,8 @@ Variant calling for phylogenomic and population genomics: [https://github.com/tb
 Reference genome assembly and annotation: https://github.com/tbringloe/Monodontid_assemblies_2023
 
 **Citations for programs:**
+
+Bankevich, A., et al. (2012). SPAdes: A new genome assembly algorith and its applications to single-cell sequencing. Journal of Computational Biology. 19: 455-477.
 
 Bolger, A. M., Lohse, M., & Usadel, B. (2015). Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 30, 2114-20.
 
