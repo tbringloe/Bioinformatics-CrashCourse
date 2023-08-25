@@ -16,6 +16,7 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
 - [Lab 2 Assembling and annotating organellar genomes](#lab-2-assembling-and-annotating-organellar-genomes)
 - [Lab 3 Distilling Norwegian algal turf read datasets](#lab-3-distilling-norwegian-algal-turf-read-datasets)
+- [Lab 3 Assignment](#lab-3-assignment)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
