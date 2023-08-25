@@ -287,8 +287,8 @@ Here are the original sample metadata:
 
 |Sample ID | Species | Sampling Location | Lat | Long | Date Sampled | Collector | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| TTB000538 | Coccotylus brodiei | Hakonsund | 60.17599 | 5.11074 | Aug-5-2022 | T.T. Bringloe| NA |
 | TTB000539 | Meredithia microphylla | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe| NA |
-| TTB000606 | Coccotylus brodiei | Hakonsund | 60.17599 | 5.11074 | Aug-5-2022 | T.T. Bringloe| NA |
 
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty) is a perl script that elongates a specified seed file. The seed file represents a sequence, either in the target organism or a closely related organism. For instance, DNA barcodes coxI and rbcL are good seed candidates for assembling algal organellar genomes (because that reference data is abundant). The script will then map reads to the seed sequence, determine high coverage k-mers, and start elongating the assembly graph from these k-mers while incorporating coverage information to hopefully avoid any breaks in the assembly. This works because organellar genomes occur as many copies within cells, meaning they are disproportionately represented in read datasets. Other assemblers such as [SPAdes](https://github.com/ablab/spades) also incorporates coverage information into the assembly graph. Once the program elongates enough such that it begins overlapping the other side of the same sequence, it confirms the sequence is circular and outputs the organellar genome as a fasta file.
 
