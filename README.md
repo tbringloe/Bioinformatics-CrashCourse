@@ -220,6 +220,7 @@ Following the lecture introducing concepts related to bioinformatics, and the tu
 Before working with read files, it is critical to evaluate quality and remove error prone data. You have been provided [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) reports generated for several read datasets, before and after read trimming. The following command was performed using [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf):
 ```
 # variables to declare for trimmomatic
+
 trailing=20
 headcrop=15
 avgqual=25 
