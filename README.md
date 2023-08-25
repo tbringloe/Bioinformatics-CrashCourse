@@ -15,7 +15,7 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 - [Tutorial 2 High Performance Computing](#tutorial-2-high-performance-computing)
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
 - [Lab 2 Assembling and annotating organellar genomes](#lab-2-assembling-and-annotating-organellar-genomes)
-- [Lab 3 Distilling Norwegian algal turf read datasets](#lab-3-distilling-norwegian-algal-turf-read-datasets)
+- [Tutorial 3 Distilling Norwegian algal turf read datasets](#tutorial-3-distilling-norwegian-algal-turf-read-datasets)
 - [Lab 3 Assignment](#lab-3-assignment)
 - [Final Word](#final-word)
 - [Acknowledgements](#acknowledgements)
@@ -355,7 +355,7 @@ Bonus questions
 
 5. What purpose might it serve to have fully resolved organellar genomes as opposed to DNA barcoding genes?
 
-## Lab 3 Distilling Norwegian algal turf read datasets
+## Tutorial 3 Distilling Norwegian algal turf read datasets
 
 For this lab, students will go through the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The lab will process the following three samples:
 
