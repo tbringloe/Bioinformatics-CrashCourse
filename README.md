@@ -31,7 +31,7 @@ Bioinformatics offers one such glimpse into the structure of holobiomes. Between
 Using the tutorials provided here, students are expected to distil these whole genome sequencing datasets into information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. Some of the computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning bioinformatics otherwise carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion, along with supplemental code and one figure generated in R.
 
 ## Disclaimer
-The material presented here is intended as a basic introduction to bioinformatics. The topics covered are by no means comprehensive. The intention is to provide students with exposure. The information is accurate to the best of my knowledge, and targetted toward biological students with a desire to incorporate computational methods into their learning. The material is not intended to foster formal learning in coding, scripting, understandning computional theory, ect. It is simply meant to get students introduced to bioinformatics and gain some momentum applying principals of read quality assessment, assembly, mapping, and extracting biological information from concensus sequences. The material could serve as an initial framework for expanding into a fully fledged course.
+The material presented here is intended as a basic introduction to bioinformatics. The topics covered are by no means comprehensive, and potentially more efficient coding options are certainly available. The intention is to provide students with exposure. The information is accurate to the best of my knowledge, and targetted toward biological students with a desire to incorporate computational methods into their learning. The material is not intended to foster formal learning in coding, scripting, understandning computional theory, ect. It is simply meant to get students introduced to bioinformatics and gain some momentum applying principals of read quality assessment, assembly, mapping, and extracting biological information from concensus sequences. The material could serve as an initial framework for expanding into a fully fledged course.
 
 ## Tutorial 1 Linux based commands
 
@@ -363,7 +363,48 @@ For this lab, students will go through the various steps to distill large raw re
 | TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
 | TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| Stipe scrapes |
 
-Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to 
+Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to create a reference database of DNA barcode sequences. In order to reduce computational time during read mapping, we will cluster sequences at 90% similarity, and keep a single representative sequence from each cluster (reducing out database from millions of sequences to ~200,000). We will use this to map reads and identify candidate DNA barcode reads. The following code is meant to illustrate the steps taken to arrive at a reference database. Students are not expected to understand these steps, they are meant to supplement learning. Students will engage with data downstream, post mapping.
+
+```
+# We can retrieve DNA barcode sequences from BOLD. This is a better option, as the data is curated towards taxonomically informative regions, whereas NCBI would have full length DNA barcode genes that would create interpretation problems downstream when we start blasting sequences.
+# taxon.list is a text file of Phyla I have chosen to include in the database. It represents all the phyla on BOLD, plus some lower level designations. This was done strategically to aid in curating barcode alignments downstream.
+marker=COI-5P # Also ran declaring rbcL and tufA
+cat taxon.list | while read line
+do
+wget http://v3.boldsystems.org/index.php/API_Public/sequence?taxon="$line"
+# download will represent all sequence data for given phyla, so we need to use grep to retrieve lines with relevant marker
+grep "$marker" -A 1 sequence\?taxon\="$line" > sequence\?taxon\="$line"_"$marker".fasta
+# another grep to remove dashed introduced with previous command
+grep -vx -e "--" sequence\?taxon\="$line"_"$marker".fasta > sequence\?taxon\="$line"_"$marker"_final.fasta
+done
+
+# Use mmseqs2 to cluster at 90% similarity and retain a representative sequence for the database
+module load mmseqs2/13-45111
+cat taxon.list | while read line
+do
+mmseqs createdb sequence\?taxon\="$line"_"$marker"_final.fasta sequence\?taxon\="$line"_"$marker"_final.db
+#Store temporary files in temporary directory
+mkdir tmp_dir
+mmseqs cluster sequence\?taxon\="$line"_"$marker"_final.db "$line"_db_clu tmp_dir --threads 4 --cov-mode 0 -c 0.90 --min-seq-id 0.90
+mmseqs result2repseq sequence\?taxon\="$line"_"$marker"_final.db sequence\?taxon\="$line"_"$marker"_final.db_clu sequence\?taxon\="$line"_"$marker"_final.db_clu_rep
+mmseqs result2flat sequence\?taxon\="$line"_"$marker"_final.db sequence\?taxon\="$line"_"$marker"_final.db sequence\?taxon\="$line"_"$marker"_final.db_clu_rep sequence\?taxon\="$line"_"$marker"_final.rep.fasta --use-fasta-header
+done
+
+# Sequences were aligned using clustal-omega alignment
+module load clustal-omega/1.2.4
+cat taxon.list | while read line
+do
+clustalo --threads=32 -i sequence\?taxon\="$line"_"$marker"_final.rep.fasta -o sequence\?taxon\="$line"_"$marker"_final.rep.aligned.fasta
+done
+```
+
+The [clustal-omega](https://www.ebi.ac.uk/Tools/msa/clustalo/) alignments were curated in geneious to ensure the database consisted of only DNA barcode regions (some sequences hang off the end of these regions; we don't want reads mapping outside). Sequences with a lot of missing data were also deleted, and alignments were manually edited where possible.
+
+Now that we have reasonably comprehensive files of available DNA barcode sequences (we started with 1,291,373 sequences downloaded from BOLD, down to 181,554 representative sequences).
+
+# NBCI build-db function does not like duplicate names in the input fasta, so this one liner cleared that up
+awk '/^>/{f=!d[$1];d[$1]=1}f' in.fa > out.fa
+
 
 Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to procude a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/edi) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flowdiagram of the above worflow could look like this:
 
