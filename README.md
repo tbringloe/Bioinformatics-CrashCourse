@@ -277,6 +277,13 @@ You have now assembled several sequences. Compare the sequences to NCBI's databa
 ## Lab 2 Assembling and annotating organellar genomes
 Now that our reads are trimmed, and we are confident our data is of high quality, we can begin assembling reads. One option is to assemble the entire dataset. This would produce millions of contigs. It would also be computationally demanding (potentially impossible depending on the complexity of the dataset and the resources required to assemble). Rather than assemble the entire dataset, we will assemble the organellar genomes. This can be achieved using NOVOPlasty, a clever program that leverages a seed sequence and coverage information to infer circular organellar genomes. The following tutorial will produce mitochondrial and chloroplast sequences in two samples. The remainder of the lab will be dedicated to understanding annotations.
 
+Here are the original sample metadata:
+
+|Sample ID | Species | Sampling Location | Lat | Long | Date Sampled | Collector | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TTB000539 | Meredithia microphylla | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe| NA |
+| TTB000606 | Coccotylus brodiei | Hakonsund | 60.17599 | 5.11074 | Aug-5-2022 | T.T. Bringloe| NA |
+
 [NOVOPlasty](https://github.com/ndierckx/NOVOPlasty) is a perl script that elongates a specified seed file. The seed file represents a sequence, either in the target organism or a closely related organism. For instance, DNA barcodes coxI and rbcL are good seed candidates for assembling algal organellar genomes (because that reference data is abundant). The script will then map reads to the seed sequence, determine high coverage k-mers, and start elongating the assembly graph from these k-mers while incorporating coverage information to hopefully avoid any breaks in the assembly. This works because organellar genomes occur as many copies within cells, meaning they are disproportionately represented in read datasets. Other assemblers such as [SPAdes](https://github.com/ablab/spades) also incorporates coverage information into the assembly graph. Once the program elongates enough such that it begins overlapping the other side of the same sequence, it confirms the sequence is circular and outputs the organellar genome as a fasta file.
 
 ```
@@ -314,11 +321,22 @@ Store Hash            =
 # Be sure to add the seed files to the NOVOPlasty directory and uncompress the read files, also in the NOVOPlasty directory
 # Example command to uncompress .gz file : gzip -d TTB000632_R1_trimmed.fastq.gz
 # Run NOVOPlasty, either via the command line interface if on a private computer, or via a slurm script as detailed above when working with HPC
-perl NOVOPlasty4.3.3.pl -c TTB000632_P_rubens_mito_config.txt
+perl NOVOPlasty4.3.3.pl -c TTB000539_Meredithia_mito_config.txt
 ```
-It is possible to run NOVOPlasty over many samples simultaneously, we simply need more advanced code to swap in relevant sample details and create new output directories. See [this](https://github.com/tbringloe/WGS-NOVAC) tutorial and bash script for a potential solution.
+It is possible to run NOVOPlasty over many samples simultaneously, we simply need more advanced code to swap in relevant sample details and create new output directories. See [this](https://github.com/tbringloe/WGS-NOVAC) tutorial and bash script for a potential solution. Note, NOVOPlasty won't necessarily produce a confirmed circular sequence. Depending on the complexity of the dataset, coverage, seed, k-mer size, ect. the output may occur as a fragmented or partial genome. Users will have to troubleshoot.
 
-Now that we have a circular sequence, we can annotate the genomes. Note, NOVOPlasty won't necessarily produce a confirmed circular sequence. Depending on the complexity of the dataset, coverage, seed, k-mer size, ect. the output may occur as a fragmented or partial genome. Users will have to troubleshoot.
+Now that we have a circular sequence, we can annotate the genomes. There are several approaches to annotating genomes. Because we are looking at relatively simple organellar genomes, we can use [MFannot](https://megasun.bch.umontreal.ca/RNAweasel/), an annotation database maintained at the Univeristy of Montreal. Visit the [MFannot](https://megasun.bch.umontreal.ca/apps/mfannot/) page and submit the mitochondrial and plastid sequences, selecting (1) standard and (11) bacterial, Archael, and plant plast genetic codes, respectively. Once the submission completes running, download the new annotation files.
+
+The annotations are not usable in their current format. In order to view annotations in Geneious, we need to conver the MFannot to gff3 file format. Run a simple perl script to convert the file to one we can use.
+
+```
+# The third field is the MFannot output, the fourth is the sequence name in geneious, the fifth is the file name to write output to
+perl MFannotSQL2GGF3.pl mfannot_75ed117a7fa2.fasta.new.sqn TTB000605_Coccotylus_truncatus_plastid > TTB000605_Coccotylus_plastid.gff3
+```
+
+Make sure the organellar genomes are now in Geneious, and named accordingly. Drag the gff3 file into geneious and the annotations should automatically apply to the appropriate genome. Have a look at the annotations and answer the following questions.
+
+
 
 ## Lab 3 Distilling Norwegian algal turf read datasets
 
