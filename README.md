@@ -479,7 +479,7 @@ bedtools getfasta -fi sequence_extraction/"$line".hits.sorted.unique.250.IDs.fas
 rm sequence_extraction/"$line".*
 done
 ```
-Now we have curated files of DNA barcode regions for our samples. We can then BLAST these sequences against the full NCBI non-redundant nucleotide (nt) database. Users might consider BLASTX against the protein (nr) database to ID highly divergent sequences. Note, the nt database is typically downloaded and regularly updated on shared servers. So we can specify the directory path to the database (bloked out here)
+Now we have curated files of DNA barcode regions for our samples. We can then BLAST these sequences against the full NCBI non-redundant nucleotide (nt) database. Users might consider BLASTX against the protein (nr) database to ID highly divergent sequences. Note, the nt database is typically downloaded and regularly updated on shared servers. So we can specify the directory path to the database (blocked out here)
 
 ```
 marker=coxI
