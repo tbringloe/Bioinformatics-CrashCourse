@@ -10,6 +10,7 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 
 - [Objective](#objective)
 - [Project Summary](#project-summary)
+- [Disclaimer](#Disclaimer)
 - [Tutorial 1 Linux based commands](#tutorial-1-linux-based-commands)
 - [Tutorial 2 High Performance Computing](#tutorial-2-high-performance-computing)
 - [Lab 1 Assembling LEGO K-mers](#lab-1-assembling-lego-k-mers)
@@ -28,6 +29,9 @@ Macroalgae (seaweeds) represent a conglomerate of species, particularly turf for
 Bioinformatics offers one such glimpse into the structure of holobiomes. Between August 7-12, 2022, I was fortunate enough to join colleagues on a research cruise to collect seaweeds in Tjongspollen Fjord, south of Bergen, Norway, as part of a taxonomic survey funded by the Norwegian Taxonomic Inititiative. Prior to the cruise, I also dove several sites in the area of Bergen with colleagues from France. We were able to collect and document algal turfs, including photo evidence of the turf samples as seen from a dissecting microscope. These samples were subsequently preserve in silica, had DNA extracted at the University of New Brunswick, Canada, and were sequenced at Genome Quebec using the NovaSeq6000 platform, targeting 100 million 150 bp paired-reads reads in 25 samples (though closer to 3 billion reads were generated in total). Our objective was to infer the presence of inconspicous species using molecular data that were otherwise escaping labour intensive sorting under the microscope. Because we were interested in species level inferences, we used a whole genome approach rather than traditional metabarcoding (see introduction to bioinformatics lecture).
 
 Using the tutorials provided here, students are expected to distil these whole genome sequencing datasets into information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. Some of the computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning bioinformatics otherwise carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion, along with supplemental code and one figure generated in R.
+
+## Disclaimer
+The material presented here is intended as a basic introduction to bioinformatics. The topics covered are by no means comprehensive. The intention is to provide students with exposure. The information is accurate to the best of my knowledge, and targetted toward biological students with a desire to incorporate computational methods into their learning. The material is not intended to foster formal learning in coding, scripting, understandning computional theory, ect. It is simply meant to get students introduced to bioinformatics and gain some momentum applying principals of read quality assessment, assembly, mapping, and extracting biological information from concensus sequences. The material could serve as an initial framework for expanding into a fully fledged course.
 
 ## Tutorial 1 Linux based commands
 
@@ -336,7 +340,18 @@ perl MFannotSQL2GGF3.pl mfannot_75ed117a7fa2.fasta.new.sqn TTB000605_Coccotylus_
 
 Make sure the organellar genomes are now in Geneious, and named accordingly. Drag the gff3 file into geneious and the annotations should automatically apply to the appropriate genome. Have a look at the annotations and answer the following questions.
 
+1. How many coding sequences (labelled in yellow) were annotated for each genome? RNA sequences (labelled red)? Transfer RNA (leballed in pink)? Are the numbers the same or different between the two species?
 
+2. Find and [blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) the coxI and rbcL sequences for both species. Were the original species identifications correct? Elaborate.
+
+Now download the [MAUVE](https://darlinglab.org/mauve/mauve.html) alignment plugin for geneious. This alignment algorithm detects homologous "blocks" between two genomes. This is handy because organellar genomes are not always [co-linear](https://academic.oup.com/gbe/article/13/7/evab124/6290714); genes and intergenic regions can be present/absent between genomes, and some regions may appear in different orders. One cannot expect a an alignment between genomes then, without the option of "chopping" the alignment up. Select both mitochondrial genomes and perform the MAUVE alignment option. Do the same for the chloroplast sequences.
+
+3. Are the mitochondrial and chloroplast genomes co-linear, or do genomic regions appear out of order across genomes?
+
+Bonus questions
+4. Have a closer look at the coxI sequence of Meredithia. Investigate the group II intron by [blasting](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) the sequence. Try also a [blastx](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Tdranslations&PROGRAM=blastx&PAGE_TYPE=BlastSearch&BLAST_SPEC=) search (searching the translated sequence, i.e. amino acid level). What is the closest match? Blast the flanking coxI sequence and determine its closest match. Can you explain the origin of the group II intron and provide hypotheses as to why it might appear specifically in the coxI sequence?
+
+5. What purpose might it serve to have fully resolved organellar genomes as opposed to DNA barcoding genes?
 
 ## Lab 3 Distilling Norwegian algal turf read datasets
 
@@ -347,6 +362,17 @@ For this lab, students will go through the various steps to distill large raw re
 | TTB000601 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
 | TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
 | TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| Stipe scrapes |
+
+Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to 
+
+Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to procude a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/edi) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flowdiagram of the above worflow could look like this:
+
+```
+# Mermaid lines of code to generate a workflow diagram
+
+```
+
+This is the end of the crash-course in bioinformatics.
 
 ## Acknowledgements
 All the inspirational students, postdocs, mentors, DFO research scientists, and forum junkies across the globe who contributed to my own learning journey in bioinformatics.
@@ -363,6 +389,8 @@ Reference genome assembly and annotation: https://github.com/tbringloe/Monodonti
 Bolger, A. M., Lohse, M., & Usadel, B. (2015). Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 30, 2114-20.
 
 Danacek, P., Bonfield, J. K., Liddle, J., Marshall, J., Ohan, V., Pollard, M. O., Whitwham. A., Keane, T., McCarthy, S. A., Davies, R. M., & Li, H. (2021). Twelve years of SAMtools and BCFtools. Gigascience, 10, giab008. https://github.com/samtools/bcftools.
+
+Darling, A. C. E., Mau, B., Blattner, F. R., & Perna, N. T. (2004). Mauve: multiple alignment of conserved genomic sequence with rearrangements. Genome Research, 14, 1394-1403.
 
 Dierckxsens, N., Mardulyn, P., & Smits, G. (2017). NOVOPlasty: de novo assembly of organelle genomes from whole genome data. Nucleic Acids Research, 45, e18. https://github.com/ndierckx/NOVOPlasty
 
