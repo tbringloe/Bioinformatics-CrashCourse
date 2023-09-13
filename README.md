@@ -23,25 +23,25 @@ __Contact:__      e-mail: tbringloe@gmail.com | tel: (506)-259-2288
 
 
 ## Objective
-The repository provides a basic introduction to bioinformatics intended for upper level undergraduate students. The content introduces concepts related to read quality control, assembly of short reads, gene annotations, read mapping, and similarity searches of DNA barcodes against NCBI ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) searches) and the Barcode of Life Data Systems ([BOLD](http://v4.boldsystems.org/)). The content required to complete the project and lab assignments detailed here are not provided in their entirety due to data storage limitations on github, or otherwise because materials are physical (i.e. LEGO assembly lab). Note also, steps to complete are not prescribed, but require some level of user input to modify directory pathways, file names, ect. The content can be modified to according to level of immmersion expected of students; as drafted here, computational steps are prescribed but not performed by students. Given the opportunity (i.e. a full semester course in bioinformatics) students should be expected to  complete steps themselves to ensure engagement on a deeper level. The ultimate objective of a bioinformatics course should be to impart on students the capacity to develop a workflow de novo to achieve a specified task(s).
+The repository provides a basic introduction to bioinformatics intended for upper level undergraduate students. The content introduces concepts related to read quality control, assembly of short reads, gene annotations, read mapping, and similarity searches of DNA barcodes against NCBI ([BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) searches) and the Barcode of Life Data Systems ([BOLD](http://v4.boldsystems.org/)). The content required to complete the project and lab assignments detailed here are not provided in their entirety due to data storage limitations on github, or otherwise because materials are physical (i.e. LEGO assembly lab). Note also, steps to complete are not verbatim, but require some level of user input to modify directory pathways, file names, ect. The content can be modified according to the level of immmersion expected of students; as drafted here, computational steps are provided but not performed by students. Given the opportunity (i.e. a full semester course in bioinformatics) students should be expected to (eventually) complete steps themselves to ensure engagement on a deeper level. The ultimate objective of a bioinformatics course should be to impart on students the capacity to develop a workflow de novo to achieve a specified task(s).
 
 ## Project Summary
 Macroalgae (seaweeds) represent a conglomerate of species, particularly turf forming species that grow entangled with one another close to rocky coastal substrate. Moreover, the seaweeds themselves are home to a host of bacterial and eukaryotic taxa, many of which are unknown to science. Seaweed holobiomes are not simply a grouping of species, they represent an ecosystem of relationships, some obligate, some passive, some mutualistic, and some parasitic. The complexity of seaweed holobiomes (and holobiomes in general) in terms of the number of species and their relation to one another simply outscales human comprehension. Nonetheless, we can use big-data approaches to gleam some insight into these complex biological worlds.
 
-Bioinformatics offers one such glimpse into the structure of holobiomes. Between August 7-12, 2022, I was fortunate enough to join colleagues on a research cruise to collect seaweeds in Tjongspollen Fjord, south of Bergen, Norway, as part of a taxonomic survey funded by the Norwegian Taxonomic Inititiative. Prior to the cruise, I also dove several sites in the area of Bergen with colleagues from France. We were able to collect and document algal turfs, including photo evidence of the turf samples as seen from a dissecting microscope. These samples were subsequently preserve in silica, had DNA extracted at the University of New Brunswick, Canada, and were sequenced at Genome Quebec using the NovaSeq6000 platform, targeting 100 million 150 bp paired-reads reads in 25 samples (though closer to 3 billion reads were generated in total). Our objective was to infer the presence of inconspicous species using molecular data that were otherwise escaping labour intensive sorting under the microscope. Because we were interested in species level inferences, we used a whole genome approach rather than traditional metabarcoding (see introduction to bioinformatics lecture).
+Bioinformatics offers one such glimpse into the structure of holobiomes. Between August 7-12, 2022, I was fortunate enough to join colleagues on a research cruise to collect seaweeds in Tjongspollen Fjord, south of Bergen, Norway, as part of a taxonomic survey funded by the Norwegian Taxonomic Inititiative. Prior to the cruise, I also dove several sites in the area of Bergen with colleagues from France. We were able to collect and document algal turfs, including photo evidence of the turf samples as seen from a dissecting microscope. These samples were subsequently preserve in silica, had DNA extracted at the University of New Brunswick, Canada, and were sequenced at Genome Quebec using the NovaSeq6000 platform, targeting 100 million 150 bp paired-reads reads per sample in 25 samples (though closer to 3 billion reads were generated in total). Our objective was to infer the presence of inconspicous species using molecular data that were otherwise escaping labour intensive sorting under the microscope. Because we were interested in species level inferences, we used a whole genome approach rather than traditional metabarcoding (see introduction to bioinformatics lecture).
 
-Using the tutorials provided here, students are expected to distil these whole genome sequencing datasets into information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. Some of the computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning bioinformatics otherwise carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion.
+Using the tutorials provided here, students will understand how to distil these whole genome sequencing datasets into information that would allow inferences regarding species present in algal turf samples. Students should consult the files provided here, including sample metadata, and follow links to relevant sites for more information. The computationally intensive steps have been completed a priori, but labs nonetheless guide students through the concepts underpinning the bioinformatics methods used here, which were carried out in a high performance computing environment. A project report detailing species found within a particular algal turf sample is expected, including introduction, methods, results, and discussion.
 
-Students can access specimen photos [here](https://drive.google.com/drive/folders/1EX7cczCrXq7ODOZHp4ddxP6jAzai07zQ?usp=sharing)
+Students can access specimen photos via a google drive link provided in class.
 
 ## Disclaimer
-The material presented here is intended as a basic introduction to bioinformatics. The topics covered are by no means comprehensive, and potentially more efficient coding options are certainly available. The intention is to provide students with exposure. The information is accurate to the best of my knowledge, and targetted toward biological students with a desire to incorporate computational methods into their learning. The material is not intended to foster formal learning in coding, scripting, understandning computional theory, ect. It is simply meant to get students introduced to bioinformatics and gain some momentum applying principals of read quality assessment, assembly, mapping, and extracting biological information from concensus sequences. The material could serve as an initial framework for expanding into a fully fledged course.
+The material presented here is intended as a basic introduction to bioinformatics. The topics covered are by no means comprehensive, and potentially more efficient coding options are certainly available. The intention is to provide students with exposure to bioinformatics. The information is accurate to the best of my knowledge, and targetted toward biological students with a desire to incorporate computational methods into their learning. The material is not intended to foster formal learning in coding, scripting, understandning computional theory, ect. It is simply meant to get students introduced to bioinformatics and gain some momentum applying principals of read quality assessment, assembly, mapping, and extracting biological information from concensus sequences. The material rather serves as an initial framework for expanding into a fully fledged course.
 
 ## Tutorial 1 Linux based commands
 
-Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Exercises are provided to test commands and reinforce comprehension, which evidently require students have access to a linux based environment (e.g. a virtual box or software such as Ubuntu; covered in class). This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs. It is by no means comprehensive; the intention is to put these tools in the hands of up and coming biologists. Most people learn how to drive without ever knowing exactly how their vehicle works. Students should seek out a computer science course or linux-based workshop to further learning in this area.
+Most students are used to operating systems that are highly visual and interactive (i.e. the user clicks icons to issue commands). Linux based computing, however, allows the user to execute desired actions using the command line interface. This provides the user with much greater flexibility for manipulating files in an efficient manner, while still enabling more complex functions to be executed using various built-in and external scripting languages. This tutorial provides basic commands used in linux. Exercises are provided to test commands and reinforce comprehension, which evidently require students to have access to a linux based environment (e.g. a virtual box or software such as Ubuntu). This tutorial is basically meant to supplement learning and allow students to better understand the commands provided in labs. It is by no means comprehensive; the intention is to put these tools in the hands of forthcoming biologists. Most people learn how to drive without ever knowing exactly how their vehicle works. Students should seek out a computer science course or linux-based workshop to further learning in this area.
 
-A couple further things to note. You cannot visualize or interact with linux file systems the same way we click and see directory heirarchies in windows or apple OS. Rather, the user must create and familiarize themselves with directory heirarchies, and use pathways (e.g. /home/trevor/data) to move about and interact with their environment and the files therein. Some third party programs can help, however, with connecting and navigating this environment, specifically if the environment is remote and you must login to it (e.g. [Filezilla](https://filezilla-project.org/). A good SSH client for remote work is [PuTTy](https://www.putty.org/). 
+A couple additional things to note. You cannot visualize or interact with linux file systems the same way we click and see directory heirarchies in windows or apple OS. Rather, the user must create and familiarize themselves with directory heirarchies, and use pathways (e.g. /home/trevor/data) to move about and interact with their environment and the files therein. Some third party programs can help, however, with connecting and navigating this environment, specifically if the environment is remote and you must login to it (e.g. [Filezilla](https://filezilla-project.org/). A good SSH client for remote work is [PuTTy](https://www.putty.org/). 
 A hashtag indicates to not execute proceeding text as commands. They are therefore a useful tool for annotating scripts.
 You can use the TAB key to finish a filename or pathway. If multiple options are present, they will be displayed. This can save on typing.
 The up arrow key can be used to recall previously used commands, in order of most recent.
@@ -77,7 +77,7 @@ cp # copy specified file
 cp TTB000600_R1.fastq.gz raw_reads # copies fastq file to raw_read folder in present working directory
 
 mkdir # make a new specified directory
-mkdir trimmed_reads # creates new directoru trimmed_reads in present working directory
+mkdir trimmed_reads # creates new directory trimmed_reads in present working directory
 
 mv # move specified file to new location or rename file
 mv raw_reads/TTB000600_R1.fastq.gz trimmed_reads # moves file TTB000600_R1.fastq.gz in raw_reads directory to trimmed_reads folder
@@ -143,7 +143,7 @@ echo running workflow
 if [$trim_raw_reads -eq 1]
 then
   echo run trimmmomatic
-  echo insert trimmomatic code here
+  echo <insert trimmomatic code here>
 else
   echo User has specified to skip raw read trimming
 fi
@@ -151,7 +151,7 @@ exit 0
 ```
 
 ## Tutorial 2 High Performance Computing
-Bioinformatics usually involves working with large datasets containing many GBs or even TBs of sequence information. Because there is so much information to work with, we cannot use normal laptops or desktops. We need computers with a lot of storage (i.e. disk) space for storing and writing files, and a lot of RAM (Random Access Memory) to work with lots of data at a given moment. Furthermore, resources can be distributed across nodes and cores in a system, allowing users to run many commands at the same time, or divide tasks into many smaller tasks, thus allowing users to complete commands in a shorter time frame. These needs are met by High Performance Computers (i.e. High Performance Computing; HPC). Canadian Universities share access to Compute Canada servers, but many institutions host private servers. One of the challenges on a shared system is tasks must be executed in an efficient manner; the system cannot be overloaded with tasks (otherwise this would quickly crash the system) and computational resources must be used in the most efficient manner possible to ensure the most amount of computation gets completed in the shortest amount of linear time. To facilitate this, shared servers use slurm scripts, which users use to submit their tasks to perform. Tasks are then queued and run when resources become available.
+Bioinformatics involves working with large datasets containing many GBs or even TBs of sequence information. Because there is so much information to work with, we cannot use normal laptops or desktops. We need computers with a lot of storage (i.e. disk) space for storing and writing files, and a lot of RAM (Random Access Memory) to work with lots of data at a given moment. Furthermore, resources can be distributed across nodes and cores in a system, allowing users to run many commands at the same time, or divide tasks into many smaller tasks, thus allowing users to complete commands in a shorter time frame. These needs are met by High Performance Computers (i.e. High Performance Computing; HPC). Canadian Universities share access to Compute Canada servers, but many institutions host private servers. One of the challenges on a shared system is tasks must be executed in an efficient manner; the system cannot be overloaded with tasks (otherwise this would quickly crash the system) and computational resources must be used in the most efficient manner possible to ensure the most amount of computation gets completed in the shortest amount of linear time. To facilitate this, shared servers use slurm scripts, which users use to submit their tasks to perform. Tasks are then queued and run when resources become available.
 
 Here is an example slurm script one can submit to Compute Canada servers. The slurm script may look slightly different depending on how the shared system has been orchestrated.
 ```
@@ -202,6 +202,7 @@ module spider <program.of.interest> # lists modules matching specified text. Use
 module load <program.of.interest> # load specified module
 
 salloc --time 60 --mem 20 # launch an interactive session with a time limit of 60 minutes and with 20 GB of RAM. This is particularly useful for troubleshooting commands without repeatedly submitting jobs that fail, or smaller tasks that require more user input
+
 exit # leave interactive or global session
 
 diskusage_report # shows current storage and storage limits, both in terms of disk space and number of files. Projects are allocated a set amount of disk space.
@@ -211,15 +212,15 @@ sshare -l -A <user_account>_cpu -u tbringlo # check account and user usage, incl
 
 When working in an HPC environment, users must be mindful of the resources they are requesting and using. Large jobs take longer to process in the queue. The user is therefore incentivized to request only the required amount of resources to complete a task; estimating the appropriate amount of resources needed is gained with experience. When an account utilizes a lot of resources, users under that account receive less priority in the queue. Users are therefore also incentivized to be efficient with their resources, or risk long wait times to complete tasks. Use the above command sshare to monitor resource usage and queue priority.
 
-When considering usage, users must consider two factors, the number of tasks to run and the job wall time. For instance, a single tasks running on a single thread for 24 hours=24 hours of computation time. But 32 tasks on 32 threads (or one tasks divided among 32 threads) running for 24 hours=768 (32 x 24) computation hours. Regardless of whether your tasks uses the available threads requested, the user account is "charged" for the time resources are tied up performing a given job. It is therefore critical to ensure the resources requested are being used efficiently.
+When considering usage, users must consider two factors, the number of tasks to run and the job wall time. For instance, a single tasks running on a single thread for 24 hours=24 hours of computation time. But 32 tasks on 32 threads (or one task divided among 32 threads) running for 24 hours=768 (32 x 24) computation hours. Regardless of whether your tasks uses the available threads requested, the user account is "charged" for the time resources are tied up performing a given job. It is therefore critical to ensure the resources requested are being used efficiently.
 
 
 ## Lab 1 Assembling LEGO k-mers
-Following the lecture introducing concepts related to bioinformatics, and the tutorials above, complete the following lab. Note, the following commands require some user input to run, i.e. defining particular variables and establishing sample lists.
+Complete the following lab after the lecture introducing concepts related to bioinformatics, and the tutorials above. Note, if completing the computional steps in lab, the following commands require some user input to run, i.e. defining particular variables and establishing sample lists.
 
 *Exercise 1: Evaluating read quality*
 
-Before working with read files, it is critical to evaluate quality and remove error prone data. You have been provided [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) reports generated for several read datasets, before and after read trimming. The following command was performed using [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf):
+Before working with read files, it is critical to evaluate quality and remove error prone data. You have been provided [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) reports generated for several read datasets, before and after read trimming. They are under the GithHub folder [fastqc](https://github.com/tbringloe/Bioinformatics-CrashCourse/tree/main/fastqc). The following command was performed using [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf):
 ```
 # variables to declare for trimmomatic
 
@@ -244,14 +245,14 @@ $multiqc . -o .
 ```
 
 Investigate the FASTQC reports (individually or using multiQC) and answer the following questions.
-1.	Briefly define the variables specified stated above by consulting the [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) manual.
+1.	Briefly define the read trimming variables specified above by consulting the [TRIMMOMATIC](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) manual.
 trailing=
 headcrop=
 avgqual= 
 minlen=
 adapter=
 
-3.	Fill the following table:
+3.	Fill the following table based on the fastqc reports:
 
 | File name | # of read before trimming | # of reads after trimming | Average read quality before trimming | Average read quality after trimming | GC content before trimmming | GC content after trimming |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -265,7 +266,7 @@ adapter=
 
 *Exercise 2: Build an assembly graph* 
 
-You have been provided long LEGO pieces with sequences labelled on them. These represent k-mers. Start by turning all pieces to the side labelled with the red circle. This represents your read data as k-mers at length XX. Start overlapping and connecting the pieces at your k-mer size-1 (i.e. XX, your pieces should overlap almost entirely, extending the graph one node at a time). Note when multiple pathways occur, and whether m there are multiple unconnected pathways. 
+You have been provided long LEGO pieces with sequences labelled on them. These represent k-mers. Start by turning all pieces to the side labelled with the red circle. This represents your read data as k-mers at length XX. Start overlapping and connecting the pieces at your k-mer size-1 (i.e. XX, your pieces should overlap almost entirely, extending the graph one node at a time). Note when multiple pathways occur, and whether there are multiple unconnected pathways. 
 
 1. Draw a diagram of your assembly graph (an example can be provided in lab, or see [BANDAGE](https://rrwick.github.io/Bandage/) for conceptual examples, though ours will be much simpler than what is shown here). Provide a figure title, indicating the k-mer size used.
 
@@ -281,7 +282,7 @@ Next, repeat the exercise, but flip all the LEGO pieces to the site labelled wit
 
 You have now assembled several sequences. Compare the sequences to NCBI's database using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) and to [BOLD](http://v4.boldsystems.org/) records under the "identification" tab to assign taxonomic information to the sequences.
 
-1.	What are the top hits for each sequence, and to what percentage to the sequences match existing records? Using the information in BOLD, can you describe the global distribution of the identified species?
+1.	What are the top hits for each sequence, and to what percentage do the sequences match existing records? Using the information in BOLD, can you describe the global distribution of the identified species?
 
 ## Lab 2 Assembling and annotating organellar genomes
 Now that our reads are trimmed, and we are confident our data is of high quality, we can begin assembling reads. One option is to assemble the entire dataset. This would produce millions of contigs. It would also be computationally demanding (potentially impossible depending on the complexity of the dataset and the resources required to assemble). Rather than assemble the entire dataset, we will assemble the organellar genomes. This can be achieved using NOVOPlasty, a clever program that leverages a seed sequence and coverage information to infer circular organellar genomes. The following tutorial will produce mitochondrial and chloroplast sequences in two samples. The remainder of the lab will be dedicated to understanding annotations.
@@ -343,17 +344,17 @@ The annotations are not usable in their current format. In order to view annotat
 perl MFannotSQL2GGF3.pl mfannot_75ed117a7fa2.fasta.new.sqn TTB000605_Coccotylus_truncatus_plastid > TTB000605_Coccotylus_plastid.gff3
 ```
 
-*Exercise 1 observed annotations in geneious*
+*Exercise 1 observing annotations in geneious*
 
-Make sure the organellar genomes are now in Geneious, and named accordingly. Drag the gff3 file into geneious and the annotations should automatically apply to the appropriate genome. Have a look at the annotations and answer the following questions.
+Make sure the organellar genomes are now in Geneious ([files here](https://github.com/tbringloe/Bioinformatics-CrashCourse/tree/main/Organellar_genomes)), and named accordingly. Drag the gff3 file into geneious and the annotations should automatically apply to the appropriate genome. Have a look at the annotations and answer the following questions.
 
 1. How many coding sequences (labelled in yellow) were annotated for each genome? RNA sequences (labelled red)? Transfer RNA (leballed in pink)? Are the numbers the same or different between the two species?
 
-2. Find and [blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) the coxI and rbcL sequences for both species. Were the original species identifications correct? Elaborate.
+2. Find and [blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) the coxI (mitochondrial gene) and rbcL (chloroplast gene) sequences for both species. Were the original species identifications correct? Elaborate.
 
 *Exercise 2 align genomes*
 
-Now download the [MAUVE](https://darlinglab.org/mauve/mauve.html) alignment plugin for geneious. This alignment algorithm detects homologous "blocks" between two genomes. This is handy because organellar genomes are not always [co-linear](https://academic.oup.com/gbe/article/13/7/evab124/6290714); genes and intergenic regions can be present/absent between genomes, and some regions may appear in different orders. One cannot expect a an alignment between genomes then, without the option of "chopping" the alignment up. Select both mitochondrial genomes and perform the MAUVE alignment option. Do the same for the chloroplast sequences.
+Now download the [MAUVE](https://darlinglab.org/mauve/mauve.html) alignment plugin for geneious. This alignment algorithm detects homologous "blocks" between two genomes. This is handy because organellar genomes are not always [co-linear](https://academic.oup.com/gbe/article/13/7/evab124/6290714); genes and intergenic regions can be present/absent between genomes, and some regions may appear in different orders. One cannot expect an alignment between genomes then, without the option of "chopping" the alignment up. Select both mitochondrial genomes and perform the MAUVE alignment option. Do the same for the chloroplast sequences.
 
 3. Are the mitochondrial and chloroplast genomes co-linear, or do genomic regions appear out of order across genomes?
 
@@ -373,7 +374,7 @@ For this lab, students will review the various steps to distill large raw read f
 | TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
 | TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| Stipe scrapes |
 
-Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to create a reference database of DNA barcode sequences. In order to reduce computational time during read mapping, using [mmseqs2](https://github.com/soedinglab/MMseqs2) (Steinegger & Söding, 2017) we will cluster sequences at 90% similarity, and keep a single representative sequence from each cluster (reducing out database from millions of sequences to ~200,000). We will use this to map reads and identify candidate DNA barcode reads. The following code is meant to illustrate the steps taken to arrive at a reference database. Students are not expected to understand these steps, they are meant to supplement learning. Students will engage with data downstream, post mapping.
+Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to create a reference database of DNA barcode sequences. In order to reduce computational time during read mapping, using [mmseqs2](https://github.com/soedinglab/MMseqs2) (Steinegger & Söding, 2017) we will cluster sequences at 90% similarity, and keep a single representative sequence from each cluster (reducing our database from millions of sequences to ~200,000). We will use this to map reads and identify candidate DNA barcode reads. The following code is meant to illustrate the steps taken to arrive at a reference database. Students are not expected to understand these steps, they are meant to supplement learning. Students will engage with data downstream, post mapping.
 
 ```
 # We can retrieve DNA barcode sequences from BOLD. This is a better option, as the data is curated towards taxonomically informative regions, whereas NCBI would have full length DNA barcode genes that would create interpretation problems downstream when we start blasting sequences.
@@ -384,7 +385,7 @@ do
 wget http://v3.boldsystems.org/index.php/API_Public/sequence?taxon="$line"
 # download will represent all sequence data for given phyla, so we need to use grep to retrieve lines with relevant marker
 grep "$marker" -A 1 sequence\?taxon\="$line" > sequence\?taxon\="$line"_"$marker".fasta
-# another grep to remove dashed introduced with previous command
+# another reverse grep to remove dashed introduced with previous command
 grep -vx -e "--" sequence\?taxon\="$line"_"$marker".fasta > sequence\?taxon\="$line"_"$marker"_final.fasta
 done
 
