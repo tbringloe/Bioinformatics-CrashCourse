@@ -502,7 +502,7 @@ Now we have curated DNA barcode sequences from our samples, and BLAST output, wh
 
 ## Lab 3 Assignment
 
-Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to produce a flow diagram of the steps taken to achieve results. [Mermaid live edit](https://mermaid.live/) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flow diagram could look like this:
+Because bioinformatic workflows can be complicated and non-intuitive, it can be helpful to produce a flow diagram of the steps taken to achieve results. [Mermaid live](https://mermaid.live/) is a solid resouce for generating such diagrams. The language is somewhat unique, but a basic flow diagram could look like this:
 
 ```
 # Mermaid lines of code to generate a generic workflow diagram
@@ -524,7 +524,7 @@ style G fill:#f9f,stroke:#333,stroke-width:4px
 style JI fill:#bbf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5 5
 ```
 [Online FlowChart & Diagrams Editor - Mermaid Live Editor.pdf](https://github.com/tbringloe/Bioinformatics-CrashCourse/files/12441754/Online.FlowChart.Diagrams.Editor.-.Mermaid.Live.Editor.pdf)
-![test](https://github.com/tbringloe/Bioinformatics-CrashCourse/assets/79611349/99753c24-59a0-48d3-bc41-93e90175e0f2)
+![Online FlowChart   Diagrams Editor - Mermaid Live Editor](https://github.com/tbringloe/Bioinformatics-CrashCourse/assets/79611349/85222c03-1b62-4563-89f4-75e494c06e11)
 
 For this assignment, plug in the above code into Mermaid live edit, and create a workflow diagram of the steps taken to arrive at the curated DNA barcode datasets of Norwegian algal turf samples. You do not necessarily need to follow the above code; feel free to research other coding options to make your diagram striking and unique.
 
