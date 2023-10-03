@@ -266,21 +266,21 @@ adapter=
 
 *Exercise 2: Build an assembly graph* 
 
-You have been provided long LEGO pieces with sequences labelled on them. These represent k-mers. Start by turning all pieces to the side labelled with the red circle. This represents your read data as k-mers at length XX. Start overlapping and connecting the pieces at your k-mer size-1 (i.e. XX, your pieces should overlap almost entirely, extending the graph one node at a time). Note when multiple pathways occur, and whether there are multiple unconnected pathways. 
+You have been provided long LEGO pieces with sequences written on them. These represent k-mers. The pieces have been attached in the true sequence using k-mers of 4 base pairs. In your group, find recurring (i.e. same instances of) k-mers. Where this occurs, break the LEGO sequence and attach string to connect the recurring k-mers.
 
-1. Draw a diagram of your assembly graph (an example can be provided in lab, or see [BANDAGE](https://rrwick.github.io/Bandage/) for conceptual examples, though ours will be much simpler than what is shown here). Provide a figure title, indicating the k-mer size used.
+1. Draw a diagram of your assembly graph (an example can be provided in lab, or see [BANDAGE](https://rrwick.github.io/Bandage/) for conceptual examples, though ours will be much simpler than what is shown here). You can also optionally take a picture and provide it with your report. Provide a figure title, indicating the k-mer size used.
 
-Next, repeat the exercise, but flip all the LEGO pieces to the site labelled with a blue square. This represents your read data as k-mers at length XX. As before, start overlapping and connecting the pieces at your k-mer size-1.
+Next, repeat the exercise, but flip all the LEGO pieces to the side where the k-mer sequences are 8 base pairs. Start overlapping and connecting the pieces at your k-mer size-1. Continue until all pieces are connected.
 
 2. As before, draw a diagram of your assembly graph. Provide a figure title, indicating the k-mer size used.
 
-3. Here we have assumed unlimited coverage for the assemblies. What was the effect of k-mer size on the assembly graphs? How did repetitive elements impact the graph?
+3. Here we have assumed unlimited coverage for the assemblies. What was the effect of k-mer size on the assembly graphs? How did repetitive k-mers impact the graph?
 
 4. Had coverage been limited, how might the assembly at the larger k-mer size been impacted?
 
 *Exercise 3: Blast assembled sequences*
 
-You have now assembled several sequences. Compare the sequences to NCBI's database using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) and to [BOLD](http://v4.boldsystems.org/) records under the "identification" tab to assign taxonomic information to the sequences.
+You have now an assembled sequence. Compare the sequence to NCBI's database using [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome) and to [BOLD](http://v4.boldsystems.org/) records under the "identification" tab to assign taxonomic information to the sequences.
 
 1.	What are the top hits for each sequence, and to what percentage do the sequences match existing records? Using the information in BOLD, can you describe the global distribution of the identified species?
 
