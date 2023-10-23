@@ -1,0 +1,496 @@
+# BLASTX 2.12.0+
+# Query: NODE_104_length_316_cov_0.657005:1-316
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_104_length_316_cov_0.657005:1-316	173462	223	NODE_104_length_316_cov_0.657005:1-316	QOJ46631.1	100.000	104	0	0	314	3	264	367	4.48e-69	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pterothamnion plumula]
+NODE_104_length_316_cov_0.657005:1-316	1960694	214	NODE_104_length_316_cov_0.657005:1-316	AQS80222.1	96.154	104	4	0	314	3	53	156	1.13e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Kallymenicola superficialis]
+NODE_104_length_316_cov_0.657005:1-316	1563185	215	NODE_104_length_316_cov_0.657005:1-316	AIU40966.1	96.154	104	4	0	314	3	36	139	1.84e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Cryptonemia obovata]
+NODE_104_length_316_cov_0.657005:1-316	2005786	213	NODE_104_length_316_cov_0.657005:1-316	QGK86727.1	95.192	104	5	0	314	3	42	145	2.54e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Leniea kylinii]
+NODE_104_length_316_cov_0.657005:1-316	1385689	217	NODE_104_length_316_cov_0.657005:1-316	AIC83507.1	97.115	104	3	0	314	3	113	216	2.88e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ceramium filicula]
+NODE_104_length_316_cov_0.657005:1-316	1960697	212	NODE_104_length_316_cov_0.657005:1-316	AQS80226.1	95.192	104	5	0	314	3	53	156	3.17e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Kallymenicola sp. _1Ber]
+NODE_104_length_316_cov_0.657005:1-316	1037395	220	NODE_104_length_316_cov_0.657005:1-316	CCB78835.1	98.077	104	2	0	314	3	234	337	3.86e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ceramium sp. CAM 414]
+NODE_104_length_316_cov_0.657005:1-316	218449	214	NODE_104_length_316_cov_0.657005:1-316	AAX09703.1	95.192	104	5	0	314	3	59	162	7.14e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ceramium kondoi]
+NODE_104_length_316_cov_0.657005:1-316	193184	221	NODE_104_length_316_cov_0.657005:1-316	AAY85765.1	97.115	104	3	0	314	3	280	383	8.23e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Seirospora interrupta]
+NODE_104_length_316_cov_0.657005:1-316	1960694	211	NODE_104_length_316_cov_0.657005:1-316	AQS80221.1	95.192	104	5	0	314	3	53	156	9.16e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Kallymenicola superficialis]
+# BLASTX 2.12.0+
+# Query: NODE_10_length_1167_cov_0.530246:39-1167
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_10_length_1167_cov_0.530246:39-1167	44575;1131553	713	NODE_10_length_1167_cov_0.530246:39-1167	SFP61084.1	98.873	355	4	0	1066	2	71	425	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Nitrosomonas cryotolerans]
+NODE_10_length_1167_cov_0.530246:39-1167	44575;1131553	713	NODE_10_length_1167_cov_0.530246:39-1167	WP_028461211.1	98.873	355	4	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas cryotolerans]
+NODE_10_length_1167_cov_0.530246:39-1167	42353	710	NODE_10_length_1167_cov_0.530246:39-1167	MBK6959611.1	98.310	355	6	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas sp.]
+NODE_10_length_1167_cov_0.530246:39-1167	42353	710	NODE_10_length_1167_cov_0.530246:39-1167	MBK9662550.1	98.310	355	6	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas sp.]
+NODE_10_length_1167_cov_0.530246:39-1167	42353	710	NODE_10_length_1167_cov_0.530246:39-1167	MBY0484429.1	98.310	355	6	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas sp.]
+NODE_10_length_1167_cov_0.530246:39-1167	42354	709	NODE_10_length_1167_cov_0.530246:39-1167	WP_090321392.1	98.028	355	7	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas oligotropha]
+NODE_10_length_1167_cov_0.530246:39-1167	42353;42354	709	NODE_10_length_1167_cov_0.530246:39-1167	WP_107803689.1	98.028	355	7	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas oligotropha]
+NODE_10_length_1167_cov_0.530246:39-1167	42353;1931235	709	NODE_10_length_1167_cov_0.530246:39-1167	MBX9917262.1	98.028	355	7	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas sp.]
+NODE_10_length_1167_cov_0.530246:39-1167	2026767	709	NODE_10_length_1167_cov_0.530246:39-1167	NBQ67661.1	98.028	355	7	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonadaceae bacterium]
+NODE_10_length_1167_cov_0.530246:39-1167	2116706	709	NODE_10_length_1167_cov_0.530246:39-1167	WP_106706488.1	98.028	355	7	0	1066	2	72	426	0.0	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonas sp. APG5]
+# BLASTX 2.12.0+
+# Query: NODE_113_length_310_cov_0.537313:48-310
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_113_length_310_cov_0.537313:48-310	86906	177	NODE_113_length_310_cov_0.537313:48-310	BAC56142.1	100.000	86	0	0	260	3	1	86	4.94e-56	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Sphaerotrichia divaricata]
+NODE_113_length_310_cov_0.537313:48-310	133512	177	NODE_113_length_310_cov_0.537313:48-310	AAN09893.1	100.000	86	0	0	260	3	25	110	1.71e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Punctaria tenuissima]
+NODE_113_length_310_cov_0.537313:48-310	133526	177	NODE_113_length_310_cov_0.537313:48-310	AAN09891.1	100.000	86	0	0	260	3	26	111	1.82e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Mikrosyphar zosterae]
+NODE_113_length_310_cov_0.537313:48-310	88149	176	NODE_113_length_310_cov_0.537313:48-310	ABA00832.1	98.837	86	1	0	260	3	1	86	2.74e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Saccharina japonica]
+NODE_113_length_310_cov_0.537313:48-310	88149	176	NODE_113_length_310_cov_0.537313:48-310	ABA00870.1	98.837	86	1	0	260	3	14	99	2.88e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Saccharina japonica]
+NODE_113_length_310_cov_0.537313:48-310	27967	177	NODE_113_length_310_cov_0.537313:48-310	AAN09890.1	100.000	86	0	0	260	3	36	121	2.95e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Scytosiphon lomentaria]
+NODE_113_length_310_cov_0.537313:48-310	309738	177	NODE_113_length_310_cov_0.537313:48-310	BAE97289.1	100.000	86	0	0	260	3	61	146	3.36e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Cladosiphon umezakii]
+NODE_113_length_310_cov_0.537313:48-310	88149	176	NODE_113_length_310_cov_0.537313:48-310	ABA00819.1	98.837	86	1	0	260	3	14	99	3.40e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Saccharina japonica]
+NODE_113_length_310_cov_0.537313:48-310	309737	177	NODE_113_length_310_cov_0.537313:48-310	BAE97282.1	100.000	86	0	0	260	3	61	146	3.58e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Cladosiphon okamuranus]
+NODE_113_length_310_cov_0.537313:48-310	309737;309738;309742	177	NODE_113_length_310_cov_0.537313:48-310	BAE97284.1	100.000	86	0	0	260	3	61	146	3.66e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Cladosiphon okamuranus]
+# BLASTX 2.12.0+
+# Query: NODE_11_length_891_cov_1.117647:1-746
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_11_length_891_cov_1.117647:1-746	2909216	467	NODE_11_length_891_cov_1.117647:1-746	UIR91053.1	95.565	248	11	0	745	2	1	248	1.41e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pterocladiella sp. 14]
+NODE_11_length_891_cov_1.117647:1-746	2909216	467	NODE_11_length_891_cov_1.117647:1-746	UIR91054.1	95.565	248	11	0	745	2	1	248	1.42e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pterocladiella sp. 14]
+NODE_11_length_891_cov_1.117647:1-746	216890;679013	466	NODE_11_length_891_cov_1.117647:1-746	ACX41916.1	95.968	248	10	0	745	2	1	248	3.56e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase largest subunit [Ceramium pacificum]
+NODE_11_length_891_cov_1.117647:1-746	679013	466	NODE_11_length_891_cov_1.117647:1-746	ACY79495.1	95.565	248	11	0	745	2	1	248	3.72e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Ceramium pacificum]
+NODE_11_length_891_cov_1.117647:1-746	31403	466	NODE_11_length_891_cov_1.117647:1-746	AAC36370.1	94.758	248	13	0	745	2	1	248	3.84e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gelidium pusillum]
+NODE_11_length_891_cov_1.117647:1-746	1911540	465	NODE_11_length_891_cov_1.117647:1-746	AOX24097.1	95.161	248	12	0	745	2	1	248	5.10e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gelidium crinale f. luxurians]
+NODE_11_length_891_cov_1.117647:1-746	447343	465	NODE_11_length_891_cov_1.117647:1-746	ADB90425.1	95.161	248	12	0	745	2	1	248	5.63e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Campylaephora californica]
+NODE_11_length_891_cov_1.117647:1-746	1911541	465	NODE_11_length_891_cov_1.117647:1-746	AOX24102.1	95.161	248	12	0	745	2	1	248	6.93e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pterocladiella media]
+NODE_11_length_891_cov_1.117647:1-746	2575623	465	NODE_11_length_891_cov_1.117647:1-746	QCI06676.1	94.758	248	13	0	745	2	1	248	7.08e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gayliella sp.]
+NODE_11_length_891_cov_1.117647:1-746	2699131	465	NODE_11_length_891_cov_1.117647:1-746	AOX24104.1	95.161	248	12	0	745	2	1	248	7.24e-161	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pterocladiella musciformis]
+# BLASTX 2.12.0+
+# Query: NODE_12_length_854_cov_0.683221:1-580
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_12_length_854_cov_0.683221:1-580	408196	394	NODE_12_length_854_cov_0.683221:1-580	AIO06038.1	95.833	192	8	0	2	577	75	266	2.56e-137	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Delisea hypneoides]
+NODE_12_length_854_cov_0.683221:1-580	29232	392	NODE_12_length_854_cov_0.683221:1-580	ABU55041.1	97.396	192	5	0	2	577	39	230	6.81e-137	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Mazzaella laminarioides]
+NODE_12_length_854_cov_0.683221:1-580	2492702	392	NODE_12_length_854_cov_0.683221:1-580	AIZ68127.1	94.792	192	10	0	2	577	75	266	1.71e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Corallinales sp. U_Twist-2019]
+NODE_12_length_854_cov_0.683221:1-580	466607	389	NODE_12_length_854_cov_0.683221:1-580	QAX33427.1	94.792	192	10	0	2	577	39	230	6.66e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Lithophyllum stictiforme]
+NODE_12_length_854_cov_0.683221:1-580	557418	389	NODE_12_length_854_cov_0.683221:1-580	AYL64476.1	95.833	192	8	0	2	577	39	230	7.04e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Grateloupia californica]
+NODE_12_length_854_cov_0.683221:1-580	190575;2152972	389	NODE_12_length_854_cov_0.683221:1-580	AVV61137.1	94.792	192	10	0	2	577	39	230	7.44e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphiroa cf. fragilissima 4 BNTS-2018]
+NODE_12_length_854_cov_0.683221:1-580	1277931	389	NODE_12_length_854_cov_0.683221:1-580	ALL96969.1	94.792	192	10	0	2	577	20	211	7.45e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Lithophyllum byssoides]
+NODE_12_length_854_cov_0.683221:1-580	1775947	389	NODE_12_length_854_cov_0.683221:1-580	QPI71693.1	95.833	192	8	0	2	577	46	237	8.65e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Yonagunia atimo-vatae]
+NODE_12_length_854_cov_0.683221:1-580	1089837	389	NODE_12_length_854_cov_0.683221:1-580	ATP01362.1	95.833	192	8	0	2	577	39	230	9.06e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ceratodictyon repens]
+NODE_12_length_854_cov_0.683221:1-580	2152972	389	NODE_12_length_854_cov_0.683221:1-580	AVV61123.1	94.792	192	10	0	2	577	41	232	9.62e-136	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphiroa cf. fragilissima 4 BNTS-2018]
+# BLASTX 2.12.0+
+# Query: NODE_131_length_295_cov_0.430108:1-295
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_131_length_295_cov_0.430108:1-295	165597;263511;423471;423474;555881;1284629	207	NODE_131_length_295_cov_0.430108:1-295	WP_007306215.1	96.907	97	3	0	3	293	247	343	7.68e-63	form I ribulose bisphosphate carboxylase large subunit [Crocosphaera watsonii]
+NODE_131_length_295_cov_0.430108:1-295	1503470;2692781	206	NODE_131_length_295_cov_0.430108:1-295	WP_192153647.1	94.845	97	5	0	3	293	252	348	2.19e-62	form I ribulose bisphosphate carboxylase large subunit [Chroococcidiopsis sp. FACHB-1243]
+NODE_131_length_295_cov_0.430108:1-295	54298;251229;388085;869949;1828829;2107689;2107697	206	NODE_131_length_295_cov_0.430108:1-295	WP_015157218.1	94.845	97	5	0	3	293	252	348	2.52e-62	MULTISPECIES: form I ribulose bisphosphate carboxylase large subunit [Chroococcidiopsis]
+NODE_131_length_295_cov_0.430108:1-295	1245923	206	NODE_131_length_295_cov_0.430108:1-295	NHC35564.1	94.845	97	5	0	3	293	252	348	3.86e-62	form I ribulose bisphosphate carboxylase large subunit [Scytonema millei VB511283]
+NODE_131_length_295_cov_0.430108:1-295	1616834;1921803	204	NODE_131_length_295_cov_0.430108:1-295	WP_073600935.1	93.814	97	6	0	3	293	247	343	1.56e-61	form I ribulose bisphosphate carboxylase large subunit [Hydrococcus rivularis]
+NODE_131_length_295_cov_0.430108:1-295	2562117	204	NODE_131_length_295_cov_0.430108:1-295	NJL83363.1	94.845	97	5	0	3	293	248	344	2.21e-61	form I ribulose bisphosphate carboxylase large subunit [Chloroflexaceae bacterium]
+NODE_131_length_295_cov_0.430108:1-295	1828827	203	NODE_131_length_295_cov_0.430108:1-295	MBE9169296.1	92.784	97	7	0	3	293	248	344	4.20e-61	form I ribulose bisphosphate carboxylase large subunit [Pleurocapsales cyanobacterium LEGE 06147]
+NODE_131_length_295_cov_0.430108:1-295	1049028	202	NODE_131_length_295_cov_0.430108:1-295	MBW4511145.1	92.784	97	7	0	3	293	252	348	6.28e-61	form I ribulose bisphosphate carboxylase large subunit [Scytonematopsis contorta HA4267-MV1]
+NODE_131_length_295_cov_0.430108:1-295	2821505	202	NODE_131_length_295_cov_0.430108:1-295	MBP0017826.1	100.000	97	0	0	3	293	246	342	6.44e-61	form I ribulose bisphosphate carboxylase large subunit [Cyanobacteria bacterium SBLK]
+NODE_131_length_295_cov_0.430108:1-295	1188228;1188229	202	NODE_131_length_295_cov_0.430108:1-295	WP_071453341.1	93.814	97	6	0	3	293	249	345	7.35e-61	form I ribulose bisphosphate carboxylase large subunit [Gloeomargarita lithophora]
+# BLASTX 2.12.0+
+# Query: NODE_13_length_810_cov_0.322397:42-773
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_13_length_810_cov_0.322397:42-773	2026767	506	NODE_13_length_810_cov_0.322397:42-773	MSQ05381.1	99.588	243	1	0	2	730	95	337	1.48e-177	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonadaceae bacterium]
+NODE_13_length_810_cov_0.322397:42-773	38080;2026767	506	NODE_13_length_810_cov_0.322397:42-773	MBI0407940.1	99.588	243	1	0	2	730	95	337	1.86e-177	form I ribulose bisphosphate carboxylase large subunit [Nitrosospira sp.]
+NODE_13_length_810_cov_0.322397:42-773	38080	506	NODE_13_length_810_cov_0.322397:42-773	MBA0921735.1	99.588	243	1	0	2	730	95	337	2.03e-177	form I ribulose bisphosphate carboxylase large subunit [Nitrosospira sp.]
+NODE_13_length_810_cov_0.322397:42-773	2026761	501	NODE_13_length_810_cov_0.322397:42-773	TFH09855.1	98.354	243	4	0	2	730	95	337	1.45e-175	form I ribulose bisphosphate carboxylase large subunit, partial [Nitrosomonadales bacterium]
+NODE_13_length_810_cov_0.322397:42-773	2026767	496	NODE_13_length_810_cov_0.322397:42-773	MBT3888154.1	96.708	243	8	0	2	730	95	337	2.75e-173	form I ribulose bisphosphate carboxylase large subunit [Nitrosomonadaceae bacterium]
+NODE_13_length_810_cov_0.322397:42-773	2026767	492	NODE_13_length_810_cov_0.322397:42-773	MBL79718.1	96.296	243	9	0	2	730	95	337	8.09e-172	ribulose-bisphosphate carboxylase large subunit [Nitrosomonadaceae bacterium]
+NODE_13_length_810_cov_0.322397:42-773	1231;35798;200119	491	NODE_13_length_810_cov_0.322397:42-773	WP_074632378.1	95.885	243	10	0	2	730	95	337	1.27e-171	MULTISPECIES: form I ribulose bisphosphate carboxylase large subunit [Nitrosospira]
+NODE_13_length_810_cov_0.322397:42-773	1891241	483	NODE_13_length_810_cov_0.322397:42-773	TDI80070.1	93.416	243	16	0	2	730	95	337	1.64e-168	form I ribulose bisphosphate carboxylase large subunit [Betaproteobacteria bacterium]
+NODE_13_length_810_cov_0.322397:42-773	1913989	477	NODE_13_length_810_cov_0.322397:42-773	RJQ46747.1	93.416	243	16	0	2	730	95	337	8.48e-166	form I ribulose bisphosphate carboxylase large subunit [Gammaproteobacteria bacterium]
+NODE_13_length_810_cov_0.322397:42-773	2268140	475	NODE_13_length_810_cov_0.322397:42-773	HEC84870.1	92.181	243	19	0	2	730	95	337	2.20e-165	form I ribulose bisphosphate carboxylase large subunit [Thioploca sp.]
+# BLASTX 2.12.0+
+# Query: NODE_164_length_270_cov_0.428571:3-266
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_164_length_270_cov_0.428571:3-266	1874558	178	NODE_164_length_270_cov_0.428571:3-266	AVY53687.1	96.552	87	3	0	3	263	1	87	4.42e-56	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Komarkovaea angustata EY1-AM2]
+NODE_164_length_270_cov_0.428571:3-266	1601959	176	NODE_164_length_270_cov_0.428571:3-266	AVY53714.1	95.402	87	4	0	3	263	2	88	1.86e-55	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Phormidesmis sp. WJT36-NPBG15]
+NODE_164_length_270_cov_0.428571:3-266	2607807	187	NODE_164_length_270_cov_0.428571:3-266	NER82157.1	94.253	87	5	0	3	263	385	471	2.56e-55	form I ribulose bisphosphate carboxylase large subunit [Leptolyngbya sp. SIO1D8]
+NODE_164_length_270_cov_0.428571:3-266	2720474	187	NODE_164_length_270_cov_0.428571:3-266	NJL49134.1	94.253	87	5	0	3	263	385	471	4.61e-55	form I ribulose bisphosphate carboxylase large subunit [Leptolyngbyaceae cyanobacterium SM2_5_2]
+NODE_164_length_270_cov_0.428571:3-266	2692859	186	NODE_164_length_270_cov_0.428571:3-266	WP_190480936.1	91.954	87	7	0	3	263	385	471	1.28e-54	form I ribulose bisphosphate carboxylase large subunit [Pseudanabaena sp. FACHB-2040]
+NODE_164_length_270_cov_0.428571:3-266	2768924	186	NODE_164_length_270_cov_0.428571:3-266	MBD0268112.1	91.954	87	7	0	3	263	385	471	1.35e-54	form I ribulose bisphosphate carboxylase large subunit [Cyanobacteria bacterium Co-bin8]
+NODE_164_length_270_cov_0.428571:3-266	1115757	186	NODE_164_length_270_cov_0.428571:3-266	WP_198807279.1	93.103	87	6	0	3	263	385	471	1.43e-54	form I ribulose bisphosphate carboxylase large subunit [Leptolyngbya sp. BL0902]
+NODE_164_length_270_cov_0.428571:3-266	2692848	186	NODE_164_length_270_cov_0.428571:3-266	WP_190492171.1	93.103	87	6	0	3	263	385	471	1.57e-54	form I ribulose bisphosphate carboxylase large subunit [Phormidium sp. FACHB-1136]
+NODE_164_length_270_cov_0.428571:3-266	2026799	176	NODE_164_length_270_cov_0.428571:3-266	MBC7969767.1	93.103	87	6	0	3	263	50	136	1.82e-54	ribulose-bisphosphate carboxylase large subunit [Verrucomicrobia bacterium]
+NODE_164_length_270_cov_0.428571:3-266	1117;2692811;2692849;2692851	186	NODE_164_length_270_cov_0.428571:3-266	WP_190628747.1	93.103	87	6	0	3	263	385	471	1.90e-54	MULTISPECIES: form I ribulose bisphosphate carboxylase large subunit [Cyanobacteria]
+# BLASTX 2.12.0+
+# Query: NODE_166_length_266_cov_1.878981:1-266
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_166_length_266_cov_1.878981:1-266	515488	195	NODE_166_length_266_cov_1.878981:1-266	BAL43106.1	100.000	87	0	0	3	263	317	403	2.86e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Tabularia laevis]
+NODE_166_length_266_cov_1.878981:1-266	1003039	196	NODE_166_length_266_cov_1.878981:1-266	AEB91231.1	97.701	87	2	0	3	263	329	415	3.19e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Ctenophora pulchella]
+NODE_166_length_266_cov_1.878981:1-266	1003135	196	NODE_166_length_266_cov_1.878981:1-266	AEB91208.1	97.701	87	2	0	3	263	329	415	3.55e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Fragilaria famelica]
+NODE_166_length_266_cov_1.878981:1-266	33645;463619	194	NODE_166_length_266_cov_1.878981:1-266	ABU62936.1	98.851	87	1	0	3	263	329	415	5.04e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Chaetoceros sp. ArM0005]
+NODE_166_length_266_cov_1.878981:1-266	432266	194	NODE_166_length_266_cov_1.878981:1-266	AHE78126.1	98.851	87	1	0	3	263	304	390	5.59e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Fragilaria rumpens]
+NODE_166_length_266_cov_1.878981:1-266	33645	194	NODE_166_length_266_cov_1.878981:1-266	ABB30149.1	98.851	87	1	0	3	263	329	415	6.11e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Grammonema striatula]
+NODE_166_length_266_cov_1.878981:1-266	33645	194	NODE_166_length_266_cov_1.878981:1-266	AIN50103.1	98.851	87	1	0	3	263	322	408	6.88e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Grammonema striatula]
+NODE_166_length_266_cov_1.878981:1-266	463621	193	NODE_166_length_266_cov_1.878981:1-266	ABU62944.1	98.851	87	1	0	3	263	315	401	7.79e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Fragilaria sp. HGC-2007-2]
+NODE_166_length_266_cov_1.878981:1-266	33645;463621	193	NODE_166_length_266_cov_1.878981:1-266	ABU62940.1	98.851	87	1	0	3	263	316	402	8.77e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Grammonema striatula]
+NODE_166_length_266_cov_1.878981:1-266	463621	193	NODE_166_length_266_cov_1.878981:1-266	ABU62945.1	98.851	87	1	0	3	263	316	402	9.15e-58	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Fragilaria sp. HGC-2007-2]
+# BLASTX 2.12.0+
+# Query: NODE_178_length_261_cov_1.394737:1-261
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_178_length_261_cov_1.394737:1-261	2878023	176	NODE_178_length_261_cov_1.394737:1-261	UBF44261.1	97.674	86	2	0	3	260	6	91	1.08e-54	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ulvophyceae sp. MADA18ALG605B]
+NODE_178_length_261_cov_1.394737:1-261	138173	180	NODE_178_length_261_cov_1.394737:1-261	AJM90130.1	94.186	86	5	0	3	260	151	236	2.88e-54	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Rhexinema planctonicum]
+NODE_178_length_261_cov_1.394737:1-261	121088	184	NODE_178_length_261_cov_1.394737:1-261	AAL71897.1	96.512	86	3	0	3	260	308	393	5.30e-54	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ostreobium quekettii]
+NODE_178_length_261_cov_1.394737:1-261	76317	179	NODE_178_length_261_cov_1.394737:1-261	AEN80042.1	93.023	86	6	0	3	260	154	239	5.38e-54	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Caulerpa racemosa]
+NODE_178_length_261_cov_1.394737:1-261	177068	178	NODE_178_length_261_cov_1.394737:1-261	UHZ13272.1	93.023	86	6	0	3	260	123	208	8.64e-54	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Caulerpa serrulata]
+NODE_178_length_261_cov_1.394737:1-261	589377	182	NODE_178_length_261_cov_1.394737:1-261	ACL80131.1	96.512	86	3	0	3	260	302	387	9.49e-54	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ostreobium sp. John West 2924]
+NODE_178_length_261_cov_1.394737:1-261	148951	179	NODE_178_length_261_cov_1.394737:1-261	AFD34326.1	93.023	86	6	0	3	260	159	244	1.02e-53	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Caulerpa scalpelliformis]
+NODE_178_length_261_cov_1.394737:1-261	148953	179	NODE_178_length_261_cov_1.394737:1-261	AFD34327.1	93.023	86	6	0	3	260	159	244	1.03e-53	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Caulerpa sertularioides f. longipes]
+NODE_178_length_261_cov_1.394737:1-261	1004386	180	NODE_178_length_261_cov_1.394737:1-261	CCA61759.1	93.023	86	6	0	3	260	221	306	1.06e-53	ribulose 1,5-bisphosphate carboxylase/oxygenase, partial [Caulerpa simpliciuscula]
+NODE_178_length_261_cov_1.394737:1-261	306440	181	NODE_178_length_261_cov_1.394737:1-261	AAW29434.1	94.186	86	5	0	3	260	268	353	1.07e-53	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Rosenvingiella radicans]
+# BLASTX 2.12.0+
+# Query: NODE_19_length_530_cov_0.254157:11-502
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_19_length_530_cov_0.254157:11-502	2268194	275	NODE_19_length_530_cov_0.254157:11-502	TPW13758.1	93.056	144	10	0	490	59	49	192	1.87e-91	Ribulose-1 5-bisphosphate carboxylase/oxygenase large subunit, partial [Halothiobacillaceae bacterium]
+NODE_19_length_530_cov_0.254157:11-502	77133	276	NODE_19_length_530_cov_0.254157:11-502	BAL46907.1	88.889	144	16	0	490	59	71	214	5.75e-91	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_19_length_530_cov_0.254157:11-502	319096	272	NODE_19_length_530_cov_0.254157:11-502	AAX48773.1	89.583	144	15	0	490	59	71	214	2.03e-89	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [endosymbiont of Bathymodiolus azoricus]
+NODE_19_length_530_cov_0.254157:11-502	220631	268	NODE_19_length_530_cov_0.254157:11-502	ACN71305.1	88.194	144	17	0	490	59	12	155	2.04e-89	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Bolbocoleon piliferum]
+NODE_19_length_530_cov_0.254157:11-502	713586	271	NODE_19_length_530_cov_0.254157:11-502	AAX10018.1	90.972	144	13	0	490	59	61	204	2.18e-89	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thioalkalivibrio thiocyanodenitrificans ARhD 1]
+NODE_19_length_530_cov_0.254157:11-502	63414	270	NODE_19_length_530_cov_0.254157:11-502	ADT81517.1	88.194	144	17	0	490	59	45	188	2.77e-89	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Blidingia minima]
+NODE_19_length_530_cov_0.254157:11-502	1904254	270	NODE_19_length_530_cov_0.254157:11-502	MBV1733054.1	89.583	144	15	0	490	59	17	160	4.25e-89	ribulose-bisphosphate carboxylase large subunit [Hydrogenophaga sp.]
+NODE_19_length_530_cov_0.254157:11-502	198431	271	NODE_19_length_530_cov_0.254157:11-502	BAO01142.1	88.889	144	16	0	490	59	71	214	4.77e-89	putative ribulose-1,5-bisphosphate carboxylase oxygenase form I, partial [uncultured prokaryote]
+NODE_19_length_530_cov_0.254157:11-502	206051	270	NODE_19_length_530_cov_0.254157:11-502	ADT81516.1	87.500	144	18	0	490	59	54	197	4.79e-89	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Blidingia marginata]
+NODE_19_length_530_cov_0.254157:11-502	1913989	269	NODE_19_length_530_cov_0.254157:11-502	MBU4519781.1	89.583	144	15	0	490	59	10	153	5.38e-89	ribulose-bisphosphate carboxylase large subunit [Gammaproteobacteria bacterium]
+# BLASTX 2.12.0+
+# Query: NODE_1_length_2304_cov_8.322551:403-1867
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_2304_cov_8.322551:403-1867	35170	1017	NODE_1_length_2304_cov_8.322551:403-1867	QJF58248.1	100.000	488	0	0	1464	1	1	488	0.0	ribulose bisphosphate carboxylase, large subunit [Corallina officinalis]
+NODE_1_length_2304_cov_8.322551:403-1867	35170	1017	NODE_1_length_2304_cov_8.322551:403-1867	QJF58446.1	100.000	488	0	0	1464	1	7	494	0.0	ribulose bisphosphate carboxylase, large subunit [Corallina officinalis]
+NODE_1_length_2304_cov_8.322551:403-1867	2547422;2582857	1011	NODE_1_length_2304_cov_8.322551:403-1867	YP_009589209.1	99.180	488	4	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Corallina ferreyrae]
+NODE_1_length_2304_cov_8.322551:403-1867	48942	1011	NODE_1_length_2304_cov_8.322551:403-1867	YP_007878294.1	98.975	488	5	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Calliarthron tuberculosum]
+NODE_1_length_2304_cov_8.322551:403-1867	2485825	994	NODE_1_length_2304_cov_8.322551:403-1867	YP_009541589.1	95.902	488	20	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Synarthrophyton chejuense]
+NODE_1_length_2304_cov_8.322551:403-1867	1141737	994	NODE_1_length_2304_cov_8.322551:403-1867	AIZ68106.1	99.167	480	4	0	1440	1	1	480	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Corallina caespitosa]
+NODE_1_length_2304_cov_8.322551:403-1867	78447	993	NODE_1_length_2304_cov_8.322551:403-1867	ABI52485.1	98.958	480	5	0	1440	1	1	480	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Corallina pilulifera]
+NODE_1_length_2304_cov_8.322551:403-1867	1141737	992	NODE_1_length_2304_cov_8.322551:403-1867	AIZ68109.1	99.165	479	4	0	1437	1	1	479	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Corallina caespitosa]
+NODE_1_length_2304_cov_8.322551:403-1867	1141737	992	NODE_1_length_2304_cov_8.322551:403-1867	AIZ68110.1	98.956	479	5	0	1437	1	1	479	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Corallina caespitosa]
+NODE_1_length_2304_cov_8.322551:403-1867	1141737	990	NODE_1_length_2304_cov_8.322551:403-1867	AIZ68111.1	98.747	479	6	0	1437	1	1	479	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Corallina caespitosa]
+# BLASTX 2.12.0+
+# Query: NODE_24_length_492_cov_1.477807:103-492
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_24_length_492_cov_1.477807:103-492	99899	233	NODE_24_length_492_cov_1.477807:103-492	AFI13516.1	98.450	129	2	0	3	389	2	130	9.51e-75	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Osmundea pinnatifida]
+NODE_24_length_492_cov_1.477807:103-492	99899	231	NODE_24_length_492_cov_1.477807:103-492	AFI13518.1	97.674	129	3	0	3	389	2	130	3.85e-74	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Osmundea pinnatifida]
+NODE_24_length_492_cov_1.477807:103-492	173545	236	NODE_24_length_492_cov_1.477807:103-492	YP_009394935.1	100.000	129	0	0	3	389	2	130	4.76e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia stricta]
+NODE_24_length_492_cov_1.477807:103-492	756425	235	NODE_24_length_492_cov_1.477807:103-492	ADI87203.1	100.000	129	0	0	3	389	2	130	6.44e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia sp. AC229]
+NODE_24_length_492_cov_1.477807:103-492	99899	228	NODE_24_length_492_cov_1.477807:103-492	AFI13514.1	96.899	129	4	0	3	389	2	130	6.96e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Osmundea pinnatifida]
+NODE_24_length_492_cov_1.477807:103-492	2007182	235	NODE_24_length_492_cov_1.477807:103-492	YP_009395146.1	100.000	129	0	0	3	389	2	130	7.02e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Bryothamnion seaforthii]
+NODE_24_length_492_cov_1.477807:103-492	1982705	235	NODE_24_length_492_cov_1.477807:103-492	ARW68274.1	99.225	129	1	0	3	389	2	130	1.16e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Chondria sp. (in: Rhodophyta)]
+NODE_24_length_492_cov_1.477807:103-492	448386	234	NODE_24_length_492_cov_1.477807:103-492	ABX80514.1	95.349	129	6	0	3	389	2	130	1.20e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Gracilariopsis chorda]
+NODE_24_length_492_cov_1.477807:103-492	121064	234	NODE_24_length_492_cov_1.477807:103-492	YP_009654344.1	99.225	129	1	0	3	389	2	130	1.38e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pleurostichidium falkenbergii]
+NODE_24_length_492_cov_1.477807:103-492	484370;486813	234	NODE_24_length_492_cov_1.477807:103-492	ABX80394.1	95.349	129	6	0	3	389	2	130	1.78e-72	ribulose-1,5-biphosphate carboxylase/oxygenase large subunit, partial [Gracilariopsis sp. mclachlanii]
+# BLASTX 2.12.0+
+# Query: NODE_25_length_488_cov_0.846966:2-488
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_25_length_488_cov_0.846966:2-488	202686	321	NODE_25_length_488_cov_0.846966:2-488	QCG81771.1	92.547	161	12	0	484	2	31	191	1.29e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Nemalionopsis shawii]
+NODE_25_length_488_cov_0.846966:2-488	2905141	329	NODE_25_length_488_cov_0.846966:2-488	BDD64973.1	95.031	161	8	0	484	2	180	340	1.31e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Colaconema codicola]
+NODE_25_length_488_cov_0.846966:2-488	261527	320	NODE_25_length_488_cov_0.846966:2-488	QCG81763.1	93.168	161	11	0	484	2	31	191	1.87e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thorea gaudichaudii]
+NODE_25_length_488_cov_0.846966:2-488	1653388	319	NODE_25_length_488_cov_0.846966:2-488	QVV95912.1	92.547	161	12	0	484	2	5	165	2.71e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Scinaia pseudojaponica]
+NODE_25_length_488_cov_0.846966:2-488	2839085	320	NODE_25_length_488_cov_0.846966:2-488	QVV95911.1	92.547	161	12	0	484	2	24	184	2.73e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Actinotrichia taiwanica]
+NODE_25_length_488_cov_0.846966:2-488	2877952	321	NODE_25_length_488_cov_0.846966:2-488	UBF44179.1	92.547	161	12	0	484	2	27	187	7.28e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Actinotrichia sp.]
+NODE_25_length_488_cov_0.846966:2-488	2877952	321	NODE_25_length_488_cov_0.846966:2-488	UBF44181.1	92.547	161	12	0	484	2	28	188	7.62e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Actinotrichia sp.]
+NODE_25_length_488_cov_0.846966:2-488	2877952	321	NODE_25_length_488_cov_0.846966:2-488	UBF44180.1	92.547	161	12	0	484	2	24	184	8.37e-109	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Actinotrichia sp.]
+NODE_25_length_488_cov_0.846966:2-488	202686	323	NODE_25_length_488_cov_0.846966:2-488	QCG81779.1	92.547	161	12	0	484	2	156	316	1.91e-108	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Nemalionopsis shawii]
+NODE_25_length_488_cov_0.846966:2-488	108285	322	NODE_25_length_488_cov_0.846966:2-488	AAF35275.1	93.168	161	11	0	484	2	103	263	1.92e-108	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Hildenbrandia angolensis]
+# BLASTX 2.12.0+
+# Query: NODE_2_length_2230_cov_25.195662:329-1793
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_2230_cov_25.195662:329-1793	48970	954	NODE_2_length_2230_cov_25.195662:329-1793	YP_009243888.1	95.082	488	24	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Sporolithon durum]
+NODE_2_length_2230_cov_25.195662:329-1793	42017	952	NODE_2_length_2230_cov_25.195662:329-1793	BBU37654.1	95.287	488	23	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gloiopeltis furcata]
+NODE_2_length_2230_cov_25.195662:329-1793	42017	952	NODE_2_length_2230_cov_25.195662:329-1793	BBU37657.1	95.082	488	24	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gloiopeltis furcata]
+NODE_2_length_2230_cov_25.195662:329-1793	42017	952	NODE_2_length_2230_cov_25.195662:329-1793	BBU37661.1	95.082	488	24	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gloiopeltis furcata]
+NODE_2_length_2230_cov_25.195662:329-1793	2777	952	NODE_2_length_2230_cov_25.195662:329-1793	YP_009510819.1	94.672	488	26	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gracilaria gracilis]
+NODE_2_length_2230_cov_25.195662:329-1793	172978	951	NODE_2_length_2230_cov_25.195662:329-1793	YP_009500306.1	94.467	488	27	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gracilariopsis heteroclada]
+NODE_2_length_2230_cov_25.195662:329-1793	142502	951	NODE_2_length_2230_cov_25.195662:329-1793	ADI87179.1	95.082	488	24	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Cryptosiphonia woodii]
+NODE_2_length_2230_cov_25.195662:329-1793	486813	951	NODE_2_length_2230_cov_25.195662:329-1793	YP_009511431.1	94.467	488	27	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gracilariopsis mclachlanii]
+NODE_2_length_2230_cov_25.195662:329-1793	48942	950	NODE_2_length_2230_cov_25.195662:329-1793	YP_007878294.1	94.877	488	25	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Calliarthron tuberculosum]
+NODE_2_length_2230_cov_25.195662:329-1793	706509;706511;706512;706514;706515	950	NODE_2_length_2230_cov_25.195662:329-1793	BBU37631.1	94.672	488	26	0	1464	1	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gloiopeltis sp. Ohata/2003]
+# BLASTX 2.12.0+
+# Query: NODE_33_length_425_cov_0.838608:1-259
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_33_length_425_cov_0.838608:1-259	67476	144	NODE_33_length_425_cov_0.838608:1-259	CAA9994964.1	98.837	86	1	0	258	1	1	86	4.53e-41	Ribulose bisphosphate carboxylase large chain, partial [Haslea ostrearia]
+NODE_33_length_425_cov_0.838608:1-259	2576609	148	NODE_33_length_425_cov_0.838608:1-259	QCO91642.1	98.837	86	1	0	258	1	4	89	1.84e-40	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Eunotia sp.]
+NODE_33_length_425_cov_0.838608:1-259	2576609	148	NODE_33_length_425_cov_0.838608:1-259	QCO91660.1	98.837	86	1	0	258	1	4	89	1.96e-40	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Eunotia sp.]
+NODE_33_length_425_cov_0.838608:1-259	2576609	148	NODE_33_length_425_cov_0.838608:1-259	QCO91636.1	98.837	86	1	0	258	1	1	86	2.36e-40	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Eunotia sp.]
+NODE_33_length_425_cov_0.838608:1-259	1151	142	NODE_33_length_425_cov_0.838608:1-259	TAF39740.1	98.837	86	1	0	258	1	1	86	2.67e-40	ribulose-bisphosphate carboxylase large subunit, partial [Oscillatoriales cyanobacterium]
+NODE_33_length_425_cov_0.838608:1-259	186039	141	NODE_33_length_425_cov_0.838608:1-259	CAA9995002.1	97.674	86	2	0	258	1	1	86	7.03e-40	Ribulose bisphosphate carboxylase large chain, partial [Fragilariopsis cylindrus]
+NODE_33_length_425_cov_0.838608:1-259	186039	141	NODE_33_length_425_cov_0.838608:1-259	CAA9995000.1	97.674	86	2	0	258	1	1	86	7.10e-40	Ribulose bisphosphate carboxylase large chain, partial [Fragilariopsis cylindrus]
+NODE_33_length_425_cov_0.838608:1-259	2705442	141	NODE_33_length_425_cov_0.838608:1-259	CAA9994981.1	97.674	86	2	0	258	1	1	86	7.50e-40	Ribulose bisphosphate carboxylase large chain, partial [Haslea vitrea]
+NODE_33_length_425_cov_0.838608:1-259	2600302	147	NODE_33_length_425_cov_0.838608:1-259	YP_009687920.1	100.000	86	0	0	258	1	1	86	8.65e-40	large subunit of Rubisco [Haslea nusantara]
+NODE_33_length_425_cov_0.838608:1-259	1181720	140	NODE_33_length_425_cov_0.838608:1-259	CAA9994993.1	97.674	86	2	0	258	1	1	86	1.06e-39	Ribulose bisphosphate carboxylase large chain, partial [Nitzschia frigida]
+# BLASTX 2.12.0+
+# Query: NODE_36_length_415_cov_1.058824:2-415
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_36_length_415_cov_1.058824:2-415	1354320	283	NODE_36_length_415_cov_1.058824:2-415	AGS11241.1	98.540	137	2	0	412	2	74	210	3.79e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ulva cf. rigida BW-2013 (clade E)]
+NODE_36_length_415_cov_1.058824:2-415	3117	283	NODE_36_length_415_cov_1.058824:2-415	ABP82342.1	98.540	137	2	0	412	2	74	210	3.95e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ulva prolifera]
+NODE_36_length_415_cov_1.058824:2-415	2316132	284	NODE_36_length_415_cov_1.058824:2-415	QPF20787.1	98.540	137	2	0	412	2	94	230	3.96e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Blidingia sp. 1 SSt-2018]
+NODE_36_length_415_cov_1.058824:2-415	2316132	284	NODE_36_length_415_cov_1.058824:2-415	QPF20786.1	98.540	137	2	0	412	2	93	229	4.04e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Blidingia sp. 1 SSt-2018]
+NODE_36_length_415_cov_1.058824:2-415	926285	285	NODE_36_length_415_cov_1.058824:2-415	AFB71060.1	97.810	137	3	0	412	2	16	152	4.99e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Nannochloris normandinae]
+NODE_36_length_415_cov_1.058824:2-415	2806530	283	NODE_36_length_415_cov_1.058824:2-415	QXN57822.1	98.540	137	2	0	412	2	71	207	5.55e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ulva lacinulata]
+NODE_36_length_415_cov_1.058824:2-415	206051;2316132	283	NODE_36_length_415_cov_1.058824:2-415	QPF20781.1	98.540	137	2	0	412	2	95	231	5.69e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Blidingia marginata]
+NODE_36_length_415_cov_1.058824:2-415	63410	283	NODE_36_length_415_cov_1.058824:2-415	QDB64554.1	98.540	137	2	0	412	2	93	229	5.94e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ulva lactuca]
+NODE_36_length_415_cov_1.058824:2-415	206051	283	NODE_36_length_415_cov_1.058824:2-415	QPF20782.1	98.540	137	2	0	412	2	96	232	6.49e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Blidingia marginata]
+NODE_36_length_415_cov_1.058824:2-415	429913	283	NODE_36_length_415_cov_1.058824:2-415	ABP82220.1	98.540	137	2	0	412	2	68	204	6.69e-95	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ulva sp. WELT A027505]
+# BLASTX 2.12.0+
+# Query: NODE_3_length_2118_cov_40.722250:313-1779
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_3_length_2118_cov_40.722250:313-1779	35163	983	NODE_3_length_2118_cov_40.722250:313-1779	YP_009394101.1	99.795	488	1	0	1466	3	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Rhodomela confervoides]
+NODE_3_length_2118_cov_40.722250:313-1779	35163	969	NODE_3_length_2118_cov_40.722250:313-1779	AQM57656.1	99.792	481	1	0	1445	3	1	481	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Rhodomela confervoides]
+NODE_3_length_2118_cov_40.722250:313-1779	159598	961	NODE_3_length_2118_cov_40.722250:313-1779	ADI87187.1	96.721	488	16	0	1466	3	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Neorhodomela larix]
+NODE_3_length_2118_cov_40.722250:313-1779	756387	958	NODE_3_length_2118_cov_40.722250:313-1779	ADI87190.1	96.516	488	17	0	1466	3	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Neorhodomela oregona]
+NODE_3_length_2118_cov_40.722250:313-1779	282367	958	NODE_3_length_2118_cov_40.722250:313-1779	ADI87195.1	96.107	488	19	0	1466	3	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Odonthalia washingtoniensis]
+NODE_3_length_2118_cov_40.722250:313-1779	282366;756388	956	NODE_3_length_2118_cov_40.722250:313-1779	ADB90468.1	95.902	488	20	0	1466	3	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Odonthalia floccosa]
+NODE_3_length_2118_cov_40.722250:313-1779	1261572	956	NODE_3_length_2118_cov_40.722250:313-1779	AFY11971.1	95.902	488	20	0	1466	3	1	488	0.0	ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit [Odonthalia corymbifera]
+NODE_3_length_2118_cov_40.722250:313-1779	524167	954	NODE_3_length_2118_cov_40.722250:313-1779	AFY11974.1	95.902	488	20	0	1466	3	1	488	0.0	ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia atlantica]
+NODE_3_length_2118_cov_40.722250:313-1779	173545	954	NODE_3_length_2118_cov_40.722250:313-1779	YP_009394935.1	95.697	488	21	0	1466	3	1	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia stricta]
+NODE_3_length_2118_cov_40.722250:313-1779	756386	954	NODE_3_length_2118_cov_40.722250:313-1779	ADI87186.1	96.701	485	16	0	1457	3	1	485	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Neorhodomela aculeata]
+# BLASTX 2.12.0+
+# Query: NODE_44_length_406_cov_0.818182:1-406
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_44_length_406_cov_0.818182:1-406	753677	276	NODE_44_length_406_cov_0.818182:1-406	AEP20672.1	100.000	134	0	0	403	2	15	148	1.27e-89	ribulose bisphosphate carboxylase, partial [Porphyropsis coccinea]
+NODE_44_length_406_cov_0.818182:1-406	362236	269	NODE_44_length_406_cov_0.818182:1-406	AEP20614.1	96.269	134	5	0	403	2	50	183	8.61e-89	ribulose bisphosphate carboxylase, partial [Erythrocladia irregularis]
+NODE_44_length_406_cov_0.818182:1-406	753677	276	NODE_44_length_406_cov_0.818182:1-406	QUE28916.1	100.000	134	0	0	403	2	77	210	9.99e-89	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Porphyropsis coccinea]
+NODE_44_length_406_cov_0.818182:1-406	753680	271	NODE_44_length_406_cov_0.818182:1-406	AEP20666.1	94.030	134	8	0	403	2	20	153	7.57e-88	ribulose bisphosphate carboxylase, partial [Porphyrostromium boryanum]
+NODE_44_length_406_cov_0.818182:1-406	753677	271	NODE_44_length_406_cov_0.818182:1-406	AEP20673.1	97.761	134	3	0	403	2	50	183	4.01e-87	ribulose bisphosphate carboxylase, partial [Porphyropsis coccinea]
+NODE_44_length_406_cov_0.818182:1-406	362236	270	NODE_44_length_406_cov_0.818182:1-406	AEP20613.1	96.269	134	5	0	403	2	19	152	4.24e-87	ribulose bisphosphate carboxylase, partial [Erythrocladia irregularis]
+NODE_44_length_406_cov_0.818182:1-406	468936	264	NODE_44_length_406_cov_0.818182:1-406	AEP20629.1	93.284	134	9	0	403	2	11	144	4.66e-87	ribulose bisphosphate carboxylase, partial [Sahlingia subintegra]
+NODE_44_length_406_cov_0.818182:1-406	468936	268	NODE_44_length_406_cov_0.818182:1-406	AEP20624.1	95.522	134	6	0	403	2	27	160	1.38e-86	ribulose bisphosphate carboxylase, partial [Sahlingia subintegra]
+NODE_44_length_406_cov_0.818182:1-406	753682	269	NODE_44_length_406_cov_0.818182:1-406	AEP20608.1	96.269	134	5	0	403	2	47	180	1.74e-86	ribulose bisphosphate carboxylase, partial [Pseudoerythrocladia kornmannii]
+NODE_44_length_406_cov_0.818182:1-406	2801	268	NODE_44_length_406_cov_0.818182:1-406	AAM62084.1	95.522	134	6	0	403	2	6	139	1.91e-86	ribulose-1,5-bisphosphate carboxylase/oxygenase, partial [Rhodella violacea]
+# BLASTX 2.12.0+
+# Query: NODE_4_length_1984_cov_6.131200:305-1759
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4_length_1984_cov_6.131200:305-1759	2506492	975	NODE_4_length_1984_cov_6.131200:305-1759	QCI05772.1	100.000	484	0	0	3	1454	7	490	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Dasysiphonia japonica]
+NODE_4_length_1984_cov_6.131200:305-1759	2007180	965	NODE_4_length_1984_cov_6.131200:305-1759	YP_009395967.1	98.347	484	8	0	3	1454	7	490	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Dasya naccarioides]
+NODE_4_length_1984_cov_6.131200:305-1759	158729	952	NODE_4_length_1984_cov_6.131200:305-1759	QCI07582.1	96.901	484	15	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Nitophyllum punctatum]
+NODE_4_length_1984_cov_6.131200:305-1759	31383	950	NODE_4_length_1984_cov_6.131200:305-1759	QCI08472.1	96.488	484	17	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Spermothamnion repens]
+NODE_4_length_1984_cov_6.131200:305-1759	1310127	950	NODE_4_length_1984_cov_6.131200:305-1759	AGI41258.1	96.488	484	17	0	3	1454	1	484	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Gulsonia nodulosa]
+NODE_4_length_1984_cov_6.131200:305-1759	2873518	947	NODE_4_length_1984_cov_6.131200:305-1759	YP_010198377.1	95.868	484	20	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gracilaria pachydermatica]
+NODE_4_length_1984_cov_6.131200:305-1759	1638138	947	NODE_4_length_1984_cov_6.131200:305-1759	YP_010197560.1	96.074	484	19	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gracilaria flabelliformis subsp. simplex]
+NODE_4_length_1984_cov_6.131200:305-1759	2608611	947	NODE_4_length_1984_cov_6.131200:305-1759	ADI87198.1	95.868	484	20	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Leptosiphonia brodiei]
+NODE_4_length_1984_cov_6.131200:305-1759	172949	947	NODE_4_length_1984_cov_6.131200:305-1759	YP_009732420.1	95.868	484	20	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Gracilaria textorii]
+NODE_4_length_1984_cov_6.131200:305-1759	756398	947	NODE_4_length_1984_cov_6.131200:305-1759	ADI87210.1	96.074	484	19	0	3	1454	5	488	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Ptilothamnionopsis lejolisea]
+# BLASTX 2.12.0+
+# Query: NODE_51_length_385_cov_0.684783:10-283
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_51_length_385_cov_0.684783:10-283	1085968	182	NODE_51_length_385_cov_0.684783:10-283	AFI43873.1	96.667	90	3	0	271	2	14	103	1.67e-57	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Hemichloris antarctica]
+NODE_51_length_385_cov_0.684783:10-283	1898112	182	NODE_51_length_385_cov_0.684783:10-283	MAR89231.1	97.753	89	2	0	271	5	22	110	2.88e-57	ribulose-bisphosphate carboxylase large subunit [Rhodospirillaceae bacterium]
+NODE_51_length_385_cov_0.684783:10-283	631447	181	NODE_51_length_385_cov_0.684783:10-283	AFI43888.1	95.556	90	4	0	271	2	6	95	3.26e-57	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Elliptochloris marina]
+NODE_51_length_385_cov_0.684783:10-283	631447	181	NODE_51_length_385_cov_0.684783:10-283	AFI43894.1	95.556	90	4	0	271	2	23	112	3.32e-57	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Elliptochloris marina]
+NODE_51_length_385_cov_0.684783:10-283	55403	180	NODE_51_length_385_cov_0.684783:10-283	AFI43887.1	94.444	90	5	0	271	2	2	91	7.17e-57	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Elliptochloris subsphaerica]
+NODE_51_length_385_cov_0.684783:10-283	631446	180	NODE_51_length_385_cov_0.684783:10-283	AFI43897.1	95.556	90	4	0	271	2	24	113	9.63e-57	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Elliptochloris perforata]
+NODE_51_length_385_cov_0.684783:10-283	381761	184	NODE_51_length_385_cov_0.684783:10-283	AFI43898.1	95.556	90	4	0	271	2	140	229	1.21e-56	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Elliptochloris bilobata]
+NODE_51_length_385_cov_0.684783:10-283	2563809	184	NODE_51_length_385_cov_0.684783:10-283	BBJ34519.1	94.444	90	5	0	271	2	133	222	1.52e-56	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Monoraphidium sp. NIES-4288]
+NODE_51_length_385_cov_0.684783:10-283	464287	185	NODE_51_length_385_cov_0.684783:10-283	AFI43886.1	95.556	90	4	0	271	2	176	265	1.55e-56	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Pseudococcomyxa simplex]
+NODE_51_length_385_cov_0.684783:10-283	631445	180	NODE_51_length_385_cov_0.684783:10-283	AFI43896.1	94.444	90	5	0	271	2	23	112	1.72e-56	ribulose 1,5 bisphosphate carboxylase oxygenase, partial [Elliptochloris sp. SAG 2117]
+# BLASTX 2.12.0+
+# Query: NODE_52_length_384_cov_1.570909:1-343
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_52_length_384_cov_1.570909:1-343	174926	231	NODE_52_length_384_cov_1.570909:1-343	AAL27387.1	98.246	114	2	0	342	1	23	136	2.88e-74	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit CbbL, partial [Nitrosospira sp. AF]
+NODE_52_length_384_cov_1.570909:1-343	174929	231	NODE_52_length_384_cov_1.570909:1-343	AAL27391.1	98.246	114	2	0	342	1	34	147	3.15e-74	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit CbbL, partial [Nitrosospira sp. A4]
+NODE_52_length_384_cov_1.570909:1-343	77133	228	NODE_52_length_384_cov_1.570909:1-343	AGN31114.1	97.368	114	3	0	342	1	38	151	6.57e-74	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_52_length_384_cov_1.570909:1-343	1871071	231	NODE_52_length_384_cov_1.570909:1-343	RYF35471.1	98.246	114	2	0	342	1	104	217	6.94e-74	ribulose-bisphosphate carboxylase large subunit, partial [Comamonadaceae bacterium]
+NODE_52_length_384_cov_1.570909:1-343	174927	229	NODE_52_length_384_cov_1.570909:1-343	AAL27388.1	97.368	114	3	0	342	1	13	126	7.77e-74	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit CbbL, partial [Nitrosospira sp. III2]
+NODE_52_length_384_cov_1.570909:1-343	77133	229	NODE_52_length_384_cov_1.570909:1-343	QCC21051.1	97.368	114	3	0	342	1	20	133	1.36e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [uncultured bacterium]
+NODE_52_length_384_cov_1.570909:1-343	1871043	230	NODE_52_length_384_cov_1.570909:1-343	RZI97481.1	98.246	114	2	0	342	1	104	217	1.97e-73	ribulose-bisphosphate carboxylase large subunit, partial [Variovorax sp.]
+NODE_52_length_384_cov_1.570909:1-343	42353	236	NODE_52_length_384_cov_1.570909:1-343	MBY0473490.1	99.123	114	1	0	342	1	98	211	2.24e-73	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas sp.]
+NODE_52_length_384_cov_1.570909:1-343	1891238	229	NODE_52_length_384_cov_1.570909:1-343	MBE0623009.1	97.368	114	3	0	342	1	98	211	2.27e-73	ribulose-bisphosphate carboxylase large subunit [Burkholderiales bacterium]
+NODE_52_length_384_cov_1.570909:1-343	917	236	NODE_52_length_384_cov_1.570909:1-343	WP_090630318.1	99.123	114	1	0	342	1	103	216	2.43e-73	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas marina]
+# BLASTX 2.12.0+
+# Query: NODE_5_length_1867_cov_1.449374:163-1518
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5_length_1867_cov_1.449374:163-1518	362236	905	NODE_5_length_1867_cov_1.449374:163-1518	QUE30036.1	95.565	451	20	0	1	1353	28	478	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Erythrocladia irregularis]
+NODE_5_length_1867_cov_1.449374:163-1518	362236	903	NODE_5_length_1867_cov_1.449374:163-1518	AEP20615.1	95.565	451	20	0	1	1353	1	451	0.0	ribulose bisphosphate carboxylase, partial [Erythrocladia irregularis]
+NODE_5_length_1867_cov_1.449374:163-1518	362236	899	NODE_5_length_1867_cov_1.449374:163-1518	AEP20611.1	95.122	451	22	0	1	1353	1	451	0.0	ribulose bisphosphate carboxylase, partial [Erythrocladia irregularis]
+NODE_5_length_1867_cov_1.449374:163-1518	362236	886	NODE_5_length_1867_cov_1.449374:163-1518	AEP20612.1	93.792	451	28	0	1	1353	1	451	0.0	ribulose bisphosphate carboxylase, partial [Erythrocladia irregularis]
+NODE_5_length_1867_cov_1.449374:163-1518	753677	880	NODE_5_length_1867_cov_1.449374:163-1518	QUE28916.1	93.126	451	31	0	1	1353	28	478	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Porphyropsis coccinea]
+NODE_5_length_1867_cov_1.449374:163-1518	753682	879	NODE_5_length_1867_cov_1.449374:163-1518	QUE28309.1	92.905	451	32	0	1	1353	28	478	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Pseudoerythrocladia kornmannii]
+NODE_5_length_1867_cov_1.449374:163-1518	1076276	877	NODE_5_length_1867_cov_1.449374:163-1518	AEP20642.1	90.909	451	41	0	1	1353	1	451	0.0	ribulose bisphosphate carboxylase, partial [Erythrotrichia sp. GCZ-2011]
+NODE_5_length_1867_cov_1.449374:163-1518	753678	876	NODE_5_length_1867_cov_1.449374:163-1518	QUE29554.1	90.687	451	42	0	1	1353	28	478	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Erythrotrichia foliiformis]
+NODE_5_length_1867_cov_1.449374:163-1518	753684	876	NODE_5_length_1867_cov_1.449374:163-1518	QUE29064.1	91.353	451	39	0	1	1353	28	478	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Madagascaria erythrocladioides]
+NODE_5_length_1867_cov_1.449374:163-1518	110510	875	NODE_5_length_1867_cov_1.449374:163-1518	ARO91342.1	91.131	451	40	0	1	1353	28	478	0.0	ribulose-1 5-bisphosphate carboxylase/oxygenase large subunit [Rhodochaete parvula]
+# BLASTX 2.12.0+
+# Query: NODE_63_length_367_cov_0.418605:45-359
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_63_length_367_cov_0.418605:45-359	544549	216	NODE_63_length_367_cov_0.418605:45-359	AHN94180.1	100.000	104	0	0	313	2	25	128	9.50e-70	ribulose-1,5-bisphosphate carboylase/oxygenase large subunit, partial [uncultured marine phototrophic eukaryote]
+NODE_63_length_367_cov_0.418605:45-359	198431	214	NODE_63_length_367_cov_0.418605:45-359	CBN08516.1	97.115	104	3	0	313	2	10	113	1.83e-69	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [uncultured prokaryote]
+NODE_63_length_367_cov_0.418605:45-359	77133	216	NODE_63_length_367_cov_0.418605:45-359	AAZ76719.1	99.038	104	1	0	313	2	26	129	5.47e-69	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [uncultured bacterium]
+NODE_63_length_367_cov_0.418605:45-359	544549	214	NODE_63_length_367_cov_0.418605:45-359	AHN93981.1	97.115	104	3	0	313	2	25	128	7.46e-69	ribulose-1,5-bisphosphate carboylase/oxygenase large subunit, partial [uncultured marine phototrophic eukaryote]
+NODE_63_length_367_cov_0.418605:45-359	544549	214	NODE_63_length_367_cov_0.418605:45-359	AHN93857.1	99.038	104	1	0	313	2	25	128	8.70e-69	ribulose-1,5-bisphosphate carboylase/oxygenase large subunit, partial [uncultured marine phototrophic eukaryote]
+NODE_63_length_367_cov_0.418605:45-359	544549	213	NODE_63_length_367_cov_0.418605:45-359	AHN94182.1	97.115	104	3	0	313	2	25	128	1.61e-68	ribulose-1,5-bisphosphate carboylase/oxygenase large subunit, partial [uncultured marine phototrophic eukaryote]
+NODE_63_length_367_cov_0.418605:45-359	198431	211	NODE_63_length_367_cov_0.418605:45-359	CBN08519.1	96.154	104	4	0	313	2	16	119	1.96e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [uncultured prokaryote]
+NODE_63_length_367_cov_0.418605:45-359	198431	216	NODE_63_length_367_cov_0.418605:45-359	BAO01142.1	99.038	104	1	0	313	2	39	142	2.07e-68	putative ribulose-1,5-bisphosphate carboxylase oxygenase form I, partial [uncultured prokaryote]
+NODE_63_length_367_cov_0.418605:45-359	198431	214	NODE_63_length_367_cov_0.418605:45-359	CBN08514.1	97.115	104	3	0	313	2	19	122	2.08e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [uncultured prokaryote]
+NODE_63_length_367_cov_0.418605:45-359	198431	211	NODE_63_length_367_cov_0.418605:45-359	CBN08521.1	96.154	104	4	0	313	2	8	111	2.67e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial [uncultured prokaryote]
+# BLASTX 2.12.0+
+# Query: NODE_6_length_1794_cov_2.001780:329-1714
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_1794_cov_2.001780:329-1714	205396	914	NODE_6_length_1794_cov_2.001780:329-1714	YP_009538394.1	98.482	461	7	0	1385	3	13	473	0.0	large subunit of Rubisco [Capsosiphon fulvescens]
+NODE_6_length_1794_cov_2.001780:329-1714	1562155	897	NODE_6_length_1794_cov_2.001780:329-1714	AIT93507.1	95.228	461	22	0	1385	3	13	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Prasiolopsis sp. SAG 84.81]
+NODE_6_length_1794_cov_2.001780:329-1714	173492	897	NODE_6_length_1794_cov_2.001780:329-1714	AKZ21127.1	94.577	461	25	0	1385	3	13	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Prasiola crispa]
+NODE_6_length_1794_cov_2.001780:329-1714	1811139	895	NODE_6_length_1794_cov_2.001780:329-1714	ANT73696.1	96.095	461	18	0	1385	3	23	483	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Kraftionema allantoideum]
+NODE_6_length_1794_cov_2.001780:329-1714	3083	892	NODE_6_length_1794_cov_2.001780:329-1714	YP_009105150.1	94.360	461	26	0	1385	3	13	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Edaphochlorella mirabilis]
+NODE_6_length_1794_cov_2.001780:329-1714	160070	890	NODE_6_length_1794_cov_2.001780:329-1714	AAV80617.1	95.662	461	20	0	1385	3	23	483	0.0	large subunit of Rubisco [Tupiella akineta]
+NODE_6_length_1794_cov_2.001780:329-1714	1635138	889	NODE_6_length_1794_cov_2.001780:329-1714	AKA60071.1	94.360	461	26	0	1385	3	13	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Picomonas sp. DN1]
+NODE_6_length_1794_cov_2.001780:329-1714	574566	889	NODE_6_length_1794_cov_2.001780:329-1714	YP_004222051.1	94.577	461	25	0	1385	3	13	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Coccomyxa subellipsoidea C-169]
+NODE_6_length_1794_cov_2.001780:329-1714	160070	888	NODE_6_length_1794_cov_2.001780:329-1714	YP_636193.2	95.662	461	20	0	1385	3	13	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Tupiella akineta]
+NODE_6_length_1794_cov_2.001780:329-1714	141643	888	NODE_6_length_1794_cov_2.001780:329-1714	YP_009367424.1	95.445	461	21	0	1385	3	22	482	0.0	large subunit of Rubisco [Sarcinofilum mucosum]
+# BLASTX 2.12.0+
+# Query: NODE_7_length_1697_cov_0.995592:112-1531
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_7_length_1697_cov_0.995592:112-1531	42353	925	NODE_7_length_1697_cov_0.995592:112-1531	GJL71340.1	96.186	472	18	0	1418	3	12	483	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Nitrosomonas sp.]
+NODE_7_length_1697_cov_0.995592:112-1531	1913989	923	NODE_7_length_1697_cov_0.995592:112-1531	QOJ22808.1	95.763	472	20	0	1418	3	12	483	0.0	ribulose-bisphosphate carboxylase large subunit [Gammaproteobacteria bacterium]
+NODE_7_length_1697_cov_0.995592:112-1531	44577	922	NODE_7_length_1697_cov_0.995592:112-1531	SEP78766.1	95.551	472	21	0	1418	3	12	483	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Nitrosomonas ureae]
+NODE_7_length_1697_cov_0.995592:112-1531	44577	922	NODE_7_length_1697_cov_0.995592:112-1531	WP_218142457.1	95.551	472	21	0	1418	3	7	478	0.0	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas ureae]
+NODE_7_length_1697_cov_0.995592:112-1531	2116706	922	NODE_7_length_1697_cov_0.995592:112-1531	PSJ16617.1	95.339	472	22	0	1418	3	24	495	0.0	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas sp. APG5]
+NODE_7_length_1697_cov_0.995592:112-1531	42353	921	NODE_7_length_1697_cov_0.995592:112-1531	MBY0483559.1	95.763	472	20	0	1418	3	7	478	0.0	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas sp.]
+NODE_7_length_1697_cov_0.995592:112-1531	44577	921	NODE_7_length_1697_cov_0.995592:112-1531	SEF46179.1	95.339	472	22	0	1418	3	12	483	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Nitrosomonas ureae]
+NODE_7_length_1697_cov_0.995592:112-1531	51642	921	NODE_7_length_1697_cov_0.995592:112-1531	WP_090287130.1	95.339	472	22	0	1418	3	12	483	0.0	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas mobilis]
+NODE_7_length_1697_cov_0.995592:112-1531	44577	920	NODE_7_length_1697_cov_0.995592:112-1531	WP_219817905.1	95.339	472	22	0	1418	3	7	478	0.0	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas ureae]
+NODE_7_length_1697_cov_0.995592:112-1531	2116706	920	NODE_7_length_1697_cov_0.995592:112-1531	WP_197714635.1	95.339	472	22	0	1418	3	7	478	0.0	ribulose-bisphosphate carboxylase large subunit [Nitrosomonas sp. APG5]
+# BLASTX 2.12.0+
+# Query: NODE_87_length_335_cov_1.185841:1-335
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_87_length_335_cov_1.185841:1-335	2661555	231	NODE_87_length_335_cov_1.185841:1-335	QCP68825.1	97.297	111	3	0	1	333	154	264	3.87e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Chorda borealis]
+NODE_87_length_335_cov_1.185841:1-335	2748384	231	NODE_87_length_335_cov_1.185841:1-335	BBN45220.1	99.099	111	1	0	1	333	169	279	5.15e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ecklonia cava subsp. stolonifera]
+NODE_87_length_335_cov_1.185841:1-335	2889;441892;2512176	228	NODE_87_length_335_cov_1.185841:1-335	QCP68815.1	95.495	111	5	0	1	333	60	170	6.24e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Alaria sp. _1Arc]
+NODE_87_length_335_cov_1.185841:1-335	6395	231	NODE_87_length_335_cov_1.185841:1-335	BBN45224.1	98.198	111	2	0	1	333	169	279	7.78e-73	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Eisenia bicyclis]
+NODE_87_length_335_cov_1.185841:1-335	309355	229	NODE_87_length_335_cov_1.185841:1-335	AYI92126.1	97.297	111	3	0	1	333	142	252	1.08e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ecklonia radiata]
+NODE_87_length_335_cov_1.185841:1-335	2511145	226	NODE_87_length_335_cov_1.185841:1-335	QAY81902.1	93.694	111	7	0	1	333	60	170	1.63e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ralfsia tenebris]
+NODE_87_length_335_cov_1.185841:1-335	74381	231	NODE_87_length_335_cov_1.185841:1-335	ACV89596.1	97.297	111	3	0	1	333	153	263	1.67e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Undaria pinnatifida]
+NODE_87_length_335_cov_1.185841:1-335	2754513	226	NODE_87_length_335_cov_1.185841:1-335	QLI53855.1	94.595	111	6	0	1	333	60	170	1.67e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pseudoralfsia verrucosa]
+NODE_87_length_335_cov_1.185841:1-335	169782	229	NODE_87_length_335_cov_1.185841:1-335	AIU40975.1	96.396	111	4	0	1	333	148	258	1.68e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pterygophora californica]
+NODE_87_length_335_cov_1.185841:1-335	309355	231	NODE_87_length_335_cov_1.185841:1-335	ACV89590.1	98.198	111	2	0	1	333	153	263	2.44e-72	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Ecklonia radiata]
+# BLASTX 2.12.0+
+# Query: NODE_8_length_1505_cov_1.070917:102-1505
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_8_length_1505_cov_1.070917:102-1505	173545	914	NODE_8_length_1505_cov_1.070917:102-1505	YP_009394935.1	95.717	467	20	0	1403	3	21	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia stricta]
+NODE_8_length_1505_cov_1.070917:102-1505	173544	909	NODE_8_length_1505_cov_1.070917:102-1505	ADI87199.1	95.075	467	23	0	1403	3	21	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia pacifica]
+NODE_8_length_1505_cov_1.070917:102-1505	756425	909	NODE_8_length_1505_cov_1.070917:102-1505	ADI87203.1	94.861	467	24	0	1403	3	21	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia sp. AC229]
+NODE_8_length_1505_cov_1.070917:102-1505	756389	909	NODE_8_length_1505_cov_1.070917:102-1505	ADI87200.1	94.861	467	24	0	1403	3	21	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia pacifica var. delicatula]
+NODE_8_length_1505_cov_1.070917:102-1505	257860	909	NODE_8_length_1505_cov_1.070917:102-1505	YP_009396377.1	94.861	467	24	0	1403	3	21	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Polysiphonia scopulorum]
+NODE_8_length_1505_cov_1.070917:102-1505	173545	908	NODE_8_length_1505_cov_1.070917:102-1505	AAX55901.1	95.699	465	20	0	1397	3	1	465	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Polysiphonia stricta]
+NODE_8_length_1505_cov_1.070917:102-1505	1967842	908	NODE_8_length_1505_cov_1.070917:102-1505	ARX63953.1	94.647	467	25	0	1403	3	2	468	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Polysiphonia sp.]
+NODE_8_length_1505_cov_1.070917:102-1505	2006976	908	NODE_8_length_1505_cov_1.070917:102-1505	YP_009398227.1	95.075	467	23	0	1403	3	21	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Thaumatella adunca]
+NODE_8_length_1505_cov_1.070917:102-1505	257860	907	NODE_8_length_1505_cov_1.070917:102-1505	QMT28436.1	94.861	467	24	0	1403	3	17	483	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Polysiphonia scopulorum]
+NODE_8_length_1505_cov_1.070917:102-1505	173545	907	NODE_8_length_1505_cov_1.070917:102-1505	AAX55904.1	95.484	465	21	0	1397	3	1	465	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Polysiphonia stricta]
+# BLASTX 2.12.0+
+# Query: NODE_91_length_329_cov_1.222727:1-329
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_91_length_329_cov_1.222727:1-329	268570	218	NODE_91_length_329_cov_1.222727:1-329	QVV95841.1	97.248	109	3	0	1	327	5	113	9.26e-71	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Galaxaura rugosa]
+NODE_91_length_329_cov_1.222727:1-329	101922	219	NODE_91_length_329_cov_1.222727:1-329	AOT35725.1	99.083	109	1	0	1	327	7	115	1.66e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Nemalionopsis tortuosa]
+NODE_91_length_329_cov_1.222727:1-329	202687	218	NODE_91_length_329_cov_1.222727:1-329	QCG81709.1	98.165	109	2	0	1	327	7	115	2.94e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thorea hispida]
+NODE_91_length_329_cov_1.222727:1-329	202687	218	NODE_91_length_329_cov_1.222727:1-329	QCG81726.1	98.165	109	2	0	1	327	7	115	3.45e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thorea hispida]
+NODE_91_length_329_cov_1.222727:1-329	1381113	218	NODE_91_length_329_cov_1.222727:1-329	QVV95847.1	98.165	109	2	0	1	327	5	113	3.46e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Tricleocarpa jejuensis]
+NODE_91_length_329_cov_1.222727:1-329	340433	217	NODE_91_length_329_cov_1.222727:1-329	QCG81611.1	96.330	109	4	0	1	327	24	132	3.82e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Sheathia arcuata]
+NODE_91_length_329_cov_1.222727:1-329	31488	217	NODE_91_length_329_cov_1.222727:1-329	UBF44203.1	98.165	109	2	0	1	327	32	140	4.27e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Liagora sp.]
+NODE_91_length_329_cov_1.222727:1-329	173472	218	NODE_91_length_329_cov_1.222727:1-329	QCG81770.1	97.248	109	3	0	1	327	10	118	4.66e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thorea sp.]
+NODE_91_length_329_cov_1.222727:1-329	261528	219	NODE_91_length_329_cov_1.222727:1-329	QCG81730.1	98.165	109	2	0	1	327	22	130	4.87e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thorea okadae]
+NODE_91_length_329_cov_1.222727:1-329	202687	218	NODE_91_length_329_cov_1.222727:1-329	QCG81713.1	98.165	109	2	0	1	327	21	129	5.04e-70	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Thorea hispida]
+# BLASTX 2.12.0+
+# Query: NODE_92_length_329_cov_0.795455:1-329
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_92_length_329_cov_0.795455:1-329	753684	192	NODE_92_length_329_cov_0.795455:1-329	AEP20617.1	95.370	108	5	0	3	326	8	115	2.41e-57	ribulose bisphosphate carboxylase, partial [Madagascaria erythrocladioides]
+NODE_92_length_329_cov_0.795455:1-329	139727	191	NODE_92_length_329_cov_0.795455:1-329	AKQ47885.1	93.519	108	7	0	3	326	1	108	6.59e-57	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pyropia fallax]
+NODE_92_length_329_cov_0.795455:1-329	1682293	190	NODE_92_length_329_cov_0.795455:1-329	AKQ47980.1	93.519	108	7	0	3	326	1	108	6.91e-57	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pyropia lanceolata]
+NODE_92_length_329_cov_0.795455:1-329	139727	190	NODE_92_length_329_cov_0.795455:1-329	AKQ47887.1	93.519	108	7	0	3	326	1	108	7.56e-57	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pyropia fallax]
+NODE_92_length_329_cov_0.795455:1-329	1076276	191	NODE_92_length_329_cov_0.795455:1-329	AEP20643.1	95.370	108	5	0	3	326	10	117	7.60e-57	ribulose bisphosphate carboxylase, partial [Erythrotrichia sp. GCZ-2011]
+NODE_92_length_329_cov_0.795455:1-329	753682	191	NODE_92_length_329_cov_0.795455:1-329	AEP20608.1	96.296	108	4	0	3	326	10	117	8.54e-57	ribulose bisphosphate carboxylase, partial [Pseudoerythrocladia kornmannii]
+NODE_92_length_329_cov_0.795455:1-329	101920	190	NODE_92_length_329_cov_0.795455:1-329	ABD49475.1	92.593	108	8	0	3	326	1	108	8.67e-57	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Bangia fuscopurpurea]
+NODE_92_length_329_cov_0.795455:1-329	139727	188	NODE_92_length_329_cov_0.795455:1-329	ACA52371.1	93.519	108	7	0	3	326	2	109	8.86e-57	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pyropia fallax]
+NODE_92_length_329_cov_0.795455:1-329	468936	191	NODE_92_length_329_cov_0.795455:1-329	ABV21910.1	96.296	108	4	0	3	326	14	121	1.00e-56	ribulose bisphosphate carboxylase/oxygenase, partial [Sahlingia subintegra]
+NODE_92_length_329_cov_0.795455:1-329	1134686	188	NODE_92_length_329_cov_0.795455:1-329	ALK87174.1	93.519	108	7	0	3	326	17	124	1.04e-56	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Wildemania variegata]
+# BLASTX 2.12.0+
+# Query: NODE_95_length_325_cov_0.157407:11-325
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_95_length_325_cov_0.157407:11-325	86473	215	NODE_95_length_325_cov_0.157407:11-325	ABR57269.1	96.154	104	4	0	1	312	79	182	2.07e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured Gammaproteobacteria bacterium]
+NODE_95_length_325_cov_0.157407:11-325	155900	213	NODE_95_length_325_cov_0.157407:11-325	ADP20918.1	95.192	104	5	0	1	312	4	107	4.26e-68	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured organism]
+NODE_95_length_325_cov_0.157407:11-325	77133	210	NODE_95_length_325_cov_0.157407:11-325	BAI94754.1	93.269	104	7	0	1	312	12	115	1.68e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_95_length_325_cov_0.157407:11-325	77133	210	NODE_95_length_325_cov_0.157407:11-325	BAI94756.1	93.269	104	7	0	1	312	12	115	1.74e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_95_length_325_cov_0.157407:11-325	298394	220	NODE_95_length_325_cov_0.157407:11-325	CAA6820421.1	99.038	104	1	0	1	312	176	279	1.86e-67	Ribulose bisphosphate carboxylase large chain (EC [uncultured Thiotrichaceae bacterium]
+NODE_95_length_325_cov_0.157407:11-325	298394	219	NODE_95_length_325_cov_0.157407:11-325	CAA6823104.1	99.038	104	1	0	1	312	176	279	5.17e-67	Ribulose bisphosphate carboxylase large chain (EC [uncultured Thiotrichaceae bacterium]
+NODE_95_length_325_cov_0.157407:11-325	77133	208	NODE_95_length_325_cov_0.157407:11-325	BAI94783.1	91.346	104	9	0	1	312	12	115	1.16e-66	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_95_length_325_cov_0.157407:11-325	77133	207	NODE_95_length_325_cov_0.157407:11-325	BAI94745.1	91.346	104	9	0	1	312	12	115	1.35e-66	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_95_length_325_cov_0.157407:11-325	77133	207	NODE_95_length_325_cov_0.157407:11-325	BAI94744.1	91.346	104	9	0	1	312	12	115	1.38e-66	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+NODE_95_length_325_cov_0.157407:11-325	77133	207	NODE_95_length_325_cov_0.157407:11-325	BAI94757.1	91.346	104	9	0	1	312	12	115	1.41e-66	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [uncultured bacterium]
+# BLASTX 2.12.0+
+# Query: NODE_97_length_323_cov_1.471963:9-321
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_97_length_323_cov_1.471963:9-321	1264784	213	NODE_97_length_323_cov_1.471963:9-321	CCP13988.1	96.117	103	4	0	2	310	118	220	1.76e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Frustulia saxonica]
+NODE_97_length_323_cov_1.471963:9-321	1264784	213	NODE_97_length_323_cov_1.471963:9-321	CCP14000.1	96.117	103	4	0	2	310	118	220	1.76e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Frustulia saxonica]
+NODE_97_length_323_cov_1.471963:9-321	2305491	218	NODE_97_length_323_cov_1.471963:9-321	AXS63268.1	99.029	103	1	0	2	310	312	414	1.86e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphora proteoides]
+NODE_97_length_323_cov_1.471963:9-321	2305499	218	NODE_97_length_323_cov_1.471963:9-321	AXS63290.1	99.029	103	1	0	2	310	312	414	1.86e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphora allanta]
+NODE_97_length_323_cov_1.471963:9-321	1880612	218	NODE_97_length_323_cov_1.471963:9-321	ANW61420.1	99.029	103	1	0	2	310	311	413	1.95e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphora helenensis]
+NODE_97_length_323_cov_1.471963:9-321	2305494	218	NODE_97_length_323_cov_1.471963:9-321	AXS63270.1	99.029	103	1	0	2	310	312	414	2.26e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphora fusca]
+NODE_97_length_323_cov_1.471963:9-321	1487558	218	NODE_97_length_323_cov_1.471963:9-321	AXS63237.1	99.029	103	1	0	2	310	312	414	2.71e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Amphora indistincta]
+NODE_97_length_323_cov_1.471963:9-321	2725370	217	NODE_97_length_323_cov_1.471963:9-321	QIX03940.1	98.058	103	2	0	2	310	294	396	2.85e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Pinnularia borealis complex sp.]
+NODE_97_length_323_cov_1.471963:9-321	1259743	213	NODE_97_length_323_cov_1.471963:9-321	AFX61636.1	94.175	103	6	0	2	310	118	220	2.94e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Berkeleya sp. 14SEH]
+NODE_97_length_323_cov_1.471963:9-321	1889904	213	NODE_97_length_323_cov_1.471963:9-321	AOG17841.1	96.117	103	4	0	2	310	130	232	3.03e-67	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Frustulia cf. maoriana]
+# BLASTX 2.12.0+
+# Query: NODE_9_length_1417_cov_0.683486:76-1416
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_9_length_1417_cov_0.683486:76-1416	62313	868	NODE_9_length_1417_cov_0.683486:76-1416	AAN09876.1	97.085	446	13	0	1340	3	14	459	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Desmarestia viridis]
+NODE_9_length_1417_cov_0.683486:76-1416	62298	861	NODE_9_length_1417_cov_0.683486:76-1416	QWK43670.1	95.516	446	20	0	1340	3	42	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Desmarestia aculeata]
+NODE_9_length_1417_cov_0.683486:76-1416	1004020	861	NODE_9_length_1417_cov_0.683486:76-1416	BAN92020.1	95.740	446	19	0	1340	3	28	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Desmarestia sp. KU-d5481]
+NODE_9_length_1417_cov_0.683486:76-1416	62298	859	NODE_9_length_1417_cov_0.683486:76-1416	BAT47119.1	95.067	446	22	0	1340	3	28	473	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Desmarestia aculeata]
+NODE_9_length_1417_cov_0.683486:76-1416	255243	858	NODE_9_length_1417_cov_0.683486:76-1416	AAR24446.1	95.291	446	21	0	1340	3	42	487	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Desmarestia sp. SMB-2003]
+NODE_9_length_1417_cov_0.683486:76-1416	62312	858	NODE_9_length_1417_cov_0.683486:76-1416	BAB32896.1	95.740	446	19	0	1340	3	22	467	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Desmarestia tabacoides]
+NODE_9_length_1417_cov_0.683486:76-1416	1948892	857	NODE_9_length_1417_cov_0.683486:76-1416	AAR24445.1	95.067	446	22	0	1340	3	10	455	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Mutimo cylindricus]
+NODE_9_length_1417_cov_0.683486:76-1416	64927	857	NODE_9_length_1417_cov_0.683486:76-1416	BAK64373.1	94.170	446	26	0	1340	3	6	451	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Halosiphon tomentosus]
+NODE_9_length_1417_cov_0.683486:76-1416	45365	855	NODE_9_length_1417_cov_0.683486:76-1416	BAB62282.1	94.619	446	24	0	1340	3	22	467	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Saccorhiza polyschides]
+NODE_9_length_1417_cov_0.683486:76-1416	1948892	855	NODE_9_length_1417_cov_0.683486:76-1416	BAK64361.1	95.067	446	22	0	1340	3	22	467	0.0	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial [Mutimo cylindricus]
+# BLAST processed 33 queries

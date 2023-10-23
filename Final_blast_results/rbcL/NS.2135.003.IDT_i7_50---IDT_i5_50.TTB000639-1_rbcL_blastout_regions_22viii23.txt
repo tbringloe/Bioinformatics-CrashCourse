@@ -1,0 +1,497 @@
+# BLASTN 2.12.0+
+# Query: NODE_104_length_316_cov_0.657005:1-316
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_104_length_316_cov_0.657005:1-316	173462	532	NODE_104_length_316_cov_0.657005:1-316	MN184564.1	97.143	315	9	0	1	315	1104	790	7.12e-147	Pterothamnion plumula voucher GWS040830 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_104_length_316_cov_0.657005:1-316	713083	438	NODE_104_length_316_cov_0.657005:1-316	GQ252465.1	91.746	315	26	0	1	315	1184	870	1.60e-118	Ceramium sp. AC198 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_104_length_316_cov_0.657005:1-316	2668045	433	NODE_104_length_316_cov_0.657005:1-316	MK185813.1	91.429	315	27	0	1	315	1104	790	7.43e-117	Microcladia alternata voucher Nightingale 2010 040 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_104_length_316_cov_0.657005:1-316	2668045	433	NODE_104_length_316_cov_0.657005:1-316	MK185805.1	91.429	315	27	0	1	315	1085	771	7.43e-117	Microcladia alternata voucher Nightingale 2010 039 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_104_length_316_cov_0.657005:1-316	2668045	433	NODE_104_length_316_cov_0.657005:1-316	MK185800.1	91.429	315	27	0	1	315	1079	765	7.43e-117	Microcladia alternata voucher IN07.R008 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_104_length_316_cov_0.657005:1-316	193174	433	NODE_104_length_316_cov_0.657005:1-316	EU195049.1	91.456	316	25	2	1	315	1118	804	7.43e-117	Aglaothamnion hookeri voucher A144 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_104_length_316_cov_0.657005:1-316	196908	433	NODE_104_length_316_cov_0.657005:1-316	AF521797.1	91.429	315	27	0	1	315	1151	837	7.43e-117	Ceramium affine ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+NODE_104_length_316_cov_0.657005:1-316	218451	429	NODE_104_length_316_cov_0.657005:1-316	LC201465.1	91.857	307	25	0	9	315	1146	840	9.61e-116	Reinboldiella schmitziana plastid rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, strain: RS-JP
+NODE_104_length_316_cov_0.657005:1-316	1037393	429	NODE_104_length_316_cov_0.657005:1-316	FR871402.1	91.613	310	26	0	6	315	996	687	9.61e-116	Ceramium obsoletum plastid partial rbcL gene for RuBisCO large subunit
+NODE_104_length_316_cov_0.657005:1-316	710544	427	NODE_104_length_316_cov_0.657005:1-316	GQ252494.1	91.111	315	28	0	1	315	1157	843	3.46e-115	Pterothamnion pectinatum isolate AC188 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_10_length_1167_cov_0.530246:39-1167
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 11 hits found
+NODE_10_length_1167_cov_0.530246:39-1167	42353	1070	NODE_10_length_1167_cov_0.530246:39-1167	CP091135.1	83.777	1128	183	0	1	1128	1903872	1904999	0.0	MAG: Nitrosomonas sp. isolate MAG_42 chromosome
+NODE_10_length_1167_cov_0.530246:39-1167	1913989	1050	NODE_10_length_1167_cov_0.530246:39-1167	CP054180.1	83.481	1126	186	0	1	1126	1839819	1838694	0.0	Gammaproteobacteria bacterium isolate H1_AOB2 chromosome, complete genome
+NODE_10_length_1167_cov_0.530246:39-1167	42353	1044	NODE_10_length_1167_cov_0.530246:39-1167	CP091136.1	83.437	1123	186	0	1	1123	1602397	1603519	0.0	MAG: Nitrosomonas sp. isolate MAG_47 chromosome
+NODE_10_length_1167_cov_0.530246:39-1167	42353	944	NODE_10_length_1167_cov_0.530246:39-1167	CP091133.1	82.528	1076	187	1	1	1076	2362797	2361723	0.0	MAG: Nitrosomonas sp. isolate MAG_19 chromosome
+NODE_10_length_1167_cov_0.530246:39-1167	171865	691	NODE_10_length_1167_cov_0.530246:39-1167	AP021884.1	77.876	1130	238	12	3	1126	3321139	3322262	0.0	Sulfuriferula plumbiphila Gro7 DNA, complete genome
+NODE_10_length_1167_cov_0.530246:39-1167	155900	691	NODE_10_length_1167_cov_0.530246:39-1167	GU191800.2	77.915	1132	234	16	3	1126	9560	8437	0.0	Uncultured organism clone Fosmid_W genomic sequence
+NODE_10_length_1167_cov_0.530246:39-1167	2340	658	NODE_10_length_1167_cov_0.530246:39-1167	AY531637.1	77.365	1131	242	13	5	1128	1500	377	0.0	Solemya velum gill symbiont ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (cbbL), ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit (cbbS), CbbQ (cbbQ), and CbbO (cbbO) genes, complete cds
+NODE_10_length_1167_cov_0.530246:39-1167	42353	623	NODE_10_length_1167_cov_0.530246:39-1167	CP091134.1	83.817	655	106	0	1	655	965383	966037	1.60e-173	MAG: Nitrosomonas sp. isolate MAG_20 chromosome
+NODE_10_length_1167_cov_0.530246:39-1167	42353	560	NODE_10_length_1167_cov_0.530246:39-1167	CP091134.1	83.197	613	101	2	514	1126	1525505	1524895	1.27e-154	MAG: Nitrosomonas sp. isolate MAG_20 chromosome
+NODE_10_length_1167_cov_0.530246:39-1167	77133	597	NODE_10_length_1167_cov_0.530246:39-1167	EU926500.1	78.349	933	194	8	9	937	929	1	9.70e-166	Uncultured bacterium clone D10gl3 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (cbbL) gene, partial cds
+NODE_10_length_1167_cov_0.530246:39-1167	77133	588	NODE_10_length_1167_cov_0.530246:39-1167	JF415045.1	83.819	618	100	0	494	1111	619	2	5.84e-163	Uncultured bacterium clone LO-RNA-C25 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit form IA gene, partial cds
+# BLASTN 2.12.0+
+# Query: NODE_113_length_310_cov_0.537313:48-310
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_113_length_310_cov_0.537313:48-310	190704	484	NODE_113_length_310_cov_0.537313:48-310	MF040297.1	100.000	262	0	0	1	262	1387	1126	1.64e-132	Microspongium alariae isolate B ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; rbcL-rbcS intergenic spacer, complete sequence; and ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit (rbcS) gene, partial cds; chloroplast
+NODE_113_length_310_cov_0.537313:48-310	190704	484	NODE_113_length_310_cov_0.537313:48-310	MF040296.1	100.000	262	0	0	1	262	1387	1126	1.64e-132	Microspongium alariae isolate A ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; rbcL-rbcS intergenic spacer, complete sequence; and ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit (rbcS) gene, partial cds; chloroplast
+NODE_113_length_310_cov_0.537313:48-310	27967	484	NODE_113_length_310_cov_0.537313:48-310	AF207813.1	100.000	262	0	0	1	262	365	104	1.64e-132	Microspongium gelatinosum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+NODE_113_length_310_cov_0.537313:48-310	133515	484	NODE_113_length_310_cov_0.537313:48-310	AF207805.1	100.000	262	0	0	1	262	1463	1202	1.64e-132	Microspongium globosum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast gene for chloroplast product
+NODE_113_length_310_cov_0.537313:48-310	190706	484	NODE_113_length_310_cov_0.537313:48-310	AJ439847.1	100.000	262	0	0	1	262	1446	1185	1.64e-132	Microspongium tenuissimum chromoplast partial rbcL gene for ribulose bisphosphate carboxylase large subunit
+NODE_113_length_310_cov_0.537313:48-310	190706	484	NODE_113_length_310_cov_0.537313:48-310	AF055414.1	100.000	262	0	0	1	262	1463	1202	1.64e-132	Streblonema tenuissimum ribulose-1,5-bisphosphate carboxylase large subunit (rbcL) gene, chloroplast gene encoding chloroplast protein, complete cds
+NODE_113_length_310_cov_0.537313:48-310	2185082	468	NODE_113_length_310_cov_0.537313:48-310	LC382525.1	98.855	262	3	0	1	262	1400	1139	1.65e-127	Mesogloia sp. NOR KU-d15346 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_113_length_310_cov_0.537313:48-310	2072009	468	NODE_113_length_310_cov_0.537313:48-310	LC016510.1	98.855	262	3	0	1	262	1423	1162	1.65e-127	Cladosiphon takenoensis chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_113_length_310_cov_0.537313:48-310	2185081	462	NODE_113_length_310_cov_0.537313:48-310	LC382524.1	98.473	262	4	0	1	262	1397	1136	7.68e-126	Mesogloia japonica KU-d20562 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_113_length_310_cov_0.537313:48-310	145519	462	NODE_113_length_310_cov_0.537313:48-310	AB302302.1	98.473	262	4	0	1	262	1395	1134	7.68e-126	Elachista tenuis chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, country: Japan: Aomori, Higashi-Tazawa
+# BLASTN 2.12.0+
+# Query: NODE_11_length_891_cov_1.117647:1-746
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_11_length_891_cov_1.117647:1-746	362236	1024	NODE_11_length_891_cov_1.117647:1-746	MW675683.1	91.544	745	59	4	3	745	138515	137773	0.0	Erythrocladia irregularis chloroplast clone contig 112, complete genome
+NODE_11_length_891_cov_1.117647:1-746	153248	939	NODE_11_length_891_cov_1.117647:1-746	GQ252497.1	89.396	745	79	0	1	745	745	1	0.0	Ptilota filicina isolate AC291 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_11_length_891_cov_1.117647:1-746	110475	937	NODE_11_length_891_cov_1.117647:1-746	DQ022806.1	89.754	732	75	0	1	732	732	1	0.0	Ptilota serrata ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_11_length_891_cov_1.117647:1-746	332481	935	NODE_11_length_891_cov_1.117647:1-746	DQ022807.1	89.863	730	70	3	6	733	732	5	0.0	Neoptilota densa ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_11_length_891_cov_1.117647:1-746	207917	928	NODE_11_length_891_cov_1.117647:1-746	DQ787575.1	90.791	695	63	1	1	695	694	1	0.0	Ptilota gunneri ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_11_length_891_cov_1.117647:1-746	153248	917	NODE_11_length_891_cov_1.117647:1-746	FJ415872.1	89.130	736	80	0	1	736	739	4	0.0	Ptilota filicina isolate AC159 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_11_length_891_cov_1.117647:1-746	153248	911	NODE_11_length_891_cov_1.117647:1-746	GQ252575.1	88.740	746	82	2	1	745	745	1	0.0	Ptilota filicina voucher AC170 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_11_length_891_cov_1.117647:1-746	207917	889	NODE_11_length_891_cov_1.117647:1-746	KU381983.1	90.813	664	61	0	1	664	665	2	0.0	Ptilota gunneri ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_11_length_891_cov_1.117647:1-746	207917	874	NODE_11_length_891_cov_1.117647:1-746	LN999415.1	92.727	605	44	0	1	605	622	18	0.0	Ptilota gunneri chloroplast partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, strain AF 59
+NODE_11_length_891_cov_1.117647:1-746	753682	874	NODE_11_length_891_cov_1.117647:1-746	MW675664.1	87.952	747	82	6	3	745	137351	136609	0.0	Pseudoerythrocladia kornmannii chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_12_length_854_cov_0.683221:1-580
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_12_length_854_cov_0.683221:1-580	1620271	809	NODE_12_length_854_cov_0.683221:1-580	KJ801809.1	91.883	579	47	0	1	579	831	1409	0.0	Colaconema infestans voucher SP 400.8270 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	209636	763	NODE_12_length_854_cov_0.683221:1-580	KC134327.1	91.652	551	46	0	1	551	808	1358	0.0	Colaconema proskaueri voucher GWSC008 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	2020008	758	NODE_12_length_854_cov_0.683221:1-580	MW182307.1	90.311	578	56	0	2	579	851	1428	0.0	Acrochaetium sp. isolate LMC-YHY-03 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	2020008	752	NODE_12_length_854_cov_0.683221:1-580	MW182308.1	90.138	578	57	0	2	579	851	1428	0.0	Acrochaetium sp. isolate LMC-YHY-04 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	2518136	747	NODE_12_length_854_cov_0.683221:1-580	MH414967.1	89.965	578	58	0	2	579	818	1395	0.0	Acrochaetium sp. MCL-2019a isolate LMC-ACABL-2015-YHY-01 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	209633	708	NODE_12_length_854_cov_0.683221:1-580	MK185834.1	89.855	552	54	2	1	551	808	1358	0.0	Colaconema caespitosum voucher GWSC050 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	209633	708	NODE_12_length_854_cov_0.683221:1-580	KC134354.1	89.855	552	54	2	1	551	808	1358	0.0	Colaconema caespitosum voucher GWSC3582 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	397017	704	NODE_12_length_854_cov_0.683221:1-580	DQ787561.1	88.601	579	66	0	1	579	847	1425	0.0	Acrochaetium savianum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_12_length_854_cov_0.683221:1-580	700711	699	NODE_12_length_854_cov_0.683221:1-580	MH708011.1	88.468	581	63	4	1	579	98	676	0.0	Devaleraea mollis voucher FHL18-066 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_12_length_854_cov_0.683221:1-580	2822	699	NODE_12_length_854_cov_0.683221:1-580	KX284726.1	88.468	581	63	4	1	579	66282	66860	0.0	Palmaria palmata plastid, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_131_length_295_cov_0.430108:1-295
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_131_length_295_cov_0.430108:1-295	1807358	351	NODE_131_length_295_cov_0.430108:1-295	AP017375.1	88.581	289	33	0	6	294	2494471	2494759	1.98e-92	Stanieria sp. NIES-3757 DNA, complete genome
+NODE_131_length_295_cov_0.430108:1-295	2686104	350	NODE_131_length_295_cov_0.430108:1-295	MT551885.1	88.542	288	33	0	7	294	92	379	7.12e-92	Xenococcus spongiosum TAU-MAC 1915 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds
+NODE_131_length_295_cov_0.430108:1-295	1967448	344	NODE_131_length_295_cov_0.430108:1-295	MT551877.1	88.235	289	32	2	7	294	120	407	3.31e-90	Xenococcus spongiosum TAU-MAC 0615 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds
+NODE_131_length_295_cov_0.430108:1-295	118675	340	NODE_131_length_295_cov_0.430108:1-295	JF810066.1	88.112	286	34	0	7	292	578	863	4.29e-89	Chroococcidiopsis sp. PCC 6712 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds
+NODE_131_length_295_cov_0.430108:1-295	2759045	311	NODE_131_length_295_cov_0.430108:1-295	LC571520.1	85.714	294	42	0	1	294	780	1073	3.36e-80	Annamia dubia NIES-4383 rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, complete cds
+NODE_131_length_295_cov_0.430108:1-295	2807250	292	NODE_131_length_295_cov_0.430108:1-295	MW554521.1	86.742	264	33	2	6	268	601	863	1.22e-74	Chlorominima collina strain CCAP 6/1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_131_length_295_cov_0.430108:1-295	544549	283	NODE_131_length_295_cov_0.430108:1-295	KJ153651.1	84.615	286	42	2	9	293	124	408	7.32e-72	Uncultured marine phototrophic eukaryote clone AB11-14 ribulose-1,5-bisphosphate carboylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_131_length_295_cov_0.430108:1-295	544549	281	NODE_131_length_295_cov_0.430108:1-295	KF683643.1	85.294	272	40	0	7	278	122	393	2.63e-71	Uncultured marine phototrophic eukaryote clone I-AB-18 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_131_length_295_cov_0.430108:1-295	2008550	279	NODE_131_length_295_cov_0.430108:1-295	MF278348.1	85.556	270	35	4	1	268	362	629	9.48e-71	Chlorophyta sp. CM7-6 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_131_length_295_cov_0.430108:1-295	2025116	274	NODE_131_length_295_cov_0.430108:1-295	KY629617.1	85.185	270	36	4	1	268	21063	20796	4.41e-69	Chlorella sp. ATCC 30562 plastid, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_13_length_810_cov_0.322397:42-773
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_13_length_810_cov_0.322397:42-773	77133	782	NODE_13_length_810_cov_0.322397:42-773	KY418564.1	94.810	501	26	0	1	501	113	613	0.0	Uncultured bacterium clone ZUR_100m_cbbL-IA_G12a ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (cbbL) gene, partial cds
+NODE_13_length_810_cov_0.322397:42-773	77133	536	NODE_13_length_810_cov_0.322397:42-773	GU249323.1	89.737	419	43	0	1	419	115	533	1.37e-147	Uncultured bacterium clone cbbL57_B9 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit form I (cbbL) gene, partial cds
+NODE_13_length_810_cov_0.322397:42-773	77133	514	NODE_13_length_810_cov_0.322397:42-773	GU249322.1	89.604	404	42	0	1	404	6	409	6.40e-141	Uncultured bacterium clone cbbL57_F1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit form I (cbbL) gene, partial cds
+NODE_13_length_810_cov_0.322397:42-773	77133	435	NODE_13_length_810_cov_0.322397:42-773	GU249324.1	90.332	331	32	0	1	331	52	382	5.13e-117	Uncultured bacterium clone cbbL57_H1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit form I (cbbL) gene, partial cds
+NODE_13_length_810_cov_0.322397:42-773	2360	278	NODE_13_length_810_cov_0.322397:42-773	CP024634.1	73.691	726	185	5	1	723	908461	909183	9.14e-70	Bathymodiolus thermophilus thioautotrophic gill symbiont strain EPR9N chromosome, complete genome
+NODE_13_length_810_cov_0.322397:42-773	77133	276	NODE_13_length_810_cov_0.322397:42-773	HG940839.1	76.768	495	113	2	215	708	1	494	3.29e-69	Uncultured bacterium partial cbbL gene for RubisCO, clone Lib25_162
+NODE_13_length_810_cov_0.322397:42-773	74547	233	NODE_13_length_810_cov_0.322397:42-773	BX548175.1	72.689	714	189	6	1	711	1294520	1293810	2.01e-56	Prochlorococcus marinus MIT9313 complete genome
+NODE_13_length_810_cov_0.322397:42-773	77133	231	NODE_13_length_810_cov_0.322397:42-773	KX266009.1	75.202	496	119	4	215	708	1	494	7.22e-56	Uncultured bacterium clone L3-63 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (cbbL) gene, partial cds
+NODE_13_length_810_cov_0.322397:42-773	376219	231	NODE_13_length_810_cov_0.322397:42-773	FO818640.1	74.813	536	123	11	182	711	4968457	4967928	7.22e-56	Arthrospira sp. str. PCC 8005 chromosome, complete genome
+NODE_13_length_810_cov_0.322397:42-773	3105	211	NODE_13_length_810_cov_0.322397:42-773	EF078404.1	72.310	697	185	8	1	693	263	955	9.41e-50	Pediastrum duplex strain SB0401VA ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_164_length_270_cov_0.428571:3-266
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_164_length_270_cov_0.428571:3-266	1973484	285	NODE_164_length_270_cov_0.428571:3-266	AP018203.1	86.260	262	36	0	1	262	4275265	4275004	1.79e-72	Leptolyngbya boryana NIES-2135 DNA, complete genome
+NODE_164_length_270_cov_0.428571:3-266	1260963	285	NODE_164_length_270_cov_0.428571:3-266	AP014642.1	86.719	256	34	0	1	256	2657906	2658161	1.79e-72	Leptolyngbya boryana dg5 DNA, complete genome, strain: dg5
+NODE_164_length_270_cov_0.428571:3-266	411966	285	NODE_164_length_270_cov_0.428571:3-266	AP014638.1	86.719	256	34	0	1	256	2657906	2658161	1.79e-72	Leptolyngbya boryana IAM M-101 DNA, complete genome, strain: IAM M-101
+NODE_164_length_270_cov_0.428571:3-266	462680	285	NODE_164_length_270_cov_0.428571:3-266	CP092419.1	86.260	262	36	0	1	262	4277980	4277719	1.79e-72	Leptolyngbya boryana IU 594 chromosome, complete genome
+NODE_164_length_270_cov_0.428571:3-266	1521539	274	NODE_164_length_270_cov_0.428571:3-266	LC314147.1	85.551	263	36	2	1	262	2	263	3.88e-69	Pseudanabaena galeata SAG 13.83 genes for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, RbcX and RbcS, partial and complete cds
+NODE_164_length_270_cov_0.428571:3-266	2753553	272	NODE_164_length_270_cov_0.428571:3-266	MT792755.1	85.769	260	33	4	6	263	2	259	1.40e-68	Tenebriella amphibia JM90/15 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chaperonin-like protein (rbcX) gene, complete cds; and ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit (rbcS) gene, partial cds
+NODE_164_length_270_cov_0.428571:3-266	179408	270	NODE_164_length_270_cov_0.428571:3-266	CP003614.1	85.659	258	35	2	6	262	6952696	6952952	5.02e-68	Oscillatoria nigro-viridis PCC 7112 chromosome, complete genome
+NODE_164_length_270_cov_0.428571:3-266	129962	268	NODE_164_length_270_cov_0.428571:3-266	FN813331.1	85.659	258	33	4	1	256	788	1043	1.81e-67	Oscillatoria sancta PCC 7515 partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, strain PCC 7515
+NODE_164_length_270_cov_0.428571:3-266	2753555	267	NODE_164_length_270_cov_0.428571:3-266	MT792757.1	85.385	260	34	4	6	263	2	259	6.49e-67	Tenebriella amphibia RMCB16 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chaperonin-like protein (rbcX) gene, complete cds; and ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit (rbcS) gene, partial cds
+NODE_164_length_270_cov_0.428571:3-266	2753552	267	NODE_164_length_270_cov_0.428571:3-266	MT792756.1	85.385	260	34	4	6	263	2	259	6.49e-67	Tenebriella amphibia JM72/15 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chaperonin-like protein (rbcX) gene, complete cds; and ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit (rbcS) gene, partial cds
+# BLASTN 2.12.0+
+# Query: NODE_166_length_266_cov_1.878981:1-266
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_166_length_266_cov_1.878981:1-266	1259762	490	NODE_166_length_266_cov_1.878981:1-266	JX905660.1	100.000	265	0	0	1	265	197	461	3.57e-134	Fragilaria sp. SEH-2012 voucher SEH012 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_166_length_266_cov_1.878981:1-266	515488	490	NODE_166_length_266_cov_1.878981:1-266	AB430690.1	100.000	265	0	0	1	265	947	1211	3.57e-134	Tabularia laevis chloroplast rbcL gene for ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, strain: s0021
+NODE_166_length_266_cov_1.878981:1-266	1003135	429	NODE_166_length_266_cov_1.878981:1-266	HQ912452.1	95.849	265	11	0	1	265	983	1247	7.90e-116	Fragilaria famelica strain UTEX FD255 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_166_length_266_cov_1.878981:1-266	2174430	424	NODE_166_length_266_cov_1.878981:1-266	MG684347.1	95.802	262	11	0	1	262	949	1210	3.67e-114	Fragilariophyceae sp. isolate 21IV14-4B Toxarium-2 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_166_length_266_cov_1.878981:1-266	210441	418	NODE_166_length_266_cov_1.878981:1-266	KC509519.1	95.094	265	13	0	1	265	5950	5686	1.71e-112	Asterionella formosa chloroplast, complete genome
+NODE_166_length_266_cov_1.878981:1-266	210441	418	NODE_166_length_266_cov_1.878981:1-266	AB430671.1	95.094	265	13	0	1	265	947	1211	1.71e-112	Asterionella formosa chloroplast rbcL gene for ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, strain: s0339
+NODE_166_length_266_cov_1.878981:1-266	210441	418	NODE_166_length_266_cov_1.878981:1-266	HQ912497.1	95.094	265	13	0	1	265	983	1247	1.71e-112	Asterionella formosa strain UTCC605 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_166_length_266_cov_1.878981:1-266	655750	418	NODE_166_length_266_cov_1.878981:1-266	HQ912429.1	95.094	265	13	0	1	265	983	1247	1.71e-112	Brockmanniella brockmannii strain CCMP151 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_166_length_266_cov_1.878981:1-266	2231026	412	NODE_166_length_266_cov_1.878981:1-266	MF092943.1	94.717	265	14	0	1	265	947	1211	7.95e-111	Fragilaria sp. AJA080-13 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_166_length_266_cov_1.878981:1-266	2913629	412	NODE_166_length_266_cov_1.878981:1-266	OL457301.1	94.717	265	14	0	1	265	943	1207	7.95e-111	Ambo sp. ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_178_length_261_cov_1.394737:1-261
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_178_length_261_cov_1.394737:1-261	1436223	470	NODE_178_length_261_cov_1.394737:1-261	KC685544.1	99.231	260	2	0	1	260	896	1155	4.55e-128	Ostreobium sp. TeG strain FHL094 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436221	392	NODE_178_length_261_cov_1.394737:1-261	KC685546.1	93.846	260	16	0	1	260	884	1143	1.01e-104	Ostreobium sp. TeE strain FHL612 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436220	387	NODE_178_length_261_cov_1.394737:1-261	KC685548.1	93.462	260	17	0	1	260	881	1140	4.71e-103	Ostreobium sp. TeD strain FHL412 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436219	387	NODE_178_length_261_cov_1.394737:1-261	KC685545.1	93.462	260	17	0	1	260	896	1155	4.71e-103	Ostreobium sp. TeC strain FHL095 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436217	370	NODE_178_length_261_cov_1.394737:1-261	KC685538.1	92.308	260	20	0	1	260	884	1143	4.75e-98	Ostreobium sp. TeA strain FHL910 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436217	370	NODE_178_length_261_cov_1.394737:1-261	KC685537.1	92.308	260	20	0	1	260	896	1155	4.75e-98	Ostreobium sp. TeA strain FHL521 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436217	370	NODE_178_length_261_cov_1.394737:1-261	KC685532.1	92.308	260	20	0	1	260	896	1155	4.75e-98	Ostreobium sp. TeA strain FHL486 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436217	370	NODE_178_length_261_cov_1.394737:1-261	KC685529.1	92.308	260	20	0	1	260	896	1155	4.75e-98	Ostreobium sp. TeA strain FHL416 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436217	370	NODE_178_length_261_cov_1.394737:1-261	KC685528.1	92.308	260	20	0	1	260	884	1143	4.75e-98	Ostreobium sp. TeA strain FHL566 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_178_length_261_cov_1.394737:1-261	1436218	364	NODE_178_length_261_cov_1.394737:1-261	KC685526.1	91.923	260	21	0	1	260	896	1155	2.21e-96	Ostreobium sp. TeB strain FHL414 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_19_length_530_cov_0.254157:11-502
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_19_length_530_cov_0.254157:11-502	2763517	392	NODE_19_length_530_cov_0.254157:11-502	CP072538.1	83.529	425	64	6	3	424	792856	793277	2.05e-104	MAG: Candidatus Ruthia sp. Plio_17_S18 chromosome, complete genome
+NODE_19_length_530_cov_0.254157:11-502	319096	387	NODE_19_length_530_cov_0.254157:11-502	AY945759.1	83.255	424	67	4	3	424	698	277	9.53e-103	Endosymbiont of Bathymodiolus azoricus clone BA-Sym(RI)-1 ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit (cbbL) gene, partial cds
+NODE_19_length_530_cov_0.254157:11-502	198431	370	NODE_19_length_530_cov_0.254157:11-502	AB175494.1	82.588	425	68	6	3	424	698	277	9.60e-98	Uncultured prokaryote cbbL gene for ribulose,1-5,bisphosphate carboxylase oxygenase form I large subunit cbbL, partial cds, clone:Mariana (I)-3
+NODE_19_length_530_cov_0.254157:11-502	198431	364	NODE_19_length_530_cov_0.254157:11-502	AB175813.1	82.353	425	69	6	3	424	698	277	4.47e-96	Uncultured prokaryote cbbL gene for ribulose,1-5,bisphosphate carboxylase oxygenase form I large subunit cbbL, partial cds, clone:Mariana(I)-4
+NODE_19_length_530_cov_0.254157:11-502	198431	359	NODE_19_length_530_cov_0.254157:11-502	AB175492.1	82.118	425	70	6	3	424	698	277	2.08e-94	Uncultured prokaryote cbbL gene for ribulose,1-5,bisphosphate carboxylase oxygenase form I large subunit cbbL, partial cds, clone:Mariana (I)-1
+NODE_19_length_530_cov_0.254157:11-502	174145	351	NODE_19_length_530_cov_0.254157:11-502	AB038634.3	81.925	426	67	10	3	423	677	257	3.48e-92	Endosymbiont of Bathymodiolus sp. RuBisco cbbL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial cds
+NODE_19_length_530_cov_0.254157:11-502	2202518	340	NODE_19_length_530_cov_0.254157:11-502	NC_034714.1	79.958	474	85	10	23	491	68071	67603	7.53e-89	Hazenia capsulata chloroplast, complete genome
+NODE_19_length_530_cov_0.254157:11-502	2202518	340	NODE_19_length_530_cov_0.254157:11-502	KY407661.1	79.958	474	85	10	23	491	68071	67603	7.53e-89	Hazenia capsulata chloroplast, complete genome
+NODE_19_length_530_cov_0.254157:11-502	2563810	339	NODE_19_length_530_cov_0.254157:11-502	LC472548.1	79.545	484	91	8	11	490	1224	745	2.71e-88	Raphidocelis sp. NIES-4291 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_19_length_530_cov_0.254157:11-502	1867922	329	NODE_19_length_530_cov_0.254157:11-502	KX131180.1	79.261	487	89	11	11	491	79532	80012	1.63e-85	Hariotina sp. MMOGRB0030F chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_1_length_2304_cov_8.322551:403-1867
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2704	NODE_1_length_2304_cov_8.322551:403-1867	MT211887.1	100.000	1464	0	0	1	1464	1482	19	0.0	Corallina officinalis chloroplast, complete genome
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2704	NODE_1_length_2304_cov_8.322551:403-1867	MT211886.1	100.000	1464	0	0	1	1464	1482	19	0.0	Corallina officinalis chloroplast, complete genome
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2704	NODE_1_length_2304_cov_8.322551:403-1867	MT211885.1	100.000	1464	0	0	1	1464	1482	19	0.0	Corallina officinalis chloroplast, complete genome
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2704	NODE_1_length_2304_cov_8.322551:403-1867	MT211884.1	100.000	1464	0	0	1	1464	1464	1	0.0	Corallina officinalis chloroplast, complete genome
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2577	NODE_1_length_2304_cov_8.322551:403-1867	JN701476.1	99.928	1398	1	0	1	1398	1398	1	0.0	Corallina officinalis voucher BM:001004107 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds; chloroplast
+NODE_1_length_2304_cov_8.322551:403-1867	2582857	2571	NODE_1_length_2304_cov_8.322551:403-1867	NC_042901.1	98.361	1464	24	0	1	1464	143990	142527	0.0	Corallina chilensis voucher UC2050474 chloroplast, complete genome
+NODE_1_length_2304_cov_8.322551:403-1867	2582857	2571	NODE_1_length_2304_cov_8.322551:403-1867	MK598845.1	98.361	1464	24	0	1	1464	143990	142527	0.0	Corallina chilensis chloroplast, complete genome
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2571	NODE_1_length_2304_cov_8.322551:403-1867	KP834403.1	99.857	1398	2	0	1	1398	1398	1	0.0	Corallina officinalis voucher BM001033630 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_1_length_2304_cov_8.322551:403-1867	35170	2566	NODE_1_length_2304_cov_8.322551:403-1867	KP834404.1	99.785	1398	3	0	1	1398	1398	1	0.0	Corallina officinalis voucher BM000639033 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_1_length_2304_cov_8.322551:403-1867	35170;48944	2560	NODE_1_length_2304_cov_8.322551:403-1867	JX315329.1	99.714	1398	4	0	1	1398	1398	1	0.0	Corallina officinalis ribulose-1,5-bisphosphate carboxylase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_24_length_492_cov_1.477807:103-492
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_24_length_492_cov_1.477807:103-492	173545	708	NODE_24_length_492_cov_1.477807:103-492	MF101428.1	99.486	389	2	0	1	389	62056	61668	0.0	Polysiphonia stricta isolate PD550 chloroplast, complete genome
+NODE_24_length_492_cov_1.477807:103-492	173545	708	NODE_24_length_492_cov_1.477807:103-492	JX828150.1	99.486	389	2	0	1	389	2	390	0.0	Polysiphonia stricta voucher CH1270 ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; plastid
+NODE_24_length_492_cov_1.477807:103-492	756425	647	NODE_24_length_492_cov_1.477807:103-492	GQ252569.1	96.658	389	13	0	1	389	2	390	0.0	Polysiphonia sp. AC229 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_24_length_492_cov_1.477807:103-492	173545	588	NODE_24_length_492_cov_1.477807:103-492	AY958167.1	99.383	324	2	0	66	389	1	324	1.89e-163	Polysiphonia stricta voucher P171 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_24_length_492_cov_1.477807:103-492	173545	588	NODE_24_length_492_cov_1.477807:103-492	AY958165.1	99.383	324	2	0	66	389	1	324	1.89e-163	Polysiphonia stricta voucher P198 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_24_length_492_cov_1.477807:103-492	173545	588	NODE_24_length_492_cov_1.477807:103-492	AY958164.1	99.383	324	2	0	66	389	1	324	1.89e-163	Polysiphonia stricta voucher P196 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_24_length_492_cov_1.477807:103-492	2212967	586	NODE_24_length_492_cov_1.477807:103-492	MN419244.1	95.148	371	18	0	19	389	3	373	6.81e-163	Polysiphonia delicata PD3514 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_24_length_492_cov_1.477807:103-492	1538366	579	NODE_24_length_492_cov_1.477807:103-492	KJ028026.1	95.568	361	16	0	29	389	1	361	1.14e-160	Polysiphonia ulleungensis isolate TC9483 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_24_length_492_cov_1.477807:103-492	173545	577	NODE_24_length_492_cov_1.477807:103-492	KJ957813.1	99.371	318	2	0	72	389	1	318	4.10e-160	Polysiphonia stricta ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_24_length_492_cov_1.477807:103-492	1917050	562	NODE_24_length_492_cov_1.477807:103-492	MF120886.1	99.355	310	2	0	80	389	1	310	1.15e-155	Polysiphonia sp. 2stricta voucher GWS018112 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_25_length_488_cov_0.846966:2-488
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_25_length_488_cov_0.846966:2-488	1620271	649	NODE_25_length_488_cov_0.846966:2-488	KJ801809.1	90.741	486	45	0	1	486	1060	575	0.0	Colaconema infestans voucher SP 400.8270 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_25_length_488_cov_0.846966:2-488	209634	593	NODE_25_length_488_cov_0.846966:2-488	KC134349.1	88.706	487	53	2	1	486	1037	552	5.18e-165	Colaconema daviesii voucher GWS002269 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_25_length_488_cov_0.846966:2-488	2905141	586	NODE_25_length_488_cov_0.846966:2-488	LC663320.1	88.501	487	52	3	2	486	1020	536	8.66e-163	Colaconema codicola 1A22R chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_25_length_488_cov_0.846966:2-488	209636	577	NODE_25_length_488_cov_0.846966:2-488	KC134327.1	88.115	488	54	4	1	486	1037	552	5.21e-160	Colaconema proskaueri voucher GWSC008 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_25_length_488_cov_0.846966:2-488	397017	564	NODE_25_length_488_cov_0.846966:2-488	DQ787561.1	87.629	485	60	0	2	486	1075	591	4.06e-156	Acrochaetium savianum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_25_length_488_cov_0.846966:2-488	2745617	531	NODE_25_length_488_cov_0.846966:2-488	KM097031.1	86.542	483	63	2	3	484	954	473	4.12e-146	Virescentia viride-brasiliensis isolate Prb ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_25_length_488_cov_0.846966:2-488	2822	529	NODE_25_length_488_cov_0.846966:2-488	KX284726.1	86.364	484	66	0	1	484	66511	66028	1.48e-145	Palmaria palmata plastid, complete genome
+NODE_25_length_488_cov_0.846966:2-488	2822	529	NODE_25_length_488_cov_0.846966:2-488	KT886266.1	86.364	484	66	0	1	484	1037	554	1.48e-145	Palmaria palmata voucher UNB:GWS003845 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_25_length_488_cov_0.846966:2-488	39572	527	NODE_25_length_488_cov_0.846966:2-488	KC134351.1	86.242	487	65	2	1	486	1037	552	5.32e-145	Meiodiscus spetsbergensis voucher SLC005 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_25_length_488_cov_0.846966:2-488	2744342	525	NODE_25_length_488_cov_0.846966:2-488	AF244117.1	86.335	483	64	2	3	484	954	473	1.91e-144	Virescentia viride-americana clone oak19rbcl ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_2_length_2230_cov_25.195662:329-1793
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_2230_cov_25.195662:329-1793	31369	2571	NODE_2_length_2230_cov_25.195662:329-1793	GQ252543.1	99.505	1414	6	1	52	1464	1414	1	0.0	Bonnemaisonia hamifera voucher AC220 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit-like (rbcL) gene, partial sequence; chloroplast
+NODE_2_length_2230_cov_25.195662:329-1793	31369	2555	NODE_2_length_2230_cov_25.195662:329-1793	FJ195604.1	99.856	1389	2	0	1	1389	1389	1	0.0	Bonnemaisonia hamifera voucher B8 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_2_length_2230_cov_25.195662:329-1793	31369	2508	NODE_2_length_2230_cov_25.195662:329-1793	KC130209.1	100.000	1358	0	0	27	1384	1358	1	0.0	Bonnemaisonia hamifera voucher GWS000408 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_2_length_2230_cov_25.195662:329-1793	31369	2436	NODE_2_length_2230_cov_25.195662:329-1793	MN067423.1	99.849	1323	2	0	60	1382	1323	1	0.0	Bonnemaisonia hamifera isolate 815-AST039 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_2_length_2230_cov_25.195662:329-1793	31369	2361	NODE_2_length_2230_cov_25.195662:329-1793	GQ337066.1	99.613	1292	5	0	59	1350	1292	1	0.0	Bonnemaisonia hamifera voucher BCN-Phyc 2776 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_2_length_2230_cov_25.195662:329-1793	1293578	1901	NODE_2_length_2230_cov_25.195662:329-1793	KC174794.1	92.250	1342	102	2	1	1341	1341	1	0.0	Bonnemaisonia geniculata voucher US-Bg5viii95 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_2_length_2230_cov_25.195662:329-1793	40385	1838	NODE_2_length_2230_cov_25.195662:329-1793	U26812.1	90.401	1396	132	2	5	1399	1395	1	0.0	Delisea pulchra ribulose-1,5-bisphosphate carboxylase oxygenase large subunit (rbcL) mRNA, chloroplast gene encoding chloroplast protein, partial cds
+NODE_2_length_2230_cov_25.195662:329-1793	767341	1812	NODE_2_length_2230_cov_25.195662:329-1793	GQ337067.1	90.675	1362	127	0	22	1383	1363	2	0.0	Bonnemaisonia clavata voucher BCN-Phyc 1660 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_2_length_2230_cov_25.195662:329-1793	40386	1810	NODE_2_length_2230_cov_25.195662:329-1793	AF212188.1	90.669	1361	127	0	8	1368	1361	1	0.0	Bonnemaisonia asparagoides ribulose-1,5-bisphosphate carboxylase/oxygenase (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+NODE_2_length_2230_cov_25.195662:329-1793	40395	1810	NODE_2_length_2230_cov_25.195662:329-1793	AF212187.1	90.782	1356	123	2	5	1359	1355	1	0.0	Delisea flaccida ribulose-1,5-bisphosphate carboxylase/oxygenase (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+# BLASTN 2.12.0+
+# Query: NODE_33_length_425_cov_0.838608:1-259
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_33_length_425_cov_0.838608:1-259	568900	427	NODE_33_length_425_cov_0.838608:1-259	MH356727.1	96.512	258	9	0	1	258	59439	59182	2.75e-115	Seminavis robusta strain D6 chloroplast, complete genome
+NODE_33_length_425_cov_0.838608:1-259	1923966	427	NODE_33_length_425_cov_0.838608:1-259	KY320307.1	96.512	258	9	0	1	258	258	1	2.75e-115	Navicula sp. strain TA64 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_33_length_425_cov_0.838608:1-259	265559	427	NODE_33_length_425_cov_0.838608:1-259	KY320302.1	96.525	259	7	2	1	258	258	1	2.75e-115	Navicula ramosissima strain TA439 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_33_length_425_cov_0.838608:1-259	138539	427	NODE_33_length_425_cov_0.838608:1-259	NC_056794.1	96.512	258	9	0	1	258	70001	70258	2.75e-115	Navicula veneta isolate SZCZR1826 chloroplast, complete genome
+NODE_33_length_425_cov_0.838608:1-259	286100	427	NODE_33_length_425_cov_0.838608:1-259	AY571750.1	96.512	258	9	0	1	258	258	1	2.75e-115	Seminavis cf. robusta voucher E3463 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_33_length_425_cov_0.838608:1-259	2600302	422	NODE_33_length_425_cov_0.838608:1-259	NC_044491.1	96.124	258	10	0	1	258	55339	55596	1.28e-113	Haslea nusantara chloroplast, complete genome
+NODE_33_length_425_cov_0.838608:1-259	2600302	422	NODE_33_length_425_cov_0.838608:1-259	MH681881.1	96.124	258	10	0	1	258	55339	55596	1.28e-113	Haslea nusantara chloroplast, complete genome
+NODE_33_length_425_cov_0.838608:1-259	1923966	422	NODE_33_length_425_cov_0.838608:1-259	KY320310.1	96.124	258	10	0	1	258	258	1	1.28e-113	Navicula sp. strain TU3 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_33_length_425_cov_0.838608:1-259	1764367	422	NODE_33_length_425_cov_0.838608:1-259	KT257734.1	96.124	258	10	0	1	258	270	13	1.28e-113	Haslea provincialis strain SCCAP K-1343 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, complete cds; chloroplast
+NODE_33_length_425_cov_0.838608:1-259	2856	422	NODE_33_length_425_cov_0.838608:1-259	OK505009.1	96.124	258	10	0	1	258	258	1	1.28e-113	Cylindrotheca closterium chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_36_length_415_cov_1.058824:2-415
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_36_length_415_cov_1.058824:2-415	1108641	536	NODE_36_length_415_cov_1.058824:2-415	JN102134.1	90.073	413	41	0	1	413	659	247	7.43e-148	Jaoa prasina ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	1526473	525	NODE_36_length_415_cov_1.058824:2-415	KM226205.1	89.588	413	43	0	1	413	676	264	1.61e-144	Ulvella sp. HB1306 isolate B voucher HB1306(HBI) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_36_length_415_cov_1.058824:2-415	244874	525	NODE_36_length_415_cov_1.058824:2-415	FJ715715.1	89.588	413	43	0	1	413	676	264	1.61e-144	Acrochaete repens strain E093db ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	220635	520	NODE_36_length_415_cov_1.058824:2-415	MN515040.1	89.346	413	44	0	1	413	674	262	7.48e-143	Ulvella leptochaete isolate TAU-MAC 2515 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_36_length_415_cov_1.058824:2-415	1367500	508	NODE_36_length_415_cov_1.058824:2-415	KC767960.1	88.862	413	46	0	1	413	673	261	1.62e-139	Jaoa bullata ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	502723	508	NODE_36_length_415_cov_1.058824:2-415	EF110499.1	88.862	413	46	0	1	413	631	219	1.62e-139	Gemina letterstedtioidea voucher WELT A027533 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	502723	508	NODE_36_length_415_cov_1.058824:2-415	EF110498.1	88.862	413	46	0	1	413	631	219	1.62e-139	Gemina letterstedtioidea voucher WELT A027573 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	502723	508	NODE_36_length_415_cov_1.058824:2-415	EF110070.1	88.862	413	46	0	1	413	618	206	1.62e-139	Gemina letterstedtioidea voucher WELT A027327 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	502723	508	NODE_36_length_415_cov_1.058824:2-415	EF110068.1	88.862	413	46	0	1	413	631	219	1.62e-139	Gemina letterstedtioidea voucher WELT A027325 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_36_length_415_cov_1.058824:2-415	502723	508	NODE_36_length_415_cov_1.058824:2-415	EF110067.1	88.862	413	46	0	1	413	631	219	1.62e-139	Gemina letterstedtioidea voucher WELT A027594 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_3_length_2118_cov_40.722250:313-1779
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_3_length_2118_cov_40.722250:313-1779	35163	2658	NODE_3_length_2118_cov_40.722250:313-1779	MF101424.1	99.386	1466	9	0	1	1466	61073	62538	0.0	Rhodomela confervoides isolate PD508 chloroplast, complete genome
+NODE_3_length_2118_cov_40.722250:313-1779	35163	2615	NODE_3_length_2118_cov_40.722250:313-1779	KX146197.1	99.376	1443	9	0	3	1445	1443	1	0.0	Rhodomela confervoides voucher TJS0210 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_3_length_2118_cov_40.722250:313-1779	35163	2503	NODE_3_length_2118_cov_40.722250:313-1779	MH251740.1	99.349	1382	9	0	1	1382	1382	1	0.0	Rhodomela confervoides voucher CUK11515 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_3_length_2118_cov_40.722250:313-1779	2506477	2503	NODE_3_length_2118_cov_40.722250:313-1779	MH251739.1	99.349	1382	9	0	1	1382	1382	1	0.0	Symphyocladiella bartlingiana voucher CUK17755 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_3_length_2118_cov_40.722250:313-1779	1240996	2497	NODE_3_length_2118_cov_40.722250:313-1779	MH277310.1	99.853	1358	2	0	29	1386	1358	1	0.0	Rhodomela lycopodioides voucher GWS017875 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_3_length_2118_cov_40.722250:313-1779	1240996	2477	NODE_3_length_2118_cov_40.722250:313-1779	LT548299.1	100.000	1341	0	0	1	1341	1341	1	0.0	Rhodomela lycopodioides chloroplast partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, specimen voucher CAM 1147
+NODE_3_length_2118_cov_40.722250:313-1779	1240996	2477	NODE_3_length_2118_cov_40.722250:313-1779	LT548298.1	100.000	1341	0	0	1	1341	1341	1	0.0	Rhodomela lycopodioides chloroplast partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, specimen voucher CAM 1145
+NODE_3_length_2118_cov_40.722250:313-1779	1240996	2468	NODE_3_length_2118_cov_40.722250:313-1779	KU564515.1	99.851	1342	2	0	45	1386	1342	1	0.0	Rhodomela lycopodioides voucher GWS018104 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_3_length_2118_cov_40.722250:313-1779	35163	2427	NODE_3_length_2118_cov_40.722250:313-1779	LT548297.1	99.329	1341	9	0	1	1341	1341	1	0.0	Rhodomela confervoides chloroplast partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, specimen voucher CAM 1649
+NODE_3_length_2118_cov_40.722250:313-1779	35163	2427	NODE_3_length_2118_cov_40.722250:313-1779	LT548296.1	99.329	1341	9	0	1	1341	1341	1	0.0	Rhodomela confervoides chloroplast partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, specimen voucher CAM 1146
+# BLASTN 2.12.0+
+# Query: NODE_44_length_406_cov_0.818182:1-406
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_44_length_406_cov_0.818182:1-406	753677	743	NODE_44_length_406_cov_0.818182:1-406	MW675670.1	99.753	405	1	0	1	405	48641	49045	0.0	Porphyropsis coccinea chloroplast clone contig 176, complete genome
+NODE_44_length_406_cov_0.818182:1-406	753677	743	NODE_44_length_406_cov_0.818182:1-406	JF292652.1	99.753	405	1	0	1	405	447	43	0.0	Porphyropsis coccinea isolate JAW4073.1 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_44_length_406_cov_0.818182:1-406	753677	726	NODE_44_length_406_cov_0.818182:1-406	JF292653.1	99.012	405	4	0	1	405	550	146	0.0	Porphyropsis coccinea isolate JAW4678 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_44_length_406_cov_0.818182:1-406	753682	538	NODE_44_length_406_cov_0.818182:1-406	MW675664.1	90.617	405	38	0	1	405	137239	136835	2.02e-148	Pseudoerythrocladia kornmannii chloroplast, complete genome
+NODE_44_length_406_cov_0.818182:1-406	753682	538	NODE_44_length_406_cov_0.818182:1-406	JF292590.1	90.617	405	38	0	1	405	550	146	2.02e-148	Pseudoerythrocladia kornmannii isolate JAW4477 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_44_length_406_cov_0.818182:1-406	753682	538	NODE_44_length_406_cov_0.818182:1-406	JF292588.1	90.617	405	38	0	1	405	541	137	2.02e-148	Pseudoerythrocladia kornmannii isolate JAW4464 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_44_length_406_cov_0.818182:1-406	362236	521	NODE_44_length_406_cov_0.818182:1-406	MW675683.1	89.877	405	41	0	1	405	138403	137999	2.04e-143	Erythrocladia irregularis chloroplast clone contig 112, complete genome
+NODE_44_length_406_cov_0.818182:1-406	362236	521	NODE_44_length_406_cov_0.818182:1-406	JF292595.1	89.877	405	41	0	1	405	550	146	2.04e-143	Erythrocladia irregularis ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_44_length_406_cov_0.818182:1-406	362236	521	NODE_44_length_406_cov_0.818182:1-406	JF292594.1	89.877	405	41	0	1	405	550	146	2.04e-143	Erythrocladia irregularis isolate JAW4467 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_44_length_406_cov_0.818182:1-406	362236	521	NODE_44_length_406_cov_0.818182:1-406	JF292593.1	89.877	405	41	0	1	405	457	53	2.04e-143	Erythrocladia irregularis isolate JAW4465 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_4_length_1984_cov_6.131200:305-1759
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4_length_1984_cov_6.131200:305-1759	2506492	2686	NODE_4_length_1984_cov_6.131200:305-1759	MK814641.1	100.000	1454	0	0	1	1454	46638	45185	0.0	Dasysiphonia japonica isolate PD2948_2 plastid
+NODE_4_length_1984_cov_6.131200:305-1759	2506492	2531	NODE_4_length_1984_cov_6.131200:305-1759	MH251742.1	100.000	1370	0	0	75	1444	1	1370	0.0	Dasysiphonia japonica voucher CUK7674 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_4_length_1984_cov_6.131200:305-1759	2506492	2471	NODE_4_length_1984_cov_6.131200:305-1759	MW698722.1	100.000	1338	0	0	71	1408	1	1338	0.0	Dasysiphonia japonica voucher GWS030121 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_4_length_1984_cov_6.131200:305-1759	2506492	2401	NODE_4_length_1984_cov_6.131200:305-1759	MH287465.1	100.000	1300	0	0	155	1454	1	1300	0.0	Dasysiphonia japonica voucher CNU067649 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_4_length_1984_cov_6.131200:305-1759	2506492	2235	NODE_4_length_1984_cov_6.131200:305-1759	FM993097.1	99.753	1217	3	0	189	1405	1	1217	0.0	Heterosiphonia japonica chloroplast partial rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, specimen voucher L:SGAD0808001
+NODE_4_length_1984_cov_6.131200:305-1759	2007180	2202	NODE_4_length_1984_cov_6.131200:305-1759	MF101436.1	94.012	1453	87	0	1	1453	61532	60080	0.0	Dasya naccarioides isolate PD888 chloroplast, complete genome
+NODE_4_length_1984_cov_6.131200:305-1759	2896671	2196	NODE_4_length_1984_cov_6.131200:305-1759	KU381978.1	95.745	1363	58	0	71	1433	1	1363	0.0	Dasya tenuis voucher GWS015072 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_4_length_1984_cov_6.131200:305-1759	2896671	2193	NODE_4_length_1984_cov_6.131200:305-1759	MW698709.1	95.803	1358	57	0	71	1428	1	1358	0.0	Dasya tenuis voucher GWS025517 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_4_length_1984_cov_6.131200:305-1759	997588	2180	NODE_4_length_1984_cov_6.131200:305-1759	MW698710.1	95.652	1357	59	0	72	1428	2	1358	0.0	Dasya corymbifera voucher BDA0422 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_4_length_1984_cov_6.131200:305-1759	306616	2170	NODE_4_length_1984_cov_6.131200:305-1759	MW698715.1	95.508	1358	61	0	71	1428	1	1358	0.0	Dasya sessilis voucher GWS011955 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_51_length_385_cov_0.684783:10-283
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_51_length_385_cov_0.684783:10-283	1635138	366	NODE_51_length_385_cov_0.684783:10-283	KP202854.1	91.111	270	24	0	4	273	1420	1151	6.50e-97	Picomonas sp. DN1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_51_length_385_cov_0.684783:10-283	55410	342	NODE_51_length_385_cov_0.684783:10-283	NC_037920.1	90.385	260	25	0	12	271	85338	85597	1.09e-89	Pseudopediastrum boryanum voucher IL0402MN chloroplast, complete genome
+NODE_51_length_385_cov_0.684783:10-283	44573	339	NODE_51_length_385_cov_0.684783:10-283	KY407657.1	89.011	273	30	0	1	273	72859	73131	1.42e-88	Pseudoneochloris marina chloroplast, complete genome
+NODE_51_length_385_cov_0.684783:10-283	554055	335	NODE_51_length_385_cov_0.684783:10-283	KY629620.1	89.695	262	27	0	12	273	28249	28510	1.83e-87	Micractinium conductrix plastid, complete genome
+NODE_51_length_385_cov_0.684783:10-283	3077	333	NODE_51_length_385_cov_0.684783:10-283	MK948102.1	88.889	270	30	0	4	273	138562	138293	6.59e-87	Chlorella vulgaris strain UTEX259 plastid, complete genome
+NODE_51_length_385_cov_0.684783:10-283	3077	333	NODE_51_length_385_cov_0.684783:10-283	MK948100.1	88.889	270	30	0	4	273	122582	122313	6.59e-87	Chlorella vulgaris strain NJ-7 plastid, complete genome
+NODE_51_length_385_cov_0.684783:10-283	3072	333	NODE_51_length_385_cov_0.684783:10-283	MK295220.1	88.889	270	30	0	4	273	1420	1151	6.59e-87	Pseudochlorella pringsheimii voucher FACHB-962 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_51_length_385_cov_0.684783:10-283	31302	333	NODE_51_length_385_cov_0.684783:10-283	KT199251.1	88.645	273	31	0	1	273	83199	83471	6.59e-87	Chromochloris zofingiensis strain UTEX 56 chloroplast, complete genome
+NODE_51_length_385_cov_0.684783:10-283	163309	333	NODE_51_length_385_cov_0.684783:10-283	KM462883.1	88.645	273	31	0	1	273	81166	81438	6.59e-87	Geminella minor culture-collection SAG:22.88 chloroplast, complete genome
+NODE_51_length_385_cov_0.684783:10-283	3077	333	NODE_51_length_385_cov_0.684783:10-283	MT920676.1	88.889	270	30	0	4	273	137326	137057	6.59e-87	Chlorella vulgaris chloroplast clone ITBBA3-12, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_52_length_384_cov_1.570909:1-343
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_52_length_384_cov_1.570909:1-343	185958	243	NODE_52_length_384_cov_1.570909:1-343	MH379369.1	79.472	341	70	0	2	342	558	218	1.47e-59	Grateloupia sp. isolate LGFYR267.4 ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	151735	231	NODE_52_length_384_cov_1.570909:1-343	MZ753752.1	78.886	341	72	0	2	342	462	122	3.19e-56	Grateloupia asiatica isolate GA05 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	151735	226	NODE_52_length_384_cov_1.570909:1-343	MZ753751.1	78.592	341	73	0	2	342	462	122	1.48e-54	Grateloupia asiatica isolate GA04 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	151735	226	NODE_52_length_384_cov_1.570909:1-343	MZ753750.1	78.592	341	73	0	2	342	462	122	1.48e-54	Grateloupia asiatica isolate GA03 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	1367757	226	NODE_52_length_384_cov_1.570909:1-343	KC869679.1	78.592	341	73	0	2	342	563	223	1.48e-54	Grateloupia sp. 1 YL-2013 voucher LNU110802 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	252157	226	NODE_52_length_384_cov_1.570909:1-343	AY344044.1	78.655	342	71	2	2	342	553	213	1.48e-54	Beckerella pectinata ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_52_length_384_cov_1.570909:1-343	252157	226	NODE_52_length_384_cov_1.570909:1-343	AY344043.1	78.655	342	71	2	2	342	557	217	1.48e-54	Beckerella pectinata ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_52_length_384_cov_1.570909:1-343	203894	226	NODE_52_length_384_cov_1.570909:1-343	AY772037.1	78.592	341	73	0	2	342	532	192	1.48e-54	Grateloupia americana ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	31458	226	NODE_52_length_384_cov_1.570909:1-343	AY772033.1	78.592	341	73	0	2	342	532	192	1.48e-54	Prionitis lyalii ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_52_length_384_cov_1.570909:1-343	159587	226	NODE_52_length_384_cov_1.570909:1-343	AB061389.1	78.592	341	73	0	2	342	532	192	1.48e-54	Prionitis elata plastid rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase, partial cds, specimen_voucher:SAP088619(Hokkaido Univ.Herbarium)
+# BLASTN 2.12.0+
+# Query: NODE_5_length_1867_cov_1.449374:163-1518
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5_length_1867_cov_1.449374:163-1518	362236	2049	NODE_5_length_1867_cov_1.449374:163-1518	MW675683.1	93.962	1358	76	5	1	1355	137854	139208	0.0	Erythrocladia irregularis chloroplast clone contig 112, complete genome
+NODE_5_length_1867_cov_1.449374:163-1518	362236	2049	NODE_5_length_1867_cov_1.449374:163-1518	JF292595.1	93.962	1358	76	5	1	1355	1	1355	0.0	Erythrocladia irregularis ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	362236	2041	NODE_5_length_1867_cov_1.449374:163-1518	JF292591.1	93.814	1358	78	5	1	1355	1	1355	0.0	Erythrocladia irregularis isolate JAW4393.2 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	362236	2004	NODE_5_length_1867_cov_1.449374:163-1518	JF292592.1	93.230	1359	84	7	1	1355	1	1355	0.0	Erythrocladia irregularis isolate JAW4394.2 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	362236	1936	NODE_5_length_1867_cov_1.449374:163-1518	JF292593.1	95.118	1229	58	2	94	1321	1	1228	0.0	Erythrocladia irregularis isolate JAW4465 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	753682	1666	NODE_5_length_1867_cov_1.449374:163-1518	MW675664.1	88.864	1356	149	2	1	1355	136690	138044	0.0	Pseudoerythrocladia kornmannii chloroplast, complete genome
+NODE_5_length_1867_cov_1.449374:163-1518	753677	1620	NODE_5_length_1867_cov_1.449374:163-1518	JF292653.1	88.450	1342	155	0	1	1342	1	1342	0.0	Porphyropsis coccinea isolate JAW4678 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	468936	1605	NODE_5_length_1867_cov_1.449374:163-1518	JF292602.1	88.071	1358	156	6	1	1355	1	1355	0.0	Sahlingia subintegra isolate JAW4321 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	468936	1605	NODE_5_length_1867_cov_1.449374:163-1518	EF660278.1	88.071	1358	156	6	1	1355	6	1360	0.0	Sahlingia subintegra isolate JAW4321 ribulose bisphosphate carboxylase/oxygenase (rbcL) gene, partial cds; chloroplast
+NODE_5_length_1867_cov_1.449374:163-1518	753682	1585	NODE_5_length_1867_cov_1.449374:163-1518	JF292590.1	88.491	1312	149	2	1	1311	1	1311	0.0	Pseudoerythrocladia kornmannii isolate JAW4477 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_63_length_367_cov_0.418605:45-359
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_63_length_367_cov_0.418605:45-359	117040	411	NODE_63_length_367_cov_0.418605:45-359	AB038676.2	90.385	312	30	0	3	314	455	144	3.47e-110	Uncultured deep-sea autotrophic bacterium SBI-2 gene for ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, partial cds
+NODE_63_length_367_cov_0.418605:45-359	319096	403	NODE_63_length_367_cov_0.418605:45-359	AY945760.1	89.809	314	32	0	1	314	427	114	5.80e-108	Endosymbiont of Bathymodiolus azoricus clone BA-Sym(RI)-2 ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit (cbbL) gene, partial cds
+NODE_63_length_367_cov_0.418605:45-359	544549	396	NODE_63_length_367_cov_0.418605:45-359	KJ153588.1	89.457	313	33	0	1	313	385	73	9.71e-106	Uncultured marine phototrophic eukaryote clone AB5-6 ribulose-1,5-bisphosphate carboylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_63_length_367_cov_0.418605:45-359	544549	377	NODE_63_length_367_cov_0.418605:45-359	KJ153908.1	88.673	309	35	0	6	314	380	72	3.52e-100	Uncultured marine phototrophic eukaryote clone AB32-5 ribulose-1,5-bisphosphate carboylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_63_length_367_cov_0.418605:45-359	77133	374	NODE_63_length_367_cov_0.418605:45-359	FJ640833.1	88.179	313	37	0	1	313	427	115	4.55e-99	Uncultured bacterium clone L38 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds
+NODE_63_length_367_cov_0.418605:45-359	77133	374	NODE_63_length_367_cov_0.418605:45-359	FJ640827.1	88.179	313	37	0	1	313	429	117	4.55e-99	Uncultured bacterium clone L10 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds
+NODE_63_length_367_cov_0.418605:45-359	77133	374	NODE_63_length_367_cov_0.418605:45-359	FJ640826.1	88.179	313	37	0	1	313	427	115	4.55e-99	Uncultured bacterium clone L1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds
+NODE_63_length_367_cov_0.418605:45-359	77133	368	NODE_63_length_367_cov_0.418605:45-359	KX266002.1	88.274	307	36	0	8	314	495	189	2.12e-97	Uncultured bacterium clone L1-34 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (cbbL) gene, partial cds
+NODE_63_length_367_cov_0.418605:45-359	198431	366	NODE_63_length_367_cov_0.418605:45-359	AB858859.1	87.821	312	38	0	3	314	425	114	7.62e-97	Uncultured prokaryote cbbL gene for putative ribulose-1,5-bisphosphate carboxylase oxygenase form I, partial cds, clone: BMS3BcbbL13
+NODE_63_length_367_cov_0.418605:45-359	198431	361	NODE_63_length_367_cov_0.418605:45-359	AM403042.1	87.500	312	39	0	3	314	371	60	3.54e-95	Uncultured prokaryote partial cbbL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase form I large subunit, clone F10
+# BLASTN 2.12.0+
+# Query: NODE_6_length_1794_cov_2.001780:329-1714
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_1794_cov_2.001780:329-1714	205396	1892	NODE_6_length_1794_cov_2.001780:329-1714	NC_039920.1	91.600	1369	115	0	14	1382	57484	58852	0.0	Capsosiphon fulvescens plastid, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	205396	1892	NODE_6_length_1794_cov_2.001780:329-1714	MH790906.1	91.600	1369	115	0	14	1382	57806	59174	0.0	Capsosiphon fulvescens isolate typeB plastid, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	205396	1892	NODE_6_length_1794_cov_2.001780:329-1714	MG727869.1	91.600	1369	115	0	14	1382	57484	58852	0.0	Capsosiphon fulvescens isolate typeA plastid, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	75689	1640	NODE_6_length_1794_cov_2.001780:329-1714	MW543060.1	88.330	1371	155	3	16	1385	78269	76903	0.0	Ulva rigida isolate Cadiz chloroplast, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	75689	1640	NODE_6_length_1794_cov_2.001780:329-1714	NC_053616.1	88.330	1371	155	3	16	1385	106703	105337	0.0	Ulva rigida strain U112 chloroplast, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	75689	1640	NODE_6_length_1794_cov_2.001780:329-1714	MT160560.1	88.330	1371	155	3	16	1385	1403	37	0.0	Ulva rigida strain U25 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_6_length_1794_cov_2.001780:329-1714	44573	1631	NODE_6_length_1794_cov_2.001780:329-1714	KY407657.1	88.128	1373	161	2	14	1385	72874	74245	0.0	Pseudoneochloris marina chloroplast, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	111616	1624	NODE_6_length_1794_cov_2.001780:329-1714	LC507117.1	87.879	1386	163	3	1	1385	7956	9337	0.0	Ulva australis KU-MACC:KU-1658 chloroplast DNA, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	3120	1624	NODE_6_length_1794_cov_2.001780:329-1714	MN853875.1	88.111	1371	158	3	16	1385	76752	75386	0.0	Ulva pertusa chloroplast, complete genome
+NODE_6_length_1794_cov_2.001780:329-1714	3120	1624	NODE_6_length_1794_cov_2.001780:329-1714	KP233767.1	88.111	1371	158	3	16	1385	1403	37	0.0	Ulva pertusa strain UL092 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_7_length_1697_cov_0.995592:112-1531
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_7_length_1697_cov_0.995592:112-1531	2182327	1040	NODE_7_length_1697_cov_0.995592:112-1531	LS423452.1	79.944	1421	279	6	1	1418	1243196	1244613	0.0	Candidatus Nitrotoga sp. KNB genome assembly, chromosome: omosome
+NODE_7_length_1697_cov_0.995592:112-1531	339591	588	NODE_7_length_1697_cov_0.995592:112-1531	MF668135.1	76.079	1158	259	16	1	1149	1313	165	7.39e-163	Peyssonnelia rumoiana isolate TC10494 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_7_length_1697_cov_0.995592:112-1531	2746405	560	NODE_7_length_1697_cov_0.995592:112-1531	MT641469.1	75.220	1251	274	23	108	1349	1226	3	1.61e-154	Tsengia laciniata isolate 4 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_7_length_1697_cov_0.995592:112-1531	1232882	534	NODE_7_length_1697_cov_0.995592:112-1531	JQ026035.1	76.019	1055	239	12	102	1149	1168	121	9.77e-147	Gracilaria sp. 3 MYY-2012 voucher G3021 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_7_length_1697_cov_0.995592:112-1531	253180	531	NODE_7_length_1697_cov_0.995592:112-1531	AY352418.1	74.090	1401	314	37	3	1388	1370	4	1.26e-145	Gelidium bernabei ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_7_length_1697_cov_0.995592:112-1531	253180	529	NODE_7_length_1697_cov_0.995592:112-1531	AY352419.1	74.071	1400	314	37	3	1387	1368	3	4.55e-145	Gelidium bernabei ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+NODE_7_length_1697_cov_0.995592:112-1531	2078549	527	NODE_7_length_1697_cov_0.995592:112-1531	MG255062.1	75.962	1040	240	9	112	1146	1119	85	1.63e-144	Chondria sp. 1 SSut-2108 voucher SAP115363 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_7_length_1697_cov_0.995592:112-1531	2078547	527	NODE_7_length_1697_cov_0.995592:112-1531	MG843867.1	75.962	1040	240	9	112	1146	1119	85	1.63e-144	Chondria sp. SSut-2018a voucher SAP115391 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds; chloroplast
+NODE_7_length_1697_cov_0.995592:112-1531	2078547	527	NODE_7_length_1697_cov_0.995592:112-1531	MG843866.1	75.962	1040	240	9	112	1146	1119	85	1.63e-144	Chondria sp. SSut-2018a voucher SAP115390 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds; chloroplast
+NODE_7_length_1697_cov_0.995592:112-1531	2008688	525	NODE_7_length_1697_cov_0.995592:112-1531	MF094070.1	73.873	1397	329	24	1	1388	1413	44	5.88e-144	Herposiphonia sp. isolate 24671 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+# BLASTN 2.12.0+
+# Query: NODE_87_length_335_cov_1.185841:1-335
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_87_length_335_cov_1.185841:1-335	80365	617	NODE_87_length_335_cov_1.185841:1-335	AB775338.1	100.000	334	0	0	1	334	531	864	2.04e-172	Laminaria digitata chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial sequence, specimen_voucher: KU-d4680 (Kobe University, Kawai lab.)
+NODE_87_length_335_cov_1.185841:1-335	1740620	606	NODE_87_length_335_cov_1.185841:1-335	NC_057231.1	99.401	334	2	0	1	334	49971	50304	4.42e-169	Laminaria rodriguezii chloroplast, complete genome
+NODE_87_length_335_cov_1.185841:1-335	309353	601	NODE_87_length_335_cov_1.185841:1-335	AY851555.1	99.102	334	3	0	1	334	471	804	2.06e-167	Laminaria yezoensis ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene, partial cds; rbcL-rbcS intergenic spacer, complete sequence; and ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit gene, partial cds; chloroplast
+NODE_87_length_335_cov_1.185841:1-335	416830	590	NODE_87_length_335_cov_1.185841:1-335	JX442492.1	98.503	334	5	0	1	334	571	904	4.45e-164	Saccharina sculpera ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcl) gene, complete cds; chloroplast
+NODE_87_length_335_cov_1.185841:1-335	416830	590	NODE_87_length_335_cov_1.185841:1-335	AB035792.1	98.503	334	5	0	1	334	513	846	4.45e-164	Kjellmaniella crassifolia chloroplast rbcL gene for riblose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_87_length_335_cov_1.185841:1-335	2748384	584	NODE_87_length_335_cov_1.185841:1-335	LC493747.1	98.204	334	6	0	1	334	507	840	2.07e-162	Ecklonia cava subsp. stolonifera KU-d20412 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_87_length_335_cov_1.185841:1-335	2041055	584	NODE_87_length_335_cov_1.185841:1-335	LC493746.1	98.204	334	6	0	1	334	507	840	2.07e-162	Ecklonia radicosa KU-d23429 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_87_length_335_cov_1.185841:1-335	2041055	584	NODE_87_length_335_cov_1.185841:1-335	LC493745.1	98.204	334	6	0	1	334	507	840	2.07e-162	Ecklonia radicosa KU-d23428 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_87_length_335_cov_1.185841:1-335	428677	584	NODE_87_length_335_cov_1.185841:1-335	LC493744.1	98.204	334	6	0	1	334	516	849	2.07e-162	Ecklonia maxima KU-MACC:KU-1125 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_87_length_335_cov_1.185841:1-335	2748384;2748578	584	NODE_87_length_335_cov_1.185841:1-335	LC493743.1	98.204	334	6	0	1	334	507	840	2.07e-162	Ecklonia cava subsp. kurome KU-d21813 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+# BLASTN 2.12.0+
+# Query: NODE_8_length_1505_cov_1.070917:102-1505
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2087	NODE_8_length_1505_cov_1.070917:102-1505	MF101428.1	93.537	1408	81	8	1	1403	60595	61997	0.0	Polysiphonia stricta isolate PD550 chloroplast, complete genome
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2087	NODE_8_length_1505_cov_1.070917:102-1505	JX828150.1	93.537	1408	81	8	1	1403	1463	61	0.0	Polysiphonia stricta voucher CH1270 ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; plastid
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2087	NODE_8_length_1505_cov_1.070917:102-1505	AY958164.1	93.652	1402	79	8	1	1397	1397	1	0.0	Polysiphonia stricta voucher P196 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2082	NODE_8_length_1505_cov_1.070917:102-1505	AY958165.1	93.581	1402	80	8	1	1397	1397	1	0.0	Polysiphonia stricta voucher P198 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2073	NODE_8_length_1505_cov_1.070917:102-1505	AY958167.1	93.438	1402	82	8	1	1397	1397	1	0.0	Polysiphonia stricta voucher P171 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2069	NODE_8_length_1505_cov_1.070917:102-1505	AY958163.1	95.068	1318	59	5	1	1315	1315	1	0.0	Polysiphonia stricta voucher P195 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	173545	2063	NODE_8_length_1505_cov_1.070917:102-1505	KJ957813.1	93.651	1386	78	8	11	1391	1381	1	0.0	Polysiphonia stricta ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	1917050	2034	NODE_8_length_1505_cov_1.070917:102-1505	KU564468.1	93.636	1367	77	8	21	1382	1363	2	0.0	Polysiphonia sp. 2stricta voucher GWS017899 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	1917050	2004	NODE_8_length_1505_cov_1.070917:102-1505	MF120886.1	93.560	1351	77	8	37	1382	1347	2	0.0	Polysiphonia sp. 2stricta voucher GWS018112 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_8_length_1505_cov_1.070917:102-1505	173545	1989	NODE_8_length_1505_cov_1.070917:102-1505	EU492916.1	93.816	1326	76	5	1	1323	1337	15	0.0	Polysiphonia stricta isolate GWS2657 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+# BLASTN 2.12.0+
+# Query: NODE_91_length_329_cov_1.222727:1-329
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_91_length_329_cov_1.222727:1-329	1620271	459	NODE_91_length_329_cov_1.222727:1-329	KJ801809.1	92.049	327	24	2	1	326	109	434	1.28e-124	Colaconema infestans voucher SP 400.8270 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	209634	440	NODE_91_length_329_cov_1.222727:1-329	KC134349.1	90.881	329	28	2	1	328	86	413	4.65e-119	Colaconema daviesii voucher GWS002269 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	209636	440	NODE_91_length_329_cov_1.222727:1-329	KC134327.1	90.854	328	30	0	1	328	86	413	4.65e-119	Colaconema proskaueri voucher GWSC008 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	209633	429	NODE_91_length_329_cov_1.222727:1-329	MK185834.1	90.274	329	30	2	1	328	86	413	1.01e-115	Colaconema caespitosum voucher GWSC050 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	209633	429	NODE_91_length_329_cov_1.222727:1-329	KC134354.1	90.274	329	30	2	1	328	86	413	1.01e-115	Colaconema caespitosum voucher GWSC3582 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	209633	424	NODE_91_length_329_cov_1.222727:1-329	MK125340.1	89.970	329	31	2	1	328	54	381	4.68e-114	Colaconema caespitosum voucher HV06139 bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	2518136	414	NODE_91_length_329_cov_1.222727:1-329	MH414967.1	89.571	326	34	0	1	326	95	420	2.82e-111	Acrochaetium sp. MCL-2019a isolate LMC-ACABL-2015-YHY-01 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	2020008	414	NODE_91_length_329_cov_1.222727:1-329	MW182308.1	89.571	326	34	0	1	326	128	453	2.82e-111	Acrochaetium sp. isolate LMC-YHY-04 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	2020008	414	NODE_91_length_329_cov_1.222727:1-329	MW182307.1	89.571	326	34	0	1	326	128	453	2.82e-111	Acrochaetium sp. isolate LMC-YHY-03 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_91_length_329_cov_1.222727:1-329	2020008	414	NODE_91_length_329_cov_1.222727:1-329	MW182306.1	89.571	326	34	0	1	326	128	453	2.82e-111	Acrochaetium sp. isolate LMC-YHY-02 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_92_length_329_cov_0.795455:1-329
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_92_length_329_cov_0.795455:1-329	468936	492	NODE_92_length_329_cov_0.795455:1-329	MW675663.1	94.375	320	18	0	6	325	133457	133776	1.26e-134	Sahlingia subintegra chloroplast clone contig 105, complete genome
+NODE_92_length_329_cov_0.795455:1-329	468936	475	NODE_92_length_329_cov_0.795455:1-329	JF292608.1	93.438	320	21	0	6	325	40	359	1.27e-129	Sahlingia subintegra isolate JAW4658 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_92_length_329_cov_0.795455:1-329	35151	470	NODE_92_length_329_cov_0.795455:1-329	NC_031176.2	92.879	323	23	0	6	328	171343	171021	5.93e-128	Erythrotrichia carnea plastid, complete genome
+NODE_92_length_329_cov_0.795455:1-329	35151	470	NODE_92_length_329_cov_0.795455:1-329	KX284721.2	92.879	323	23	0	6	328	171343	171021	5.93e-128	Erythrotrichia carnea plastid, complete genome
+NODE_92_length_329_cov_0.795455:1-329	1076276	470	NODE_92_length_329_cov_0.795455:1-329	JF292639.1	92.638	326	24	0	3	328	37	362	5.93e-128	Erythrotrichia sp. GCZ-2011 isolate JAW4568 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_92_length_329_cov_0.795455:1-329	1076276	470	NODE_92_length_329_cov_0.795455:1-329	JF292636.1	92.638	326	24	0	3	328	37	362	5.93e-128	Erythrotrichia sp. GCZ-2011 isolate JAW4475 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_92_length_329_cov_0.795455:1-329	1076276	470	NODE_92_length_329_cov_0.795455:1-329	JF292627.1	92.638	326	24	0	3	328	37	362	5.93e-128	Erythrotrichia sp. GCZ-2011 isolate JAW4396 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_92_length_329_cov_0.795455:1-329	1076276	470	NODE_92_length_329_cov_0.795455:1-329	JF292623.1	92.638	326	24	0	3	328	28	353	5.93e-128	Erythrotrichia sp. GCZ-2011 isolate JAW4295 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_92_length_329_cov_0.795455:1-329	1076276	470	NODE_92_length_329_cov_0.795455:1-329	JF292616.1	92.638	326	24	0	3	328	28	353	5.93e-128	Erythrotrichia sp. GCZ-2011 isolate JAW4245 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+NODE_92_length_329_cov_0.795455:1-329	468936	470	NODE_92_length_329_cov_0.795455:1-329	JF292607.1	93.125	320	22	0	6	325	40	359	5.93e-128	Sahlingia subintegra isolate JAW4578 ribulose bisphosphate carboxylase (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_95_length_325_cov_0.157407:11-325
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_95_length_325_cov_0.157407:11-325	415540	274	NODE_95_length_325_cov_0.157407:11-325	FJ981919.1	81.905	315	55	2	1	314	615	302	4.75e-69	Uncultured marine microorganism clone FormIAB_39 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds
+NODE_95_length_325_cov_0.157407:11-325	28885	272	NODE_95_length_325_cov_0.157407:11-325	AP020335.1	83.446	296	45	4	1	294	2162740	2162447	1.71e-68	Hydrogenovibrio marinus MH-110 DNA, complete genome
+NODE_95_length_325_cov_0.157407:11-325	28885	261	NODE_95_length_325_cov_0.157407:11-325	AB122069.1	82.770	296	47	4	1	294	1737	2030	3.70e-65	Hydrogenovibrio marinus cbbLS-1 gene cluster (cbbR1, cbbL-1, cbbS-1, cbbQ1, cbbO1, orf1-5), complete cds
+NODE_95_length_325_cov_0.157407:11-325	28885	261	NODE_95_length_325_cov_0.157407:11-325	D43621.1	82.770	296	47	4	1	294	671	964	3.70e-65	Hydrogenovibrio marinus cbbL-1 gene and cbbS-1 gene for ribulosebiphosphate carboxylase large subunit and small subunit, complete cds
+NODE_95_length_325_cov_0.157407:11-325	1168067	239	NODE_95_length_325_cov_0.157407:11-325	DQ272531.1	83.794	253	39	2	43	294	1	252	1.73e-58	Thiomicrospira kuenenii form I ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (cbbL-1) gene, partial cds
+NODE_95_length_325_cov_0.157407:11-325	3078	215	NODE_95_length_325_cov_0.157407:11-325	JQ717305.1	79.114	316	62	4	1	314	142	455	2.92e-51	Chlorella pyrenoidosa strain LU2 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_95_length_325_cov_0.157407:11-325	55402	215	NODE_95_length_325_cov_0.157407:11-325	EF113405.1	79.048	315	64	2	1	314	484	797	2.92e-51	Actinastrum hantzschii strain UTEX LB 605 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_95_length_325_cov_0.157407:11-325	3076	215	NODE_95_length_325_cov_0.157407:11-325	AB240145.1	79.114	316	62	4	1	314	550	863	2.92e-51	Chlorella sorokiniana rbcL mRNA for RuBisCO large subunit, complete cds
+NODE_95_length_325_cov_0.157407:11-325	155900	211	NODE_95_length_325_cov_0.157407:11-325	KF976648.1	79.288	309	58	6	1	306	10	315	3.78e-50	Uncultured organism clone D2-6 form IAB ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds
+NODE_95_length_325_cov_0.157407:11-325	3078	209	NODE_95_length_325_cov_0.157407:11-325	MK842153.1	78.797	316	63	4	1	314	384	697	1.36e-49	Auxenochlorella pyrenoidosa ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_97_length_323_cov_1.471963:9-321
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_97_length_323_cov_1.471963:9-321	1880612	555	NODE_97_length_323_cov_1.471963:9-321	KT943671.1	98.718	312	4	0	1	312	1017	1328	1.50e-153	Amphora helenensis isolate SZCZCH582 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	1880612	549	NODE_97_length_323_cov_1.471963:9-321	KU179113.1	98.397	312	5	0	1	312	930	1241	7.00e-152	Amphora helenensis isolate SZCZP12 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	431328;1487558	510	NODE_97_length_323_cov_1.471963:9-321	KJ463463.1	96.154	312	12	0	1	312	934	1245	3.30e-140	Amphora indistincta isolate 9559-AMPH020 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	431328	510	NODE_97_length_323_cov_1.471963:9-321	KC954575.1	96.154	312	12	0	1	312	1042	1353	3.30e-140	Amphora pediculus strain Amph008 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	431328	510	NODE_97_length_323_cov_1.471963:9-321	HQ912403.1	96.154	312	12	0	1	312	1036	1347	3.30e-140	Amphora pediculus strain L1030 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	1242267	505	NODE_97_length_323_cov_1.471963:9-321	MG027465.1	95.833	312	13	0	1	312	933	1244	1.54e-138	Amphora copulata isolate 8058-AMPH107 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	1242267	505	NODE_97_length_323_cov_1.471963:9-321	KJ463459.1	95.833	312	13	0	1	312	934	1245	1.54e-138	Amphora copulata isolate 9557-AMPH021 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	1487558	499	NODE_97_length_323_cov_1.471963:9-321	MG027426.1	95.513	312	14	0	1	312	933	1244	7.15e-137	Amphora indistincta isolate 9559-AMPH019 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	1952938	499	NODE_97_length_323_cov_1.471963:9-321	KX120659.1	95.513	312	14	0	1	312	1007	1318	7.15e-137	Cymatopleura elliptica var. hibernica isolate E09.318 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+NODE_97_length_323_cov_1.471963:9-321	303462	499	NODE_97_length_323_cov_1.471963:9-321	KX120658.1	95.513	312	14	0	1	312	1007	1318	7.15e-137	Cymatopleura elliptica isolate E09.301 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_9_length_1417_cov_0.683486:76-1416
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_9_length_1417_cov_0.683486:76-1416	62313	1927	NODE_9_length_1417_cov_0.683486:76-1416	AF207799.1	92.670	1337	98	0	4	1340	1377	41	0.0	Desmarestia viridis ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+NODE_9_length_1417_cov_0.683486:76-1416	1004020	1844	NODE_9_length_1417_cov_0.683486:76-1416	AB623010.1	91.548	1337	113	0	4	1340	1420	84	0.0	Desmarestia sp. KU-d5481 chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_9_length_1417_cov_0.683486:76-1416	62298	1832	NODE_9_length_1417_cov_0.683486:76-1416	MZ156041.1	91.399	1337	115	0	4	1340	50981	49645	0.0	Desmarestia aculeata plastid, complete genome
+NODE_9_length_1417_cov_0.683486:76-1416	62298	1827	NODE_9_length_1417_cov_0.683486:76-1416	AB776773.1	91.324	1337	116	0	4	1340	1419	83	0.0	Desmarestia aculeata chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, culture_collection: KU-MACC:KU-1141
+NODE_9_length_1417_cov_0.683486:76-1416	62312	1827	NODE_9_length_1417_cov_0.683486:76-1416	AB037140.1	91.324	1337	116	0	4	1340	1402	66	0.0	Desmarestia tabacoides chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_9_length_1417_cov_0.683486:76-1416	62313	1814	NODE_9_length_1417_cov_0.683486:76-1416	AJ287849.1	92.622	1247	92	0	4	1250	1248	2	0.0	Desmarestia viridis chloroplast partial rbcL gene for ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit
+NODE_9_length_1417_cov_0.683486:76-1416	62313	1794	NODE_9_length_1417_cov_0.683486:76-1416	HE866850.1	92.436	1256	95	0	81	1336	1257	2	0.0	Desmarestia viridis chloroplast partial rbcL gene for ribulose-1,5-biphosphate carboxylase/oxygenase large subunit, isolate 008_13DviridisKI
+NODE_9_length_1417_cov_0.683486:76-1416	255243	1784	NODE_9_length_1417_cov_0.683486:76-1416	AY372980.1	90.793	1336	121	2	4	1339	1460	127	0.0	Desmarestia sp. SMB-2003 ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, complete cds; plastid
+NODE_9_length_1417_cov_0.683486:76-1416	62305	1755	NODE_9_length_1417_cov_0.683486:76-1416	AB037139.1	90.359	1338	127	2	4	1340	1402	66	0.0	Desmarestia latifrons chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+NODE_9_length_1417_cov_0.683486:76-1416	114257	1749	NODE_9_length_1417_cov_0.683486:76-1416	AB037141.1	90.277	1337	130	0	4	1340	1402	66	0.0	Desmarestia sp. Seto Inland Seas chloroplast rbcl gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds
+# BLAST processed 33 queries
