@@ -370,30 +370,31 @@ For this lab, students will review the various steps to distill large raw read f
 
 |Sample ID | Species | Sampling Location | Lat | Long | Date Sampled | Collector | BioSample Accession | Mitogenome resolved? | Chloroplast resolved? | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TTB000535 | Odonthalia dentata | Kleppesjoen | 60.1847 | 5.14938 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | NA |
-| TTB000538 | Coccotylus brodiei | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | NA |
-| TTB000539 | Mededithia microphylla | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | NA |
-| TTB000600 | Cladostephus spongiosus | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
-| TTB000601 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
-| TTB000605 | Coccotylus brodiei | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
-| TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
-| TTB000609 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
-| TTB000610 | Chorda filum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe| NA |
-| TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| Stipe scrapes |
-| TTB000612 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| mid-blade |
-| TTB000614 | Palmaria palmata | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | T.T. Bringloe| NA |
-| TTB000615 | Codium |
-| TTB000617 | Chondrus crispus |
-| TTB000618 | Phycodrys sp.1NB |
-| TTB000621 | Phyllophora |
-| TTB000629 | Alaria esculenta |
-| TTB000631 | Membranoptera alata |
-| TTB000632 | Phycodrys rubens |
-| TTB000634 | Ptilota gunneri |
-| TTB000636 | Saccorhiza polysiches| 
-| TTB000637 | Delesseria sanguinea | 
-| TTB000639 | Rhodomela confervoides |
-| TTB000641 | Coccotylus brodiei | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | NA |
+| TTB000535 | Odonthalia dentata | Kleppesjoen | 60.1847 | 5.14938 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | SRR25569791 | Yes | Yes | NA |
+| TTB000538 | Phyllophora crispa | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | SRR25569790 | Yes | Yes | NA |
+| TTB000539 | Mededithia microphylla | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | SRR25569779 | Yes | Yes | NA |
+| TTB000600 | Cladostephus spongiosus | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569773 | No | Yes | NA |
+| TTB000601 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringlo e| SRR25569772 | No | Yes | NA |
+| TTB000605 | Coccotylus brodiei | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569771 | Yes | Yes | NA |
+| TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569770 | Yes | Yes | NA |
+| TTB000609 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569769 | Yes | No | NA |
+| TTB000610 | Chorda filum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569768 | No | No | NA |
+| TTB000611 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | L. LeGall, J. Utge, Franz Goecke | SRR25569767 | Yes | Yes | Stipe scrapes |
+| TTB000612 | Laminaria hyperborea | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | L. LeGall, J. Utge, Franz Goecke | SRR25569789 | Yes | Yes | Mid-blade |
+| TTB000614 | Palmaria palmata | Tjongspollen, Station 4 | 59.69405 | 5.246691 | Aug-10-2022 | L. LeGall, J. Utge, Franz Goecke | SRR25569788 | Yes | No | NA |
+| TTB000615 | Codium vermilara | Tjongspollen, Station 3 | 59.66574 | 5.225333 | Aug-10-2022 | L. LeGall, J. Utge, Franz Goecke | SRR25569787 | No | No | NA |
+| TTB000617 | Chondrus crispus | Tjongspollen, Station 3 | 59.66574 | 5.225333 | Aug-10-2022 | T.T. Bringloe | SRR25569786 | Yes | Yes | NA |
+| TTB000618 | Cladostephus spongiosus | Tjongspollen, Station 3 | 59.66574 | 5.225333 | Aug-10-2022 | T.T. Bringloe | SRR25569785 | No | No |
+| TTB000620 | Phycodrys sp.1NB | Tjongspollen, Station 3 | 59.66574 | 5.225333 | Aug-10-2022 | L. LeGall, J. Utge, Franz Goecke | SRR25569784 | No | Yes | NA |
+| TTB000621 | Phyllophora crispa | Tjongspollen, Station 3 | 59.66574 | 5.225333 | Aug-10-2022 | L. LeGall, J. Utge, Franz Goecke | SRR25569783 | Yes | Yes | NA |
+| TTB000629 | Alaria esculenta | Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569782 | Yes | Yes | NA |
+| TTB000631 | Membranoptera alata | Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569781 | No | Yes | NA |
+| TTB000632 | Phycodrys rubens | Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569780 | No | Yes | NA |
+| TTB000634 | Ptilota gunneri | Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569778 | No | Yes | NA |
+| TTB000636 | Saccorhiza polysiches| Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569777 | Yes | Yes | NA |
+| TTB000637 | Phycodrys rubens | Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569776 | No | Yes | NA |
+| TTB000639 | Rhodomela confervoides | Dredge 2 | 59.36036 | 5.09016 | Aug-11-2022 | T.T. Bringloe | SRR25569775 | Yes | Yes | NA |
+| TTB000641 | Coccotylus brodiei | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | SRR25569774 | Yes | Yes | NA |
 
 Our goal is to identify species in the algal turfs. For this, we need taxonomically informative sequence data. This is present in the read datasets, but must be extracted. Specifically, we can use well-established DNA barcode sequences to identify species (see lecture material). One strategy is to assemble the entire read datasets and "fish" for sequences corresponding to DNA barcodes. As noted above, however, this is computationally intensive. Another approach is to "fish" for DNA barcode sequences at the read level, then assemble reads corresponding to DNA barcodes to retrieve taxonomically informative sequences. The first step in this process is to create a reference database of DNA barcode sequences. In order to reduce computational time during read mapping, using [mmseqs2](https://github.com/soedinglab/MMseqs2) (Steinegger & Söding, 2017) we will cluster sequences at 90% similarity, and keep a single representative sequence from each cluster (reducing our database from millions of sequences to ~200,000). We will use this to map reads and identify candidate DNA barcode reads. The following code is meant to illustrate the steps taken to arrive at a reference database. Students are not expected to understand these steps, they are meant to supplement learning. Students will engage with data downstream, post mapping.
 
