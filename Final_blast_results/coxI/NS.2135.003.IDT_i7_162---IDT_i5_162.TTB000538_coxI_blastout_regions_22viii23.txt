@@ -1,0 +1,606 @@
+# BLASTN 2.12.0+
+# Query: NODE_103_length_725_cov_0.602273:9-538
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_103_length_725_cov_0.602273:9-538	2025105	292	NODE_103_length_725_cov_0.602273:9-538	MN676059.1	77.381	504	106	8	4	503	640	141	2.32e-74	Lebertia porosa voucher CHARS00040-G07 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	2025105	292	NODE_103_length_725_cov_0.602273:9-538	MN675179.1	77.381	504	106	8	4	503	640	141	2.32e-74	Lebertia porosa voucher CHARS00040-G03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	2025105	292	NODE_103_length_725_cov_0.602273:9-538	MN673320.1	77.381	504	106	8	4	503	639	140	2.32e-74	Lebertia porosa voucher CHARS00059-E03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	2025105	292	NODE_103_length_725_cov_0.602273:9-538	MN671177.1	77.381	504	106	8	4	503	639	140	2.32e-74	Lebertia porosa voucher CHARS00040-G08 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	2025105	292	NODE_103_length_725_cov_0.602273:9-538	MN669540.1	77.381	504	106	8	4	503	639	140	2.32e-74	Lebertia porosa voucher CHARS00040-G01 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	2581715;2581716	289	NODE_103_length_725_cov_0.602273:9-538	HM881240.1	76.981	530	106	13	4	525	643	122	3.00e-73	Lixophaga sp. ASCRT439-10 voucher INB0003371229 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	2158186	287	NODE_103_length_725_cov_0.602273:9-538	MF748309.1	77.183	504	107	8	4	503	643	144	1.08e-72	Lebertia sp. BIOUG07093-D04 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	674368	285	NODE_103_length_725_cov_0.602273:9-538	FJ819823.1	76.792	530	109	14	4	526	626	104	3.88e-72	Paracymus sp. 1 MTM-2009 voucher BMNH:672761 cytochrome oxidase subunit I (cox1) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	1194279	268	NODE_103_length_725_cov_0.602273:9-538	KC974662.1	76.449	535	103	21	7	529	595	72	3.90e-67	Pachyprotasis rapae voucher BC ZSM HYM 10982 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_103_length_725_cov_0.602273:9-538	1870167	265	NODE_103_length_725_cov_0.602273:9-538	KX044889.1	76.424	509	108	10	4	506	643	141	5.05e-66	Parornix torquillella voucher F04torq cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_1062_length_356_cov_0.315789:1-322
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	MG543009.1	78.571	308	62	4	1	306	319	624	8.38e-47	Phytophthora fallax strain U35 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	MG543008.1	78.571	308	62	4	1	306	319	624	8.38e-47	Phytophthora fallax strain U34 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	MH136886.1	78.571	308	62	4	1	306	355	660	8.38e-47	Phytophthora fallax strain CPHST BL 170 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	MH136885.1	78.571	308	62	4	1	306	361	666	8.38e-47	Phytophthora fallax strain ex-type CPHST BL 63 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	NC_056124.1	78.125	320	66	4	4	321	13174	12857	8.38e-47	Phytophthora fallax culture ICMP:17563 mitochondrion, complete genome
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	HQ261305.1	78.571	308	62	4	1	306	355	660	8.38e-47	Phytophthora fallax voucher P10723 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	360399	200	NODE_1062_length_356_cov_0.315789:1-322	HQ261304.1	78.571	308	62	4	1	306	355	660	8.38e-47	Phytophthora fallax voucher P10725 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	134455;360399	200	NODE_1062_length_356_cov_0.315789:1-322	GU594811.1	78.571	308	62	4	1	306	356	661	8.38e-47	Phytophthora fallax strain P10725 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	693772	195	NODE_1062_length_356_cov_0.315789:1-322	GU070904.1	78.205	312	62	5	1	309	363	671	3.90e-45	Invertebrate environmental sample clone B03 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_1062_length_356_cov_0.315789:1-322	2305844	183	NODE_1062_length_356_cov_0.315789:1-322	MG543011.1	77.597	308	65	4	1	306	319	624	8.44e-42	Phytophthora cacuminis strain U41 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_1082_length_354_cov_0.440816:1-352
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1082_length_354_cov_0.440816:1-352	2865492	621	NODE_1082_length_354_cov_0.440816:1-352	LC061283.1	98.575	351	5	0	1	351	11	361	1.67e-173	Juxtacribrilina mutabilis mitochondrial COI gene for cytochrome oxidase subunit 1, partial cds, isolate: C3, note: C3_631
+NODE_1082_length_354_cov_0.440816:1-352	2865492	621	NODE_1082_length_354_cov_0.440816:1-352	LC061284.1	98.575	351	5	0	1	351	11	361	1.67e-173	Juxtacribrilina mutabilis mitochondrial COI gene for cytochrome oxidase subunit 1, partial cds, isolate: C4, note: C4_631
+NODE_1082_length_354_cov_0.440816:1-352	2865492	568	NODE_1082_length_354_cov_0.440816:1-352	MN103547.1	100.000	307	0	0	45	351	1	307	2.20e-157	Cribrilina mutabilis haplotype H4 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+NODE_1082_length_354_cov_0.440816:1-352	2865492	562	NODE_1082_length_354_cov_0.440816:1-352	MN103546.1	99.674	307	1	0	45	351	1	307	1.03e-155	Cribrilina mutabilis haplotype H3 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+NODE_1082_length_354_cov_0.440816:1-352	2865492	551	NODE_1082_length_354_cov_0.440816:1-352	LC061291.1	99.023	307	3	0	45	351	1	307	2.22e-152	Juxtacribrilina mutabilis mitochondrial COI gene for cytochrome oxidase subunit 1, partial cds, isolate: R1
+NODE_1082_length_354_cov_0.440816:1-352	2865492	551	NODE_1082_length_354_cov_0.440816:1-352	LC061293.1	99.023	307	3	0	45	351	1	307	2.22e-152	Juxtacribrilina mutabilis mitochondrial COI gene for cytochrome oxidase subunit 1, partial cds, isolate: R3
+NODE_1082_length_354_cov_0.440816:1-352	2724374	331	NODE_1082_length_354_cov_0.440816:1-352	MT293079.1	84.940	332	44	5	1	329	52	380	3.15e-86	Tessaradoma boreale strain BLEED1183 mitochondrion sequence
+NODE_1082_length_354_cov_0.440816:1-352	1545973	315	NODE_1082_length_354_cov_0.440816:1-352	MH242724.1	83.333	342	55	2	1	341	11	351	3.17e-81	Dendrobeania murrayana voucher BMBM-0793 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1082_length_354_cov_0.440816:1-352	2790719	292	NODE_1082_length_354_cov_0.440816:1-352	MW278618.1	81.870	353	58	4	1	350	11	360	1.48e-74	Bryozoa sp. HAW03 voucher UF:Invertebrate Zoology:2515-Bryozoa cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_1082_length_354_cov_0.440816:1-352	2790719	292	NODE_1082_length_354_cov_0.440816:1-352	MW277763.1	81.870	353	58	4	1	350	11	360	1.48e-74	Bryozoa sp. HAW03 voucher UF:Invertebrate Zoology:2502-Bryozoa cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_129_length_674_cov_0.414159:102-498
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_129_length_674_cov_0.414159:102-498	718261	616	NODE_129_length_674_cov_0.414159:102-498	GQ501814.1	94.697	396	21	0	1	396	417	22	8.86e-172	Uncultured Thecadinium voucher S4-59 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	718261	616	NODE_129_length_674_cov_0.414159:102-498	GQ501444.1	94.697	396	21	0	1	396	417	22	8.86e-172	Uncultured Thecadinium voucher ES8-69 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	718261	616	NODE_129_length_674_cov_0.414159:102-498	GQ501436.1	94.697	396	21	0	1	396	417	22	8.86e-172	Uncultured Thecadinium voucher ES11-93 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	718261	616	NODE_129_length_674_cov_0.414159:102-498	GQ501430.1	94.697	396	21	0	1	396	417	22	8.86e-172	Uncultured Thecadinium voucher ES11-97 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	718261	612	NODE_129_length_674_cov_0.414159:102-498	GQ501497.1	94.444	396	22	0	1	396	417	22	1.15e-170	Uncultured Thecadinium voucher ES4-34 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	1428570	610	NODE_129_length_674_cov_0.414159:102-498	KF543357.1	94.444	396	22	0	1	396	730	335	4.12e-170	Azadinium dalianense strain AZCH02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	1052040	610	NODE_129_length_674_cov_0.414159:102-498	FR877581.1	94.444	396	22	0	1	396	740	345	4.12e-170	Azadinium cf. poporum HJ-2011 mitochondrial partial COI gene for cytochrome oxidase subunit 1
+NODE_129_length_674_cov_0.414159:102-498	1034652	610	NODE_129_length_674_cov_0.414159:102-498	HQ324903.2	94.444	396	22	0	1	396	721	326	4.12e-170	Azadinium poporum isolate UTHD4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	1034652	610	NODE_129_length_674_cov_0.414159:102-498	HQ324901.2	94.444	396	22	0	1	396	730	335	4.12e-170	Azadinium poporum isolate UTHC5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_129_length_674_cov_0.414159:102-498	671506	610	NODE_129_length_674_cov_0.414159:102-498	GQ501856.1	94.444	396	22	0	1	396	417	22	4.12e-170	Gonyaulax sp. PL9-25 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_134_length_667_cov_0.788530:135-667
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_134_length_667_cov_0.788530:135-667	1535363	830	NODE_134_length_667_cov_0.788530:135-667	LM995016.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 7 AP-2014 mitochondrial partial COI gene for cytochrome oxidase subunit 1, strain Ec666
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	KF281133.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS030169 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	MN335625.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS040413 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	MN335615.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS007072 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	MN335595.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS040411 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	MN335592.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS039435 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	MN335560.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS039440 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	MN335518.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS043343 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1403517	830	NODE_134_length_667_cov_0.788530:135-667	HM891423.1	95.560	518	23	0	15	532	639	122	0.0	Ectocarpus sp. 1siliculosus voucher GWS008814 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_134_length_667_cov_0.788530:135-667	1535363	824	NODE_134_length_667_cov_0.788530:135-667	LM995017.1	95.367	518	24	0	15	532	639	122	0.0	Ectocarpus sp. 7 AP-2014 mitochondrial partial COI gene for cytochrome oxidase subunit 1, strain SAM08-3
+# BLASTN 2.12.0+
+# Query: NODE_1377_length_332_cov_0.278027:20-320
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 3 hits found
+NODE_1377_length_332_cov_0.278027:20-320	983545	154	NODE_1377_length_332_cov_0.278027:20-320	CP002526.1	81.218	197	31	6	9	202	4967803	4967610	6.13e-33	Glaciecola sp. 4H-3-7+YE-5, complete genome
+NODE_1377_length_332_cov_0.278027:20-320	155900	119	NODE_1377_length_332_cov_0.278027:20-320	FJ541282.2	84.426	122	17	2	1	121	80	200	2.24e-22	Uncultured organism isolate Constitucion_16 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_1377_length_332_cov_0.278027:20-320	1278309	113	NODE_1377_length_332_cov_0.278027:20-320	AP014545.1	74.818	274	57	11	1	268	3476188	3475921	1.04e-20	Amphritea japonica ATCC BAA-1530 DNA, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_1400_length_330_cov_0.733032:3-266
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1400_length_330_cov_0.733032:3-266	2185142	272	NODE_1400_length_330_cov_0.733032:3-266	CP031155.1	85.882	255	36	0	9	263	2487224	2487478	1.40e-68	Altererythrobacter sp. ZODW24 chromosome
+NODE_1400_length_330_cov_0.733032:3-266	2675225	270	NODE_1400_length_330_cov_0.733032:3-266	CP046120.1	85.171	263	39	0	1	263	1547475	1547213	5.02e-68	Novosphingobium sp. Gsoil 351 chromosome, complete genome
+NODE_1400_length_330_cov_0.733032:3-266	690566	259	NODE_1400_length_330_cov_0.733032:3-266	CP002798.1	85.098	255	36	2	3	256	2610485	2610738	1.09e-64	Sphingobium chlorophenolicum L-1 chromosome 1, complete sequence
+NODE_1400_length_330_cov_0.733032:3-266	1030157	244	NODE_1400_length_330_cov_0.733032:3-266	CP016306.1	83.525	261	43	0	3	263	2239345	2239085	3.04e-60	Sphingomonas sp. KC8, complete genome
+NODE_1400_length_330_cov_0.733032:3-266	2907154	243	NODE_1400_length_330_cov_0.733032:3-266	CP090370.1	83.270	263	44	0	1	263	2350080	2349818	1.09e-59	Erythrobacter sp. SDW2 chromosome, complete genome
+NODE_1400_length_330_cov_0.733032:3-266	363835	237	NODE_1400_length_330_cov_0.733032:3-266	CP045434.1	82.890	263	45	0	1	263	2381235	2380973	5.09e-58	Sphingomonas ginsengisoli An et al. 2013 strain KACC 16858 chromosome, complete genome
+NODE_1400_length_330_cov_0.733032:3-266	2819933	231	NODE_1400_length_330_cov_0.733032:3-266	CP071923.1	82.692	260	45	0	4	263	2141838	2141579	2.37e-56	Leptolyngbya sp. 15MV chromosome
+NODE_1400_length_330_cov_0.733032:3-266	653931	217	NODE_1400_length_330_cov_0.733032:3-266	CP061038.1	81.609	261	48	0	3	263	4109204	4109464	6.63e-52	Sphingomonas alpina strain DSM 22537 chromosome, complete genome
+NODE_1400_length_330_cov_0.733032:3-266	1855519	215	NODE_1400_length_330_cov_0.733032:3-266	CP015986.1	81.890	254	46	0	3	256	1698543	1698796	2.39e-51	Sphingobium sp. EP60837 chromosome 1, complete sequence
+NODE_1400_length_330_cov_0.733032:3-266	1712261	200	NODE_1400_length_330_cov_0.733032:3-266	CP051630.1	80.620	258	50	0	6	263	2199652	2199395	6.68e-47	Pyruvatibacter mobilis strain CGMCC 1.15125 chromosome, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_1453_length_327_cov_1.211009:6-327
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1453_length_327_cov_1.211009:6-327	173654	566	NODE_1453_length_327_cov_1.211009:6-327	HE610742.1	98.442	321	5	0	1	321	711	391	7.17e-157	Hematodinium sp. mitochondrial partial cytochrome b, small subunit ribosomal RNA-like gene fragment and partial cytochrome oxidase subunit I, clone iii
+NODE_1453_length_327_cov_1.211009:6-327	173654	555	NODE_1453_length_327_cov_1.211009:6-327	HE610766.1	97.819	321	7	0	1	321	354	34	1.55e-153	Hematodinium sp. mitochondrial partial mRNA for cytochrome b and cytochrome oxidase subunit I, clone vi
+NODE_1453_length_327_cov_1.211009:6-327	173654	544	NODE_1453_length_327_cov_1.211009:6-327	HE610721.1	97.196	321	9	0	1	321	898	578	3.36e-150	Hematodinium sp. mitochondrial mRNA for cytochrome oxidase subunit I (cox1 gene), clone 1
+NODE_1453_length_327_cov_1.211009:6-327	187300	344	NODE_1453_length_327_cov_1.211009:6-327	GQ501466.1	85.981	321	45	0	1	321	493	173	3.66e-90	Uncultured dinoflagellate voucher S7-32 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_1453_length_327_cov_1.211009:6-327	187300	344	NODE_1453_length_327_cov_1.211009:6-327	GQ501429.1	85.981	321	45	0	1	321	493	173	3.66e-90	Uncultured dinoflagellate voucher S7-25 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_1453_length_327_cov_1.211009:6-327	187300	339	NODE_1453_length_327_cov_1.211009:6-327	GQ501713.1	85.670	321	46	0	1	321	493	173	1.70e-88	Uncultured dinoflagellate voucher S7-14 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_1453_length_327_cov_1.211009:6-327	187300	339	NODE_1453_length_327_cov_1.211009:6-327	GQ501517.1	87.629	291	36	0	1	291	493	203	1.70e-88	Uncultured dinoflagellate voucher S3-40 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_1453_length_327_cov_1.211009:6-327	187300	339	NODE_1453_length_327_cov_1.211009:6-327	GQ501486.1	85.670	321	46	0	1	321	493	173	1.70e-88	Uncultured dinoflagellate voucher S7-71 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_1453_length_327_cov_1.211009:6-327	187300	339	NODE_1453_length_327_cov_1.211009:6-327	GQ501452.1	85.670	321	46	0	1	321	493	173	1.70e-88	Uncultured dinoflagellate voucher S6-60 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_1453_length_327_cov_1.211009:6-327	187300	339	NODE_1453_length_327_cov_1.211009:6-327	GQ501435.1	85.670	321	46	0	1	321	493	173	1.70e-88	Uncultured dinoflagellate voucher S7-26 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_1486_length_326_cov_0.497696:5-279
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 7 hits found
+NODE_1486_length_326_cov_0.497696:5-279	1811807	178	NODE_1486_length_326_cov_0.497696:5-279	AP018725.1	81.057	227	39	4	44	268	219078	219302	3.28e-40	Sulfuriflexus mobilis aks1 DNA, complete genome
+NODE_1486_length_326_cov_0.497696:5-279	40324	167	NODE_1486_length_326_cov_0.497696:5-279	CP040429.1	82.090	201	30	5	77	274	407078	407275	7.10e-37	Stenotrophomonas maltophilia strain U5 chromosome, complete genome
+NODE_1486_length_326_cov_0.497696:5-279	2045451	167	NODE_1486_length_326_cov_0.497696:5-279	CP037883.1	82.090	201	30	5	77	274	404713	404910	7.10e-37	Stenotrophomonas indicatrix strain DAIF1 chromosome, complete genome
+NODE_1486_length_326_cov_0.497696:5-279	1827305	167	NODE_1486_length_326_cov_0.497696:5-279	CP023271.1	82.090	201	30	5	77	274	389013	389210	7.10e-37	Stenotrophomonas sp. MYb57 chromosome, complete genome
+NODE_1486_length_326_cov_0.497696:5-279	2886359	167	NODE_1486_length_326_cov_0.497696:5-279	CP086598.1	82.090	201	30	5	77	274	389757	389954	7.10e-37	Stenotrophomonas sp. SI-NJAU-1 chromosome, complete genome
+NODE_1486_length_326_cov_0.497696:5-279	2045451	167	NODE_1486_length_326_cov_0.497696:5-279	CP079106.1	82.090	201	30	5	77	274	418900	419097	7.10e-37	Stenotrophomonas indicatrix strain D763 chromosome, complete genome
+NODE_1486_length_326_cov_0.497696:5-279	1288494	139	NODE_1486_length_326_cov_0.497696:5-279	CP021106.3	77.489	231	52	0	44	274	412837	412607	1.55e-28	Nitrosospira lacus strain APG3 chromosome, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_1563_length_321_cov_0.636792:1-318
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1563_length_321_cov_0.636792:1-318	1535414	499	NODE_1563_length_321_cov_0.636792:1-318	LM995401.1	95.238	315	15	0	3	317	113	427	7.27e-137	Sphacelaria sp. 2 AP-2014 mitochondrial partial COI gene for cytochrome oxidase subunit 1, strain GR11-s#2-3
+NODE_1563_length_321_cov_0.636792:1-318	90014	499	NODE_1563_length_321_cov_0.636792:1-318	MN184425.1	95.238	315	15	0	3	317	116	430	7.27e-137	Sphacelaria cirrosa voucher GWS038021 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1563_length_321_cov_0.636792:1-318	1535333	466	NODE_1563_length_321_cov_0.636792:1-318	LM994971.1	93.333	315	21	0	3	317	113	427	7.38e-127	Sphacelaria sp. 1 AP-2014 mitochondrial partial COI gene for cytochrome oxidase subunit 1, strain GR11-34
+NODE_1563_length_321_cov_0.636792:1-318	159162	455	NODE_1563_length_321_cov_0.636792:1-318	MW580390.1	92.698	315	23	0	3	317	60	374	1.60e-123	Sphacelaria sp. isolate MT17-026 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1563_length_321_cov_0.636792:1-318	117513	361	NODE_1563_length_321_cov_0.636792:1-318	MH309784.1	87.302	315	40	0	3	317	113	427	3.58e-95	Battersia racemosa voucher GWS040435 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1563_length_321_cov_0.636792:1-318	117513	361	NODE_1563_length_321_cov_0.636792:1-318	JX572040.1	87.302	315	40	0	3	317	113	427	3.58e-95	Battersia racemosa voucher GWS005264 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1563_length_321_cov_0.636792:1-318	117513	361	NODE_1563_length_321_cov_0.636792:1-318	LR736050.1	87.302	315	40	0	3	317	25	339	3.58e-95	Battersia racemosa mitochondrion partial COI-5P gene for cytochrome oxidase subunit 1, partial, specimen voucher GALW_16241, strain SBDN 1178
+NODE_1563_length_321_cov_0.636792:1-318	329479	326	NODE_1563_length_321_cov_0.636792:1-318	LM994990.1	85.266	319	43	4	1	317	114	430	1.31e-84	Spermatochnus paradoxus mitochondrial partial COI gene for cytochrome oxidase subunit 1, strain Spar-VF-3-9
+NODE_1563_length_321_cov_0.636792:1-318	329479	326	NODE_1563_length_321_cov_0.636792:1-318	MN184410.1	85.266	319	43	4	1	317	117	433	1.31e-84	Spermatochnus paradoxus voucher GWS040822 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_1563_length_321_cov_0.636792:1-318	329479	320	NODE_1563_length_321_cov_0.636792:1-318	LM994989.1	84.953	319	44	4	1	317	114	430	6.08e-83	Spermatochnus paradoxus mitochondrial partial COI gene for cytochrome oxidase subunit 1, strain Spar-S
+# BLASTN 2.12.0+
+# Query: NODE_15_length_1278_cov_0.280582:105-737
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_15_length_1278_cov_0.280582:105-737	359370	337	NODE_15_length_1278_cov_0.280582:105-737	CP029064.1	76.582	632	136	12	3	628	50449	51074	1.28e-87	Microbulbifer sp. A4B17 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	238836	281	NODE_15_length_1278_cov_0.280582:105-737	CP041783.1	75.040	629	145	12	6	628	2943069	2943691	6.06e-71	Shewanella donghaensis strain LT17 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	2785909	246	NODE_15_length_1278_cov_0.280582:105-737	CP065230.1	74.539	597	137	15	22	610	1837446	1838035	2.21e-60	Halomonas sp. A40-4 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	247523	244	NODE_15_length_1278_cov_0.280582:105-737	CP019628.1	74.098	610	150	7	26	631	1640133	1639528	7.95e-60	Pseudoalteromonas aliena strain EH1 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	28108	233	NODE_15_length_1278_cov_0.280582:105-737	CP014323.1	73.851	631	146	14	11	631	4468912	4468291	1.72e-56	Alteromonas macleodii strain D7 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	28108	228	NODE_15_length_1278_cov_0.280582:105-737	CP046140.1	73.693	631	147	14	11	631	3002320	3001699	8.01e-55	Alteromonas macleodii strain F12 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	28108	211	NODE_15_length_1278_cov_0.280582:105-737	CP018321.1	73.469	637	138	19	11	631	4525691	4525070	8.07e-50	Alteromonas macleodii strain Te101 chromosome, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	28108	211	NODE_15_length_1278_cov_0.280582:105-737	CP012202.1	73.217	631	150	14	11	631	4563227	4562606	8.07e-50	Alteromonas macleodii strain HOT1A3, complete genome
+NODE_15_length_1278_cov_0.280582:105-737	1004788	211	NODE_15_length_1278_cov_0.280582:105-737	CP003844.1	73.217	631	150	14	11	631	4514315	4513694	8.07e-50	Alteromonas macleodii str. 'English Channel 673', complete genome
+NODE_15_length_1278_cov_0.280582:105-737	529120	211	NODE_15_length_1278_cov_0.280582:105-737	CP003841.1	73.217	631	150	14	11	631	4537818	4537197	8.07e-50	Alteromonas macleodii ATCC 27126, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_170_length_628_cov_1.034682:271-627
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_170_length_628_cov_1.034682:271-627	81824	326	NODE_170_length_628_cov_1.034682:271-627	AF538053.1	85.093	322	44	4	1	320	46450	46131	1.49e-84	Monosiga brevicollis mitochondrion, complete genome
+NODE_170_length_628_cov_1.034682:271-627	1440116	291	NODE_170_length_628_cov_1.034682:271-627	KF913711.1	81.513	357	62	4	1	355	660	306	5.43e-74	Lagenidium giganteum f. caninum strain CBS 134680 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1049592	287	NODE_170_length_628_cov_1.034682:271-627	MH136887.1	81.686	344	63	0	1	344	689	346	7.02e-73	Phytophthora fluvialis strain ex-type CPHST BL 64 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1704120	287	NODE_170_length_628_cov_1.034682:271-627	KM883144.1	81.686	344	63	0	1	344	641	298	7.02e-73	Phytophthora cf. fluvialis hybrid VHS29992 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1704122;1704124	287	NODE_170_length_628_cov_1.034682:271-627	KM883138.1	81.686	344	63	0	1	344	641	298	7.02e-73	Phytophthora sp. x amnicola cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1704119;1704127	287	NODE_170_length_628_cov_1.034682:271-627	KM883124.1	81.686	344	63	0	1	344	641	298	7.02e-73	Phytophthora fluvialis x moyootj strain DH011 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1704127	287	NODE_170_length_628_cov_1.034682:271-627	KM883123.1	81.686	344	63	0	1	344	641	298	7.02e-73	Phytophthora fluvialis x moyootj strain DDS3642 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1049592	287	NODE_170_length_628_cov_1.034682:271-627	JF701440.1	81.686	344	63	0	1	344	640	297	7.02e-73	Phytophthora fluvialis strain VHS17350 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1440116	285	NODE_170_length_628_cov_1.034682:271-627	KF913713.1	81.232	357	63	4	1	355	639	285	2.52e-72	Lagenidium giganteum f. caninum strain CBS 135280 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_170_length_628_cov_1.034682:271-627	1440116	285	NODE_170_length_628_cov_1.034682:271-627	KF913710.1	81.232	357	63	4	1	355	639	285	2.52e-72	Lagenidium giganteum f. caninum strain C99-VK cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_171_length_627_cov_0.303089:2-544
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_171_length_627_cov_0.303089:2-544	707130	497	NODE_171_length_627_cov_0.303089:2-544	FN650158.1	83.303	545	85	6	1	542	128	669	4.69e-136	Pusillina inconspicua mitochondrial partial COI gene for cytochrome c oxidase subunit I, isolate 2
+NODE_171_length_627_cov_0.303089:2-544	707130	486	NODE_171_length_627_cov_0.303089:2-544	FN650157.1	82.936	545	87	6	1	542	127	668	1.02e-132	Pusillina inconspicua mitochondrial partial COI gene for cytochrome c oxidase subunit I, isolate 1
+NODE_171_length_627_cov_0.303089:2-544	707130	481	NODE_171_length_627_cov_0.303089:2-544	FN650159.1	82.752	545	88	6	1	542	128	669	4.73e-131	Pusillina inconspicua mitochondrial partial COI gene for cytochrome c oxidase subunit I, isolate 3
+NODE_171_length_627_cov_0.303089:2-544	707131	475	NODE_171_length_627_cov_0.303089:2-544	FN650160.1	82.569	545	89	6	1	542	127	668	2.20e-129	Pusillina sarsi mitochondrial partial COI gene for cytochrome c oxidase subunit I
+NODE_171_length_627_cov_0.303089:2-544	2480081	464	NODE_171_length_627_cov_0.303089:2-544	KU839891.1	91.228	342	29	1	1	341	44	385	4.76e-126	Lineus bilineatus voucher NemBar0245 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_171_length_627_cov_0.303089:2-544	2480081	464	NODE_171_length_627_cov_0.303089:2-544	KU839811.1	91.228	342	29	1	1	341	44	385	4.76e-126	Lineus bilineatus voucher NemBar0143 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_171_length_627_cov_0.303089:2-544	2480081	459	NODE_171_length_627_cov_0.303089:2-544	KU839945.1	90.936	342	30	1	1	341	44	385	2.22e-124	Lineus bilineatus voucher NemBar0328 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_171_length_627_cov_0.303089:2-544	2480081	459	NODE_171_length_627_cov_0.303089:2-544	KU839930.1	90.936	342	30	1	1	341	44	385	2.22e-124	Lineus bilineatus voucher NemBar0308 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_171_length_627_cov_0.303089:2-544	2480081	459	NODE_171_length_627_cov_0.303089:2-544	KU839910.1	90.936	342	30	1	1	341	44	385	2.22e-124	Lineus bilineatus voucher NemBar0280 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_171_length_627_cov_0.303089:2-544	2480081	459	NODE_171_length_627_cov_0.303089:2-544	KU839900.1	90.936	342	30	1	1	341	44	385	2.22e-124	Lineus bilineatus voucher NemBar0260 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_17_length_1247_cov_1.811072:283-786
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_17_length_1247_cov_1.811072:283-786	2508622	244	NODE_17_length_1247_cov_1.811072:283-786	MK420086.1	75.922	515	100	20	1	503	641	139	6.23e-60	Celaenia calotoides voucher 55_WAMU_T62222 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	1684958	211	NODE_17_length_1247_cov_1.811072:283-786	KP978479.1	74.845	485	112	8	24	503	618	139	6.32e-50	Myrmarachne mariaelenae voucher NMF2012-01399.PK015 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	1107827	211	NODE_17_length_1247_cov_1.811072:283-786	KM834601.1	74.902	510	104	21	6	503	636	139	6.32e-50	Pocadicnemis americana voucher BIOUG04875-F06 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	1810882	191	NODE_17_length_1247_cov_1.811072:283-786	HQ207188.1	73.904	502	119	12	1	496	635	140	8.23e-44	Chtonobdella meyeri isolate PHCA cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	2704490	187	NODE_17_length_1247_cov_1.811072:283-786	MN058684.1	77.410	332	63	10	177	502	462	137	1.07e-42	Beierolpium sp. WAM T136468 voucher WAMT136468 cytochrome oxidase subunit 1 (COI) gene, exon 1 and partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	2101976	187	NODE_17_length_1247_cov_1.811072:283-786	MF603376.1	81.938	227	35	3	27	250	615	392	1.07e-42	Isotomidae sp. BIOUG27598-E03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	1420662	183	NODE_17_length_1247_cov_1.811072:283-786	KC960655.1	75.000	408	96	6	2	406	405	1	1.38e-41	Semia majuscula isolate 1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	2105595	182	NODE_17_length_1247_cov_1.811072:283-786	MF609109.1	81.498	227	36	3	27	250	615	392	4.96e-41	Isotomidae sp. BIOUG27598-G03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	1880380	180	NODE_17_length_1247_cov_1.811072:283-786	KX143869.1	77.603	317	57	11	194	503	426	117	1.78e-40	Trichoptera sp. BIOUG22784-B03 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_17_length_1247_cov_1.811072:283-786	1880280	180	NODE_17_length_1247_cov_1.811072:283-786	KX140756.1	77.603	317	57	11	194	503	417	108	1.78e-40	Trichoptera sp. BIOUG24604-A04 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_20_length_1184_cov_21.679070:289-934
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_20_length_1184_cov_21.679070:289-934	2696724	429	NODE_20_length_1184_cov_21.679070:289-934	MN182947.1	79.417	617	119	8	21	633	25	637	2.09e-115	Anthrenus oberthueri voucher BC-PNEF-PSFOR0888 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	2696724	429	NODE_20_length_1184_cov_21.679070:289-934	MN182932.1	79.417	617	119	8	21	633	25	637	2.09e-115	Anthrenus oberthueri voucher BC-PNEF-PSFOR0889 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	758708	422	NODE_20_length_1184_cov_21.679070:289-934	KP253133.1	78.737	649	124	11	4	645	8	649	3.50e-113	Acleris kochiella voucher TLMF Lep 12511 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	1374360	414	NODE_20_length_1184_cov_21.679070:289-934	KF394488.1	78.764	631	125	8	6	632	11	636	5.85e-111	Hypomecis penthearia voucher 11ANIC-02893 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	2652131	411	NODE_20_length_1184_cov_21.679070:289-934	MK880118.1	80.107	563	102	10	88	645	61	618	7.57e-110	Zischkaia saundersii voucher MGCL-LOAN-548 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	758717	411	NODE_20_length_1184_cov_21.679070:289-934	OV281315.1	78.764	631	120	11	22	645	4846	4223	7.57e-110	Acleris sparsana genome assembly, organelle: mitochondrion
+NODE_20_length_1184_cov_21.679070:289-934	1373433	411	NODE_20_length_1184_cov_21.679070:289-934	KF401717.1	78.459	636	131	6	1	633	5	637	7.57e-110	Eulechria hilda voucher CCDB-15825-H06 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	2758986	409	NODE_20_length_1184_cov_21.679070:289-934	MT808062.1	79.690	581	106	11	55	629	59	633	2.72e-109	Coenosopsia brasiliensis cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	2595578	407	NODE_20_length_1184_cov_21.679070:289-934	MK767525.1	81.071	523	85	11	130	645	134	649	9.79e-109	Streblopotamia streblopa voucher SG-BCISP910 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_20_length_1184_cov_21.679070:289-934	741625;837976	407	NODE_20_length_1184_cov_21.679070:289-934	GU159386.1	78.538	643	121	14	6	640	11	644	9.79e-109	Seirocastnia tribuna cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_2185_length_289_cov_0.594444:1-289
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2185_length_289_cov_0.594444:1-289	2031000	309	NODE_2185_length_289_cov_0.594444:1-289	MF077894.1	86.268	284	39	0	5	288	413	130	1.18e-79	Normanellidae sp. DZMB058 isolate COI80 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	366527	278	NODE_2185_length_289_cov_0.594444:1-289	MG936250.1	84.138	290	42	3	1	288	415	128	3.33e-70	Boeckella gracilis voucher Arg108-4 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	366527	272	NODE_2185_length_289_cov_0.594444:1-289	DQ356555.1	83.793	290	43	3	1	288	393	106	1.55e-68	Boeckella gracilis isolate 1 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	1385709	270	NODE_2185_length_289_cov_0.594444:1-289	KF524872.1	83.624	287	47	0	2	288	399	113	5.57e-68	Wellstenhelia calliope voucher HY_KC0013 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	187406	265	NODE_2185_length_289_cov_0.594444:1-289	KR048951.1	83.451	284	47	0	5	288	374	91	2.59e-66	Paracalanus parvus voucher LEGO-CAL057-33 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	366527	261	NODE_2185_length_289_cov_0.594444:1-289	DQ356556.1	83.103	290	45	3	1	288	393	106	3.35e-65	Boeckella gracilis isolate 2 cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	503029	255	NODE_2185_length_289_cov_0.594444:1-289	GU171301.1	83.214	280	45	2	10	288	422	144	1.56e-63	Euchaeta media voucher Co026.1.1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	503029	250	NODE_2185_length_289_cov_0.594444:1-289	KC287637.1	82.857	280	46	2	10	288	375	97	7.26e-62	Euchaeta media voucher Co026.1.3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	503029	250	NODE_2185_length_289_cov_0.594444:1-289	MW124816.1	82.857	280	46	2	10	288	370	92	7.26e-62	Euchaeta media voucher USNM:IZ:1448620 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2185_length_289_cov_0.594444:1-289	503029	250	NODE_2185_length_289_cov_0.594444:1-289	MW124815.1	82.857	280	46	2	10	288	406	128	7.26e-62	Euchaeta media voucher USNM:IZ:1448619 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_222_length_582_cov_1.035941:1-566
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_222_length_582_cov_1.035941:1-566	1917050	917	NODE_222_length_582_cov_1.035941:1-566	KY572814.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. 2stricta voucher GWS009768 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	2040520	917	NODE_222_length_582_cov_1.035941:1-566	KY572761.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. _2stricta voucher GWS031530 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	2040520	917	NODE_222_length_582_cov_1.035941:1-566	KY572734.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. _2stricta voucher GWS040033 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	1917050	917	NODE_222_length_582_cov_1.035941:1-566	KY572649.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. 2stricta voucher GWS009770 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	173545	917	NODE_222_length_582_cov_1.035941:1-566	KY572559.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia stricta voucher GWS014116 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	1917050	917	NODE_222_length_582_cov_1.035941:1-566	KY572552.1	95.936	566	21	2	1	565	98	662	0.0	Polysiphonia sp. 2stricta voucher GWS027817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	2040520	917	NODE_222_length_582_cov_1.035941:1-566	KY572539.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. _2stricta voucher GWS040082 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	2040520	917	NODE_222_length_582_cov_1.035941:1-566	KY572534.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. _2stricta voucher GWS039936 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	2040520	917	NODE_222_length_582_cov_1.035941:1-566	KY572470.1	95.936	566	21	2	1	565	99	663	0.0	Polysiphonia sp. _2stricta voucher GWS039968 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_222_length_582_cov_1.035941:1-566	1917050	917	NODE_222_length_582_cov_1.035941:1-566	KY572456.1	95.936	566	21	2	1	565	96	660	0.0	Polysiphonia sp. 2stricta voucher GWS003726 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_2236_length_286_cov_0.762712:1-266
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2236_length_286_cov_0.762712:1-266	2880	390	NODE_2236_length_286_cov_0.762712:1-266	MK045263.1	93.208	265	18	0	1	265	19566	19830	3.73e-104	Ectocarpus siliculosus mitochondrion, complete genome
+NODE_2236_length_286_cov_0.762712:1-266	2880	379	NODE_2236_length_286_cov_0.762712:1-266	FP885846.2	92.453	265	20	0	1	265	19300	19564	8.06e-101	Ectocarpus siliculosus
+NODE_2236_length_286_cov_0.762712:1-266	133511	368	NODE_2236_length_286_cov_0.762712:1-266	AB899178.1	91.698	265	22	0	1	265	583	847	1.75e-97	Kuckuckia spinosa mitochondrial cox1 gene for cytochrome oxidase subunit 1, partial cds
+NODE_2236_length_286_cov_0.762712:1-266	74372	346	NODE_2236_length_286_cov_0.762712:1-266	AF037994.1	90.189	265	26	0	1	265	588	852	8.18e-91	Ectocarpus sp. cytochrome C oxidase subunit I (coxI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+NODE_2236_length_286_cov_0.762712:1-266	3026	316	NODE_2236_length_286_cov_0.762712:1-266	AB899177.1	88.258	264	31	0	2	265	388	651	6.41e-82	Chordaria flagelliformis mitochondrial cox1 gene for cytochrome oxidase subunit 1, partial cds
+NODE_2236_length_286_cov_0.762712:1-266	2173147	311	NODE_2236_length_286_cov_0.762712:1-266	MZ156062.1	87.879	264	32	0	1	264	21174	21437	2.98e-80	Saccharina subsessilis mitochondrion, complete genome
+NODE_2236_length_286_cov_0.762712:1-266	43935	311	NODE_2236_length_286_cov_0.762712:1-266	JF796540.1	86.792	265	35	0	1	265	581	845	2.98e-80	Ectocarpus fasciculatus isolate E-FAS cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+NODE_2236_length_286_cov_0.762712:1-266	552931	311	NODE_2236_length_286_cov_0.762712:1-266	EU681406.1	86.792	265	35	0	1	265	583	847	2.98e-80	Ectocarpus sp. FRA0524 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+NODE_2236_length_286_cov_0.762712:1-266	64930	307	NODE_2236_length_286_cov_0.762712:1-266	LC107828.1	88.281	256	30	0	3	258	585	840	3.86e-79	Myriotrichia claviformis mitochondrial cox1 gene for cytochrome oxidase subunit 1, partial cds
+NODE_2236_length_286_cov_0.762712:1-266	1535336	305	NODE_2236_length_286_cov_0.762712:1-266	LC201533.1	87.500	264	33	0	2	265	584	847	1.39e-78	Stilophora tenella mitochondrial cox1 gene for cytochrome oxidase subunit 1, partial cds, culture_collection: KU-MACC:KU-1255
+# BLASTN 2.12.0+
+# Query: NODE_2338_length_282_cov_0.624277:1-264
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2338_length_282_cov_0.624277:1-264	2686358	187	NODE_2338_length_282_cov_0.624277:1-264	CP047023.1	79.775	267	46	5	1	263	5099049	5098787	5.20e-43	Paraglaciecola sp. L3A3 chromosome, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	342610	163	NODE_2338_length_282_cov_0.624277:1-264	CP000388.1	78.652	267	41	15	5	263	5108437	5108179	8.76e-36	Pseudoalteromonas atlantica T6c, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	718192	159	NODE_2338_length_282_cov_0.624277:1-264	CP034759.1	77.863	262	54	2	1	260	2755755	2755496	1.13e-34	Litorilituus sediminis strain JCM 17549 chromosome, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	167879	159	NODE_2338_length_282_cov_0.624277:1-264	CP000083.1	78.175	252	53	2	7	257	237904	237654	1.13e-34	Colwellia psychrerythraea 34H chromosome, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	2689569	143	NODE_2338_length_282_cov_0.624277:1-264	CP047130.1	76.744	258	58	2	1	257	4320089	4319833	1.14e-29	Colwellia sp. 20A7 chromosome, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	43662	137	NODE_2338_length_282_cov_0.624277:1-264	CP011924.1	76.744	258	52	8	10	263	2926216	2925963	5.31e-28	Pseudoalteromonas piscicida strain JCM 20779 chromosome I
+NODE_2338_length_282_cov_0.624277:1-264	2587843	132	NODE_2338_length_282_cov_0.624277:1-264	CP045418.1	80.000	180	34	2	4	182	2983644	2983466	2.47e-26	Pseudoalteromonas sp. THAF3 chromosome, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	151081	132	NODE_2338_length_282_cov_0.624277:1-264	CP023396.1	80.000	180	34	2	4	182	3014970	3014792	2.47e-26	Pseudoalteromonas ruthenica strain LMG 19699 chromosome 1, complete sequence
+NODE_2338_length_282_cov_0.624277:1-264	1096243	121	NODE_2338_length_282_cov_0.624277:1-264	CP022133.1	75.655	267	51	11	1	260	2363952	2364211	5.35e-23	Idiomarina piscisalsi strain 10PY1A chromosome, complete genome
+NODE_2338_length_282_cov_0.624277:1-264	1129794	115	NODE_2338_length_282_cov_0.624277:1-264	CP003837.1	75.194	258	56	5	7	260	5199656	5199909	2.49e-21	Paraglaciecola psychrophila 170, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_2458_length_277_cov_0.589286:9-277
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2458_length_277_cov_0.589286:9-277	1069488	169	NODE_2458_length_277_cov_0.589286:9-277	HQ891480.1	81.683	202	37	0	66	267	504	705	1.93e-37	Xestogaster sp. 2 AMV2011b cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	170895	163	NODE_2458_length_277_cov_0.589286:9-277	NC_059850.1	77.941	272	52	7	1	268	1951	2218	8.96e-36	Cephenemyia stimulator mitochondrion, complete genome
+NODE_2458_length_277_cov_0.589286:9-277	873419	163	NODE_2458_length_277_cov_0.589286:9-277	GQ433516.1	77.778	270	56	4	1	268	422	689	8.96e-36	Eois nr. lunifera 411 voucher Eo00042 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	273416	163	NODE_2458_length_277_cov_0.589286:9-277	AY533339.1	77.778	270	56	4	1	268	214	481	8.96e-36	Cheilosia pubera cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	273412	163	NODE_2458_length_277_cov_0.589286:9-277	AY533335.1	77.778	270	56	4	1	268	214	481	8.96e-36	Cheilosia grisella cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	7260	159	NODE_2458_length_277_cov_0.589286:9-277	KT194227.1	80.189	212	42	0	57	268	427	638	1.16e-34	Drosophila willistoni isolate 6-Torres cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	7260	159	NODE_2458_length_277_cov_0.589286:9-277	JN705924.1	80.189	212	42	0	57	268	491	702	1.16e-34	Drosophila willistoni haplotype 5 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	796962	159	NODE_2458_length_277_cov_0.589286:9-277	GU816393.1	80.583	206	40	0	63	268	273	478	1.16e-34	Cuphodes sp. 2 ex Rhamnus crenata isolate G63AK cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2458_length_277_cov_0.589286:9-277	88498	159	NODE_2458_length_277_cov_0.589286:9-277	AF103975.1	82.955	176	30	0	93	268	276	451	1.16e-34	Lasioglossum umbripenne cytochrome oxidase I (COI) gene, mitochondrial gene encoding mitochondrial protein, partial cds
+NODE_2458_length_277_cov_0.589286:9-277	256106	158	NODE_2458_length_277_cov_0.589286:9-277	MN864050.1	81.818	187	34	0	82	268	3068	3254	4.17e-34	Plaxiphora albida mitochondrion, partial genome
+# BLASTN 2.12.0+
+# Query: NODE_25_length_1051_cov_1.167728:133-765
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_25_length_1051_cov_1.167728:133-765	292790	255	NODE_25_length_1051_cov_1.167728:133-765	AJ830012.1	74.786	583	140	7	36	613	53	633	3.67e-63	Cnemidocarpa verrucosa mitochondrial partial COI gene for cytochrome c oxidase subunit I
+NODE_25_length_1051_cov_1.167728:133-765	412965	239	NODE_25_length_1051_cov_1.167728:133-765	AP009247.1	73.953	645	145	20	1	631	35668	36303	3.70e-58	Candidatus Vesicomyosocius okutanii HA DNA, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	2020875	235	NODE_25_length_1051_cov_1.167728:133-765	AP023240.1	73.947	641	142	23	4	631	761289	761917	4.79e-57	Methyloprofundus sp. INp10_methR40d DNA, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	2732590	235	NODE_25_length_1051_cov_1.167728:133-765	CP054877.1	73.934	633	143	18	12	631	36135	36758	4.79e-57	Candidatus Vesicomyosocius sp. SY067_SCS001 chromosome, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	2763509	224	NODE_25_length_1051_cov_1.167728:133-765	CP072532.1	73.408	628	155	9	12	631	36237	36860	1.04e-53	MAG: Candidatus Vesicomyosocius sp. Agig_15_S12 chromosome, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	2763508	224	NODE_25_length_1051_cov_1.167728:133-765	CP072531.1	73.408	628	155	9	12	631	36228	36851	1.04e-53	MAG: Candidatus Vesicomyosocius sp. Agig_16_S15 chromosome, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	72606	224	NODE_25_length_1051_cov_1.167728:133-765	FJ899950.1	73.408	628	155	9	12	631	22	645	1.04e-53	Vesicomya gigas gill symbiont clone 2 cytochrome c oxidase subunit I (COI) gene, partial cds
+NODE_25_length_1051_cov_1.167728:133-765	2763510	202	NODE_25_length_1051_cov_1.167728:133-765	CP072535.1	72.943	632	151	18	12	631	36073	36696	4.85e-47	MAG: Candidatus Vesicomyosocius sp. Pext_18_S21 chromosome, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	2763507	202	NODE_25_length_1051_cov_1.167728:133-765	CP072530.1	72.943	632	151	18	12	631	36073	36696	4.85e-47	MAG: Candidatus Vesicomyosocius sp. Adia_1_S1 chromosome, complete genome
+NODE_25_length_1051_cov_1.167728:133-765	72605	202	NODE_25_length_1051_cov_1.167728:133-765	FJ899951.1	72.943	632	151	18	12	631	22	645	4.85e-47	Ectenagena extenta gill symbiont clone 3 cytochrome c oxidase subunit I (COI) gene, partial cds
+# BLASTN 2.12.0+
+# Query: NODE_2834_length_264_cov_0.870968:1-264
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2834_length_264_cov_0.870968:1-264	72672	486	NODE_2834_length_264_cov_0.870968:1-264	KX459039.1	100.000	263	0	0	1	263	127	389	4.58e-133	Ophiura albida voucher MT00188 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	486	NODE_2834_length_264_cov_0.870968:1-264	MW725352.1	100.000	263	0	0	1	263	70	332	4.58e-133	Ophiura albida isolate BalticSea_OAS12 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	486	NODE_2834_length_264_cov_0.870968:1-264	MW725349.1	100.000	263	0	0	1	263	70	332	4.58e-133	Ophiura albida isolate BalticSea_OAS04 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	486	NODE_2834_length_264_cov_0.870968:1-264	MW725345.1	100.000	263	0	0	1	263	70	332	4.58e-133	Ophiura albida isolate BalticSea_OAK13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	486	NODE_2834_length_264_cov_0.870968:1-264	MW725342.1	100.000	263	0	0	1	263	70	332	4.58e-133	Ophiura albida isolate BalticSea_OAK09 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	475	NODE_2834_length_264_cov_0.870968:1-264	KX459049.1	99.240	263	2	0	1	263	127	389	9.91e-130	Ophiura albida voucher MT03385 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	475	NODE_2834_length_264_cov_0.870968:1-264	KX459048.1	99.240	263	2	0	1	263	127	389	9.91e-130	Ophiura albida voucher MT03379 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	475	NODE_2834_length_264_cov_0.870968:1-264	KX459047.1	99.240	263	2	0	1	263	127	389	9.91e-130	Ophiura albida voucher MT03377 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	475	NODE_2834_length_264_cov_0.870968:1-264	KX459044.1	99.240	263	2	0	1	263	127	389	9.91e-130	Ophiura albida voucher MT03380 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2834_length_264_cov_0.870968:1-264	72672	475	NODE_2834_length_264_cov_0.870968:1-264	KX459040.1	99.240	263	2	0	1	263	127	389	9.91e-130	Ophiura albida voucher MT03378 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_287_length_530_cov_169.574822:151-528
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_287_length_530_cov_169.574822:151-528	173654	656	NODE_287_length_530_cov_169.574822:151-528	HE610721.1	98.138	376	7	0	1	376	385	760	0.0	Hematodinium sp. mitochondrial mRNA for cytochrome oxidase subunit I (cox1 gene), clone 1
+NODE_287_length_530_cov_169.574822:151-528	173654	525	NODE_287_length_530_cov_169.574822:151-528	HE610742.1	98.976	293	3	0	85	377	282	574	1.46e-144	Hematodinium sp. mitochondrial partial cytochrome b, small subunit ribosomal RNA-like gene fragment and partial cytochrome oxidase subunit I, clone iii
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	HM236192.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-118-1 cytochrome oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	HM236191.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-30 cytochrome oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	GQ501804.1	83.889	360	50	7	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S4-51 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	GQ501731.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-15 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	GQ501488.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-57 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	GQ501486.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-71 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	GQ501477.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-39 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_287_length_530_cov_169.574822:151-528	187300	337	NODE_287_length_530_cov_169.574822:151-528	GQ501462.1	83.844	359	52	5	22	377	1	356	7.32e-88	Uncultured dinoflagellate voucher S7-31 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_2_length_1945_cov_129.550654:488-1150
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1223	NODE_2_length_1945_cov_129.550654:488-1150	KJ960931.1	100.000	662	0	0	1	662	25	686	0.0	Phyllophora crispa voucher RMAR2236 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1223	NODE_2_length_1945_cov_129.550654:488-1150	KJ960913.1	100.000	662	0	0	1	662	1	662	0.0	Phyllophora crispa voucher RMAR2313 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1223	NODE_2_length_1945_cov_129.550654:488-1150	GQ380357.1	100.000	662	0	0	1	662	2	663	0.0	Phyllophora crispa voucher GWS001813 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1219	NODE_2_length_1945_cov_129.550654:488-1150	KJ960928.1	100.000	660	0	0	3	662	1	660	0.0	Phyllophora crispa voucher RMAR2198 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1208	NODE_2_length_1945_cov_129.550654:488-1150	KJ960955.1	100.000	654	0	0	9	662	1	654	0.0	Phyllophora crispa voucher RMAR1409 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1201	NODE_2_length_1945_cov_129.550654:488-1150	KJ960924.1	100.000	650	0	0	3	652	1	650	0.0	Phyllophora crispa voucher RMAR2178 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1184	NODE_2_length_1945_cov_129.550654:488-1150	KJ960952.1	100.000	641	0	0	9	649	1	641	0.0	Phyllophora crispa voucher RMAR1470 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1181	NODE_2_length_1945_cov_129.550654:488-1150	KJ960953.1	100.000	639	0	0	6	644	1	639	0.0	Phyllophora crispa voucher RMAR1433 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1181	NODE_2_length_1945_cov_129.550654:488-1150	KJ960905.1	100.000	639	0	0	14	652	1	639	0.0	Phyllophora crispa voucher RMAR1332 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_2_length_1945_cov_129.550654:488-1150	29239	1179	NODE_2_length_1945_cov_129.550654:488-1150	KJ960937.1	100.000	638	0	0	16	653	1	638	0.0	Phyllophora crispa voucher RMAR1724 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_308_length_520_cov_0.491484:104-409
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_308_length_520_cov_0.491484:104-409	1922226	202	NODE_308_length_520_cov_0.491484:104-409	LT703003.1	88.166	169	20	0	1	169	338415	338583	2.20e-47	Anderseniella sp. Alg231_50 genome assembly, chromosome: I
+NODE_308_length_520_cov_0.491484:104-409	1262161	198	NODE_308_length_520_cov_0.491484:104-409	KC791170.1	78.778	311	54	12	1	305	605	301	2.85e-46	Pyropia haitanensis isolate DSY cytochrome oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
+NODE_308_length_520_cov_0.491484:104-409	2571749	185	NODE_308_length_520_cov_0.491484:104-409	CP039695.1	87.500	160	20	0	1	160	2958845	2958686	2.22e-42	Novosphingobium sp. EMRT-2 chromosome, complete genome
+NODE_308_length_520_cov_0.491484:104-409	1712261	182	NODE_308_length_520_cov_0.491484:104-409	CP051630.1	84.699	183	26	2	1	182	2199463	2199644	2.87e-41	Pyruvatibacter mobilis strain CGMCC 1.15125 chromosome, complete genome
+NODE_308_length_520_cov_0.491484:104-409	1458461	182	NODE_308_length_520_cov_0.491484:104-409	HG966617.1	85.549	173	25	0	1	173	637798	637626	2.87e-41	Candidatus Phaeomarinobacter ectocarpi complete genome
+NODE_308_length_520_cov_0.491484:104-409	83637	178	NODE_308_length_520_cov_0.491484:104-409	CP061378.1	86.420	162	22	0	1	162	7037198	7037359	3.71e-40	Bradyrhizobium genosp. L strain BDV5419 chromosome, complete genome
+NODE_308_length_520_cov_0.491484:104-409	121719	176	NODE_308_length_520_cov_0.491484:104-409	CP013068.1	86.420	162	21	1	1	161	243739	243900	1.33e-39	Pannonibacter phragmitetus strain 31801, complete genome
+NODE_308_length_520_cov_0.491484:104-409	279238	176	NODE_308_length_520_cov_0.491484:104-409	CP000248.1	86.420	162	21	1	1	161	968227	968066	1.33e-39	Novosphingobium aromaticivorans DSM 12444, complete genome
+NODE_308_length_520_cov_0.491484:104-409	1275962	174	NODE_308_length_520_cov_0.491484:104-409	AP013103.1	86.250	160	22	0	1	160	1638606	1638447	4.79e-39	Bradyrhizobium elkanii USDA 61 DNA, complete genome
+NODE_308_length_520_cov_0.491484:104-409	2599819	174	NODE_308_length_520_cov_0.491484:104-409	AP021855.1	87.013	154	20	0	1	154	60258	60411	4.79e-39	Bradyrhizobium sp. TM102 DNA, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_311_length_519_cov_0.853659:68-498
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_311_length_519_cov_0.853659:68-498	1638745	761	NODE_311_length_519_cov_0.853659:68-498	KP977966.1	98.605	430	6	0	1	430	654	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0027 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638745	761	NODE_311_length_519_cov_0.853659:68-498	KP977832.1	98.605	430	6	0	1	430	654	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0068 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638745	761	NODE_311_length_519_cov_0.853659:68-498	KP977752.1	98.605	430	6	0	1	430	654	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0020 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638745	761	NODE_311_length_519_cov_0.853659:68-498	KP977585.1	98.605	430	6	0	1	430	654	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0041 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638745	758	NODE_311_length_519_cov_0.853659:68-498	KP977580.1	98.598	428	6	0	3	430	652	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0157 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638745	756	NODE_311_length_519_cov_0.853659:68-498	KP977956.1	98.372	430	7	0	1	430	654	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0022 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638745	756	NODE_311_length_519_cov_0.853659:68-498	KP977740.1	98.372	430	7	0	1	430	654	225	0.0	Hiatella sp. K HML-2015 voucher 11BFMOL-0017 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638756	501	NODE_311_length_519_cov_0.853659:68-498	KP977886.1	87.674	430	53	0	1	430	635	206	2.83e-137	Hiatella sp. L HML-2015 voucher 11BIOAK-0338 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638756	501	NODE_311_length_519_cov_0.853659:68-498	KP977771.1	87.674	430	53	0	1	430	620	191	2.83e-137	Hiatella sp. L HML-2015 voucher 11BIOAK-0117 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_311_length_519_cov_0.853659:68-498	1638756	501	NODE_311_length_519_cov_0.853659:68-498	KP977577.1	87.674	430	53	0	1	430	654	225	2.83e-137	Hiatella sp. L HML-2015 voucher 10NBMOL-10008.1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_31_length_1020_cov_1.119649:83-728
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_31_length_1020_cov_1.119649:83-728	86473	337	NODE_31_length_1020_cov_1.119649:83-728	FJ868208.1	76.462	650	135	17	4	644	19	659	1.30e-87	Uncultured gamma proteobacterium clone SW002 cytochrome oxidase-like gene, partial sequence
+NODE_31_length_1020_cov_1.119649:83-728	693772	302	NODE_31_length_1020_cov_1.119649:83-728	LC137843.1	83.283	329	53	2	89	416	90	417	4.75e-77	Invertebrate environmental sample mitochondrial COI gene for cytochrome c oxidase subunit I, partial cds, clone: Okm27
+NODE_31_length_1020_cov_1.119649:83-728	1266052	281	NODE_31_length_1020_cov_1.119649:83-728	CP072844.1	75.421	594	138	6	56	645	246352	245763	6.19e-71	Psychrosphaera aestuarii strain PSC101 chromosome, complete genome
+NODE_31_length_1020_cov_1.119649:83-728	1096243	278	NODE_31_length_1020_cov_1.119649:83-728	CP022133.1	74.613	646	156	8	4	645	2363778	2364419	8.01e-70	Idiomarina piscisalsi strain 10PY1A chromosome, complete genome
+NODE_31_length_1020_cov_1.119649:83-728	2769490	217	NODE_31_length_1020_cov_1.119649:83-728	CP062946.1	73.242	654	151	20	4	645	573473	574114	1.77e-51	Thalassotalea sp. LPB0316 chromosome, complete genome
+NODE_31_length_1020_cov_1.119649:83-728	2603215	211	NODE_31_length_1020_cov_1.119649:83-728	CP043042.1	74.560	511	116	13	70	573	42885	43388	8.24e-50	Marinobacter fonticola strain CS412 chromosome, complete genome
+NODE_31_length_1020_cov_1.119649:83-728	298386	196	NODE_31_length_1020_cov_1.119649:83-728	CR378663.1	82.949	217	37	0	56	272	172372	172588	2.31e-45	Photobacterium profundum SS9; segment 1/12
+NODE_31_length_1020_cov_1.119649:83-728	672	174	NODE_31_length_1020_cov_1.119649:83-728	CP011776.1	72.269	595	153	10	56	644	1271819	1271231	1.08e-38	Vibrio vulnificus strain FORC_016 chromosome II, complete sequence
+NODE_31_length_1020_cov_1.119649:83-728	672	174	NODE_31_length_1020_cov_1.119649:83-728	CP009985.1	72.269	595	153	10	56	644	1272014	1271426	1.08e-38	Vibrio vulnificus strain FORC_009 chromosome 2, complete sequence
+NODE_31_length_1020_cov_1.119649:83-728	672	171	NODE_31_length_1020_cov_1.119649:83-728	CP051118.1	72.167	600	153	12	52	644	1217029	1216437	1.40e-37	Vibrio vulnificus strain 1676-80 chromosome 2
+# BLASTN 2.12.0+
+# Query: NODE_33_length_1014_cov_1.796685:105-758
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_33_length_1014_cov_1.796685:105-758	97259	1179	NODE_33_length_1014_cov_1.796685:105-758	MT293123.1	99.234	653	5	0	1	653	70	722	0.0	Electra pilosa strain BLEED819 mitochondrion sequence
+NODE_33_length_1014_cov_1.796685:105-758	97259	536	NODE_33_length_1014_cov_1.796685:105-758	MT293093.1	81.498	654	119	2	1	653	58	710	1.21e-147	Electra pilosa strain BLEED1172 mitochondrion sequence
+NODE_33_length_1014_cov_1.796685:105-758	97259	531	NODE_33_length_1014_cov_1.796685:105-758	MT293096.1	81.346	654	120	2	1	653	58	710	5.64e-146	Electra pilosa strain BLEED1178 mitochondrion sequence
+NODE_33_length_1014_cov_1.796685:105-758	97259	531	NODE_33_length_1014_cov_1.796685:105-758	FJ196089.1	81.346	654	120	2	1	653	1	653	5.64e-146	Electra pilosa cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_33_length_1014_cov_1.796685:105-758	1418762	361	NODE_33_length_1014_cov_1.796685:105-758	NC_046033.1	77.005	661	132	17	4	653	1500	2151	7.84e-95	Gynanisa maja mitochondrion, complete genome
+NODE_33_length_1014_cov_1.796685:105-758	320186	326	NODE_33_length_1014_cov_1.796685:105-758	KM046825.1	77.329	569	117	10	91	653	92	654	2.86e-84	Nepheronia thalassina voucher SC-01-T403 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_33_length_1014_cov_1.796685:105-758	1931955	324	NODE_33_length_1014_cov_1.796685:105-758	KX771080.1	75.988	658	140	16	4	651	3	652	1.03e-83	Drosophila allochroa isolate OKU03-F125 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_33_length_1014_cov_1.796685:105-758	1931955	318	NODE_33_length_1014_cov_1.796685:105-758	KX771081.1	75.836	658	141	16	4	651	3	652	4.78e-82	Drosophila allochroa isolate OKU03-M126 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_33_length_1014_cov_1.796685:105-758	2550200	305	NODE_33_length_1014_cov_1.796685:105-758	GU671862.1	77.117	555	110	13	107	653	75	620	3.72e-78	Eupithecia sp. NGEOA340-09 voucher ID 17225 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_33_length_1014_cov_1.796685:105-758	830075	300	NODE_33_length_1014_cov_1.796685:105-758	HQ936300.1	75.556	630	140	11	31	653	32	654	1.73e-76	Lepidoptera sp. BOLD:AAA0276 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_34_length_1007_cov_1.016704:150-805
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_34_length_1007_cov_1.016704:150-805	2172728	466	NODE_34_length_1007_cov_1.016704:150-805	MH242675.1	79.695	655	125	7	5	655	8	658	1.62e-126	Arctonula arctica voucher BMBM-0477 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	2173747	392	NODE_34_length_1007_cov_1.016704:150-805	MG967887.1	77.710	655	136	9	5	654	8	657	2.79e-104	Dejeaniops sp. CCDB-31127-F09 voucher USNM:ENT:01345553 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	1881752	392	NODE_34_length_1007_cov_1.016704:150-805	KR633936.1	77.879	660	126	18	5	654	8	657	2.79e-104	Chironomidae sp. BOLD-2016 voucher BIOUG02700-B07 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	991037	388	NODE_34_length_1007_cov_1.016704:150-805	MN064622.1	77.830	636	135	6	5	637	8	640	3.61e-103	Celleporaria brunnea isolate Cel_brun_1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	1473669	387	NODE_34_length_1007_cov_1.016704:150-805	KJ083505.1	79.086	569	113	5	89	654	92	657	1.30e-102	Paratenetus punctatus voucher BIOUG02988-G05 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	2063653	381	NODE_34_length_1007_cov_1.016704:150-805	MG165648.1	77.542	659	130	15	5	654	8	657	6.03e-101	Tachinidae sp. BIOUG01411-E09 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	1931981	381	NODE_34_length_1007_cov_1.016704:150-805	KX771126.1	77.335	653	142	5	5	654	8	657	6.03e-101	Drosophila montium subgroup sp. 1 SRP-2017 isolate OKU34-F44b cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	1473669	381	NODE_34_length_1007_cov_1.016704:150-805	KR491239.1	78.910	569	114	5	89	654	92	657	6.03e-101	Paratenetus punctatus voucher BIOUG00971-D06 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	695761	381	NODE_34_length_1007_cov_1.016704:150-805	GU141865.1	77.439	656	136	11	5	654	7	656	6.03e-101	Archytas sp. Wood01DHJ02 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_34_length_1007_cov_1.016704:150-805	2063651	375	NODE_34_length_1007_cov_1.016704:150-805	MG168463.1	77.390	659	131	15	5	654	8	657	2.81e-99	Tachinidae sp. BIOUG01408-H06 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_3_length_1823_cov_27.760793:367-1024
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_3_length_1823_cov_27.760793:367-1024	371437	1197	NODE_3_length_1823_cov_27.760793:367-1024	MG935128.1	99.543	657	3	0	1	657	2	658	0.0	Apherusa bispinosa voucher Crust 17247V cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1181	NODE_3_length_1823_cov_27.760793:367-1024	KT209124.1	99.087	657	6	0	1	657	2	658	0.0	Aora gracilis voucher MT03132 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1181	NODE_3_length_1823_cov_27.760793:367-1024	KT208534.1	99.087	657	6	0	1	657	2	658	0.0	Aora gracilis voucher MT03126 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1175	NODE_3_length_1823_cov_27.760793:367-1024	KT209373.1	98.935	657	7	0	1	657	2	658	0.0	Aora gracilis voucher MT03130 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1175	NODE_3_length_1823_cov_27.760793:367-1024	KT209093.1	98.935	657	7	0	1	657	2	658	0.0	Aora gracilis voucher MT02096 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1175	NODE_3_length_1823_cov_27.760793:367-1024	KT209048.1	98.935	657	7	0	1	657	2	658	0.0	Aora gracilis voucher MT02099 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1175	NODE_3_length_1823_cov_27.760793:367-1024	KT208592.1	98.935	657	7	0	1	657	2	658	0.0	Aora gracilis voucher MT02100 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1158	NODE_3_length_1823_cov_27.760793:367-1024	KT208392.1	98.478	657	10	0	1	657	2	658	0.0	Aora gracilis voucher MT03133 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1153	NODE_3_length_1823_cov_27.760793:367-1024	KT209553.1	98.326	657	11	0	1	657	2	658	0.0	Aora gracilis voucher MT02095 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_3_length_1823_cov_27.760793:367-1024	371456	1153	NODE_3_length_1823_cov_27.760793:367-1024	KT209274.1	98.326	657	11	0	1	657	2	658	0.0	Aora gracilis voucher MT03128 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_43_length_940_cov_0.805054:53-598
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_43_length_940_cov_0.805054:53-598	2731756	403	NODE_43_length_940_cov_0.805054:53-598	CP060092.1	80.297	538	103	3	9	544	935842	936378	1.06e-107	Teredinibacter purpureus strain Bs12 chromosome, complete genome
+NODE_43_length_940_cov_0.805054:53-598	570277	331	NODE_43_length_940_cov_0.805054:53-598	CP013251.1	77.960	549	107	12	3	544	64877	65418	5.07e-86	Endozoicomonas montiporae CL-33 genome
+NODE_43_length_940_cov_0.805054:53-598	2711221	287	NODE_43_length_940_cov_0.805054:53-598	CP049332.1	76.654	544	111	14	9	544	770731	771266	1.11e-72	Vibrio ziniensis strain ZWAL4003 chromosome 2, complete sequence
+NODE_43_length_940_cov_0.805054:53-598	2590884	276	NODE_43_length_940_cov_0.805054:53-598	CP041216.1	76.138	549	117	12	3	544	4219553	4220094	2.41e-69	Shewanella glacialimarina strain TZS-4 chromosome, complete genome
+NODE_43_length_940_cov_0.805054:53-598	2908650	268	NODE_43_length_940_cov_0.805054:53-598	CP090974.1	75.956	549	117	13	3	544	206974	207514	4.03e-67	Shewanella sp. OM3-2 chromosome, complete genome
+NODE_43_length_940_cov_0.805054:53-598	104609	250	NODE_43_length_940_cov_0.805054:53-598	AP025156.1	75.547	548	113	17	9	545	2000244	1999707	1.46e-61	Vibrio penaeicida TUMSAT-OK2 DNA, chromosome 2, complete genome
+NODE_43_length_940_cov_0.805054:53-598	104609	250	NODE_43_length_940_cov_0.805054:53-598	AP025153.1	75.547	548	113	17	9	545	2000266	1999729	1.46e-61	Vibrio penaeicida TUMSAT-OK1 DNA, chromosome 2, complete genome
+NODE_43_length_940_cov_0.805054:53-598	104609	250	NODE_43_length_940_cov_0.805054:53-598	AP025150.1	75.547	548	113	17	9	545	1874497	1873960	1.46e-61	Vibrio penaeicida IFO 15642 DNA, chromosome 2, complete genome
+NODE_43_length_940_cov_0.805054:53-598	104609	250	NODE_43_length_940_cov_0.805054:53-598	AP025148.1	75.547	548	113	17	9	545	1784531	1783994	1.46e-61	Vibrio penaeicida IFO 15641 DNA, chromosome 2, complete genome
+NODE_43_length_940_cov_0.805054:53-598	104609	250	NODE_43_length_940_cov_0.805054:53-598	AP025145.1	75.547	548	113	17	9	545	1874316	1873779	1.46e-61	Vibrio penaeicida IFO 15640 DNA, chromosome 2, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_4_length_1670_cov_23.605381:648-1310
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1223	NODE_4_length_1670_cov_23.605381:648-1310	MN184232.1	100.000	662	0	0	1	662	662	1	0.0	Bonnemaisonia hamifera voucher GWS039844 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1199	NODE_4_length_1670_cov_23.605381:648-1310	KJ960352.1	100.000	649	0	0	8	656	649	1	0.0	Bonnemaisonia hamifera voucher RMAR1808 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1177	NODE_4_length_1670_cov_23.605381:648-1310	KJ960351.1	100.000	637	0	0	17	653	637	1	0.0	Bonnemaisonia hamifera voucher RMAR1833 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1173	NODE_4_length_1670_cov_23.605381:648-1310	KJ960348.1	100.000	635	0	0	17	651	635	1	0.0	Bonnemaisonia hamifera voucher RMAR1817 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1134	NODE_4_length_1670_cov_23.605381:648-1310	KJ960349.1	100.000	614	0	0	39	652	614	1	0.0	Bonnemaisonia hamifera voucher RMAR1936 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1129	NODE_4_length_1670_cov_23.605381:648-1310	KJ960353.1	100.000	611	0	0	45	655	611	1	0.0	Bonnemaisonia hamifera voucher RMAR1965 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	31369	1088	NODE_4_length_1670_cov_23.605381:648-1310	KJ960350.1	100.000	589	0	0	34	622	589	1	0.0	Bonnemaisonia hamifera voucher RMAR1916 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	40386	817	NODE_4_length_1670_cov_23.605381:648-1310	MN184297.1	88.956	661	73	0	1	661	662	2	0.0	Bonnemaisonia asparagoides voucher GWS040634 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	2005771	758	NODE_4_length_1670_cov_23.605381:648-1310	KX808094.1	87.443	661	80	3	2	661	660	2	0.0	Austrokallymenia roensis voucher GWS036235 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_4_length_1670_cov_23.605381:648-1310	1037065	749	NODE_4_length_1670_cov_23.605381:648-1310	JF903305.1	87.234	658	82	2	5	661	658	2	0.0	Pugetia cryptica voucher GWS001737 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_52_length_879_cov_67.445455:532-879
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_52_length_879_cov_67.445455:532-879	173654	614	NODE_52_length_879_cov_67.445455:532-879	HE610721.1	98.559	347	5	0	1	347	1001	655	2.75e-171	Hematodinium sp. mitochondrial mRNA for cytochrome oxidase subunit I (cox1 gene), clone 1
+NODE_52_length_879_cov_67.445455:532-879	173654	472	NODE_52_length_879_cov_67.445455:532-879	HE610742.1	99.234	261	2	0	87	347	728	468	1.75e-128	Hematodinium sp. mitochondrial partial cytochrome b, small subunit ribosomal RNA-like gene fragment and partial cytochrome oxidase subunit I, clone iii
+NODE_52_length_879_cov_67.445455:532-879	173654	457	NODE_52_length_879_cov_67.445455:532-879	HE610766.1	98.456	259	4	0	89	347	369	111	4.91e-124	Hematodinium sp. mitochondrial partial mRNA for cytochrome b and cytochrome oxidase subunit I, clone vi
+NODE_52_length_879_cov_67.445455:532-879	173654	442	NODE_52_length_879_cov_67.445455:532-879	HE610772.1	98.790	248	3	0	37	284	284	37	1.38e-119	Hematodinium sp. mitochondrial partial mRNA for cytochrome oxidase subunit I and cytochrome oxidase subunit III, clone i
+NODE_52_length_879_cov_67.445455:532-879	396600	398	NODE_52_length_879_cov_67.445455:532-879	GQ501236.1	87.320	347	44	0	1	347	572	226	3.02e-106	Gymnodinium impudicum voucher CCMP 413 cytochrome c oxidase subunit I (COI) gene, partial sequence; mitochondrial
+NODE_52_length_879_cov_67.445455:532-879	107758	381	NODE_52_length_879_cov_67.445455:532-879	JX262526.1	86.455	347	47	0	1	347	545	199	3.04e-101	Lepidodinium chlorophorum cytochrome c oxidase subunit 1 (COX1) mRNA, partial cds; mitochondrial
+NODE_52_length_879_cov_67.445455:532-879	71001	381	NODE_52_length_879_cov_67.445455:532-879	FJ600078.1	86.455	347	47	0	1	347	600	254	3.04e-101	Pfiesteria piscicida clone Ppi+Rhod_cDNA209 cox1 mRNA, partial cds; mitochondrial
+NODE_52_length_879_cov_67.445455:532-879	133427	381	NODE_52_length_879_cov_67.445455:532-879	EF036589.1	86.455	347	47	0	1	347	941	595	3.04e-101	Protoceratium reticulatum strain CCMP 1721 cytochrome oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+NODE_52_length_879_cov_67.445455:532-879	410738	381	NODE_52_length_879_cov_67.445455:532-879	EF036586.1	86.455	347	47	0	1	347	941	595	3.04e-101	Pfiesteria shumwayae strain T4 cytochrome oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+NODE_52_length_879_cov_67.445455:532-879	160623	381	NODE_52_length_879_cov_67.445455:532-879	EF036565.1	86.455	347	47	0	1	347	941	595	3.04e-101	Adenoides eludens strain CCMP 1891 cytochrome oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_550_length_435_cov_0.447853:2-435
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_550_length_435_cov_0.447853:2-435	693772	348	NODE_550_length_435_cov_0.447853:2-435	GU070900.1	81.336	434	75	5	1	431	178	608	3.92e-91	Invertebrate environmental sample clone A05 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	2754053	342	NODE_550_length_435_cov_0.447853:2-435	MT228924.1	81.062	433	78	4	1	431	152	582	1.83e-89	Vexillifera sp. AKu-2020a strain RC CCMAm 0466 clone 105.4.6 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	2754053	340	NODE_550_length_435_cov_0.447853:2-435	MT228923.1	81.535	417	73	4	1	415	152	566	6.57e-89	Vexillifera sp. AKu-2020a strain RC CCMAm 0466 clone 105.4.4 cytochrome c oxidase subunit 1 gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	693772	331	NODE_550_length_435_cov_0.447853:2-435	GU070917.1	80.645	434	78	6	1	431	178	608	3.95e-86	Invertebrate environmental sample clone E02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	2301598	324	NODE_550_length_435_cov_0.447853:2-435	MH349032.1	80.184	434	84	2	1	433	134	566	6.61e-84	Vexillifera kereti strain CCMA0007 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	35166	309	NODE_550_length_435_cov_0.447853:2-435	KX913321.1	79.863	437	76	11	1	431	138	568	1.85e-79	Dasya baillouviana voucher TRP/CWS 12-166-1 [BDA1776] cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	2484689	296	NODE_550_length_435_cov_0.447853:2-435	MK105446.1	79.176	437	83	8	1	433	161	593	1.44e-75	Neopetrosia sigmafera voucher UF 3857 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	2737332	292	NODE_550_length_435_cov_0.447853:2-435	MT491520.1	78.947	437	84	8	1	433	158	590	1.87e-74	Niphatidae sp. 10 PRT-2020 voucher TS4856 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	1522452	291	NODE_550_length_435_cov_0.447853:2-435	KM202120.1	79.376	417	82	4	1	415	106	520	6.71e-74	Nannochloris sp. MBTD-CMFRI-S048 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_550_length_435_cov_0.447853:2-435	1091071	291	NODE_550_length_435_cov_0.447853:2-435	JN242210.1	78.947	437	84	8	1	433	107	539	6.71e-74	Haliclona sp. E GPM-2011 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_5_length_1618_cov_3.825050:189-799
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5_length_1618_cov_3.825050:189-799	168635	944	NODE_5_length_1618_cov_3.825050:189-799	KF791909.1	99.613	517	2	0	1	517	15	531	0.0	Diplosoma listerianum haplotype 43 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	928	NODE_5_length_1618_cov_3.825050:189-799	KF791881.1	99.033	517	5	0	1	517	15	531	0.0	Diplosoma listerianum haplotype 15 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	889	NODE_5_length_1618_cov_3.825050:189-799	KF791880.1	97.679	517	12	0	1	517	15	531	0.0	Diplosoma listerianum haplotype 14 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	861	NODE_5_length_1618_cov_3.825050:189-799	KY235565.1	92.131	610	48	0	1	610	52	661	0.0	Diplosoma listerianum isolate SB1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	861	NODE_5_length_1618_cov_3.825050:189-799	FN313539.1	92.131	610	48	0	1	610	49	658	0.0	Diplosoma listerianum complete mitochondrial genome
+NODE_5_length_1618_cov_3.825050:189-799	168635	850	NODE_5_length_1618_cov_3.825050:189-799	KY235570.1	91.803	610	50	0	1	610	52	661	0.0	Diplosoma listerianum isolate SB8 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	850	NODE_5_length_1618_cov_3.825050:189-799	KY235564.1	91.803	610	50	0	1	610	52	661	0.0	Diplosoma listerianum isolate SB10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	843	NODE_5_length_1618_cov_3.825050:189-799	KU299766.1	92.256	594	46	0	17	610	1	594	0.0	Diplosoma listerianum isolate C101 cytochrome oxidase subunit I gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	839	NODE_5_length_1618_cov_3.825050:189-799	KY235568.1	91.475	610	52	0	1	610	52	661	0.0	Diplosoma listerianum isolate SB6 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_5_length_1618_cov_3.825050:189-799	168635	839	NODE_5_length_1618_cov_3.825050:189-799	MW872296.1	92.230	592	46	0	1	592	13	604	0.0	Diplosoma listerianum voucher 22nd_St_3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_69_length_819_cov_0.391549:156-767
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_69_length_819_cov_0.391549:156-767	60593	326	NODE_69_length_819_cov_0.391549:156-767	EF371561.1	93.578	218	14	0	394	611	221	4	2.66e-84	Celleporella hyalina isolate ARD2M cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	326	NODE_69_length_819_cov_0.391549:156-767	DQ999715.1	93.578	218	14	0	394	611	221	4	2.66e-84	Celleporella hyalina isolate ICE2M cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	320	NODE_69_length_819_cov_0.391549:156-767	EF371568.1	93.119	218	15	0	394	611	221	4	1.24e-82	Celleporella hyalina isolate SHE1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	320	NODE_69_length_819_cov_0.391549:156-767	EF371567.1	93.119	218	15	0	394	611	221	4	1.24e-82	Celleporella hyalina isolate RON5 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	320	NODE_69_length_819_cov_0.391549:156-767	EF371563.1	93.119	218	15	0	394	611	221	4	1.24e-82	Celleporella hyalina isolate DEE2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	320	NODE_69_length_819_cov_0.391549:156-767	DQ999719.1	93.119	218	15	0	394	611	221	4	1.24e-82	Celleporella hyalina isolate RON5 cytochrome c oxidase subunit 1 (cox1) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	316	NODE_69_length_819_cov_0.391549:156-767	FJ196078.1	93.056	216	15	0	396	611	261	46	1.60e-81	Celleporella hyalina cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	1267150	315	NODE_69_length_819_cov_0.391549:156-767	KC287627.1	77.341	534	119	2	46	578	612	80	5.77e-81	Disseta palumbii voucher Co058.4.3 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	315	NODE_69_length_819_cov_0.391549:156-767	EF371562.1	92.661	218	16	0	394	611	221	4	5.77e-81	Celleporella hyalina isolate DEE1 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_69_length_819_cov_0.391549:156-767	60593	315	NODE_69_length_819_cov_0.391549:156-767	EF371557.1	92.661	218	16	0	394	611	221	4	5.77e-81	Celleporella hyalina isolate ARD2 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_727_length_396_cov_0.752613:13-396
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_727_length_396_cov_0.752613:13-396	6344	335	NODE_727_length_396_cov_0.752613:13-396	JQ950326.1	82.461	382	67	0	1	382	681	300	2.68e-87	Arenicola marina isolate fr1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	335	NODE_727_length_396_cov_0.752613:13-396	MN311053.1	82.461	382	67	0	1	382	670	289	2.68e-87	Arenicola marina voucher ZMBN 130905 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	2049050	331	NODE_727_length_396_cov_0.752613:13-396	KY661886.1	84.058	345	54	1	38	382	569	226	3.47e-86	Abarenicola brevior haplotype 02 cytochrome oxidase subunit 1 gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	MF405761.1	82.199	382	68	0	1	382	666	285	1.25e-85	Arenicola marina isolate amlt1f cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	MF405760.1	82.199	382	68	0	1	382	665	284	1.25e-85	Arenicola marina isolate amf4f cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	MF405759.1	82.199	382	68	0	1	382	666	285	1.25e-85	Arenicola marina isolate amf2f cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	KM042098.1	82.199	382	68	0	1	382	681	300	1.25e-85	Arenicola marina haplotype h02 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	JQ950327.1	82.199	382	68	0	1	382	681	300	1.25e-85	Arenicola marina isolate fr2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	MN311054.1	82.199	382	68	0	1	382	670	289	1.25e-85	Arenicola marina voucher ZMBN 130906 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_727_length_396_cov_0.752613:13-396	6344	329	NODE_727_length_396_cov_0.752613:13-396	HQ691225.1	82.199	382	68	0	1	382	656	275	1.25e-85	Arenicola marina cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_76_length_804_cov_0.926619:188-470
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_76_length_804_cov_0.926619:188-470	114707	222	NODE_76_length_804_cov_0.926619:188-470	KJ885299.1	81.053	285	48	4	1	282	42	323	1.54e-53	Uncultured Pseudomonas sp. clone GP0154 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_76_length_804_cov_0.926619:188-470	114707	222	NODE_76_length_804_cov_0.926619:188-470	KJ885296.1	81.053	285	48	4	1	282	42	323	1.54e-53	Uncultured Pseudomonas sp. clone GP0151 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_76_length_804_cov_0.926619:188-470	114707	222	NODE_76_length_804_cov_0.926619:188-470	KJ885295.1	81.053	285	48	4	1	282	75	356	1.54e-53	Uncultured Pseudomonas sp. clone GP0150 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_76_length_804_cov_0.926619:188-470	114707	222	NODE_76_length_804_cov_0.926619:188-470	KJ885294.1	81.053	285	48	4	1	282	75	356	1.54e-53	Uncultured Pseudomonas sp. clone GP0149 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_76_length_804_cov_0.926619:188-470	114707	222	NODE_76_length_804_cov_0.926619:188-470	KJ885293.1	81.053	285	48	4	1	282	72	353	1.54e-53	Uncultured Pseudomonas sp. clone GP0148 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_76_length_804_cov_0.926619:188-470	2054914	206	NODE_76_length_804_cov_0.926619:188-470	CP025262.1	85.024	207	25	4	1	204	5164244	5164041	1.56e-48	Pseudomonas sp. 02C 26 chromosome
+NODE_76_length_804_cov_0.926619:188-470	2866278	206	NODE_76_length_804_cov_0.926619:188-470	CP080625.1	85.024	207	25	4	1	204	4231438	4231235	1.56e-48	Pseudomonas sp. S07E 245 chromosome, complete genome
+NODE_76_length_804_cov_0.926619:188-470	2904242	204	NODE_76_length_804_cov_0.926619:188-470	CP089928.1	81.176	255	46	2	2	255	2559422	2559675	5.59e-48	Microbulbifer sp. YPW16 chromosome, complete genome
+NODE_76_length_804_cov_0.926619:188-470	2745519	198	NODE_76_length_804_cov_0.926619:188-470	CP077082.1	84.390	205	28	2	2	204	274647	274849	2.60e-46	Pseudomonas sp. OE 28.3 chromosome, complete genome
+NODE_76_length_804_cov_0.926619:188-470	570277	195	NODE_76_length_804_cov_0.926619:188-470	CP013251.1	79.853	273	49	4	8	277	64844	65113	3.37e-45	Endozoicomonas montiporae CL-33 genome
+# BLASTN 2.12.0+
+# Query: NODE_81_length_788_cov_1.518409:3-540
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_81_length_788_cov_1.518409:3-540	560967	848	NODE_81_length_788_cov_1.518409:3-540	JN680987.1	95.158	537	26	0	1	537	146	682	0.0	Callopora lineata cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+NODE_81_length_788_cov_1.518409:3-540	1072023	435	NODE_81_length_788_cov_1.518409:3-540	JF950431.1	81.343	536	98	2	1	535	95	629	3.70e-117	Beania plurispinosa isolate BpluNH01 cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_81_length_788_cov_1.518409:3-540	1072034	405	NODE_81_length_788_cov_1.518409:3-540	MT293085.1	80.407	541	98	6	1	537	164	700	2.90e-108	Arachnopusia unicornis strain BLEED221 mitochondrion sequence
+NODE_81_length_788_cov_1.518409:3-540	1072034	399	NODE_81_length_788_cov_1.518409:3-540	MT293114.1	80.222	541	99	6	1	537	164	700	1.35e-106	Arachnopusia unicornis strain BLEED183A mitochondrion sequence
+NODE_81_length_788_cov_1.518409:3-540	2203752	388	NODE_81_length_788_cov_1.518409:3-540	KY982271.1	79.926	543	97	12	1	537	123	659	2.92e-103	Tityus pictus microdon voucher AMCC LP-9046 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_81_length_788_cov_1.518409:3-540	742682	370	NODE_81_length_788_cov_1.518409:3-540	AB917967.1	79.487	546	93	17	1	537	123	658	1.06e-97	Euploea eunice mitochondrial COI gene for cytochrome oxidase subunit I, partial cds
+NODE_81_length_788_cov_1.518409:3-540	1402338	370	NODE_81_length_788_cov_1.518409:3-540	KF226425.1	79.487	546	93	17	1	537	123	658	1.06e-97	Euploea eunice leucogonis voucher UMKL-JJW0183 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_81_length_788_cov_1.518409:3-540	1402338	364	NODE_81_length_788_cov_1.518409:3-540	KF226424.1	79.304	546	94	17	1	537	123	658	4.92e-96	Euploea eunice leucogonis voucher UMKL-JJW0184 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_81_length_788_cov_1.518409:3-540	2334000	364	NODE_81_length_788_cov_1.518409:3-540	HM412711.1	79.113	541	104	8	1	537	123	658	4.92e-96	Psychodidae sp. BBDED338-10 voucher BIOUG<CAN>:09BBEDI-1320 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_81_length_788_cov_1.518409:3-540	2018458	363	NODE_81_length_788_cov_1.518409:3-540	MF422296.1	79.395	529	97	12	1	523	140	662	1.77e-95	Charmus sp. BNHS SC 90 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_8_length_1435_cov_1.044495:577-1239
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1223	NODE_8_length_1435_cov_1.044495:577-1239	MN184243.1	100.000	662	0	0	1	662	662	1	0.0	Dasysiphonia japonica voucher GWS040892 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1218	NODE_8_length_1435_cov_1.044495:577-1239	HM917383.1	99.849	662	1	0	1	662	662	1	0.0	Heterosiphonia japonica voucher GWS011810 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1216	NODE_8_length_1435_cov_1.044495:577-1239	HM542007.1	99.849	661	1	0	2	662	661	1	0.0	Heterosiphonia japonica voucher CWS09-42-3 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1212	NODE_8_length_1435_cov_1.044495:577-1239	KC158580.1	99.848	659	1	0	1	659	659	1	0.0	Dasysiphonia japonica voucher GWS005731 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1203	NODE_8_length_1435_cov_1.044495:577-1239	HM919024.1	99.396	662	4	0	1	662	662	1	0.0	Heterosiphonia japonica voucher GWS014721 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1188	NODE_8_length_1435_cov_1.044495:577-1239	JQ619150.1	99.092	661	6	0	2	662	661	1	0.0	Heterosiphonia japonica isolate mbccc08 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1144	NODE_8_length_1435_cov_1.044495:577-1239	KC795907.1	100.000	619	0	0	44	662	630	12	0.0	Heterosiphonia japonica voucher CQDMTJ20111029-R22 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2506492	1120	NODE_8_length_1435_cov_1.044495:577-1239	MH251747.1	100.000	606	0	0	56	661	606	1	0.0	Dasysiphonia japonica voucher CUK7674 cytochrome c oxidase subunit I (cox1) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	997588	985	NODE_8_length_1435_cov_1.044495:577-1239	KX913329.2	93.505	662	43	0	1	662	662	1	0.0	Dasya corymbifera voucher CWS/CEL/TRP 10-26-10 [BDA0422] cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+NODE_8_length_1435_cov_1.044495:577-1239	2005451	979	NODE_8_length_1435_cov_1.044495:577-1239	KX913332.1	93.598	656	42	0	6	661	657	2	0.0	Dasya collinsiana voucher CWS/CEL/TRP 12-10-8 [BDA0581] cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+# BLASTN 2.12.0+
+# Query: NODE_934_length_369_cov_0.830769:1-331
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_934_length_369_cov_0.830769:1-331	155900	176	NODE_934_length_369_cov_0.830769:1-331	FJ541268.2	76.875	320	68	5	13	329	362	46	1.46e-39	Uncultured organism isolate Tumbes_D_1 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_934_length_369_cov_0.830769:1-331	155900	176	NODE_934_length_369_cov_0.830769:1-331	FJ541267.2	76.803	319	70	4	13	329	362	46	1.46e-39	Uncultured organism isolate Tumbes_D_7 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_934_length_369_cov_0.830769:1-331	155900	176	NODE_934_length_369_cov_0.830769:1-331	FJ541266.2	76.803	319	70	4	13	329	362	46	1.46e-39	Uncultured organism isolate Loncoyen_D_9 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_934_length_369_cov_0.830769:1-331	86473	171	NODE_934_length_369_cov_0.830769:1-331	FJ868208.1	81.773	203	37	0	127	329	326	124	6.78e-38	Uncultured gamma proteobacterium clone SW002 cytochrome oxidase-like gene, partial sequence
+NODE_934_length_369_cov_0.830769:1-331	2820710	163	NODE_934_length_369_cov_0.830769:1-331	CP072110.1	75.893	336	72	8	1	330	2033011	2033343	1.13e-35	Psychrosphaera ytuae strain MTZ26 chromosome, complete genome
+NODE_934_length_369_cov_0.830769:1-331	155900	158	NODE_934_length_369_cov_0.830769:1-331	FJ541271.2	83.626	171	24	4	162	330	213	45	5.28e-34	Uncultured organism isolate Algarrobo_2 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_934_length_369_cov_0.830769:1-331	44335	156	NODE_934_length_369_cov_0.830769:1-331	AY830420.1	83.529	170	24	3	162	329	302	135	1.90e-33	Eurythenes gryllus clone EG_SacII_40 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+NODE_934_length_369_cov_0.830769:1-331	155900	152	NODE_934_length_369_cov_0.830769:1-331	FJ541272.2	83.041	171	25	4	162	330	213	45	2.45e-32	Uncultured organism isolate Algarrobo_3 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_934_length_369_cov_0.830769:1-331	155900	152	NODE_934_length_369_cov_0.830769:1-331	FJ541270.2	83.041	171	25	4	162	330	213	45	2.45e-32	Uncultured organism isolate Algarrobo_1 cytochrome oxidase subunit I (COI) gene, partial cds
+NODE_934_length_369_cov_0.830769:1-331	1298881	137	NODE_934_length_369_cov_0.830769:1-331	LN899469.1	77.778	225	48	2	106	329	543757	543534	6.87e-28	Idiomarinaceae bacterium HL-53 genome assembly JGI assembly, chromosome : I
+# BLAST processed 41 queries

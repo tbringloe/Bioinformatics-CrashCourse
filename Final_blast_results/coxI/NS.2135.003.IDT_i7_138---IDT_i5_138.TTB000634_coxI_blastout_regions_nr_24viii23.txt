@@ -1,0 +1,543 @@
+# BLASTX 2.12.0+
+# Query: NODE_1029_length_421_cov_0.346154:164-421
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1029_length_421_cov_0.346154:164-421	1638754	154	NODE_1029_length_421_cov_0.346154:164-421	AKV84656.1	90.588	85	8	0	3	257	1	85	2.54e-45	cytochrome oxidase subunit 1, partial [Hiatella sp. I HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638745	154	NODE_1029_length_421_cov_0.346154:164-421	AKV84440.1	90.588	85	8	0	3	257	2	86	3.93e-45	cytochrome oxidase subunit 1, partial [Hiatella sp. K HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638745	154	NODE_1029_length_421_cov_0.346154:164-421	AKV84445.1	90.588	85	8	0	3	257	2	86	4.22e-45	cytochrome oxidase subunit 1, partial [Hiatella sp. K HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638754	150	NODE_1029_length_421_cov_0.346154:164-421	AKV84626.1	90.361	83	8	0	9	257	1	83	8.43e-44	cytochrome oxidase subunit 1, partial [Hiatella sp. I HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638756	150	NODE_1029_length_421_cov_0.346154:164-421	AKV84505.1	88.235	85	10	0	3	257	2	86	1.62e-43	cytochrome oxidase subunit 1, partial [Hiatella sp. L HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638756	150	NODE_1029_length_421_cov_0.346154:164-421	AKV84437.1	88.235	85	10	0	3	257	2	86	2.07e-43	cytochrome oxidase subunit 1, partial [Hiatella sp. L HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638756	148	NODE_1029_length_421_cov_0.346154:164-421	AKV84745.1	87.059	85	11	0	3	257	2	86	1.07e-42	cytochrome oxidase subunit 1, partial [Hiatella sp. L HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638756	148	NODE_1029_length_421_cov_0.346154:164-421	AKV84733.1	87.059	85	11	0	3	257	2	86	1.17e-42	cytochrome oxidase subunit 1, partial [Hiatella sp. L HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638756	146	NODE_1029_length_421_cov_0.346154:164-421	AKV84462.1	87.952	83	10	0	9	257	2	84	5.98e-42	cytochrome oxidase subunit 1, partial [Hiatella sp. L HML-2015]
+NODE_1029_length_421_cov_0.346154:164-421	1638756	146	NODE_1029_length_421_cov_0.346154:164-421	AKV84785.1	87.952	83	10	0	9	257	1	83	6.41e-42	cytochrome oxidase subunit 1, partial [Hiatella sp. L HML-2015]
+# BLASTX 2.12.0+
+# Query: NODE_1056_length_418_cov_1.048544:27-418
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1056_length_418_cov_1.048544:27-418	37520	207	NODE_1056_length_418_cov_1.048544:27-418	AYV62235.1	98.462	130	2	0	1	390	4	133	3.53e-65	cytochrome oxidase subunit I, partial [Obelia dichotoma]
+NODE_1056_length_418_cov_1.048544:27-418	2782805	206	NODE_1056_length_418_cov_1.048544:27-418	QWV43342.1	97.692	130	3	0	1	390	1	130	4.06e-65	cytochrome oxidase subunit I, partial [Obelia sp. USNM IZ 1448096]
+NODE_1056_length_418_cov_1.048544:27-418	185004	207	NODE_1056_length_418_cov_1.048544:27-418	AEC57806.1	98.462	130	2	0	1	390	2	131	4.18e-65	cytochrome oxidase subunit 1, partial [Obelia geniculata]
+NODE_1056_length_418_cov_1.048544:27-418	1246328	206	NODE_1056_length_418_cov_1.048544:27-418	AFV60658.1	96.923	130	4	0	1	390	5	134	6.99e-65	cytochrome oxidase subunit I, partial [Clytia xiamenensis]
+NODE_1056_length_418_cov_1.048544:27-418	1246323	206	NODE_1056_length_418_cov_1.048544:27-418	AFV60611.1	96.923	130	4	0	1	390	5	134	7.38e-65	cytochrome oxidase subunit I, partial [Eirene brevistylus]
+NODE_1056_length_418_cov_1.048544:27-418	573607	206	NODE_1056_length_418_cov_1.048544:27-418	AFV60591.1	96.923	130	4	0	1	390	5	134	7.47e-65	cytochrome oxidase subunit I, partial [Eirene menoni]
+NODE_1056_length_418_cov_1.048544:27-418	1246330	205	NODE_1056_length_418_cov_1.048544:27-418	AFV60535.1	96.923	130	4	0	1	390	5	134	7.50e-65	cytochrome oxidase subunit I, partial [Obelia sp. 1 JRH-2012]
+NODE_1056_length_418_cov_1.048544:27-418	1246323;1246328	206	NODE_1056_length_418_cov_1.048544:27-418	AFV60613.1	96.923	130	4	0	1	390	5	134	7.89e-65	cytochrome oxidase subunit I, partial [Eirene brevistylus]
+NODE_1056_length_418_cov_1.048544:27-418	1246323	206	NODE_1056_length_418_cov_1.048544:27-418	AFV60612.1	96.923	130	4	0	1	390	5	134	8.33e-65	cytochrome oxidase subunit I, partial [Eirene brevistylus]
+NODE_1056_length_418_cov_1.048544:27-418	573607	206	NODE_1056_length_418_cov_1.048544:27-418	ACJ24319.1	96.923	130	4	0	1	390	6	135	1.06e-64	cytochrome oxidase subunit I, partial [Eirene menoni]
+# BLASTX 2.12.0+
+# Query: NODE_109_length_733_cov_0.342949:311-687
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_109_length_733_cov_0.342949:311-687	1868282	223	NODE_109_length_733_cov_0.342949:311-687	OED35465.1	90.400	125	11	1	376	2	88	211	1.05e-67	cytochrome c oxidase subunit I [Chromatiales bacterium (ex Bugula neritina AB1)]
+NODE_109_length_733_cov_0.342949:311-687	1913989	214	NODE_109_length_733_cov_0.342949:311-687	MBX2839649.1	86.400	125	16	1	376	2	95	218	2.28e-64	cytochrome c oxidase subunit I [Gammaproteobacteria bacterium]
+NODE_109_length_733_cov_0.342949:311-687	1943584	213	NODE_109_length_733_cov_0.342949:311-687	NND91094.1	85.600	125	17	1	376	2	96	219	9.10e-64	cytochrome c oxidase subunit I [Granulosicoccus sp.]
+NODE_109_length_733_cov_0.342949:311-687	1943584	212	NODE_109_length_733_cov_0.342949:311-687	MBX2879785.1	84.800	125	18	1	376	2	96	219	2.70e-63	cytochrome c oxidase subunit I [Granulosicoccus sp.]
+NODE_109_length_733_cov_0.342949:311-687	1913989	202	NODE_109_length_733_cov_0.342949:311-687	MBT8061885.1	78.400	125	26	1	376	2	93	216	3.58e-63	cbb3-type cytochrome c oxidase subunit I [Gammaproteobacteria bacterium]
+NODE_109_length_733_cov_0.342949:311-687	120363	201	NODE_109_length_733_cov_0.342949:311-687	AAL55521.1	80.800	125	23	1	376	2	56	179	5.69e-63	cytochrome oxidase 1, partial [Bankia carinata]
+NODE_109_length_733_cov_0.342949:311-687	2052182	211	NODE_109_length_733_cov_0.342949:311-687	MBK8068964.1	83.200	125	20	1	376	2	93	216	6.74e-63	cytochrome c oxidase subunit I [Rhodanobacteraceae bacterium]
+NODE_109_length_733_cov_0.342949:311-687	128785	210	NODE_109_length_733_cov_0.342949:311-687	MBL8255189.1	83.200	125	20	1	376	2	93	216	8.71e-63	cytochrome c oxidase subunit I [Pseudoxanthomonas mexicana]
+NODE_109_length_733_cov_0.342949:311-687	437505;1192854	209	NODE_109_length_733_cov_0.342949:311-687	WP_088916622.1	84.000	125	19	1	376	2	96	219	3.13e-62	cytochrome c oxidase subunit I [Granulosicoccus antarcticus]
+NODE_109_length_733_cov_0.342949:311-687	2006849	207	NODE_109_length_733_cov_0.342949:311-687	MCB1600719.1	81.600	125	22	1	376	2	93	216	1.19e-61	cytochrome c oxidase subunit I [Xanthomonadales bacterium]
+# BLASTX 2.12.0+
+# Query: NODE_1173_length_407_cov_0.842282:2-281
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1173_length_407_cov_0.842282:2-281	6943	138	NODE_1173_length_407_cov_0.842282:2-281	ADQ21780.1	84.946	93	14	0	1	279	127	219	1.19e-38	cytochrome oxidase subunit 1, partial [Amblyomma americanum]
+NODE_1173_length_407_cov_0.842282:2-281	251389	138	NODE_1173_length_407_cov_0.842282:2-281	AGU36921.1	84.946	93	14	0	1	279	127	219	1.22e-38	cytochrome oxidase subunit 1, partial [Amblyomma oblongoguttatum]
+NODE_1173_length_407_cov_0.842282:2-281	251389	138	NODE_1173_length_407_cov_0.842282:2-281	AGU37010.1	84.946	93	14	0	1	279	127	219	1.23e-38	cytochrome oxidase subunit 1, partial [Amblyomma oblongoguttatum]
+NODE_1173_length_407_cov_0.842282:2-281	72854	135	NODE_1173_length_407_cov_0.842282:2-281	AKO83851.1	83.871	93	15	0	1	279	46	138	1.82e-38	cytochrome oxidase subunit I, partial [Hyalomma aegyptium]
+NODE_1173_length_407_cov_0.842282:2-281	462864	134	NODE_1173_length_407_cov_0.842282:2-281	QLM05127.1	83.871	93	15	0	1	279	8	100	1.94e-38	cytochrome oxidase subunit I, partial [Jesogammarus debilis]
+NODE_1173_length_407_cov_0.842282:2-281	72854	135	NODE_1173_length_407_cov_0.842282:2-281	QIP52355.1	83.871	93	15	0	1	279	60	152	2.01e-38	cytochrome c oxidase subunit I, partial [Hyalomma aegyptium]
+NODE_1173_length_407_cov_0.842282:2-281	34627	135	NODE_1173_length_407_cov_0.842282:2-281	AUS83694.1	83.871	93	15	0	1	279	46	138	2.24e-38	cytochrome oxidase subunit 1, partial [Hyalomma marginatum]
+NODE_1173_length_407_cov_0.842282:2-281	172548	137	NODE_1173_length_407_cov_0.842282:2-281	AAL11690.1	84.946	93	14	0	1	279	127	219	2.42e-38	cytochrome oxidase subunit I, partial [Heterojapyx sp. GG-2001]
+NODE_1173_length_407_cov_0.842282:2-281	1410445	134	NODE_1173_length_407_cov_0.842282:2-281	AHA34332.1	81.720	93	17	0	1	279	43	135	2.97e-38	cytochrome oxidase subunit 1, partial [Folsomia quadrioculata L1]
+NODE_1173_length_407_cov_0.842282:2-281	2456377	133	NODE_1173_length_407_cov_0.842282:2-281	AYP38945.1	83.871	93	15	0	1	279	13	105	3.79e-38	cytochrome oxidase subunit 1, partial [Hyalellidae sp. BIOUG23330-A09]
+# BLASTX 2.12.0+
+# Query: NODE_11_length_1348_cov_6.207425:484-1133
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_11_length_1348_cov_6.207425:484-1133	60593	342	NODE_11_length_1348_cov_6.207425:484-1133	ACN91235.1	92.188	192	15	0	583	8	23	214	5.05e-117	cytochrome oxidase subunit I, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	350	NODE_11_length_1348_cov_6.207425:484-1133	AEV21503.1	92.784	194	14	0	583	2	31	224	5.79e-117	cytochrome c oxidase subunit I, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	352	NODE_11_length_1348_cov_6.207425:484-1133	AFJ53903.1	92.784	194	14	0	583	2	37	230	1.51e-116	cytochrome c oxidase subunit 1 [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	338	NODE_11_length_1348_cov_6.207425:484-1133	ABQ28605.1	92.593	189	14	0	583	17	9	197	1.55e-115	cytochrome oxidase subunit 1, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	337	NODE_11_length_1348_cov_6.207425:484-1133	ABQ28613.1	92.063	189	15	0	583	17	9	197	3.10e-115	cytochrome oxidase subunit 1, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	337	NODE_11_length_1348_cov_6.207425:484-1133	ABQ28596.1	92.063	189	15	0	583	17	9	197	4.35e-115	cytochrome oxidase subunit 1, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	336	NODE_11_length_1348_cov_6.207425:484-1133	ABQ28600.1	92.063	189	15	0	583	17	9	197	4.81e-115	cytochrome oxidase subunit 1, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	335	NODE_11_length_1348_cov_6.207425:484-1133	ABQ28615.1	92.063	189	15	0	583	17	9	197	2.69e-114	cytochrome oxidase subunit 1, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	327	NODE_11_length_1348_cov_6.207425:484-1133	ABM66223.1	92.391	184	14	0	583	32	9	192	1.41e-111	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_11_length_1348_cov_6.207425:484-1133	60593	327	NODE_11_length_1348_cov_6.207425:484-1133	ABM66204.1	92.391	184	14	0	583	32	9	192	1.59e-111	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+# BLASTX 2.12.0+
+# Query: NODE_13_length_1309_cov_0.948333:226-882
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_13_length_1309_cov_0.948333:226-882	496820	280	NODE_13_length_1309_cov_0.948333:226-882	CCG14351.1	91.284	218	19	0	3	656	2	219	1.50e-92	cytochrome oxidase subunit 1, partial [Pirenella alata]
+NODE_13_length_1309_cov_0.948333:226-882	496820;496821;2706822;2870701	280	NODE_13_length_1309_cov_0.948333:226-882	QZB48381.1	91.743	218	18	0	3	656	2	219	1.50e-92	cytochrome c oxidase subunit I, partial [Pirenella alata]
+NODE_13_length_1309_cov_0.948333:226-882	496820	280	NODE_13_length_1309_cov_0.948333:226-882	QZB48384.1	91.743	218	18	0	3	656	2	219	1.62e-92	cytochrome c oxidase subunit I, partial [Pirenella alata]
+NODE_13_length_1309_cov_0.948333:226-882	743477;743483;1675646;1920560;1920620	280	NODE_13_length_1309_cov_0.948333:226-882	AKN90105.1	91.743	218	18	0	3	656	2	219	2.18e-92	cytochrome oxidase subunit 1, partial [Haustrum albomarginatum]
+NODE_13_length_1309_cov_0.948333:226-882	137544	280	NODE_13_length_1309_cov_0.948333:226-882	ACD87386.1	92.202	218	17	0	3	656	2	219	2.18e-92	cytochrome oxidase subunit I, partial [Concholepas concholepas]
+NODE_13_length_1309_cov_0.948333:226-882	137544	280	NODE_13_length_1309_cov_0.948333:226-882	ACD87269.1	92.202	218	17	0	3	656	2	219	2.51e-92	cytochrome oxidase subunit I, partial [Concholepas concholepas]
+NODE_13_length_1309_cov_0.948333:226-882	52928	280	NODE_13_length_1309_cov_0.948333:226-882	ABX55276.1	88.532	218	25	0	3	656	2	219	2.71e-92	cytochrome oxidase subunit I, partial [Nerita albicilla]
+NODE_13_length_1309_cov_0.948333:226-882	1920559	280	NODE_13_length_1309_cov_0.948333:226-882	APD76136.1	91.284	218	19	0	3	656	2	219	3.09e-92	cytochrome oxidase subunit 1, partial [Olividae sp. MNHN IM 2007-33444]
+NODE_13_length_1309_cov_0.948333:226-882	334428	280	NODE_13_length_1309_cov_0.948333:226-882	CCG14626.1	91.743	218	18	0	3	656	2	219	3.13e-92	cytochrome oxidase subunit 1, partial [Cerithidea djadjariensis]
+NODE_13_length_1309_cov_0.948333:226-882	200177;335531;483686	280	NODE_13_length_1309_cov_0.948333:226-882	AAX52066.1	88.991	218	24	0	3	656	1	218	3.26e-92	cytochrome oxidase subunit I, partial [Nerita polita]
+# BLASTX 2.12.0+
+# Query: NODE_1698_length_372_cov_0.498099:1-372
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1698_length_372_cov_0.498099:1-372	2865492	160	NODE_1698_length_372_cov_0.498099:1-372	BAU20592.1	79.675	123	25	0	2	370	6	128	7.45e-47	cytochrome oxidase subunit 1, partial [Juxtacribrilina mutabilis]
+NODE_1698_length_372_cov_0.498099:1-372	1585634	160	NODE_1698_length_372_cov_0.498099:1-372	AJB84784.1	82.114	123	22	0	2	370	5	127	1.34e-46	cytochrome oxidase subunit 1, partial [Vesicularia spinosa]
+NODE_1698_length_372_cov_0.498099:1-372	1054326	160	NODE_1698_length_372_cov_0.498099:1-372	AEK11914.1	81.301	123	23	0	2	370	9	131	1.66e-46	cytochrome oxidase subunit 1, partial [Amathia distans]
+NODE_1698_length_372_cov_0.498099:1-372	1588093	159	NODE_1698_length_372_cov_0.498099:1-372	AJB84704.1	82.114	123	22	0	2	370	5	127	1.67e-46	cytochrome oxidase subunit 1, partial [Amathia semiconvoluta]
+NODE_1698_length_372_cov_0.498099:1-372	213650	157	NODE_1698_length_372_cov_0.498099:1-372	AAO11833.1	77.236	123	28	0	2	370	5	127	1.93e-46	cytochrome c oxidase subunit I, partial [Celleporaria sp. JM-2002]
+NODE_1698_length_372_cov_0.498099:1-372	1054329	157	NODE_1698_length_372_cov_0.498099:1-372	AJB84706.1	82.114	123	22	0	2	370	9	131	2.30e-46	cytochrome oxidase subunit 1, partial [Amathia vidovici]
+NODE_1698_length_372_cov_0.498099:1-372	1054329	157	NODE_1698_length_372_cov_0.498099:1-372	AJB84753.1	82.114	123	22	0	2	370	9	131	2.49e-46	cytochrome oxidase subunit 1, partial [Amathia vidovici]
+NODE_1698_length_372_cov_0.498099:1-372	1970215	159	NODE_1698_length_372_cov_0.498099:1-372	AJB84699.1	82.114	123	22	0	2	370	5	127	2.85e-46	cytochrome oxidase subunit 1, partial [Amathia cf. crispa AW-2014]
+NODE_1698_length_372_cov_0.498099:1-372	1928862	159	NODE_1698_length_372_cov_0.498099:1-372	AEK11916.1	81.301	123	23	0	2	370	9	131	2.87e-46	cytochrome oxidase subunit 1, partial [Amathia verticillata]
+NODE_1698_length_372_cov_0.498099:1-372	1970218	159	NODE_1698_length_372_cov_0.498099:1-372	AJB84782.1	82.114	123	22	0	2	370	5	127	3.01e-46	cytochrome oxidase subunit 1, partial [Amathia evelinae]
+# BLASTX 2.12.0+
+# Query: NODE_17_length_1228_cov_55.557641:1-389
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_17_length_1228_cov_55.557641:1-389	97259	159	NODE_17_length_1228_cov_55.557641:1-389	ACN91246.1	83.721	129	21	0	388	2	3	131	4.16e-46	cytochrome oxidase subunit I, partial [Electra pilosa]
+NODE_17_length_1228_cov_55.557641:1-389	2476969;2476971	150	NODE_17_length_1228_cov_55.557641:1-389	AYJ30375.1	83.721	129	21	0	388	2	4	132	1.16e-42	cytochrome oxidase subunit 1, partial [Scleractinia sp. BCnid2010-060]
+NODE_17_length_1228_cov_55.557641:1-389	2510237	147	NODE_17_length_1228_cov_55.557641:1-389	ADO20442.1	78.295	129	28	0	388	2	4	132	1.03e-41	cytochrome oxidase subunit I, partial [Conopeum chesapeakensis]
+NODE_17_length_1228_cov_55.557641:1-389	2510237	147	NODE_17_length_1228_cov_55.557641:1-389	QAV56994.1	78.295	129	28	0	388	2	3	131	1.19e-41	cytochrome oxidase subunit 1, partial [Conopeum chesapeakensis]
+NODE_17_length_1228_cov_55.557641:1-389	2569748	147	NODE_17_length_1228_cov_55.557641:1-389	QXR91201.1	75.194	129	32	0	388	2	3	131	1.83e-41	cytochrome c oxidase subunit I, partial [Cryptosula zavjalovensis]
+NODE_17_length_1228_cov_55.557641:1-389	515972	146	NODE_17_length_1228_cov_55.557641:1-389	ADO20471.1	78.295	129	28	0	388	2	5	133	4.30e-41	cytochrome oxidase subunit I, partial [Membranipora tenuis]
+NODE_17_length_1228_cov_55.557641:1-389	95170	146	NODE_17_length_1228_cov_55.557641:1-389	ACN91249.1	79.845	129	26	0	388	2	3	131	4.41e-41	cytochrome oxidase subunit I, partial [Membranipora membranacea]
+NODE_17_length_1228_cov_55.557641:1-389	2047682	146	NODE_17_length_1228_cov_55.557641:1-389	QGZ98181.1	76.744	129	30	0	388	2	3	131	5.30e-41	cytochrome c oxidase subunit I, partial [Vesicularia sp.]
+NODE_17_length_1228_cov_55.557641:1-389	450191	145	NODE_17_length_1228_cov_55.557641:1-389	AHB62237.1	76.744	129	30	0	388	2	6	134	5.31e-41	cytochrome oxidase subunit 1, partial [Conopeum seurati]
+NODE_17_length_1228_cov_55.557641:1-389	1662033	146	NODE_17_length_1228_cov_55.557641:1-389	QXR91198.1	79.070	129	27	0	388	2	3	131	5.48e-41	cytochrome c oxidase subunit I, partial [Microporina articulata]
+# BLASTX 2.12.0+
+# Query: NODE_181_length_648_cov_0.775510:138-641
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_181_length_648_cov_0.775510:138-641	31367	234	NODE_181_length_648_cov_0.775510:138-641	AIS20000.1	87.349	166	21	0	498	1	25	190	3.40e-75	cytochrome oxidase subunit 1, partial [Asparagopsis armata]
+NODE_181_length_648_cov_0.775510:138-641	31367	233	NODE_181_length_648_cov_0.775510:138-641	AIS20002.1	87.349	166	21	0	498	1	33	198	1.16e-74	cytochrome oxidase subunit 1, partial [Asparagopsis armata]
+NODE_181_length_648_cov_0.775510:138-641	31367	233	NODE_181_length_648_cov_0.775510:138-641	AIS20001.1	87.349	166	21	0	498	1	33	198	1.36e-74	cytochrome oxidase subunit 1, partial [Asparagopsis armata]
+NODE_181_length_648_cov_0.775510:138-641	31367	233	NODE_181_length_648_cov_0.775510:138-641	BAV03967.1	87.349	166	21	0	498	1	27	192	1.40e-74	cytochrome oxidase subunit I, partial [Asparagopsis armata]
+NODE_181_length_648_cov_0.775510:138-641	260499	231	NODE_181_length_648_cov_0.775510:138-641	AEA41665.1	86.145	166	23	0	498	1	32	197	3.10e-74	cytochrome c oxidase subunit I, partial [Asparagopsis taxiformis]
+NODE_181_length_648_cov_0.775510:138-641	31369	229	NODE_181_length_648_cov_0.775510:138-641	AIS20008.1	87.349	166	21	0	498	1	19	184	1.39e-73	cytochrome oxidase subunit 1, partial [Bonnemaisonia hamifera]
+NODE_181_length_648_cov_0.775510:138-641	31369	229	NODE_181_length_648_cov_0.775510:138-641	AIS20011.1	87.349	166	21	0	498	1	30	195	1.42e-73	cytochrome oxidase subunit 1, partial [Bonnemaisonia hamifera]
+NODE_181_length_648_cov_0.775510:138-641	260499	230	NODE_181_length_648_cov_0.775510:138-641	BAV03960.1	85.542	166	24	0	498	1	27	192	1.52e-73	cytochrome oxidase subunit I, partial [Asparagopsis taxiformis]
+NODE_181_length_648_cov_0.775510:138-641	260499	230	NODE_181_length_648_cov_0.775510:138-641	AFM47373.1	86.145	166	23	0	498	1	32	197	1.77e-73	cytochrome oxidase subunit 1, partial [Asparagopsis taxiformis]
+NODE_181_length_648_cov_0.775510:138-641	260499	229	NODE_181_length_648_cov_0.775510:138-641	ABX60545.1	86.145	166	23	0	498	1	27	192	1.95e-73	cytochrome oxidase subunit I, partial [Asparagopsis taxiformis]
+# BLASTX 2.12.0+
+# Query: NODE_203_length_633_cov_0.666031:18-627
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_203_length_633_cov_0.666031:18-627	2341112	299	NODE_203_length_633_cov_0.666031:18-627	WP_126011132.1	91.089	202	17	1	2	607	55	255	1.03e-95	cytochrome c oxidase subunit I [Georhizobium profundi]
+NODE_203_length_633_cov_0.666031:18-627	2038389	299	NODE_203_length_633_cov_0.666031:18-627	VVT27275.1	91.089	202	17	1	2	607	55	255	1.07e-95	cytochrome o ubiquinol oxidase subunit I [Rhizobium sp. EC-SD404]
+NODE_203_length_633_cov_0.666031:18-627	2037914	298	NODE_203_length_633_cov_0.666031:18-627	WP_099865190.1	90.594	202	18	1	2	607	55	255	2.06e-95	cytochrome c oxidase subunit I [Pararhizobium haloflavum]
+NODE_203_length_633_cov_0.666031:18-627	2038388	298	NODE_203_length_633_cov_0.666031:18-627	WP_152009602.1	90.594	202	18	1	2	607	54	254	2.78e-95	cytochrome c oxidase subunit I [Hoeflea sp. EC-HK425]
+NODE_203_length_633_cov_0.666031:18-627	1940281	298	NODE_203_length_633_cov_0.666031:18-627	MBV6649198.1	90.594	202	18	1	2	607	54	254	2.87e-95	cytochrome c oxidase subunit I [Hoeflea sp.]
+NODE_203_length_633_cov_0.666031:18-627	1940281	298	NODE_203_length_633_cov_0.666031:18-627	MCC0034271.1	91.089	202	17	1	2	607	54	254	2.90e-95	cytochrome c oxidase subunit I [Hoeflea sp.]
+NODE_203_length_633_cov_0.666031:18-627	714899	298	NODE_203_length_633_cov_0.666031:18-627	WP_097108143.1	91.089	202	17	1	2	607	54	254	2.96e-95	cytochrome c oxidase subunit I [Hoeflea halophila]
+NODE_203_length_633_cov_0.666031:18-627	1940281	298	NODE_203_length_633_cov_0.666031:18-627	PHR22962.1	90.594	202	18	1	2	607	54	254	3.23e-95	cytochrome c oxidase subunit I [Hoeflea sp.]
+NODE_203_length_633_cov_0.666031:18-627	1480615	298	NODE_203_length_633_cov_0.666031:18-627	WP_066184559.1	90.594	202	18	1	2	607	54	254	3.52e-95	cytochrome c oxidase subunit I [Hoeflea olei]
+NODE_203_length_633_cov_0.666031:18-627	1871066	287	NODE_203_length_633_cov_0.666031:18-627	TIM02480.1	87.129	202	25	1	2	607	52	252	8.00e-95	cytochrome c oxidase subunit I, partial [Mesorhizobium sp.]
+# BLASTX 2.12.0+
+# Query: NODE_2231_length_348_cov_0.230126:14-333
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2231_length_348_cov_0.230126:14-333	688707	144	NODE_2231_length_348_cov_0.230126:14-333	ALL25400.1	80.952	105	20	0	3	317	4	108	2.66e-41	cytochrome oxidase subunit 1, partial [Porphyra sp. FIH]
+NODE_2231_length_348_cov_0.230126:14-333	298899	145	NODE_2231_length_348_cov_0.230126:14-333	ATG24200.1	81.905	105	19	0	3	317	6	110	2.76e-41	cytochrome c oxidase subunit I, partial [Porphyra capensis]
+NODE_2231_length_348_cov_0.230126:14-333	1064564	143	NODE_2231_length_348_cov_0.230126:14-333	AEM65765.1	80.952	105	20	0	3	317	4	108	3.15e-41	cytochrome oxidase subunit 1, partial [Wildemania occidentalis]
+NODE_2231_length_348_cov_0.230126:14-333	2786;81938	144	NODE_2231_length_348_cov_0.230126:14-333	AEN70333.1	80.952	105	20	0	3	317	4	108	3.80e-41	cytochrome oxidase subunit I, partial [Porphyra umbilicalis]
+NODE_2231_length_348_cov_0.230126:14-333	2786;81938	144	NODE_2231_length_348_cov_0.230126:14-333	ABB48411.1	80.952	105	20	0	3	317	4	108	4.05e-41	cytochrome oxidase subunit I, partial [Porphyra umbilicalis]
+NODE_2231_length_348_cov_0.230126:14-333	2786;182768;688707;1743097;1743101	144	NODE_2231_length_348_cov_0.230126:14-333	ABE27914.1	80.952	105	20	0	3	317	4	108	4.25e-41	cytochrome oxidase subunit I, partial [Porphyra umbilicalis]
+NODE_2231_length_348_cov_0.230126:14-333	2786;182768;688707;1743098;1743101	144	NODE_2231_length_348_cov_0.230126:14-333	ALL25431.1	80.952	105	20	0	3	317	4	108	4.31e-41	cytochrome oxidase subunit 1, partial [Porphyra sp. FIH]
+NODE_2231_length_348_cov_0.230126:14-333	1743101	144	NODE_2231_length_348_cov_0.230126:14-333	ALL25424.1	80.952	105	20	0	3	317	4	108	4.44e-41	cytochrome oxidase subunit 1, partial [Porphyra sp. CHF]
+NODE_2231_length_348_cov_0.230126:14-333	1743101	144	NODE_2231_length_348_cov_0.230126:14-333	ALL25399.1	80.952	105	20	0	3	317	3	107	4.46e-41	cytochrome oxidase subunit 1, partial [Porphyra sp. CHF]
+NODE_2231_length_348_cov_0.230126:14-333	1972479	142	NODE_2231_length_348_cov_0.230126:14-333	ASA48000.1	80.000	105	21	0	3	317	23	127	5.16e-41	cytochrome c oxidase subunit 1, partial [Pyropia saldanhae]
+# BLASTX 2.12.0+
+# Query: NODE_31_length_1028_cov_1.304679:118-719
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_31_length_1028_cov_1.304679:118-719	2302425	381	NODE_31_length_1028_cov_1.304679:118-719	ACV32169.1	97.487	199	5	0	3	599	2	200	4.71e-133	cytochrome oxidase subunit I, partial [Mactra antiquata]
+NODE_31_length_1028_cov_1.304679:118-719	2302425	381	NODE_31_length_1028_cov_1.304679:118-719	ACV72598.1	97.487	199	5	0	3	599	4	202	5.11e-133	cytochrome oxidase subunit I, partial [Mactra antiquata]
+NODE_31_length_1028_cov_1.304679:118-719	2267621	391	NODE_31_length_1028_cov_1.304679:118-719	WP_114324993.1	100.000	199	0	0	3	599	49	247	3.79e-132	cytochrome c oxidase subunit I [Candidatus Colwellia aromaticivorans]
+NODE_31_length_1028_cov_1.304679:118-719	1856279	390	NODE_31_length_1028_cov_1.304679:118-719	OUR60718.1	99.497	199	1	0	3	599	49	247	9.80e-132	cytochrome c oxidase subunit I [Colwellia sp. 39_35_sub15_T18]
+NODE_31_length_1028_cov_1.304679:118-719	56799	390	NODE_31_length_1028_cov_1.304679:118-719	MBL4822136.1	99.497	199	1	0	3	599	48	246	1.08e-131	cytochrome c oxidase subunit I [Colwellia sp.]
+NODE_31_length_1028_cov_1.304679:118-719	1911682	390	NODE_31_length_1028_cov_1.304679:118-719	WP_077338997.1	99.497	199	1	0	3	599	50	248	1.81e-131	cytochrome c oxidase subunit I [Pseudocolwellia agarivorans]
+NODE_31_length_1028_cov_1.304679:118-719	56799	390	NODE_31_length_1028_cov_1.304679:118-719	HCH69443.1	99.497	199	1	0	3	599	49	247	1.88e-131	cytochrome c oxidase subunit I [Colwellia sp.]
+NODE_31_length_1028_cov_1.304679:118-719	1913989	388	NODE_31_length_1028_cov_1.304679:118-719	PCI54554.1	98.995	199	2	0	3	599	49	247	8.25e-131	cytochrome c oxidase subunit I [Gammaproteobacteria bacterium]
+NODE_31_length_1028_cov_1.304679:118-719	56799	388	NODE_31_length_1028_cov_1.304679:118-719	PHR84034.1	98.995	199	2	0	3	599	49	247	9.51e-131	cytochrome c oxidase subunit I [Colwellia sp.]
+NODE_31_length_1028_cov_1.304679:118-719	89401	388	NODE_31_length_1028_cov_1.304679:118-719	WP_146789624.1	97.990	199	4	0	3	599	46	244	1.27e-130	cytochrome c oxidase subunit I [Colwellia demingiae]
+# BLASTX 2.12.0+
+# Query: NODE_3_length_1704_cov_20.940439:431-986
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_3_length_1704_cov_20.940439:431-986	97259	249	NODE_3_length_1704_cov_20.940439:431-986	ACN91246.1	91.304	184	16	0	2	553	35	218	1.12e-80	cytochrome oxidase subunit I, partial [Electra pilosa]
+NODE_3_length_1704_cov_20.940439:431-986	2510237	228	NODE_3_length_1704_cov_20.940439:431-986	QAV56994.1	82.065	184	33	0	2	553	35	218	1.23e-72	cytochrome oxidase subunit 1, partial [Conopeum chesapeakensis]
+NODE_3_length_1704_cov_20.940439:431-986	2510237	228	NODE_3_length_1704_cov_20.940439:431-986	ADO20442.1	82.065	184	33	0	2	553	36	219	1.33e-72	cytochrome oxidase subunit I, partial [Conopeum chesapeakensis]
+NODE_3_length_1704_cov_20.940439:431-986	1087309	227	NODE_3_length_1704_cov_20.940439:431-986	AJB84768.1	83.152	184	31	0	2	553	34	217	6.91e-72	cytochrome oxidase subunit 1, partial [Anguinella palmata]
+NODE_3_length_1704_cov_20.940439:431-986	1928862	227	NODE_3_length_1704_cov_20.940439:431-986	AEK11916.1	82.065	184	33	0	2	553	38	221	7.61e-72	cytochrome oxidase subunit 1, partial [Amathia verticillata]
+NODE_3_length_1704_cov_20.940439:431-986	864786	226	NODE_3_length_1704_cov_20.940439:431-986	ADO20477.1	82.065	184	33	0	2	553	37	220	1.30e-71	cytochrome oxidase subunit I, partial [Conopeum tenuissimum]
+NODE_3_length_1704_cov_20.940439:431-986	864786	226	NODE_3_length_1704_cov_20.940439:431-986	ADO20478.1	82.065	184	33	0	2	553	37	220	2.08e-71	cytochrome oxidase subunit I, partial [Conopeum tenuissimum]
+NODE_3_length_1704_cov_20.940439:431-986	1585634	225	NODE_3_length_1704_cov_20.940439:431-986	AJB84784.1	81.522	184	34	0	2	553	34	217	2.38e-71	cytochrome oxidase subunit 1, partial [Vesicularia spinosa]
+NODE_3_length_1704_cov_20.940439:431-986	1072027	225	NODE_3_length_1704_cov_20.940439:431-986	AEL29607.1	79.891	184	37	0	2	553	26	209	2.38e-71	cytochrome c oxidase subunit 1, partial [Celleporaria nodulosa]
+NODE_3_length_1704_cov_20.940439:431-986	864786	225	NODE_3_length_1704_cov_20.940439:431-986	ADO20479.1	82.065	184	33	0	2	553	40	223	2.67e-71	cytochrome oxidase subunit I, partial [Conopeum tenuissimum]
+# BLASTX 2.12.0+
+# Query: NODE_4136_length_293_cov_0.733696:1-282
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 12 hits found
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.1	NODE_4136_length_293_cov_0.733696:1-282	AFJ53903.1	80.556	36	7	0	2	109	133	168	1.17e-09	cytochrome c oxidase subunit 1 [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	31.6	NODE_4136_length_293_cov_0.733696:1-282	AFJ53903.1	60.606	33	12	1	184	279	198	230	1.17e-09	cytochrome c oxidase subunit 1 [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.1	NODE_4136_length_293_cov_0.733696:1-282	AEV21503.1	80.556	36	7	0	2	109	127	162	1.62e-09	cytochrome c oxidase subunit I, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	31.2	NODE_4136_length_293_cov_0.733696:1-282	AEV21503.1	60.606	33	12	1	184	279	192	224	1.62e-09	cytochrome c oxidase subunit I, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	61.2	NODE_4136_length_293_cov_0.733696:1-282	ABM66223.1	83.333	36	6	0	2	109	105	140	8.21e-09	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	61.2	NODE_4136_length_293_cov_0.733696:1-282	ABM66213.1	83.333	36	6	0	2	109	105	140	8.57e-09	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	61.2	NODE_4136_length_293_cov_0.733696:1-282	ABM66203.1	83.333	36	6	0	2	109	105	140	8.75e-09	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.8	NODE_4136_length_293_cov_0.733696:1-282	ABM66196.1	83.333	36	6	0	2	109	105	140	1.04e-08	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.8	NODE_4136_length_293_cov_0.733696:1-282	ABM66143.1	83.333	36	6	0	2	109	105	140	1.08e-08	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.8	NODE_4136_length_293_cov_0.733696:1-282	ABQ28615.1	83.333	36	6	0	2	109	105	140	1.16e-08	cytochrome oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.5	NODE_4136_length_293_cov_0.733696:1-282	ABM66201.1	83.333	36	6	0	2	109	105	140	1.35e-08	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+NODE_4136_length_293_cov_0.733696:1-282	60593	60.5	NODE_4136_length_293_cov_0.733696:1-282	ABM66195.1	83.333	36	6	0	2	109	105	140	1.40e-08	cytochrome c oxidase subunit 1, partial [Celleporella hyalina]
+# BLASTX 2.12.0+
+# Query: NODE_4308_length_289_cov_74.500000:1-289
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4308_length_289_cov_74.500000:1-289	97259	104	NODE_4308_length_289_cov_74.500000:1-289	ACN91246.1	85.263	95	14	0	286	2	37	131	2.44e-25	cytochrome oxidase subunit I, partial [Electra pilosa]
+NODE_4308_length_289_cov_74.500000:1-289	944483	100	NODE_4308_length_289_cov_74.500000:1-289	AEL29612.1	83.158	95	16	0	286	2	28	122	4.19e-24	cytochrome c oxidase subunit 1, partial [Electra scuticifera]
+NODE_4308_length_289_cov_74.500000:1-289	991028;991029	98.6	NODE_4308_length_289_cov_74.500000:1-289	AEB32524.1	81.053	95	18	0	286	2	20	114	1.22e-23	cytochrome c oxidase subunit I, partial [Biflustra perfragilis]
+NODE_4308_length_289_cov_74.500000:1-289	295911	95.9	NODE_4308_length_289_cov_74.500000:1-289	AON78499.1	74.737	95	24	0	286	2	37	131	8.44e-23	cytochrome oxidase subunit 1, partial [Cortinicara gibbosa]
+NODE_4308_length_289_cov_74.500000:1-289	626275	97.8	NODE_4308_length_289_cov_74.500000:1-289	ACN91247.1	78.947	95	20	0	286	2	37	131	1.00e-22	cytochrome oxidase subunit I, partial [Securiflustra securifrons]
+NODE_4308_length_289_cov_74.500000:1-289	1780252	97.1	NODE_4308_length_289_cov_74.500000:1-289	AMA22606.1	78.947	95	20	0	286	2	23	117	1.09e-22	cytochrome oxidase subunit I, partial [Electra sp. LDM-2016]
+NODE_4308_length_289_cov_74.500000:1-289	2292525	95.5	NODE_4308_length_289_cov_74.500000:1-289	AXQ05407.1	74.737	95	24	0	286	2	2	96	1.22e-22	cytochrome c oxidase subunit 1, partial [Enicmus sp. O131]
+NODE_4308_length_289_cov_74.500000:1-289	295911	95.9	NODE_4308_length_289_cov_74.500000:1-289	AON79768.1	74.737	95	24	0	286	2	37	131	1.22e-22	cytochrome oxidase subunit 1, partial [Cortinicara gibbosa]
+NODE_4308_length_289_cov_74.500000:1-289	864786	97.8	NODE_4308_length_289_cov_74.500000:1-289	ADO20476.1	77.895	95	21	0	286	2	35	129	1.27e-22	cytochrome oxidase subunit I, partial [Conopeum tenuissimum]
+NODE_4308_length_289_cov_74.500000:1-289	864786	97.1	NODE_4308_length_289_cov_74.500000:1-289	ADO20475.1	77.895	95	21	0	286	2	33	127	1.53e-22	cytochrome oxidase subunit I, partial [Conopeum tenuissimum]
+# BLASTX 2.12.0+
+# Query: NODE_44_length_948_cov_0.134684:201-841
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_44_length_948_cov_0.134684:201-841	1816218	387	NODE_44_length_948_cov_0.134684:201-841	WP_070375484.1	89.671	213	22	0	640	2	40	252	4.07e-130	cytochrome c oxidase subunit I [Colwellia sp. PAMC 20917]
+NODE_44_length_948_cov_0.134684:201-841	56799	387	NODE_44_length_948_cov_0.134684:201-841	NQY48850.1	89.671	213	22	0	640	2	44	256	5.44e-130	cytochrome c oxidase subunit I [Colwellia sp.]
+NODE_44_length_948_cov_0.134684:201-841	56799	386	NODE_44_length_948_cov_0.134684:201-841	NQZ27309.1	89.671	213	22	0	640	2	44	256	8.98e-130	cytochrome c oxidase subunit I [Colwellia sp.]
+NODE_44_length_948_cov_0.134684:201-841	2305464	385	NODE_44_length_948_cov_0.134684:201-841	WP_118959685.1	88.732	213	24	0	640	2	39	251	1.19e-129	cytochrome c oxidase subunit I [Colwellia sp. RSH04]
+NODE_44_length_948_cov_0.134684:201-841	196834;2759810;2759833;2759843	385	NODE_44_length_948_cov_0.134684:201-841	WP_182175285.1	89.202	213	23	0	640	2	40	252	1.25e-129	MULTISPECIES: cytochrome c oxidase subunit I [unclassified Colwellia]
+NODE_44_length_948_cov_0.134684:201-841	196834;2759830;2759831;2759832;2759834;2759835;2759836;2759837;2759838;2759839;2759840;2759841;2759842;2759845;2759846	385	NODE_44_length_948_cov_0.134684:201-841	WP_182214468.1	89.202	213	23	0	640	2	40	252	1.36e-129	MULTISPECIES: cytochrome c oxidase subunit I [unclassified Colwellia]
+NODE_44_length_948_cov_0.134684:201-841	196834;2759809;2759811;2759812;2759813;2759814;2759815;2759816	385	NODE_44_length_948_cov_0.134684:201-841	WP_182182248.1	89.202	213	23	0	640	2	40	252	1.49e-129	MULTISPECIES: cytochrome c oxidase subunit I [unclassified Colwellia]
+NODE_44_length_948_cov_0.134684:201-841	2841561	385	NODE_44_length_948_cov_0.134684:201-841	WP_216020951.1	90.141	213	21	0	640	2	44	256	2.08e-129	cytochrome c oxidase subunit I [Colwellia sp. E2M01]
+NODE_44_length_948_cov_0.134684:201-841	1982103	385	NODE_44_length_948_cov_0.134684:201-841	WP_101344651.1	90.141	213	21	0	640	2	48	260	2.20e-129	cytochrome c oxidase subunit I [Colwellia echini]
+NODE_44_length_948_cov_0.134684:201-841	56799	385	NODE_44_length_948_cov_0.134684:201-841	PHR84034.1	88.732	213	24	0	640	2	43	255	3.00e-129	cytochrome c oxidase subunit I [Colwellia sp.]
+# BLASTX 2.12.0+
+# Query: NODE_4846_length_278_cov_0.479290:3-277
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4846_length_278_cov_0.479290:3-277	2161677	178	NODE_4846_length_278_cov_0.479290:3-277	WP_194215581.1	100.000	90	0	0	3	272	159	248	3.16e-51	cytochrome c oxidase subunit I [Kordiimonas pumila]
+NODE_4846_length_278_cov_0.479290:3-277	1913988	178	NODE_4846_length_278_cov_0.479290:3-277	TNE61822.1	100.000	90	0	0	3	272	159	248	3.63e-51	cytochrome c oxidase subunit I [Alphaproteobacteria bacterium]
+NODE_4846_length_278_cov_0.479290:3-277	1913988	171	NODE_4846_length_278_cov_0.479290:3-277	NVJ98656.1	97.753	89	2	0	6	272	160	248	5.55e-51	cbb3-type cytochrome c oxidase subunit I [Alphaproteobacteria bacterium]
+NODE_4846_length_278_cov_0.479290:3-277	2664180	177	NODE_4846_length_278_cov_0.479290:3-277	MBL4836261.1	98.889	90	1	0	3	272	160	249	1.34e-50	cytochrome c oxidase subunit I [Kordiimonadaceae bacterium]
+NODE_4846_length_278_cov_0.479290:3-277	1662421	176	NODE_4846_length_278_cov_0.479290:3-277	WP_068153057.1	97.778	90	2	0	3	272	159	248	2.25e-50	cytochrome c oxidase subunit I [Kordiimonas lipolytica]
+NODE_4846_length_278_cov_0.479290:3-277	637679	176	NODE_4846_length_278_cov_0.479290:3-277	WP_068307415.1	97.778	90	2	0	3	272	159	248	2.35e-50	cytochrome c oxidase subunit I [Kordiimonas lacus]
+NODE_4846_length_278_cov_0.479290:3-277	2664180	176	NODE_4846_length_278_cov_0.479290:3-277	MBV1901104.1	97.778	90	2	0	3	272	160	249	3.31e-50	cytochrome c oxidase subunit I [Kordiimonadaceae bacterium]
+NODE_4846_length_278_cov_0.479290:3-277	2664180	176	NODE_4846_length_278_cov_0.479290:3-277	MBO6506028.1	97.778	90	2	0	3	272	159	248	3.57e-50	cytochrome c oxidase subunit I [Kordiimonadaceae bacterium]
+NODE_4846_length_278_cov_0.479290:3-277	1913988	175	NODE_4846_length_278_cov_0.479290:3-277	NVJ96784.1	96.667	90	3	0	3	272	159	248	4.55e-50	cytochrome c oxidase subunit I [Alphaproteobacteria bacterium]
+NODE_4846_length_278_cov_0.479290:3-277	2664180	174	NODE_4846_length_278_cov_0.479290:3-277	MBL4788755.1	96.667	90	3	0	3	272	160	249	9.88e-50	cytochrome c oxidase subunit I [Kordiimonadaceae bacterium]
+# BLASTX 2.12.0+
+# Query: NODE_4888_length_277_cov_0.636905:1-255
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4888_length_277_cov_0.636905:1-255	2456292	111	NODE_4888_length_277_cov_0.636905:1-255	AYP37229.1	91.667	84	7	0	1	252	51	134	4.01e-29	cytochrome oxidase subunit 1, partial [Halacaridae sp. HLC-30451]
+NODE_4888_length_277_cov_0.636905:1-255	2060435	110	NODE_4888_length_277_cov_0.636905:1-255	AYJ09407.1	92.857	84	6	0	1	252	61	144	4.85e-28	cytochrome c oxidase subunit I, partial [Thalassarachna sp. UFMG 131123]
+NODE_4888_length_277_cov_0.636905:1-255	1251943	108	NODE_4888_length_277_cov_0.636905:1-255	AFW11178.1	88.095	84	10	0	1	252	59	142	1.02e-27	cytochrome oxidase subunit 1, partial [Ereynetidae sp. MYMCB788-11]
+NODE_4888_length_277_cov_0.636905:1-255	1251637	107	NODE_4888_length_277_cov_0.636905:1-255	AFW12566.1	86.905	84	11	0	1	252	59	142	1.93e-27	cytochrome oxidase subunit 1, partial [Tydeidae sp. MYMCB938-11]
+NODE_4888_length_277_cov_0.636905:1-255	1251491	106	NODE_4888_length_277_cov_0.636905:1-255	AFW11836.1	86.905	84	11	0	1	252	56	139	3.65e-27	cytochrome oxidase subunit 1, partial [Trombidiformes sp. MYMCE470-12]
+NODE_4888_length_277_cov_0.636905:1-255	2471607	106	NODE_4888_length_277_cov_0.636905:1-255	AYQ19585.1	82.143	84	15	0	1	252	51	134	4.85e-27	cytochrome oxidase subunit 1, partial [Eylais sp. 08BBARAC-0049]
+NODE_4888_length_277_cov_0.636905:1-255	1252056	108	NODE_4888_length_277_cov_0.636905:1-255	AFW14337.1	88.095	84	10	0	1	252	135	218	5.67e-27	cytochrome oxidase subunit 1, partial [Ereynetidae sp. BOLD:ABV1860]
+NODE_4888_length_277_cov_0.636905:1-255	2455906	105	NODE_4888_length_277_cov_0.636905:1-255	AYP39072.1	82.143	84	15	0	1	252	51	134	5.97e-27	cytochrome oxidase subunit 1, partial [Eylais sp. 09PROBE-02323]
+NODE_4888_length_277_cov_0.636905:1-255	1251534;1251710;1252103	105	NODE_4888_length_277_cov_0.636905:1-255	AFW12045.1	85.714	84	12	0	1	252	56	139	7.67e-27	cytochrome oxidase subunit 1, partial [Trombidiformes sp. MYMCF493-12]
+NODE_4888_length_277_cov_0.636905:1-255	2160728	105	NODE_4888_length_277_cov_0.636905:1-255	AWI14665.1	88.095	84	10	0	1	252	51	134	8.47e-27	cytochrome oxidase subunit 1, partial [Tydeidae sp. BIOUG03935-E03]
+# BLASTX 2.12.0+
+# Query: NODE_4_length_1635_cov_10.978375:687-1344
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4_length_1635_cov_10.978375:687-1344	2857140	330	NODE_4_length_1635_cov_10.978375:687-1344	QXR91035.1	96.330	218	8	0	656	3	1	218	3.25e-112	cytochrome c oxidase subunit I, partial [Abietinaria variabilis]
+NODE_4_length_1635_cov_10.978375:687-1344	2137077;2137078;2137079;2137080;2137081;2137082	330	NODE_4_length_1635_cov_10.978375:687-1344	AVX47678.1	95.872	218	9	0	656	3	1	218	3.66e-112	cytochrome c oxidase subunit I, partial [Aequorea sp. USWAWBS]
+NODE_4_length_1635_cov_10.978375:687-1344	2069908	333	NODE_4_length_1635_cov_10.978375:687-1344	AVP27101.1	97.706	218	5	0	656	3	12	229	5.03e-112	cytochrome oxidase subunit I, partial [Xingyurella xingyuarum]
+NODE_4_length_1635_cov_10.978375:687-1344	1886632	330	NODE_4_length_1635_cov_10.978375:687-1344	AOR39537.1	95.872	218	9	0	656	3	4	221	5.48e-112	cytochrome oxidase subunit I, partial [Eucheilota sp. MZUSP 3367]
+NODE_4_length_1635_cov_10.978375:687-1344	2857165	330	NODE_4_length_1635_cov_10.978375:687-1344	QXR91036.1	97.248	218	6	0	656	3	1	218	5.50e-112	cytochrome c oxidase subunit I, partial [Haleciidae sp. USNM IZ 1503314]
+NODE_4_length_1635_cov_10.978375:687-1344	661990	330	NODE_4_length_1635_cov_10.978375:687-1344	AGO68010.1	95.413	218	10	0	656	3	1	218	5.67e-112	cytochrome c oxidase subunit I, partial [Eucheilota maculata]
+NODE_4_length_1635_cov_10.978375:687-1344	308599	329	NODE_4_length_1635_cov_10.978375:687-1344	AXC47332.1	96.789	218	7	0	656	3	1	218	9.00e-112	cytochrome oxidase subunit 1, partial [Abietinaria abietina]
+NODE_4_length_1635_cov_10.978375:687-1344	308606	329	NODE_4_length_1635_cov_10.978375:687-1344	AXC47437.1	97.248	218	6	0	656	3	1	218	9.30e-112	cytochrome oxidase subunit 1, partial [Dynamena pumila]
+NODE_4_length_1635_cov_10.978375:687-1344	2857141	329	NODE_4_length_1635_cov_10.978375:687-1344	QXR91276.1	96.330	218	8	0	656	3	1	218	9.82e-112	cytochrome c oxidase subunit I, partial [Abietinaria annulata]
+NODE_4_length_1635_cov_10.978375:687-1344	2137080	329	NODE_4_length_1635_cov_10.978375:687-1344	AVX47692.1	95.413	218	10	0	656	3	1	218	9.93e-112	cytochrome c oxidase subunit I, partial [Aequorea sp. USWASCL]
+# BLASTX 2.12.0+
+# Query: NODE_5284_length_269_cov_166.162500:21-269
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5284_length_269_cov_166.162500:21-269	97259	85.1	NODE_5284_length_269_cov_166.162500:21-269	ACN91246.1	86.585	82	11	0	247	2	33	114	5.27e-18	cytochrome oxidase subunit I, partial [Electra pilosa]
+NODE_5284_length_269_cov_166.162500:21-269	991041	83.6	NODE_5284_length_269_cov_166.162500:21-269	AEB32535.1	80.488	82	16	0	247	2	16	97	6.32e-18	cytochrome c oxidase subunit I, partial [Parasmittina contraria]
+NODE_5284_length_269_cov_166.162500:21-269	991032;991041;991044	83.6	NODE_5284_length_269_cov_166.162500:21-269	AEB32486.1	80.488	82	16	0	247	2	16	97	6.32e-18	cytochrome c oxidase subunit I, partial [Beania vegae]
+NODE_5284_length_269_cov_166.162500:21-269	95171	82.8	NODE_5284_length_269_cov_166.162500:21-269	AEB32523.1	84.146	82	13	0	247	2	16	97	1.08e-17	cytochrome c oxidase subunit I, partial [Membranipora serrilamella]
+NODE_5284_length_269_cov_166.162500:21-269	991050	82.8	NODE_5284_length_269_cov_166.162500:21-269	AEB32510.1	79.268	82	17	0	247	2	16	97	1.09e-17	cytochrome c oxidase subunit I, partial [Metroperiella montferrandii]
+NODE_5284_length_269_cov_166.162500:21-269	991065	82.8	NODE_5284_length_269_cov_166.162500:21-269	AEB32513.1	80.488	82	16	0	247	2	16	97	1.20e-17	cytochrome c oxidase subunit I, partial [Emballotheca buskii]
+NODE_5284_length_269_cov_166.162500:21-269	944483	84.0	NODE_5284_length_269_cov_166.162500:21-269	AEL29612.1	85.366	82	12	0	247	2	24	105	1.21e-17	cytochrome c oxidase subunit 1, partial [Electra scuticifera]
+NODE_5284_length_269_cov_166.162500:21-269	991058;991062	82.8	NODE_5284_length_269_cov_166.162500:21-269	AEB32512.1	79.268	82	17	0	247	2	16	97	1.21e-17	cytochrome c oxidase subunit I, partial [Hippopodina feegeensis]
+NODE_5284_length_269_cov_166.162500:21-269	991028;991029	82.8	NODE_5284_length_269_cov_166.162500:21-269	AEB32524.1	83.951	81	13	0	244	2	17	97	1.24e-17	cytochrome c oxidase subunit I, partial [Biflustra perfragilis]
+NODE_5284_length_269_cov_166.162500:21-269	95170	83.6	NODE_5284_length_269_cov_166.162500:21-269	AAD37400.1	82.927	82	14	0	247	2	26	107	1.32e-17	cytochrome oxidase I, partial [Membranipora membranacea]
+# BLASTX 2.12.0+
+# Query: NODE_563_length_486_cov_0.663130:1-486
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_563_length_486_cov_0.663130:1-486	168635	177	NODE_563_length_486_cov_0.663130:1-486	AHA84829.1	80.124	161	32	0	3	485	12	172	3.54e-53	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	177	NODE_563_length_486_cov_0.663130:1-486	AHA84818.1	80.124	161	32	0	3	485	12	172	3.58e-53	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	176	NODE_563_length_486_cov_0.663130:1-486	QQL05545.1	78.882	161	34	0	3	485	12	172	3.95e-53	cytochrome c oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	176	NODE_563_length_486_cov_0.663130:1-486	AHA84838.1	78.261	161	35	0	3	485	12	172	9.07e-53	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	176	NODE_563_length_486_cov_0.663130:1-486	AHA84816.1	79.503	161	33	0	3	485	12	172	1.01e-52	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	175	NODE_563_length_486_cov_0.663130:1-486	AHA84835.1	78.882	161	34	0	3	485	12	172	1.22e-52	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	175	NODE_563_length_486_cov_0.663130:1-486	AHA84833.1	78.882	161	34	0	3	485	12	172	1.23e-52	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	175	NODE_563_length_486_cov_0.663130:1-486	QQL05535.1	78.882	161	34	0	3	485	12	172	1.23e-52	cytochrome c oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	175	NODE_563_length_486_cov_0.663130:1-486	AHA84817.1	79.503	161	33	0	3	485	12	172	1.30e-52	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+NODE_563_length_486_cov_0.663130:1-486	168635	175	NODE_563_length_486_cov_0.663130:1-486	AHA84823.1	79.503	161	33	0	3	485	12	172	1.32e-52	cytochrome oxidase subunit I, partial [Diplosoma listerianum]
+# BLASTX 2.12.0+
+# Query: NODE_5763_length_261_cov_1.059211:1-260
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5763_length_261_cov_1.059211:1-260	1862860	130	NODE_5763_length_261_cov_1.059211:1-260	BAX37167.1	80.233	86	17	0	259	2	64	149	7.75e-36	cytochrome c oxidase subunit I, partial [Cterissa sakaii]
+NODE_5763_length_261_cov_1.059211:1-260	1862860	130	NODE_5763_length_261_cov_1.059211:1-260	BAX37133.1	80.233	86	17	0	259	2	63	148	7.83e-36	cytochrome c oxidase subunit I, partial [Cterissa sakaii]
+NODE_5763_length_261_cov_1.059211:1-260	2471855	129	NODE_5763_length_261_cov_1.059211:1-260	AYQ21775.1	80.233	86	17	0	259	2	24	109	1.11e-35	cytochrome oxidase subunit 1, partial [Glossiphoniidae sp. HLC-26613]
+NODE_5763_length_261_cov_1.059211:1-260	1656489	127	NODE_5763_length_261_cov_1.059211:1-260	AVI78740.1	81.395	86	16	0	259	2	18	103	1.13e-35	cytochrome oxidase subunit 1, partial [Forcipata acclina]
+NODE_5763_length_261_cov_1.059211:1-260	2457686	129	NODE_5763_length_261_cov_1.059211:1-260	AYP38238.1	84.884	86	13	0	259	2	36	121	1.34e-35	cytochrome oxidase subunit 1, partial [Neanuridae sp. BIOUG24588-B01]
+NODE_5763_length_261_cov_1.059211:1-260	1862848	130	NODE_5763_length_261_cov_1.059211:1-260	BAX37142.1	81.395	86	16	0	259	2	72	157	1.42e-35	cytochrome c oxidase subunit I, partial [Elthusa sp. 2_Cy140137]
+NODE_5763_length_261_cov_1.059211:1-260	983139	129	NODE_5763_length_261_cov_1.059211:1-260	UIX24143.1	81.395	86	16	0	259	2	46	131	1.45e-35	cytochrome oxidase subunit 1, partial [Haploniscus bicuspis]
+NODE_5763_length_261_cov_1.059211:1-260	983139	129	NODE_5763_length_261_cov_1.059211:1-260	UIX24100.1	81.395	86	16	0	259	2	42	127	1.47e-35	cytochrome oxidase subunit 1, partial [Haploniscus bicuspis]
+NODE_5763_length_261_cov_1.059211:1-260	983139	129	NODE_5763_length_261_cov_1.059211:1-260	UIX24086.1	81.395	86	16	0	259	2	46	131	1.53e-35	cytochrome oxidase subunit 1, partial [Haploniscus bicuspis]
+NODE_5763_length_261_cov_1.059211:1-260	420088	128	NODE_5763_length_261_cov_1.059211:1-260	BAH79620.1	80.233	86	17	0	259	2	56	141	1.57e-35	cytochrome oxidase subunit I, partial [Henosepilachna vigintioctomaculata]
+# BLASTX 2.12.0+
+# Query: NODE_59_length_858_cov_1.305741:156-814
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_59_length_858_cov_1.305741:156-814	1054329	357	NODE_59_length_858_cov_1.305741:156-814	AJB84710.1	92.237	219	17	0	657	1	1	219	1.16e-122	cytochrome oxidase subunit 1, partial [Amathia vidovici]
+NODE_59_length_858_cov_1.305741:156-814	1054329	357	NODE_59_length_858_cov_1.305741:156-814	AJB84731.1	92.237	219	17	0	657	1	4	222	1.23e-122	cytochrome oxidase subunit 1, partial [Amathia vidovici]
+NODE_59_length_858_cov_1.305741:156-814	2876029	357	NODE_59_length_858_cov_1.305741:156-814	UAQ42441.1	92.237	219	17	0	657	1	8	226	1.44e-122	cytochrome c oxidase subunit I, partial [Amathia alternata]
+NODE_59_length_858_cov_1.305741:156-814	560980	356	NODE_59_length_858_cov_1.305741:156-814	QVG62034.1	91.781	219	18	0	657	1	1	219	1.75e-122	cytochrome oxidase subunit 1, partial [Amathia gracilis]
+NODE_59_length_858_cov_1.305741:156-814	2047682	356	NODE_59_length_858_cov_1.305741:156-814	QGZ98178.1	91.781	219	18	0	657	1	1	219	2.23e-122	cytochrome c oxidase subunit I, partial [Vesicularia sp.]
+NODE_59_length_858_cov_1.305741:156-814	2047682	356	NODE_59_length_858_cov_1.305741:156-814	QGZ98176.1	92.237	219	17	0	657	1	1	219	2.23e-122	cytochrome c oxidase subunit I, partial [Vesicularia sp.]
+NODE_59_length_858_cov_1.305741:156-814	1054325;1054329	355	NODE_59_length_858_cov_1.305741:156-814	AEK11915.1	91.781	219	18	0	657	1	4	222	3.61e-122	cytochrome oxidase subunit 1, partial [Amathia cf. vidovici KFA-2011]
+NODE_59_length_858_cov_1.305741:156-814	1054323	355	NODE_59_length_858_cov_1.305741:156-814	AEK11912.1	92.237	219	17	0	657	1	4	222	4.21e-122	cytochrome oxidase subunit 1, partial [Amathia brasiliensis]
+NODE_59_length_858_cov_1.305741:156-814	1585634	355	NODE_59_length_858_cov_1.305741:156-814	AJB84784.1	91.743	218	18	0	654	1	1	218	4.60e-122	cytochrome oxidase subunit 1, partial [Vesicularia spinosa]
+NODE_59_length_858_cov_1.305741:156-814	560980	355	NODE_59_length_858_cov_1.305741:156-814	AWD37155.1	91.324	219	19	0	657	1	1	219	5.47e-122	cytochrome oxidase subunit 1, partial [Amathia gracilis]
+# BLASTX 2.12.0+
+# Query: NODE_674_length_466_cov_0.677871:85-466
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_674_length_466_cov_0.677871:85-466	1872429	242	NODE_674_length_466_cov_0.677871:85-466	NQZ09197.1	90.476	126	12	0	3	380	38	163	4.62e-75	cytochrome c oxidase subunit I [Algicola sp.]
+NODE_674_length_466_cov_0.677871:85-466	62322	231	NODE_674_length_466_cov_0.677871:85-466	HCE52722.1	88.889	126	14	0	3	380	40	165	4.78e-75	cytochrome c oxidase subunit I [Shewanella baltica]
+NODE_674_length_466_cov_0.677871:85-466	220697	230	NODE_674_length_466_cov_0.677871:85-466	PTB97229.1	88.095	126	15	0	3	380	40	165	8.81e-75	cytochrome c oxidase subunit I, partial [Thalassospira xiamenensis]
+NODE_674_length_466_cov_0.677871:85-466	86473	229	NODE_674_length_466_cov_0.677871:85-466	AFM08807.1	88.889	126	14	0	3	380	3	128	2.25e-74	cytochrome c oxidase subunit 1, partial [uncultured Gammaproteobacteria bacterium]
+NODE_674_length_466_cov_0.677871:85-466	1920173	229	NODE_674_length_466_cov_0.677871:85-466	NCT48271.1	88.889	126	14	0	3	380	46	171	1.12e-73	cytochrome c oxidase subunit I [Paraglaciecola sp.]
+NODE_674_length_466_cov_0.677871:85-466	1342794	227	NODE_674_length_466_cov_0.677871:85-466	WP_036818639.1	88.095	126	15	0	3	380	45	170	5.04e-73	cbb3-type cytochrome c oxidase subunit I, partial [Photobacterium sanctipauli]
+NODE_674_length_466_cov_0.677871:85-466	754436	226	NODE_674_length_466_cov_0.677871:85-466	GAL05707.1	86.508	126	17	0	3	380	59	184	6.94e-73	cytochrome c oxidase polypeptide I [Photobacterium aphoticum]
+NODE_674_length_466_cov_0.677871:85-466	232	228	NODE_674_length_466_cov_0.677871:85-466	HCB17151.1	88.095	126	15	0	3	380	47	172	9.87e-73	cytochrome c oxidase subunit I [Alteromonas sp.]
+NODE_674_length_466_cov_0.677871:85-466	2183582	236	NODE_674_length_466_cov_0.677871:85-466	WP_109338285.1	90.476	126	12	0	3	380	38	163	9.96e-73	cytochrome c oxidase subunit I [Saliniradius amylolyticus]
+NODE_674_length_466_cov_0.677871:85-466	2831148	235	NODE_674_length_466_cov_0.677871:85-466	WP_232359564.1	88.889	126	14	0	3	380	38	163	2.00e-72	cytochrome c oxidase subunit I [Paraneptunicella aestuarii]
+# BLASTX 2.12.0+
+# Query: NODE_67_length_825_cov_0.900838:45-698
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_67_length_825_cov_0.900838:45-698	2476969;2476971	280	NODE_67_length_825_cov_0.900838:45-698	AYJ30375.1	84.793	217	33	0	652	2	2	218	2.22e-92	cytochrome oxidase subunit 1, partial [Scleractinia sp. BCnid2010-060]
+NODE_67_length_825_cov_0.900838:45-698	2047682	279	NODE_67_length_825_cov_0.900838:45-698	QGZ98178.1	81.567	217	40	0	652	2	1	217	3.75e-92	cytochrome c oxidase subunit I, partial [Vesicularia sp.]
+NODE_67_length_825_cov_0.900838:45-698	2047682	279	NODE_67_length_825_cov_0.900838:45-698	QGZ98176.1	82.028	217	39	0	652	2	1	217	3.75e-92	cytochrome c oxidase subunit I, partial [Vesicularia sp.]
+NODE_67_length_825_cov_0.900838:45-698	560980	278	NODE_67_length_825_cov_0.900838:45-698	ACN91240.1	82.488	217	38	0	652	2	1	217	1.33e-91	cytochrome oxidase subunit I, partial [Amathia gracilis]
+NODE_67_length_825_cov_0.900838:45-698	1054330	278	NODE_67_length_825_cov_0.900838:45-698	AJB84700.1	83.410	217	36	0	652	2	4	220	1.51e-91	cytochrome oxidase subunit 1, partial [Amathia crispa]
+NODE_67_length_825_cov_0.900838:45-698	1054323	278	NODE_67_length_825_cov_0.900838:45-698	AEK11912.1	83.410	217	36	0	652	2	4	220	2.12e-91	cytochrome oxidase subunit 1, partial [Amathia brasiliensis]
+NODE_67_length_825_cov_0.900838:45-698	1054329	277	NODE_67_length_825_cov_0.900838:45-698	AJB84710.1	82.949	217	37	0	652	2	1	217	2.28e-91	cytochrome oxidase subunit 1, partial [Amathia vidovici]
+NODE_67_length_825_cov_0.900838:45-698	2047682	277	NODE_67_length_825_cov_0.900838:45-698	QGZ98180.1	81.567	217	40	0	652	2	1	217	2.60e-91	cytochrome c oxidase subunit I, partial [Vesicularia sp.]
+NODE_67_length_825_cov_0.900838:45-698	2876029	278	NODE_67_length_825_cov_0.900838:45-698	UAQ42441.1	83.410	217	36	0	652	2	8	224	3.07e-91	cytochrome c oxidase subunit I, partial [Amathia alternata]
+NODE_67_length_825_cov_0.900838:45-698	1054329	277	NODE_67_length_825_cov_0.900838:45-698	AJB84731.1	82.949	217	37	0	652	2	4	220	3.36e-91	cytochrome oxidase subunit 1, partial [Amathia vidovici]
+# BLASTX 2.12.0+
+# Query: NODE_6_length_1534_cov_4.258246:683-1340
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_1534_cov_4.258246:683-1340	314509	353	NODE_6_length_1534_cov_4.258246:683-1340	AAX16155.1	98.624	218	3	0	656	3	1	218	2.56e-121	cytochrome oxidase subunit I, partial [Orthopyxis integra]
+NODE_6_length_1534_cov_4.258246:683-1340	314509	351	NODE_6_length_1534_cov_4.258246:683-1340	AAX16153.1	97.248	218	6	0	656	3	1	218	1.88e-120	cytochrome oxidase subunit I, partial [Orthopyxis integra]
+NODE_6_length_1534_cov_4.258246:683-1340	314577	349	NODE_6_length_1534_cov_4.258246:683-1340	AAX16161.1	97.248	218	6	0	656	3	1	218	7.90e-120	cytochrome oxidase subunit I, partial [Bonneviella sp. 4 839AS]
+NODE_6_length_1534_cov_4.258246:683-1340	1973074	348	NODE_6_length_1534_cov_4.258246:683-1340	AER45430.1	97.248	218	6	0	656	3	2	219	2.20e-119	cytochrome oxidase subunit I, partial [Ptychogena crocea]
+NODE_6_length_1534_cov_4.258246:683-1340	314505	348	NODE_6_length_1534_cov_4.258246:683-1340	AAX16149.1	97.248	218	6	0	656	3	1	218	2.70e-119	cytochrome oxidase subunit I, partial [Orthopyxis everta]
+NODE_6_length_1534_cov_4.258246:683-1340	314509	348	NODE_6_length_1534_cov_4.258246:683-1340	AAX16154.1	97.248	218	6	0	656	3	1	218	2.70e-119	cytochrome oxidase subunit I, partial [Orthopyxis integra]
+NODE_6_length_1534_cov_4.258246:683-1340	1538289	348	NODE_6_length_1534_cov_4.258246:683-1340	ALO20641.1	97.248	218	6	0	656	3	19	236	3.30e-119	cytochrome c oxidase subunit 1, partial [Ptychogena lactea]
+NODE_6_length_1534_cov_4.258246:683-1340	1973074	348	NODE_6_length_1534_cov_4.258246:683-1340	ARD27012.1	97.248	218	6	0	656	3	1	218	3.46e-119	cytochrome oxidase subunit 1, partial [Ptychogena crocea]
+NODE_6_length_1534_cov_4.258246:683-1340	1886628	348	NODE_6_length_1534_cov_4.258246:683-1340	AOR39482.1	97.248	218	6	0	656	3	4	221	3.85e-119	cytochrome oxidase subunit I, partial [Orthopyxis sp. 1 AFC-2016]
+NODE_6_length_1534_cov_4.258246:683-1340	1886628	348	NODE_6_length_1534_cov_4.258246:683-1340	AOR39464.1	97.248	218	6	0	656	3	4	221	4.06e-119	cytochrome oxidase subunit I, partial [Orthopyxis sp. 1 AFC-2016]
+# BLASTX 2.12.0+
+# Query: NODE_74_length_806_cov_0.505022:86-738
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_74_length_806_cov_0.505022:86-738	95170	346	NODE_74_length_806_cov_0.505022:86-738	ACN91249.1	92.593	216	16	0	3	650	2	217	2.18e-118	cytochrome oxidase subunit I, partial [Membranipora membranacea]
+NODE_74_length_806_cov_0.505022:86-738	2857147	343	NODE_74_length_806_cov_0.505022:86-738	QXR91202.1	91.204	216	19	0	3	650	2	217	3.33e-117	cytochrome c oxidase subunit I, partial [Membranipora villosa]
+NODE_74_length_806_cov_0.505022:86-738	515972	340	NODE_74_length_806_cov_0.505022:86-738	AWM96702.1	90.278	216	21	0	3	650	2	217	5.82e-116	cytochrome oxidase subunit 1, partial [Membranipora tenuis]
+NODE_74_length_806_cov_0.505022:86-738	515972	340	NODE_74_length_806_cov_0.505022:86-738	ANJ43887.1	90.278	216	21	0	3	650	1	216	5.94e-116	cytochrome oxidase subunit 1, partial [Membranipora tenuis]
+NODE_74_length_806_cov_0.505022:86-738	515972	340	NODE_74_length_806_cov_0.505022:86-738	ADO20473.1	90.278	216	21	0	3	650	2	217	6.77e-116	cytochrome oxidase subunit I, partial [Membranipora tenuis]
+NODE_74_length_806_cov_0.505022:86-738	515972	339	NODE_74_length_806_cov_0.505022:86-738	ADO20474.1	90.278	216	21	0	3	650	4	219	9.18e-116	cytochrome oxidase subunit I, partial [Membranipora tenuis]
+NODE_74_length_806_cov_0.505022:86-738	95170	334	NODE_74_length_806_cov_0.505022:86-738	AEL29604.1	92.788	208	15	0	27	650	1	208	6.57e-114	cytochrome c oxidase subunit 1, partial [Membranipora membranacea]
+NODE_74_length_806_cov_0.505022:86-738	515972	333	NODE_74_length_806_cov_0.505022:86-738	QAV57010.1	90.141	213	21	0	12	650	1	213	1.56e-113	cytochrome oxidase subunit 1, partial [Membranipora tenuis]
+NODE_74_length_806_cov_0.505022:86-738	2510237	332	NODE_74_length_806_cov_0.505022:86-738	QAV56994.1	87.963	216	26	0	3	650	2	217	4.66e-113	cytochrome oxidase subunit 1, partial [Conopeum chesapeakensis]
+NODE_74_length_806_cov_0.505022:86-738	2510237	332	NODE_74_length_806_cov_0.505022:86-738	ADO20442.1	87.963	216	26	0	3	650	3	218	7.33e-113	cytochrome oxidase subunit I, partial [Conopeum chesapeakensis]
+# BLASTX 2.12.0+
+# Query: NODE_771_length_448_cov_0.935103:108-446
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_771_length_448_cov_0.935103:108-446	1550590	173	NODE_771_length_448_cov_0.935103:108-446	AIS20675.1	98.214	112	2	0	1	336	8	119	3.97e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	173	NODE_771_length_448_cov_0.935103:108-446	AIS20666.1	98.214	112	2	0	1	336	5	116	4.00e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	172	NODE_771_length_448_cov_0.935103:108-446	AIS20671.1	98.214	112	2	0	1	336	5	116	4.30e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	172	NODE_771_length_448_cov_0.935103:108-446	AIS20679.1	98.214	112	2	0	1	336	8	119	4.31e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	173	NODE_771_length_448_cov_0.935103:108-446	AIS20673.1	98.214	112	2	0	1	336	8	119	4.36e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	172	NODE_771_length_448_cov_0.935103:108-446	AIS20677.1	98.214	112	2	0	1	336	5	116	5.10e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	172	NODE_771_length_448_cov_0.935103:108-446	AIS20668.1	98.214	112	2	0	1	336	2	113	5.66e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	1550590	173	NODE_771_length_448_cov_0.935103:108-446	AIS20672.1	98.214	112	2	0	1	336	5	116	5.80e-52	cytochrome oxidase subunit 1, partial [Polyneura sp. LLG-2014]
+NODE_771_length_448_cov_0.935103:108-446	136797	172	NODE_771_length_448_cov_0.935103:108-446	AIS20688.1	97.321	112	3	0	1	336	5	116	6.05e-52	cytochrome oxidase subunit 1, partial [Polyneura bonnemaisonii]
+NODE_771_length_448_cov_0.935103:108-446	881573	172	NODE_771_length_448_cov_0.935103:108-446	ADR38084.1	99.107	112	1	0	1	336	1	112	6.21e-52	cytochrome oxidase subunit 1, partial [Phycodrys fimbriata]
+# BLASTX 2.12.0+
+# Query: NODE_7_length_1526_cov_15.802399:292-954
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_7_length_1526_cov_15.802399:292-954	110475	362	NODE_7_length_1526_cov_15.802399:292-954	ADR38172.1	98.636	220	3	0	1	660	1	220	1.29e-124	cytochrome oxidase subunit 1, partial [Ptilota serrata]
+NODE_7_length_1526_cov_15.802399:292-954	110475;207917;2512225	361	NODE_7_length_1526_cov_15.802399:292-954	ADQ93836.1	98.636	220	3	0	1	660	1	220	1.91e-124	cytochrome oxidase subunit 1, partial [Ptilota serrata]
+NODE_7_length_1526_cov_15.802399:292-954	207917	361	NODE_7_length_1526_cov_15.802399:292-954	QBA56173.1	98.182	220	4	0	1	660	1	220	3.14e-124	cytochrome oxidase subunit 1, partial [Ptilota gunneri]
+NODE_7_length_1526_cov_15.802399:292-954	1917385	360	NODE_7_length_1526_cov_15.802399:292-954	APD52381.1	97.727	220	5	0	1	660	1	220	6.74e-124	cytochrome oxidase subunit 1, partial [Ptilota sloanii]
+NODE_7_length_1526_cov_15.802399:292-954	207917	359	NODE_7_length_1526_cov_15.802399:292-954	QBA56821.1	98.182	220	4	0	1	660	1	220	9.49e-124	cytochrome oxidase subunit 1, partial [Ptilota gunneri]
+NODE_7_length_1526_cov_15.802399:292-954	1917385	359	NODE_7_length_1526_cov_15.802399:292-954	ADQ87252.1	97.727	220	5	0	1	660	1	220	1.00e-123	cytochrome oxidase subunit 1, partial [Ptilota sloanii]
+NODE_7_length_1526_cov_15.802399:292-954	110475	359	NODE_7_length_1526_cov_15.802399:292-954	QBA56804.1	98.630	219	3	0	4	660	1	219	1.19e-123	cytochrome oxidase subunit 1, partial [Ptilota serrata]
+NODE_7_length_1526_cov_15.802399:292-954	1917385	359	NODE_7_length_1526_cov_15.802399:292-954	APD52268.1	97.273	220	6	0	1	660	1	220	1.61e-123	cytochrome oxidase subunit 1, partial [Ptilota sloanii]
+NODE_7_length_1526_cov_15.802399:292-954	320441;1917382;1917383;1917384	358	NODE_7_length_1526_cov_15.802399:292-954	ADR06940.1	97.273	220	6	0	1	660	1	220	3.65e-123	cytochrome oxidase subunit 1, partial [Ptilota hypnoides]
+NODE_7_length_1526_cov_15.802399:292-954	332481;1917374	358	NODE_7_length_1526_cov_15.802399:292-954	ADR06404.1	97.273	220	6	0	1	660	1	220	4.45e-123	cytochrome oxidase subunit 1, partial [Ptilota densa]
+# BLASTX 2.12.0+
+# Query: NODE_80_length_792_cov_0.496340:164-783
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_80_length_792_cov_0.496340:164-783	1247513	370	NODE_80_length_792_cov_0.496340:164-783	WP_109836946.1	90.291	206	20	0	619	2	43	248	1.10e-123	cytochrome c oxidase subunit I [Leucothrix pacifica]
+NODE_80_length_792_cov_0.496340:164-783	1481894	370	NODE_80_length_792_cov_0.496340:164-783	WP_109821751.1	90.291	206	20	0	619	2	43	248	1.34e-123	cytochrome c oxidase subunit I [Leucothrix arctica]
+NODE_80_length_792_cov_0.496340:164-783	2500160	369	NODE_80_length_792_cov_0.496340:164-783	RVU84085.1	88.835	206	23	0	619	2	32	237	4.27e-123	cytochrome c oxidase subunit I [Leucothrix sargassi]
+NODE_80_length_792_cov_0.496340:164-783	45248;998674	367	NODE_80_length_792_cov_0.496340:164-783	WP_211223082.1	88.835	206	23	0	619	2	37	242	2.79e-122	cytochrome c oxidase subunit I [Leucothrix mucor]
+NODE_80_length_792_cov_0.496340:164-783	1032	365	NODE_80_length_792_cov_0.496340:164-783	HHL19170.1	88.350	206	24	0	619	2	48	253	1.47e-121	cytochrome c oxidase subunit I [Thiothrix sp.]
+NODE_80_length_792_cov_0.496340:164-783	292790	352	NODE_80_length_792_cov_0.496340:164-783	CAH25642.2	85.922	206	29	0	619	2	3	208	2.69e-121	cytochrome c oxidase subunit I, partial [Cnemidocarpa verrucosa]
+NODE_80_length_792_cov_0.496340:164-783	381308	360	NODE_80_length_792_cov_0.496340:164-783	WP_134080687.1	85.922	206	29	0	619	2	32	237	9.67e-120	cytochrome c oxidase subunit I [Thiohalophilus thiocyanatoxydans]
+NODE_80_length_792_cov_0.496340:164-783	634765	360	NODE_80_length_792_cov_0.496340:164-783	WP_131906245.1	86.408	206	28	0	619	2	46	251	1.32e-119	cytochrome c oxidase subunit I [Cocleimonas flava]
+NODE_80_length_792_cov_0.496340:164-783	2026725;2049432	359	NODE_80_length_792_cov_0.496340:164-783	HIA08192.1	86.408	206	28	0	619	2	36	241	2.07e-119	cytochrome c oxidase subunit I [Chromatiaceae bacterium]
+NODE_80_length_792_cov_0.496340:164-783	1977087	358	NODE_80_length_792_cov_0.496340:164-783	TDJ65642.1	86.893	206	27	0	619	2	30	235	3.01e-119	cytochrome c oxidase subunit I [Proteobacteria bacterium]
+# BLASTX 2.12.0+
+# Query: NODE_81_length_791_cov_0.727273:140-674
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_81_length_791_cov_0.727273:140-674	2230972	154	NODE_81_length_791_cov_0.727273:140-674	AXG64040.1	56.129	155	68	0	70	534	58	212	1.65e-43	cytochrome oxidase subunit 1, partial [Neobisium sp. UAIC<USA-AZ> 1113018]
+NODE_81_length_791_cov_0.727273:140-674	2231013	154	NODE_81_length_791_cov_0.727273:140-674	AXG64043.1	56.129	155	68	0	70	534	63	217	1.69e-43	cytochrome oxidase subunit 1, partial [Neobisiinae sp. UAIC<USA-AZ> 1113021]
+NODE_81_length_791_cov_0.727273:140-674	2718024	154	NODE_81_length_791_cov_0.727273:140-674	QIQ22747.1	55.484	155	69	0	70	534	64	218	1.82e-43	cytochrome c oxidase subunit I, partial [Lomanella sp. WSU10038]
+NODE_81_length_791_cov_0.727273:140-674	1209657	154	NODE_81_length_791_cov_0.727273:140-674	AFP33192.1	55.484	155	69	0	70	534	64	218	3.20e-43	cytochrome c oxidase subunit I, partial [Euseius alangii]
+NODE_81_length_791_cov_0.727273:140-674	1495195	157	NODE_81_length_791_cov_0.727273:140-674	BBW89661.1	60.645	155	61	0	70	534	6	160	8.17e-43	cytochrome oxidase subunit 1, partial [Adoncholaimus daikokuensis]
+NODE_81_length_791_cov_0.727273:140-674	2717955	152	NODE_81_length_791_cov_0.727273:140-674	QIQ22749.1	56.129	155	68	0	70	534	64	218	1.06e-42	cytochrome c oxidase subunit I, partial [Lomanella raniceps]
+NODE_81_length_791_cov_0.727273:140-674	2878665	152	NODE_81_length_791_cov_0.727273:140-674	UBS91465.1	56.774	155	67	0	70	534	63	217	1.19e-42	cytochrome oxidase subunit 1, partial [Roncus lubricus]
+NODE_81_length_791_cov_0.727273:140-674	1495195	157	NODE_81_length_791_cov_0.727273:140-674	BBW89711.1	60.645	155	61	0	70	534	6	160	1.66e-42	cytochrome oxidase subunit 1, partial [Adoncholaimus daikokuensis]
+NODE_81_length_791_cov_0.727273:140-674	1495195	157	NODE_81_length_791_cov_0.727273:140-674	BBW89685.1	60.000	155	62	0	70	534	6	160	1.89e-42	cytochrome oxidase subunit 1, partial [Adoncholaimus daikokuensis]
+NODE_81_length_791_cov_0.727273:140-674	2679881	151	NODE_81_length_791_cov_0.727273:140-674	QGQ55312.1	55.484	155	69	0	70	534	64	218	2.21e-42	cytochrome oxidase subunit 1, partial [Zetomimidae sp. BOLD:AAL8123]
+# BLASTX 2.12.0+
+# Query: NODE_839_length_439_cov_0.812121:18-435
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_839_length_439_cov_0.812121:18-435	2565740	189	NODE_839_length_439_cov_0.812121:18-435	QBZ38298.1	89.130	138	15	0	415	2	83	220	1.24e-57	cytochrome oxidase subunit 1, partial [Phycodrys sp. 1Wash]
+NODE_839_length_439_cov_0.812121:18-435	131064	188	NODE_839_length_439_cov_0.812121:18-435	ADR39443.1	89.130	138	15	0	415	2	83	220	1.31e-57	cytochrome oxidase subunit 1, partial [Grinnellia americana]
+NODE_839_length_439_cov_0.812121:18-435	710543;1583017	188	NODE_839_length_439_cov_0.812121:18-435	AIZ96301.1	86.232	138	19	0	415	2	83	220	1.60e-57	cytochrome oxidase subunit 1, partial [Microcladia coulteri]
+NODE_839_length_439_cov_0.812121:18-435	2785802	188	NODE_839_length_439_cov_0.812121:18-435	BCB01858.1	86.957	138	18	0	415	2	83	220	1.60e-57	cytochrome c oxidase subunit 1, partial [Schimmelmannia benzaiteniana]
+NODE_839_length_439_cov_0.812121:18-435	710543	188	NODE_839_length_439_cov_0.812121:18-435	AIZ96194.1	86.232	138	19	0	415	2	83	220	1.60e-57	cytochrome oxidase subunit 1, partial [Microcladia coulteri]
+NODE_839_length_439_cov_0.812121:18-435	1583061;2785802	188	NODE_839_length_439_cov_0.812121:18-435	AIZ96300.1	86.957	138	18	0	415	2	83	220	1.89e-57	cytochrome oxidase subunit 1, partial [Schimmelmannia plumosa]
+NODE_839_length_439_cov_0.812121:18-435	2785802	188	NODE_839_length_439_cov_0.812121:18-435	BCB01860.1	86.957	138	18	0	415	2	83	220	2.01e-57	cytochrome c oxidase subunit 1, partial [Schimmelmannia benzaiteniana]
+NODE_839_length_439_cov_0.812121:18-435	2021641	188	NODE_839_length_439_cov_0.812121:18-435	BBC27258.1	88.406	138	16	0	415	2	82	219	2.15e-57	cytochrome c oxidase subunit 1, partial [Phrix spatulata]
+NODE_839_length_439_cov_0.812121:18-435	1211948	187	NODE_839_length_439_cov_0.812121:18-435	ARU81103.1	86.957	138	18	0	415	2	71	208	2.19e-57	cytochrome oxidase subunit 1, partial [Callophyllis cervicornis]
+NODE_839_length_439_cov_0.812121:18-435	2668057	188	NODE_839_length_439_cov_0.812121:18-435	QGK86622.1	86.957	138	18	0	415	2	82	219	2.27e-57	cytochrome oxidase subunit 1, partial [Schimmelmannia elegans]
+# BLASTX 2.12.0+
+# Query: NODE_868_length_436_cov_269.941896:66-422
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_868_length_436_cov_269.941896:66-422	97259	187	NODE_868_length_436_cov_269.941896:66-422	ACN91246.1	88.983	118	13	0	356	3	101	218	1.30e-57	cytochrome oxidase subunit I, partial [Electra pilosa]
+NODE_868_length_436_cov_269.941896:66-422	879751	174	NODE_868_length_436_cov_269.941896:66-422	ADM94373.1	83.898	118	19	0	356	3	17	134	1.46e-53	cytochrome oxidase subunit 1, partial [Heleniella ornaticollis]
+NODE_868_length_436_cov_269.941896:66-422	2812374	174	NODE_868_length_436_cov_269.941896:66-422	QRQ90022.1	83.051	118	20	0	356	3	37	154	2.74e-53	cytochrome c oxidase subunit I, partial [Neuroptera sp. NEUR_02.690]
+NODE_868_length_436_cov_269.941896:66-422	417533;1480503	172	NODE_868_length_436_cov_269.941896:66-422	AHN89934.1	82.203	118	21	0	356	3	17	134	6.98e-53	cytochrome oxidase subunit 1, partial [Chrysoperla sp. BOLD:AAB0373]
+NODE_868_length_436_cov_269.941896:66-422	1674559	175	NODE_868_length_436_cov_269.941896:66-422	AKN45368.1	83.898	118	19	0	356	3	101	218	8.29e-53	cytochrome c oxidase subunit I, partial [Alticinae sp. 051]
+NODE_868_length_436_cov_269.941896:66-422	2510237	175	NODE_868_length_436_cov_269.941896:66-422	QAV56994.1	82.203	118	21	0	356	3	101	218	8.66e-53	cytochrome oxidase subunit 1, partial [Conopeum chesapeakensis]
+NODE_868_length_436_cov_269.941896:66-422	2510237	175	NODE_868_length_436_cov_269.941896:66-422	ADO20442.1	82.203	118	21	0	356	3	102	219	9.10e-53	cytochrome oxidase subunit I, partial [Conopeum chesapeakensis]
+NODE_868_length_436_cov_269.941896:66-422	560918	175	NODE_868_length_436_cov_269.941896:66-422	ACM44662.1	83.898	118	19	0	356	3	84	201	1.10e-52	cytochrome oxidase subunit I, partial [Norfolius howensis]
+NODE_868_length_436_cov_269.941896:66-422	248185	172	NODE_868_length_436_cov_269.941896:66-422	AMD68415.1	81.356	118	22	0	356	3	17	134	1.12e-52	cytochrome oxidase subunit 1, partial [Ephoron album]
+NODE_868_length_436_cov_269.941896:66-422	1527928	175	NODE_868_length_436_cov_269.941896:66-422	AII32577.1	83.898	118	19	0	356	3	101	218	1.13e-52	cytochrome c oxidase subunit 1, partial [Alticini sp. 51 BT-2014]
+# BLASTX 2.12.0+
+# Query: NODE_89_length_775_cov_1.551051:95-745
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_89_length_775_cov_1.551051:95-745	1453329	285	NODE_89_length_775_cov_1.551051:95-745	APD27846.1	89.767	215	22	0	647	3	1	215	2.76e-94	cytochrome oxidase subunit 1, partial [Caprella acanthifera]
+NODE_89_length_775_cov_1.551051:95-745	2453064	279	NODE_89_length_775_cov_1.551051:95-745	AYN50764.1	86.111	216	30	0	650	3	1	216	5.82e-92	cytochrome oxidase subunit 1, partial [Caprellidae sp. BCAMP0058]
+NODE_89_length_775_cov_1.551051:95-745	2453074	279	NODE_89_length_775_cov_1.551051:95-745	AYP39102.1	86.111	216	30	0	650	3	1	216	6.44e-92	cytochrome oxidase subunit 1, partial [Caprellidae sp. BCAMP0100]
+NODE_89_length_775_cov_1.551051:95-745	1282972	277	NODE_89_length_775_cov_1.551051:95-745	AJT56460.1	84.722	216	33	0	650	3	1	216	2.15e-91	cytochrome oxidase subunit 1, partial [Caprella penantis]
+NODE_89_length_775_cov_1.551051:95-745	2305003	277	NODE_89_length_775_cov_1.551051:95-745	AXR87508.1	85.648	216	31	0	650	3	1	216	2.75e-91	cytochrome oxidase subunit 1, partial [Caprellidae sp. 10BIOBC-00907]
+NODE_89_length_775_cov_1.551051:95-745	2453065	277	NODE_89_length_775_cov_1.551051:95-745	AYN50911.1	86.047	215	30	0	647	3	1	215	3.00e-91	cytochrome oxidase subunit 1, partial [Caprellidae sp. BCAMP0047]
+NODE_89_length_775_cov_1.551051:95-745	2906682	277	NODE_89_length_775_cov_1.551051:95-745	UHT54317.1	84.259	216	34	0	650	3	1	216	3.67e-91	cytochrome c oxidase subunit I, partial [Caprella cf. penantis PTVIA4656]
+NODE_89_length_775_cov_1.551051:95-745	1282972	276	NODE_89_length_775_cov_1.551051:95-745	AZB87244.1	84.259	216	34	0	650	3	1	216	5.43e-91	cytochrome oxidase subunit 1, partial [Caprella penantis]
+NODE_89_length_775_cov_1.551051:95-745	1282970;1282972;2906662;2906663;2906664;2906665;2906666;2906667;2906668;2906669;2906670;2906671;2906672;2906673;2906674;2906676;2906677;2906678;2906680;2906681;2906683;2906684	276	NODE_89_length_775_cov_1.551051:95-745	AHB82191.1	84.259	216	34	0	650	3	1	216	6.55e-91	cytochrome oxidase subunit 1, partial [Caprella andreae]
+NODE_89_length_775_cov_1.551051:95-745	1282970	276	NODE_89_length_775_cov_1.551051:95-745	AHB82192.1	83.796	216	35	0	650	3	1	216	6.55e-91	cytochrome oxidase subunit 1, partial [Caprella andreae]
+# BLASTX 2.12.0+
+# Query: NODE_905_length_432_cov_0.665635:27-432
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_905_length_432_cov_0.665635:27-432	1529692	214	NODE_905_length_432_cov_0.665635:27-432	ATZ81451.1	91.045	134	12	0	404	3	65	198	4.83e-68	cytochrome oxidase subunit 1, partial [Agrilus suvorovi]
+NODE_905_length_432_cov_0.665635:27-432	29158	212	NODE_905_length_432_cov_0.665635:27-432	APP93038.1	90.299	134	13	0	404	3	18	151	5.43e-68	cytochrome c oxidase subunit I, partial [Mytilus galloprovincialis]
+NODE_905_length_432_cov_0.665635:27-432	29158	214	NODE_905_length_432_cov_0.665635:27-432	QKM75721.1	91.045	134	12	0	404	3	68	201	5.76e-68	cytochrome c oxidase subunit I, partial [Mytilus galloprovincialis]
+NODE_905_length_432_cov_0.665635:27-432	6550;29158;2059422;2059423	212	NODE_905_length_432_cov_0.665635:27-432	AUE47885.1	91.045	134	12	0	404	3	15	148	6.40e-68	cytochrome c oxidase subunit I, partial [Mytilus sp. 200216_09D]
+NODE_905_length_432_cov_0.665635:27-432	29158	213	NODE_905_length_432_cov_0.665635:27-432	ADH41928.1	91.045	134	12	0	404	3	49	182	6.54e-68	cytochrome oxidase subunit 1, partial [Mytilus galloprovincialis]
+NODE_905_length_432_cov_0.665635:27-432	29158	213	NODE_905_length_432_cov_0.665635:27-432	AEI83589.1	91.045	134	12	0	404	3	53	186	6.89e-68	cytochrome oxidase subunit I, partial [Mytilus galloprovincialis]
+NODE_905_length_432_cov_0.665635:27-432	29158	212	NODE_905_length_432_cov_0.665635:27-432	APP93028.1	91.045	134	12	0	404	3	18	151	7.07e-68	cytochrome c oxidase subunit I, partial [Mytilus galloprovincialis]
+NODE_905_length_432_cov_0.665635:27-432	2060048	213	NODE_905_length_432_cov_0.665635:27-432	AUE48034.1	91.045	134	12	0	404	3	57	190	7.52e-68	cytochrome c oxidase subunit I, partial [Mytilus sp. 2 SR-2017]
+NODE_905_length_432_cov_0.665635:27-432	2060047	213	NODE_905_length_432_cov_0.665635:27-432	AUE48025.1	91.045	134	12	0	404	3	42	175	7.80e-68	cytochrome c oxidase subunit I, partial [Mytilus sp. 1 SR-2017]
+NODE_905_length_432_cov_0.665635:27-432	29158	214	NODE_905_length_432_cov_0.665635:27-432	AGQ51380.1	91.045	134	12	0	404	3	75	208	8.42e-68	cytochrome c oxidase subunit 1, partial [Mytilus galloprovincialis]
+# BLASTX 2.12.0+
+# Query: NODE_922_length_430_cov_0.501558:1-430
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_922_length_430_cov_0.501558:1-430	87236	248	NODE_922_length_430_cov_0.501558:1-430	QZX57831.1	100.000	142	0	0	2	427	6	147	3.57e-81	cytochrome c oxidase subunit I, partial [Colpomenia sinuosa]
+NODE_922_length_430_cov_0.501558:1-430	64933	246	NODE_922_length_430_cov_0.501558:1-430	BBC43955.1	100.000	142	0	0	2	427	5	146	3.58e-81	cytochrome oxidase subunit 1, partial [Striaria attenuata]
+NODE_922_length_430_cov_0.501558:1-430	1535382	246	NODE_922_length_430_cov_0.501558:1-430	CDZ10290.1	100.000	142	0	0	2	427	5	146	3.87e-81	cytochrome oxidase subunit 1, partial [Acinetosporaceae sp. 4 AP-2014]
+NODE_922_length_430_cov_0.501558:1-430	2813985	246	NODE_922_length_430_cov_0.501558:1-430	QRZ36649.1	100.000	142	0	0	2	427	6	147	4.77e-81	cytochrome oxidase subunit 1, partial [Phaeostroma sp.]
+NODE_922_length_430_cov_0.501558:1-430	2889	246	NODE_922_length_430_cov_0.501558:1-430	AFU89033.1	99.296	142	1	0	2	427	5	146	5.86e-81	cytochrome oxidase subunit 1, partial [Alaria esculenta]
+NODE_922_length_430_cov_0.501558:1-430	2567908	247	NODE_922_length_430_cov_0.501558:1-430	AGW31469.1	100.000	142	0	0	2	427	4	145	5.97e-81	cytochrome oxidase subunit 1, partial [Hapterophycus canaliculatus]
+NODE_922_length_430_cov_0.501558:1-430	166510	247	NODE_922_length_430_cov_0.501558:1-430	QBA56742.1	100.000	142	0	0	2	427	6	147	6.11e-81	cytochrome oxidase subunit 1, partial [Chordaria chordaeformis]
+NODE_922_length_430_cov_0.501558:1-430	133509	246	NODE_922_length_430_cov_0.501558:1-430	CDZ10268.1	99.296	142	1	0	2	427	5	146	6.29e-81	cytochrome oxidase subunit 1, partial [Feldmannia irregularis]
+NODE_922_length_430_cov_0.501558:1-430	2893	247	NODE_922_length_430_cov_0.501558:1-430	ADR03826.1	100.000	142	0	0	2	427	5	146	6.31e-81	cytochrome oxidase subunit 1, partial [Petalonia fascia]
+NODE_922_length_430_cov_0.501558:1-430	2893	247	NODE_922_length_430_cov_0.501558:1-430	AGW31286.1	100.000	142	0	0	2	427	5	146	6.37e-81	cytochrome oxidase subunit 1, partial [Petalonia fascia]
+# BLAST processed 36 queries
