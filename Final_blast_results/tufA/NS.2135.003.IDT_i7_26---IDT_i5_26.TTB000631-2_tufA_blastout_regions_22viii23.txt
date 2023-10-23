@@ -1,0 +1,47 @@
+# BLASTN 2.12.0+
+# Query: NODE_1_length_1361_cov_98.293930:365-1224
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_1361_cov_98.293930:365-1224	1204437	1362	NODE_1_length_1361_cov_98.293930:365-1224	KT266849.1	95.338	858	38	2	3	859	65956	65100	0.0	Membranoptera platyphylla plastid, complete genome
+NODE_1_length_1361_cov_98.293930:365-1224	158720	1304	NODE_1_length_1361_cov_98.293930:365-1224	KJ513670.1	94.063	859	51	0	1	859	66565	65707	0.0	Membranoptera weeksiae chloroplast, complete genome
+NODE_1_length_1361_cov_98.293930:365-1224	158698	1299	NODE_1_length_1361_cov_98.293930:365-1224	KP675983.1	93.946	859	52	0	1	859	66580	65722	0.0	Membranoptera tenuis voucher UC266439 plastid, complete genome
+NODE_1_length_1361_cov_98.293930:365-1224	131097	1238	NODE_1_length_1361_cov_98.293930:365-1224	MK814649.1	92.757	856	62	0	1	856	62496	63351	0.0	Delesseria sanguinea isolate PD3001_3 plastid
+NODE_1_length_1361_cov_98.293930:365-1224	1206573	1182	NODE_1_length_1361_cov_98.293930:365-1224	NC_057222.1	91.502	859	73	0	1	859	100218	99360	0.0	Cumathamnion serrulatum plastid, complete genome
+NODE_1_length_1361_cov_98.293930:365-1224	167976	885	NODE_1_length_1361_cov_98.293930:365-1224	MK814614.1	85.298	857	126	0	3	859	63378	64234	0.0	Apoglossum ruscifolium isolate PD2929_4_ plastid
+NODE_1_length_1361_cov_98.293930:365-1224	207919	863	NODE_1_length_1361_cov_98.293930:365-1224	MK814608.1	84.884	860	124	6	3	859	137788	138644	0.0	Antithamnionella ternifolia isolate PD2956 plastid
+NODE_1_length_1361_cov_98.293930:365-1224	2007274	839	NODE_1_length_1361_cov_98.293930:365-1224	MF101443.1	84.481	857	125	8	7	859	134451	135303	0.0	Dasyclonium flaccidum isolate PD1087 chloroplast, complete genome
+NODE_1_length_1361_cov_98.293930:365-1224	103713	828	NODE_1_length_1361_cov_98.293930:365-1224	MF101419.1	84.254	851	132	2	7	856	133690	134539	0.0	Bostrychia moritziana isolate JW3660 chloroplast, complete genome
+NODE_1_length_1361_cov_98.293930:365-1224	210852	819	NODE_1_length_1361_cov_98.293930:365-1224	MF101452.1	83.995	856	133	4	3	856	128594	129447	0.0	Taenioma perpusillum isolate PD1676 chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_24_length_324_cov_1.139535:1-324
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_24_length_324_cov_1.139535:1-324	465523	569	NODE_24_length_324_cov_1.139535:1-324	EF595325.1	98.452	323	5	0	1	323	693	371	5.58e-158	Acrochaete sp. 1-BER-2007 isolate e347wr elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595324.1	98.452	323	5	0	1	323	652	330	5.58e-158	Acrochaete sp. 4-BER-2007 isolate e253wga elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595323.1	98.452	323	5	0	1	323	605	283	5.58e-158	Acrochaete sp. 4-BER-2007 isolate e085gh elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595283.1	98.452	323	5	0	1	323	600	278	5.58e-158	Acrochaete sp. 4-BER-2007 isolate e099rh elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595282.1	98.452	323	5	0	1	323	683	361	5.58e-158	Acrochaete sp. 4-BER-2007 isolate e134bt elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595281.1	98.452	323	5	0	1	323	660	338	5.58e-158	Acrochaete sp. 4-BER-2007 isolate B63sm11 elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595280.1	98.452	323	5	0	1	323	696	374	5.58e-158	Acrochaete sp. 4-BER-2007 isolate e111th elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595279.1	98.452	323	5	0	1	323	720	398	5.58e-158	Acrochaete sp. 4-BER-2007 isolate LTE103 elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	465526	569	NODE_24_length_324_cov_1.139535:1-324	EF595277.1	98.452	323	5	0	1	323	682	360	5.58e-158	Acrochaete sp. 4-BER-2007 isolate B52cm2 elongation factor Tu (tufA) gene, partial sequence; chloroplast
+NODE_24_length_324_cov_1.139535:1-324	220634	564	NODE_24_length_324_cov_1.139535:1-324	JQ302988.1	98.142	323	6	0	1	323	681	359	2.60e-156	Ulvella ramosa voucher RN00007 35 elongation factor TU (tufA) gene, partial cds
+# BLASTN 2.12.0+
+# Query: NODE_9_length_425_cov_0.411392:8-408
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 11 hits found
+NODE_9_length_425_cov_0.411392:8-408	568900	412	NODE_9_length_425_cov_0.411392:8-408	MH356727.1	86.047	387	50	3	1	385	104286	104670	1.26e-110	Seminavis robusta strain D6 chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	163503	412	NODE_9_length_425_cov_0.411392:8-408	MW845776.1	85.323	402	55	4	1	400	40169	39770	1.26e-110	Chaetoceros socialis chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	1003145	401	NODE_9_length_425_cov_0.411392:8-408	NC_056791.1	84.864	403	55	5	1	400	22029	22428	2.73e-107	Tryblionella apiculata isolate SZCZR1825 chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	156587	396	NODE_9_length_425_cov_0.411392:8-408	KJ958479.1	84.539	401	60	2	1	400	92917	92518	1.27e-105	Chaetoceros simplex chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	426638	390	NODE_9_length_425_cov_0.411392:8-408	LC537471.1	84.289	401	61	2	1	400	92925	92526	5.91e-104	Chaetoceros tenuissimus NIES-3715 chloroplast DNA, complete genome
+NODE_9_length_425_cov_0.411392:8-408	2846828	390	NODE_9_length_425_cov_0.411392:8-408	MZ365054.1	84.289	401	61	2	1	400	23310	22911	5.91e-104	Climaconeis cf. scalaris strain SZCZ1888 plastid, complete genome
+NODE_9_length_425_cov_0.411392:8-408	2846828	390	NODE_9_length_425_cov_0.411392:8-408	MZ365054.1	84.289	401	61	2	1	400	192876	193275	5.91e-104	Climaconeis cf. scalaris strain SZCZ1888 plastid, complete genome
+NODE_9_length_425_cov_0.411392:8-408	44447	385	NODE_9_length_425_cov_0.411392:8-408	NC_058780.1	84.119	403	58	5	1	400	20839	21238	2.75e-102	Pseudo-nitzschia delicatissima isolate CNS00130 chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	1937691	385	NODE_9_length_425_cov_0.411392:8-408	MW845779.1	84.040	401	62	2	1	400	40442	40043	2.75e-102	Chaetoceros laevisporus chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	186022	379	NODE_9_length_425_cov_0.411392:8-408	OK637333.1	83.831	402	61	3	1	400	44389	44788	1.28e-100	Thalassionema frauenfeldii strain CNS00837 chloroplast, complete genome
+NODE_9_length_425_cov_0.411392:8-408	186022	379	NODE_9_length_425_cov_0.411392:8-408	NC_060858.1	83.831	402	61	3	1	400	44390	44789	1.28e-100	Thalassionema frauenfeldii strain CNS00836 chloroplast, complete genome
+# BLAST processed 3 queries

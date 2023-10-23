@@ -1,0 +1,61 @@
+# BLASTN 2.12.0+
+# Query: NODE_1_length_1409_cov_23.384615:295-1052
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_1409_cov_23.384615:295-1052	2575615	1077	NODE_1_length_1409_cov_23.384615:295-1052	MK814658.1	92.267	763	53	3	1	757	22452	23214	0.0	Erythroglossum lusitanicum isolate PD2950_6 plastid
+NODE_1_length_1409_cov_23.384615:295-1052	136797	1033	NODE_1_length_1409_cov_23.384615:295-1052	MK814717.1	91.219	763	61	2	1	757	2518	3280	0.0	Polyneura bonnemaisonii isolate PD2997_8 plastid
+NODE_1_length_1409_cov_23.384615:295-1052	167976	784	NODE_1_length_1409_cov_23.384615:295-1052	MK814614.1	85.488	758	102	6	1	757	63431	64181	0.0	Apoglossum ruscifolium isolate PD2929_4_ plastid
+NODE_1_length_1409_cov_23.384615:295-1052	1206573	761	NODE_1_length_1409_cov_23.384615:295-1052	NC_057222.1	84.960	758	106	6	1	757	100163	99413	0.0	Cumathamnion serrulatum plastid, complete genome
+NODE_1_length_1409_cov_23.384615:295-1052	131094	760	NODE_1_length_1409_cov_23.384615:295-1052	MK814638.1	84.828	758	112	1	3	757	63463	64220	0.0	Cryptopleura ramosa isolate PD2928_6 plastid
+NODE_1_length_1409_cov_23.384615:295-1052	167977	745	NODE_1_length_1409_cov_23.384615:295-1052	MK814677.1	84.433	758	116	2	1	757	22309	23065	0.0	Haraldiophyllum bonnemaisonii isolate 15261_8 plastid
+NODE_1_length_1409_cov_23.384615:295-1052	189649	697	NODE_1_length_1409_cov_23.384615:295-1052	MK814652.1	83.709	755	105	14	2	750	136651	137393	0.0	Dictyurus purpurascens isolate TZ0704 plastid
+NODE_1_length_1409_cov_23.384615:295-1052	1204437	678	NODE_1_length_1409_cov_23.384615:295-1052	KT266849.1	82.982	758	121	6	1	757	65903	65153	0.0	Membranoptera platyphylla plastid, complete genome
+NODE_1_length_1409_cov_23.384615:295-1052	2769	649	NODE_1_length_1409_cov_23.384615:295-1052	HF562234.1	82.275	756	128	3	2	757	68638	67889	0.0	Chondrus crispus plastid complete genome, strain PCG
+NODE_1_length_1409_cov_23.384615:295-1052	324755	643	NODE_1_length_1409_cov_23.384615:295-1052	MF101417.1	82.337	753	122	7	2	753	134781	135523	8.12e-180	Bostrychia tenella isolate JW3079 chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_2_length_938_cov_0.145959:5-499
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_938_cov_0.145959:5-499	1896769	603	NODE_2_length_938_cov_0.145959:5-499	KR814486.1	88.798	491	55	0	4	494	62718	63208	8.75e-168	Ceramium sungminbooi plastid, complete genome
+NODE_2_length_938_cov_0.145959:5-499	1896769	603	NODE_2_length_938_cov_0.145959:5-499	KR025491.1	88.798	491	55	0	4	494	62718	63208	8.75e-168	Ceramium sungminbooi plastid, complete genome
+NODE_2_length_938_cov_0.145959:5-499	189642	558	NODE_2_length_938_cov_0.145959:5-499	MK814707.1	87.423	485	61	0	7	491	64572	64088	1.92e-154	Plumaria plumosa isolate PD2953_5 plastid
+NODE_2_length_938_cov_0.145959:5-499	218448	553	NODE_2_length_938_cov_0.145959:5-499	KX284719.1	86.965	491	64	0	4	494	157332	157822	8.94e-153	Ceramium japonicum plastid, complete genome
+NODE_2_length_938_cov_0.145959:5-499	207919	549	NODE_2_length_938_cov_0.145959:5-499	MK814608.1	86.912	489	64	0	6	494	138561	138073	1.16e-151	Antithamnionella ternifolia isolate PD2956 plastid
+NODE_2_length_938_cov_0.145959:5-499	2007274	501	NODE_2_length_938_cov_0.145959:5-499	MF101443.1	85.477	482	68	2	7	487	135219	134739	3.28e-137	Dasyclonium flaccidum isolate PD1087 chloroplast, complete genome
+NODE_2_length_938_cov_0.145959:5-499	2740715	497	NODE_2_length_938_cov_0.145959:5-499	NC_057618.1	85.155	485	72	0	10	494	137874	137390	4.25e-136	Chondria tumulosa voucher ARS 09886 chloroplast, complete genome
+NODE_2_length_938_cov_0.145959:5-499	88423	496	NODE_2_length_938_cov_0.145959:5-499	KU362090.1	84.867	489	74	0	6	494	847	359	1.53e-135	Erythroclonium muelleri voucher LAF0455 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_2_length_938_cov_0.145959:5-499	2006944	492	NODE_2_length_938_cov_0.145959:5-499	MF101433.1	84.836	488	74	0	7	494	132742	132255	1.98e-134	Vertebrata isogona isolate PD831 chloroplast, complete genome
+NODE_2_length_938_cov_0.145959:5-499	1550622	492	NODE_2_length_938_cov_0.145959:5-499	MF101411.1	84.725	491	75	0	4	494	140606	140116	1.98e-134	Acrosorium ciliolatum isolate HV3939 chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_6_length_455_cov_1.869942:50-377
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_455_cov_1.869942:50-377	1824847	339	NODE_6_length_455_cov_1.869942:50-377	KU362127.1	85.321	327	48	0	1	327	653	327	1.74e-88	Peyssonnelia sp. 1 TS-2016 voucher LAF5451 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_6_length_455_cov_1.869942:50-377	260093	316	NODE_6_length_455_cov_1.869942:50-377	NC_031658.1	84.098	327	52	0	1	327	147854	147528	8.14e-82	Helminthocladia australis chloroplast, complete genome, isolate J.0167
+NODE_6_length_455_cov_1.869942:50-377	1824692	298	NODE_6_length_455_cov_1.869942:50-377	KU362126.1	83.282	323	54	0	1	323	606	284	2.95e-76	Predaea sp. LAF7027 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_6_length_455_cov_1.869942:50-377	2023628	294	NODE_6_length_455_cov_1.869942:50-377	MF167424.1	82.927	328	54	2	1	327	111844	112170	3.81e-75	Glaucocystis sp. BBH plastid, complete genome
+NODE_6_length_455_cov_1.869942:50-377	42024	289	NODE_6_length_455_cov_1.869942:50-377	KX284713.1	82.769	325	54	2	1	324	177715	178038	1.77e-73	Sebdenia flabellata plastid, complete genome
+NODE_6_length_455_cov_1.869942:50-377	41999	274	NODE_6_length_455_cov_1.869942:50-377	MK814609.1	82.951	305	51	1	23	327	65669	65366	4.97e-69	Anotrichium furcellatum isolate PD2933 plastid
+NODE_6_length_455_cov_1.869942:50-377	1824689	267	NODE_6_length_455_cov_1.869942:50-377	KU362083.1	81.402	328	59	2	1	327	558	232	8.32e-67	Mesophyllum sp. LAF6734 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_6_length_455_cov_1.869942:50-377	202687	263	NODE_6_length_455_cov_1.869942:50-377	KY083065.1	81.231	325	61	0	1	325	62054	62378	1.08e-65	Thorea hispida chloroplast
+NODE_6_length_455_cov_1.869942:50-377	202687	263	NODE_6_length_455_cov_1.869942:50-377	KX284714.1	81.231	325	61	0	1	325	160553	160877	1.08e-65	Thorea hispida plastid, complete genome
+NODE_6_length_455_cov_1.869942:50-377	202687	263	NODE_6_length_455_cov_1.869942:50-377	AB159664.1	81.231	325	61	0	1	325	881	557	1.08e-65	Thorea hispida chloroplast tufA gene for elongation factor TU, partial cds
+# BLASTN 2.12.0+
+# Query: NODE_9_length_407_cov_0.171141:74-324
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_9_length_407_cov_0.171141:74-324	1936081	340	NODE_9_length_407_cov_0.171141:74-324	CP019389.1	91.200	250	22	0	1	250	390555	390306	3.56e-89	Seonamhaeicola sp. S2-3, complete genome
+NODE_9_length_407_cov_0.171141:74-324	1218801	318	NODE_9_length_407_cov_0.171141:74-324	CP019288.1	89.600	250	26	0	1	250	4807169	4807418	1.67e-82	Kordia antarctica strain IMCC3317 chromosome, complete genome
+NODE_9_length_407_cov_0.171141:74-324	186571	318	NODE_9_length_407_cov_0.171141:74-324	KJ403439.1	89.641	251	24	2	1	250	92	341	1.67e-82	Tenacibaculum skagerrakense strain DSM 14836 Tuf (tuf) gene, partial cds
+NODE_9_length_407_cov_0.171141:74-324	584609	313	NODE_9_length_407_cov_0.171141:74-324	LT899436.1	89.474	247	26	0	1	247	1332114	1332360	7.75e-81	Tenacibaculum jejuense strain KCTC 22618(T) genome assembly, chromosome: TJEJU
+NODE_9_length_407_cov_0.171141:74-324	584609	313	NODE_9_length_407_cov_0.171141:74-324	KJ403385.1	89.474	247	26	0	1	247	92	338	7.75e-81	Tenacibaculum jejuense strain KCTC_22618 Tuf (tuf) gene, partial cds
+NODE_9_length_407_cov_0.171141:74-324	1714860	309	NODE_9_length_407_cov_0.171141:74-324	CP031963.1	91.189	227	20	0	1	227	1979411	1979185	1.00e-79	Aquimarina sp. BL5 chromosome, complete genome
+NODE_9_length_407_cov_0.171141:74-324	1630406	307	NODE_9_length_407_cov_0.171141:74-324	CP068547.1	88.800	250	28	0	1	250	1703726	1703975	3.61e-79	Tamlana sp. s12 chromosome, complete genome
+NODE_9_length_407_cov_0.171141:74-324	216432	307	NODE_9_length_407_cov_0.171141:74-324	CP002046.1	88.800	250	28	0	1	250	40388	40139	3.61e-79	Croceibacter atlanticus HTCC2559, complete genome
+NODE_9_length_407_cov_0.171141:74-324	107401	302	NODE_9_length_407_cov_0.171141:74-324	CP020822.1	88.400	250	29	0	1	250	707770	708019	1.68e-77	Tenacibaculum maritimum strain TM-KORJJ chromosome, complete genome
+NODE_9_length_407_cov_0.171141:74-324	107401	302	NODE_9_length_407_cov_0.171141:74-324	MH423700.1	88.400	250	29	0	1	250	92	341	1.68e-77	Tenacibaculum maritimum strain W15_494 elongation factor Tu (tuf) gene, partial cds
+# BLAST processed 4 queries

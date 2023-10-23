@@ -1,0 +1,106 @@
+# BLASTX 2.12.0+
+# Query: NODE_1_length_1458_cov_9.208302:191-932
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_1458_cov_9.208302:191-932	172978	409	NODE_1_length_1458_cov_9.208302:191-932	YP_009500415.1	93.902	246	15	0	739	2	124	369	4.03e-140	elongation factor Tu [Gracilariopsis heteroclada]
+NODE_1_length_1458_cov_9.208302:191-932	1824842	404	NODE_1_length_1458_cov_9.208302:191-932	AMY27266.1	91.870	246	20	0	739	2	8	253	4.04e-140	elongation factor tu, partial [Gelidiaceae sp. LAF7149]
+NODE_1_length_1458_cov_9.208302:191-932	486813	409	NODE_1_length_1458_cov_9.208302:191-932	YP_009511523.1	93.902	246	15	0	739	2	124	369	4.50e-140	translation elongation factor Tu [Gracilariopsis mclachlanii]
+NODE_1_length_1458_cov_9.208302:191-932	1183060	409	NODE_1_length_1458_cov_9.208302:191-932	YP_010197856.1	93.089	246	17	0	739	2	124	369	6.96e-140	translation elongation factor Tu [Gracilaria isabellana]
+NODE_1_length_1458_cov_9.208302:191-932	172972	408	NODE_1_length_1458_cov_9.208302:191-932	YP_009732269.1	92.683	246	18	0	739	2	124	369	1.62e-139	translation elongation factor Tu [Gracilaria spinulosa]
+NODE_1_length_1458_cov_9.208302:191-932	31436	406	NODE_1_length_1458_cov_9.208302:191-932	YP_009295614.1	92.683	246	18	0	739	2	124	369	4.98e-139	elongation factor Tu [Mastocarpus papillatus]
+NODE_1_length_1458_cov_9.208302:191-932	172946	406	NODE_1_length_1458_cov_9.208302:191-932	YP_010198265.1	92.683	246	18	0	739	2	124	369	5.50e-139	translation elongation factor Tu [Gracilaria ornata]
+NODE_1_length_1458_cov_9.208302:191-932	2779	406	NODE_1_length_1458_cov_9.208302:191-932	YP_010198851.1	91.870	246	20	0	739	2	124	369	5.50e-139	translation elongation factor Tu [Gracilaria tikvahiae]
+NODE_1_length_1458_cov_9.208302:191-932	2873517	406	NODE_1_length_1458_cov_9.208302:191-932	YP_010195603.1	92.276	246	19	0	739	2	124	369	7.14e-139	translation elongation factor Tu [Gracilaria baiana]
+NODE_1_length_1458_cov_9.208302:191-932	159591	406	NODE_1_length_1458_cov_9.208302:191-932	YP_009745159.1	92.683	246	18	0	739	2	124	369	7.55e-139	elongation factor Tu [Halymenia maculata]
+# BLASTX 2.12.0+
+# Query: NODE_2_length_1356_cov_6.100241:186-1096
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_1356_cov_6.100241:186-1096	35163	577	NODE_2_length_1356_cov_6.100241:186-1096	YP_009394195.1	100.000	303	0	0	910	2	79	381	0.0	translation elongation factor Tu [Rhodomela confervoides]
+NODE_2_length_1356_cov_6.100241:186-1096	2007208	565	NODE_2_length_1356_cov_6.100241:186-1096	YP_009397709.1	98.020	303	6	0	910	2	79	381	0.0	translation elongation factor Tu [Dipterosiphonia australica]
+NODE_2_length_1356_cov_6.100241:186-1096	159753	565	NODE_2_length_1356_cov_6.100241:186-1096	YP_009394821.1	97.690	303	7	0	910	2	79	381	0.0	translation elongation factor Tu [Polysiphonia elongata]
+NODE_2_length_1356_cov_6.100241:186-1096	1261582	564	NODE_2_length_1356_cov_6.100241:186-1096	YP_009122145.1	97.360	303	8	0	910	2	79	381	0.0	elongation factor Tu 1 [Vertebrata lanosa]
+NODE_2_length_1356_cov_6.100241:186-1096	945028	563	NODE_2_length_1356_cov_6.100241:186-1096	ARW65040.1	97.030	303	9	0	910	2	79	381	0.0	translation elongation factor Tu [Polysiphonia sertularioides]
+NODE_2_length_1356_cov_6.100241:186-1096	2006970	562	NODE_2_length_1356_cov_6.100241:186-1096	YP_009394614.1	96.700	303	10	0	910	2	79	381	0.0	translation elongation factor Tu [Vertebrata thuyoides]
+NODE_2_length_1356_cov_6.100241:186-1096	397005	561	NODE_2_length_1356_cov_6.100241:186-1096	YP_009396263.1	97.030	303	9	0	910	2	79	381	0.0	translation elongation factor Tu [Melanothamnus harveyi]
+NODE_2_length_1356_cov_6.100241:186-1096	2006943	561	NODE_2_length_1356_cov_6.100241:186-1096	YP_009396669.1	96.700	303	10	0	910	2	79	381	0.0	translation elongation factor Tu [Vertebrata australis]
+NODE_2_length_1356_cov_6.100241:186-1096	2822695	560	NODE_2_length_1356_cov_6.100241:186-1096	QVQ56809.1	96.040	303	12	0	910	2	79	381	0.0	translation elongation factor Tu [Erythrocystis saccata]
+NODE_2_length_1356_cov_6.100241:186-1096	945028	560	NODE_2_length_1356_cov_6.100241:186-1096	YP_009393990.1	96.700	303	10	0	910	2	79	381	0.0	translation elongation factor Tu [Polysiphonia sertularioides]
+# BLASTX 2.12.0+
+# Query: NODE_38_length_316_cov_1.565217:13-277
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_38_length_316_cov_1.565217:13-277	1897614	182	NODE_38_length_316_cov_1.565217:13-277	NNK75745.1	97.727	88	2	0	264	1	47	134	2.11e-56	elongation factor Tu [Maribacter sp.]
+NODE_38_length_316_cov_1.565217:13-277	2583587	185	NODE_38_length_316_cov_1.565217:13-277	WP_138851582.1	98.864	88	1	0	264	1	256	343	3.55e-55	unnamed protein product [Aggregatimonas sangjinii]
+NODE_38_length_316_cov_1.565217:13-277	1837375	185	NODE_38_length_316_cov_1.565217:13-277	WP_203254226.1	98.864	88	1	0	264	1	256	343	4.22e-55	elongation factor Tu [Aurantibacter crassamenti]
+NODE_38_length_316_cov_1.565217:13-277	1979955	185	NODE_38_length_316_cov_1.565217:13-277	NNL01282.1	98.864	88	1	0	264	1	256	343	4.70e-55	elongation factor Tu [Eudoraea sp.]
+NODE_38_length_316_cov_1.565217:13-277	1871037	185	NODE_38_length_316_cov_1.565217:13-277	UCD60815.1	97.727	88	2	0	264	1	256	343	6.21e-55	MAG: elongation factor Tu [Flavobacteriaceae bacterium]
+NODE_38_length_316_cov_1.565217:13-277	446681;1121875	184	NODE_38_length_316_cov_1.565217:13-277	WP_019671397.1	97.727	88	2	0	264	1	256	343	7.07e-55	elongation factor Tu [Eudoraea adriatica]
+NODE_38_length_316_cov_1.565217:13-277	112040;143224;248905	184	NODE_38_length_316_cov_1.565217:13-277	WP_038234868.1	98.864	88	1	0	264	1	256	343	1.39e-54	MULTISPECIES: elongation factor Tu [Zobellia]
+NODE_38_length_316_cov_1.565217:13-277	641691	183	NODE_38_length_316_cov_1.565217:13-277	HEA21883.1	97.727	88	2	0	264	1	256	343	1.41e-54	elongation factor Tu [Pricia antarctica]
+NODE_38_length_316_cov_1.565217:13-277	248906	184	NODE_38_length_316_cov_1.565217:13-277	WP_155597515.1	98.864	88	1	0	264	1	256	343	1.59e-54	elongation factor Tu [Zobellia laminariae]
+NODE_38_length_316_cov_1.565217:13-277	1798237	184	NODE_38_length_316_cov_1.565217:13-277	PKB43442.1	96.591	88	3	0	264	1	256	343	1.62e-54	translation elongation factor 1A (EF-1A/EF-Tu) [Algibacter sp. RHA_19]
+# BLASTX 2.12.0+
+# Query: NODE_47_length_297_cov_1.425532:1-297
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_47_length_297_cov_1.425532:1-297	426630	147	NODE_47_length_297_cov_1.425532:1-297	QXM17362.1	92.857	98	7	0	1	294	104	201	6.25e-40	translation elongation factor Tu [Chaetoceros costatus]
+NODE_47_length_297_cov_1.425532:1-297	37319	146	NODE_47_length_297_cov_1.425532:1-297	YP_009162667.1	93.878	98	6	0	1	294	104	201	9.86e-40	translation elongation factor Tu [Pseudo-nitzschia multiseries]
+NODE_47_length_297_cov_1.425532:1-297	619706	142	NODE_47_length_297_cov_1.425532:1-297	AHW84256.1	91.837	98	8	0	1	294	6	103	1.59e-39	elongation factor Tu, partial [Blastophysa rhizopus]
+NODE_47_length_297_cov_1.425532:1-297	2133758	145	NODE_47_length_297_cov_1.425532:1-297	YP_009686273.1	94.898	98	5	0	1	294	104	201	2.40e-39	elongation factor Tu [Halamphora calidilacuna]
+NODE_47_length_297_cov_1.425532:1-297	2305497	144	NODE_47_length_297_cov_1.425532:1-297	YP_009686147.1	94.898	98	5	0	1	294	104	201	4.45e-39	elongation factor Tu [Halamphora americana]
+NODE_47_length_297_cov_1.425532:1-297	37318	144	NODE_47_length_297_cov_1.425532:1-297	YP_010208181.1	93.878	98	6	0	1	294	104	201	7.63e-39	translation elongation factor Tu [Pseudo-nitzschia pungens]
+NODE_47_length_297_cov_1.425532:1-297	33649	144	NODE_47_length_297_cov_1.425532:1-297	YP_010277151.1	92.857	98	7	0	1	294	104	201	8.85e-39	translation elongation factor Tu [Thalassionema nitzschioides]
+NODE_47_length_297_cov_1.425532:1-297	33642	144	NODE_47_length_297_cov_1.425532:1-297	YP_009028977.1	92.857	98	7	0	1	294	104	201	9.43e-39	translation elongation factor Tu [Coscinodiscus radiatus]
+NODE_47_length_297_cov_1.425532:1-297	44446	143	NODE_47_length_297_cov_1.425532:1-297	YP_010208026.1	91.837	98	8	0	1	294	104	201	1.24e-38	translation elongation factor Tu [Pseudo-nitzschia americana]
+NODE_47_length_297_cov_1.425532:1-297	186022	143	NODE_47_length_297_cov_1.425532:1-297	UHY41240.1	93.878	98	6	0	1	294	104	201	1.28e-38	translation elongation factor Tu [Thalassionema frauenfeldii]
+# BLASTX 2.12.0+
+# Query: NODE_5_length_1202_cov_2.682525:228-974
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5_length_1202_cov_2.682525:228-974	2506492	452	NODE_5_length_1202_cov_2.682525:228-974	QCI05877.1	100.000	248	0	0	1	744	118	365	9.70e-157	Translation elongation factor Tu [Dasysiphonia japonica]
+NODE_5_length_1202_cov_2.682525:228-974	2007180	442	NODE_5_length_1202_cov_2.682525:228-974	YP_009396058.1	97.581	248	6	0	1	744	118	365	1.11e-152	translation elongation factor Tu [Dasya naccarioides]
+NODE_5_length_1202_cov_2.682525:228-974	131038	350	NODE_5_length_1202_cov_2.682525:228-974	YP_009393784.1	79.435	248	45	3	1	744	118	359	5.55e-117	translation elongation factor Tu [Caloglossa beccarii]
+NODE_5_length_1202_cov_2.682525:228-974	189650	350	NODE_5_length_1202_cov_2.682525:228-974	YP_009397300.1	79.435	248	45	3	1	744	118	359	1.02e-116	translation elongation factor Tu [Thuretia quercifolia]
+NODE_5_length_1202_cov_2.682525:228-974	100879	347	NODE_5_length_1202_cov_2.682525:228-974	YP_009392957.1	79.032	248	46	3	1	744	118	359	9.36e-116	translation elongation factor Tu [Caloglossa intermedia]
+NODE_5_length_1202_cov_2.682525:228-974	76906	347	NODE_5_length_1202_cov_2.682525:228-974	YP_009392545.1	79.032	248	46	3	1	744	118	359	1.28e-115	translation elongation factor Tu [Caloglossa monosticha]
+NODE_5_length_1202_cov_2.682525:228-974	189649	346	NODE_5_length_1202_cov_2.682525:228-974	QCI06320.1	77.823	248	49	3	1	744	118	359	3.46e-115	Translation elongation factor Tu [Dictyurus purpurascens]
+NODE_5_length_1202_cov_2.682525:228-974	103713	346	NODE_5_length_1202_cov_2.682525:228-974	YP_009393164.1	78.226	248	48	3	1	744	118	359	4.12e-115	translation elongation factor Tu [Bostrychia moritziana]
+NODE_5_length_1202_cov_2.682525:228-974	940129	345	NODE_5_length_1202_cov_2.682525:228-974	YP_009315205.1	79.032	248	46	3	1	744	118	359	5.66e-115	Translation elongation factor Tu [Titanophycus setchellii]
+NODE_5_length_1202_cov_2.682525:228-974	1495610	345	NODE_5_length_1202_cov_2.682525:228-974	YP_009315815.1	79.032	248	46	3	1	744	118	359	8.28e-115	Translation elongation factor Tu [Trichogloeopsis pedicellata]
+# BLASTX 2.12.0+
+# Query: NODE_60_length_273_cov_0.987805:1-273
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_60_length_273_cov_0.987805:1-273	1400012	160	NODE_60_length_273_cov_0.987805:1-273	AVZ23599.1	84.444	90	14	0	1	270	82	171	5.67e-47	elongation factor Tu, partial [Pseudopleurococcus printzii]
+NODE_60_length_273_cov_0.987805:1-273	2358143	158	NODE_60_length_273_cov_0.987805:1-273	AYA95070.1	85.556	90	13	0	1	270	100	189	6.54e-47	elongation factor TU, partial [Bolbocoleon sp. CK-2018a]
+NODE_60_length_273_cov_0.987805:1-273	2358143	158	NODE_60_length_273_cov_0.987805:1-273	AYA95069.1	85.556	90	13	0	1	270	100	189	1.90e-45	elongation factor TU, partial [Bolbocoleon sp. CK-2018a]
+NODE_60_length_273_cov_0.987805:1-273	1813526	156	NODE_60_length_273_cov_0.987805:1-273	AMR08075.1	84.444	90	14	0	1	270	64	153	2.00e-45	elongation factor Tu, partial [Ulva iliohaha]
+NODE_60_length_273_cov_0.987805:1-273	1451047	154	NODE_60_length_273_cov_0.987805:1-273	QXW16390.1	83.333	90	15	0	1	270	43	132	2.25e-45	elongation factor Tu, partial [Ulva tepida]
+NODE_60_length_273_cov_0.987805:1-273	549311	154	NODE_60_length_273_cov_0.987805:1-273	QXW16422.1	83.333	90	15	0	1	270	43	132	2.26e-45	elongation factor Tu, partial [Ulva limnetica]
+NODE_60_length_273_cov_0.987805:1-273	1451047	153	NODE_60_length_273_cov_0.987805:1-273	QXW16391.1	83.333	90	15	0	1	270	43	132	2.44e-45	elongation factor Tu, partial [Ulva tepida]
+NODE_60_length_273_cov_0.987805:1-273	220631	157	NODE_60_length_273_cov_0.987805:1-273	AAS58432.1	84.444	90	14	0	1	270	96	185	3.61e-45	elongation factor Tu, partial [Bolbocoleon piliferum]
+NODE_60_length_273_cov_0.987805:1-273	220631	157	NODE_60_length_273_cov_0.987805:1-273	AAS58431.1	84.444	90	14	0	1	270	96	185	3.74e-45	elongation factor Tu, partial [Bolbocoleon piliferum]
+NODE_60_length_273_cov_0.987805:1-273	1451047	153	NODE_60_length_273_cov_0.987805:1-273	QQM99465.1	83.333	90	15	0	1	270	55	144	3.78e-45	elongation factor Tu, partial [Ulva tepida]
+# BLASTX 2.12.0+
+# Query: NODE_6_length_1075_cov_1.756729:131-1044
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_1075_cov_1.756729:131-1044	205396	511	NODE_6_length_1075_cov_1.756729:131-1044	YP_009538357.1	92.434	304	23	0	913	2	79	382	3.47e-179	translational elongation factor Tu [Capsosiphon fulvescens]
+NODE_6_length_1075_cov_1.756729:131-1044	73033	494	NODE_6_length_1075_cov_1.756729:131-1044	AAS58436.1	98.649	296	4	0	892	5	1	296	1.52e-174	elongation factor Tu, partial [Acrosiphonia arcta]
+NODE_6_length_1075_cov_1.756729:131-1044	44573	496	NODE_6_length_1075_cov_1.756729:131-1044	YP_009367510.1	87.829	304	37	0	913	2	79	382	1.41e-173	translational elongation factor Tu [Pseudoneochloris marina]
+NODE_6_length_1075_cov_1.756729:131-1044	932712	484	NODE_6_length_1075_cov_1.756729:131-1044	QCQ82210.1	98.221	281	5	0	844	2	1	281	1.74e-170	elongation factor Tu, partial [Spongomorpha aeruginosa]
+NODE_6_length_1075_cov_1.756729:131-1044	160070	485	NODE_6_length_1075_cov_1.756729:131-1044	YP_636243.1	88.158	304	36	0	913	2	79	382	3.79e-169	elongation factor Tu [Tupiella akineta]
+NODE_6_length_1075_cov_1.756729:131-1044	2249730	484	NODE_6_length_1075_cov_1.756729:131-1044	AWX53376.1	86.842	304	38	1	913	2	79	380	9.98e-169	TufA [Halochlorococcum sp. NIES-1838]
+NODE_6_length_1075_cov_1.756729:131-1044	2358145	479	NODE_6_length_1075_cov_1.756729:131-1044	AYA95067.1	88.079	302	36	0	910	5	1	302	3.04e-168	elongation factor TU, partial [Ulvales sp. CK-2018b]
+NODE_6_length_1075_cov_1.756729:131-1044	464258	481	NODE_6_length_1075_cov_1.756729:131-1044	YP_009646191.1	83.224	304	51	0	913	2	79	382	1.31e-167	translational elongation factor Tu [Chloropicon laureae]
+NODE_6_length_1075_cov_1.756729:131-1044	2981	477	NODE_6_length_1075_cov_1.756729:131-1044	AAC94988.1	83.553	304	50	0	913	2	52	355	1.80e-166	elongation factor Tu, partial [Tribonema aequale]
+NODE_6_length_1075_cov_1.756729:131-1044	439779	474	NODE_6_length_1075_cov_1.756729:131-1044	AIW51083.1	85.855	304	41	1	913	2	1	302	2.65e-166	elongation factor tu, partial [Cloniophora spicata]
+# BLAST processed 7 queries

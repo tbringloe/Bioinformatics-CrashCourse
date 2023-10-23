@@ -1,0 +1,31 @@
+# BLASTN 2.12.0+
+# Query: NODE_1_length_1340_cov_15.215272:304-1039
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_1340_cov_15.215272:304-1039	189642	998	NODE_1_length_1340_cov_15.215272:304-1039	MK814707.1	91.293	735	58	3	1	735	64572	63844	0.0	Plumaria plumosa isolate PD2953_5 plastid
+NODE_1_length_1340_cov_15.215272:304-1039	131094	706	NODE_1_length_1340_cov_15.215272:304-1039	MK814638.1	84.097	742	107	7	1	735	64189	63452	0.0	Cryptopleura ramosa isolate PD2928_6 plastid
+NODE_1_length_1340_cov_15.215272:304-1039	88423	678	NODE_1_length_1340_cov_15.215272:304-1039	KU362090.1	83.469	738	110	9	1	735	846	118	0.0	Erythroclonium muelleri voucher LAF0455 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_1_length_1340_cov_15.215272:304-1039	2006943	671	NODE_1_length_1340_cov_15.215272:304-1039	MF101439.1	83.333	738	111	9	1	735	132692	131964	0.0	Vertebrata australis isolate PD931 chloroplast, complete genome
+NODE_1_length_1340_cov_15.215272:304-1039	88410	671	NODE_1_length_1340_cov_15.215272:304-1039	MN240358.1	83.288	736	115	6	1	735	63151	63879	0.0	Kappaphycus striatus plastid, complete genome
+NODE_1_length_1340_cov_15.215272:304-1039	173468	665	NODE_1_length_1340_cov_15.215272:304-1039	KX284711.1	83.175	737	114	8	1	735	166483	167211	0.0	Schimmelmannia schousboei plastid, complete genome
+NODE_1_length_1340_cov_15.215272:304-1039	1191690	658	NODE_1_length_1340_cov_15.215272:304-1039	MN240356.1	82.993	735	117	6	1	734	64778	65505	0.0	Betaphycus gelatinus plastid, complete genome
+NODE_1_length_1340_cov_15.215272:304-1039	88423	656	NODE_1_length_1340_cov_15.215272:304-1039	KU362091.1	82.927	738	114	9	1	735	846	118	0.0	Erythroclonium muelleri voucher LAF0474 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_1_length_1340_cov_15.215272:304-1039	88428	654	NODE_1_length_1340_cov_15.215272:304-1039	KU362118.1	82.904	737	116	8	1	735	846	118	0.0	Meristotheca papulosa voucher LAF0450 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_1_length_1340_cov_15.215272:304-1039	239144	632	NODE_1_length_1340_cov_15.215272:304-1039	MK814651.1	82.361	737	120	8	1	735	141860	141132	1.70e-176	Dicranema revolutum isolate VRM320 plastid
+# BLASTN 2.12.0+
+# Query: NODE_2_length_997_cov_1.318694:197-908
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_997_cov_1.318694:197-908	38368	676	NODE_2_length_997_cov_1.318694:197-908	KX284712.1	83.916	715	107	6	1	711	169649	170359	0.0	Schizymenia dubyi plastid, complete genome
+NODE_2_length_997_cov_1.318694:197-908	2483893	643	NODE_2_length_997_cov_1.318694:197-908	NC_040158.1	83.006	712	119	2	1	711	162075	162785	7.60e-180	Gelidium kathyanniae isolate Saxicolous in mid-intertidal on shaded rock faces, China Rock, Pebble Beach, California voucher UC2050581 plastid, complete genome
+NODE_2_length_997_cov_1.318694:197-908	2483893	643	NODE_2_length_997_cov_1.318694:197-908	MG922864.1	83.006	712	119	2	1	711	162075	162785	7.60e-180	Gelidium kathyanniae isolate Saxicolous in mid-intertidal on shaded rock faces, China Rock, Pebble Beach, California plastid, complete genome
+NODE_2_length_997_cov_1.318694:197-908	2006944	632	NODE_2_length_997_cov_1.318694:197-908	MF101433.1	82.725	712	121	2	1	711	132741	132031	1.65e-176	Vertebrata isogona isolate PD831 chloroplast, complete genome
+NODE_2_length_997_cov_1.318694:197-908	290685	610	NODE_2_length_997_cov_1.318694:197-908	NC_051457.1	82.163	712	125	2	1	711	136299	135589	7.71e-170	Osmundea sinicola voucher UC2041541 chloroplast, complete genome
+NODE_2_length_997_cov_1.318694:197-908	290685	610	NODE_2_length_997_cov_1.318694:197-908	MH898941.1	82.163	712	125	2	1	711	136299	135589	7.71e-170	Osmundea sinicola chloroplast, complete genome
+NODE_2_length_997_cov_1.318694:197-908	88423	608	NODE_2_length_997_cov_1.318694:197-908	KU362090.1	82.163	712	121	5	1	709	845	137	2.77e-169	Erythroclonium muelleri voucher LAF0455 elongation factor tu (tufA) gene, partial cds; chloroplast
+NODE_2_length_997_cov_1.318694:197-908	2485825	606	NODE_2_length_997_cov_1.318694:197-908	NC_039977.1	82.138	711	123	3	1	709	130003	130711	9.97e-169	Synarthrophyton chejuense plastid, complete genome
+NODE_2_length_997_cov_1.318694:197-908	2485825	606	NODE_2_length_997_cov_1.318694:197-908	MH281626.1	82.138	711	123	3	1	709	130003	130711	9.97e-169	Synarthrophyton chejuense plastid, complete genome
+NODE_2_length_997_cov_1.318694:197-908	1204437	601	NODE_2_length_997_cov_1.318694:197-908	KT266849.1	81.972	710	126	2	1	709	65185	65893	4.64e-167	Membranoptera platyphylla plastid, complete genome
+# BLAST processed 2 queries

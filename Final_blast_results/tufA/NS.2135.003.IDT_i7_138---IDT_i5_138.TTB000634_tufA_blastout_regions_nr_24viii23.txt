@@ -1,0 +1,31 @@
+# BLASTX 2.12.0+
+# Query: NODE_1_length_1340_cov_15.215272:304-1039
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_1340_cov_15.215272:304-1039	189642	410	NODE_1_length_1340_cov_15.215272:304-1039	QCI07993.1	93.033	244	15	1	734	3	118	359	1.87e-140	Translation elongation factor Tu [Plumaria plumosa]
+NODE_1_length_1340_cov_15.215272:304-1039	131097	401	NODE_1_length_1340_cov_15.215272:304-1039	QCI05997.1	89.344	244	24	1	734	3	118	359	7.49e-137	Translation elongation factor Tu [Delesseria sanguinea]
+NODE_1_length_1340_cov_15.215272:304-1039	2575637	400	NODE_1_length_1340_cov_15.215272:304-1039	QCI04742.1	88.115	244	27	1	734	3	118	359	9.84e-137	Translation elongation factor Tu [Bornetia secundiflora]
+NODE_1_length_1340_cov_15.215272:304-1039	103713	398	NODE_1_length_1340_cov_15.215272:304-1039	YP_009393164.1	88.934	244	25	1	734	3	118	359	8.38e-136	translation elongation factor Tu [Bostrychia moritziana]
+NODE_1_length_1340_cov_15.215272:304-1039	2006943	397	NODE_1_length_1340_cov_15.215272:304-1039	YP_009396669.1	88.525	244	26	1	734	3	118	359	2.08e-135	translation elongation factor Tu [Vertebrata australis]
+NODE_1_length_1340_cov_15.215272:304-1039	2608611	397	NODE_1_length_1340_cov_15.215272:304-1039	YP_009394403.1	88.115	244	27	1	734	3	118	359	2.10e-135	translation elongation factor Tu [Leptosiphonia brodiei]
+NODE_1_length_1340_cov_15.215272:304-1039	1206573	397	NODE_1_length_1340_cov_15.215272:304-1039	YP_010155973.1	88.934	244	25	1	734	3	118	359	2.19e-135	elongation factor Tu [Cumathamnion serrulatum]
+NODE_1_length_1340_cov_15.215272:304-1039	228265	397	NODE_1_length_1340_cov_15.215272:304-1039	YP_009392334.1	88.934	244	25	1	734	3	118	359	3.87e-135	translation elongation factor Tu [Osmundaria fimbriata]
+NODE_1_length_1340_cov_15.215272:304-1039	2007208	395	NODE_1_length_1340_cov_15.215272:304-1039	YP_009397709.1	88.525	244	26	1	734	3	118	359	9.17e-135	translation elongation factor Tu [Dipterosiphonia australica]
+NODE_1_length_1340_cov_15.215272:304-1039	2006970	395	NODE_1_length_1340_cov_15.215272:304-1039	YP_009394614.1	88.115	244	27	1	734	3	118	359	1.05e-134	translation elongation factor Tu [Vertebrata thuyoides]
+# BLASTX 2.12.0+
+# Query: NODE_2_length_997_cov_1.318694:197-908
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_997_cov_1.318694:197-908	172978	391	NODE_2_length_997_cov_1.318694:197-908	YP_009500415.1	94.068	236	14	0	709	2	124	359	4.63e-133	elongation factor Tu [Gracilariopsis heteroclada]
+NODE_2_length_997_cov_1.318694:197-908	486813	391	NODE_2_length_997_cov_1.318694:197-908	YP_009511523.1	94.068	236	14	0	709	2	124	359	5.16e-133	translation elongation factor Tu [Gracilariopsis mclachlanii]
+NODE_2_length_997_cov_1.318694:197-908	1183060	390	NODE_2_length_997_cov_1.318694:197-908	YP_010197856.1	93.220	236	16	0	709	2	124	359	1.17e-132	translation elongation factor Tu [Gracilaria isabellana]
+NODE_2_length_997_cov_1.318694:197-908	1824849	385	NODE_2_length_997_cov_1.318694:197-908	AMY27309.1	91.949	236	19	0	709	2	49	284	1.73e-132	elongation factor tu, partial [Peyssonnelia sp. 3 TS-2016]
+NODE_2_length_997_cov_1.318694:197-908	1824842	383	NODE_2_length_997_cov_1.318694:197-908	AMY27266.1	91.525	236	20	0	709	2	8	243	3.00e-132	elongation factor tu, partial [Gelidiaceae sp. LAF7149]
+NODE_2_length_997_cov_1.318694:197-908	1824848	384	NODE_2_length_997_cov_1.318694:197-908	AMY27308.1	92.797	236	17	0	709	2	49	284	3.67e-132	elongation factor tu, partial [Peyssonnelia sp. 2 TS-2016]
+NODE_2_length_997_cov_1.318694:197-908	2779	388	NODE_2_length_997_cov_1.318694:197-908	YP_010198851.1	91.949	236	19	0	709	2	124	359	5.40e-132	translation elongation factor Tu [Gracilaria tikvahiae]
+NODE_2_length_997_cov_1.318694:197-908	159591	388	NODE_2_length_997_cov_1.318694:197-908	YP_009745159.1	92.797	236	17	0	709	2	124	359	5.58e-132	elongation factor Tu [Halymenia maculata]
+NODE_2_length_997_cov_1.318694:197-908	172946	388	NODE_2_length_997_cov_1.318694:197-908	YP_010198265.1	92.797	236	17	0	709	2	124	359	7.42e-132	translation elongation factor Tu [Gracilaria ornata]
+NODE_2_length_997_cov_1.318694:197-908	2873517	387	NODE_2_length_997_cov_1.318694:197-908	YP_010195603.1	92.373	236	18	0	709	2	124	359	1.10e-131	translation elongation factor Tu [Gracilaria baiana]
+# BLAST processed 2 queries

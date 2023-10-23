@@ -1,0 +1,106 @@
+# BLASTX 2.12.0+
+# Query: NODE_1_length_1320_cov_13.728324:211-966
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_1_length_1320_cov_13.728324:211-966	2779	429	NODE_1_length_1320_cov_13.728324:211-966	YP_010198851.1	91.633	251	21	0	754	2	118	368	5.37e-148	translation elongation factor Tu [Gracilaria tikvahiae]
+NODE_1_length_1320_cov_13.728324:211-966	172969;2510791	426	NODE_1_length_1320_cov_13.728324:211-966	YP_009346794.1	94.422	251	14	0	754	2	118	368	9.12e-147	elongation factor Tu [Crassa firma]
+NODE_1_length_1320_cov_13.728324:211-966	40386	417	NODE_1_length_1320_cov_13.728324:211-966	AMY27254.1	90.837	251	23	0	754	2	12	262	2.45e-145	elongation factor tu, partial [Bonnemaisonia asparagoides]
+NODE_1_length_1320_cov_13.728324:211-966	2873518	422	NODE_1_length_1320_cov_13.728324:211-966	YP_010198469.1	92.430	251	19	0	754	2	118	368	3.36e-145	translation elongation factor Tu [Gracilaria pachydermatica]
+NODE_1_length_1320_cov_13.728324:211-966	172945	422	NODE_1_length_1320_cov_13.728324:211-966	YP_010198061.1	93.227	251	17	0	754	2	118	368	4.14e-145	translation elongation factor Tu [Gracilaria multipartita]
+NODE_1_length_1320_cov_13.728324:211-966	172951	422	NODE_1_length_1320_cov_13.728324:211-966	YP_010199255.1	93.227	251	17	0	754	2	118	368	5.75e-145	translation elongation factor Tu [Crassiphycus usneoides]
+NODE_1_length_1320_cov_13.728324:211-966	1574224	422	NODE_1_length_1320_cov_13.728324:211-966	YP_010196427.1	92.829	251	18	0	754	2	118	368	6.70e-145	translation elongation factor Tu [Gracilaria cearensis]
+NODE_1_length_1320_cov_13.728324:211-966	2572395	422	NODE_1_length_1320_cov_13.728324:211-966	YP_009510502.1	92.829	251	18	0	754	2	118	368	6.92e-145	translation elongation factor Tu [Crassa caudata]
+NODE_1_length_1320_cov_13.728324:211-966	31436	422	NODE_1_length_1320_cov_13.728324:211-966	YP_009295614.1	93.625	251	16	0	754	2	118	368	6.92e-145	elongation factor Tu [Mastocarpus papillatus]
+NODE_1_length_1320_cov_13.728324:211-966	172962	421	NODE_1_length_1320_cov_13.728324:211-966	YP_010196012.1	92.430	251	19	0	754	2	118	368	7.39e-145	translation elongation factor Tu [Gracilaria bursa-pastoris]
+# BLASTX 2.12.0+
+# Query: NODE_2_length_1242_cov_17.983230:400-1141
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_2_length_1242_cov_17.983230:400-1141	172978	409	NODE_2_length_1242_cov_17.983230:400-1141	YP_009500415.1	93.902	246	15	0	2	739	124	369	4.03e-140	elongation factor Tu [Gracilariopsis heteroclada]
+NODE_2_length_1242_cov_17.983230:400-1141	1824842	404	NODE_2_length_1242_cov_17.983230:400-1141	AMY27266.1	91.870	246	20	0	2	739	8	253	4.04e-140	elongation factor tu, partial [Gelidiaceae sp. LAF7149]
+NODE_2_length_1242_cov_17.983230:400-1141	486813	409	NODE_2_length_1242_cov_17.983230:400-1141	YP_009511523.1	93.902	246	15	0	2	739	124	369	4.50e-140	translation elongation factor Tu [Gracilariopsis mclachlanii]
+NODE_2_length_1242_cov_17.983230:400-1141	1183060	409	NODE_2_length_1242_cov_17.983230:400-1141	YP_010197856.1	93.089	246	17	0	2	739	124	369	6.96e-140	translation elongation factor Tu [Gracilaria isabellana]
+NODE_2_length_1242_cov_17.983230:400-1141	172972	408	NODE_2_length_1242_cov_17.983230:400-1141	YP_009732269.1	92.683	246	18	0	2	739	124	369	1.62e-139	translation elongation factor Tu [Gracilaria spinulosa]
+NODE_2_length_1242_cov_17.983230:400-1141	31436	406	NODE_2_length_1242_cov_17.983230:400-1141	YP_009295614.1	92.683	246	18	0	2	739	124	369	4.98e-139	elongation factor Tu [Mastocarpus papillatus]
+NODE_2_length_1242_cov_17.983230:400-1141	172946	406	NODE_2_length_1242_cov_17.983230:400-1141	YP_010198265.1	92.683	246	18	0	2	739	124	369	5.50e-139	translation elongation factor Tu [Gracilaria ornata]
+NODE_2_length_1242_cov_17.983230:400-1141	2779	406	NODE_2_length_1242_cov_17.983230:400-1141	YP_010198851.1	91.870	246	20	0	2	739	124	369	5.50e-139	translation elongation factor Tu [Gracilaria tikvahiae]
+NODE_2_length_1242_cov_17.983230:400-1141	2873517	406	NODE_2_length_1242_cov_17.983230:400-1141	YP_010195603.1	92.276	246	19	0	2	739	124	369	7.14e-139	translation elongation factor Tu [Gracilaria baiana]
+NODE_2_length_1242_cov_17.983230:400-1141	159591	406	NODE_2_length_1242_cov_17.983230:400-1141	YP_009745159.1	92.683	246	18	0	2	739	124	369	7.55e-139	elongation factor Tu [Halymenia maculata]
+# BLASTX 2.12.0+
+# Query: NODE_3_length_747_cov_0.824451:30-745
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_3_length_747_cov_0.824451:30-745	33642	392	NODE_3_length_747_cov_0.824451:30-745	YP_009028977.1	91.561	237	19	1	3	713	103	338	2.73e-133	translation elongation factor Tu [Coscinodiscus radiatus]
+NODE_3_length_747_cov_0.824451:30-745	2219035	391	NODE_3_length_747_cov_0.824451:30-745	AWT39012.1	91.561	237	19	1	3	713	103	338	5.67e-133	elongation factor Tu [Eunotogramma sp.]
+NODE_3_length_747_cov_0.824451:30-745	2749911	389	NODE_3_length_747_cov_0.824451:30-745	YP_009496867.1	91.139	237	20	1	3	713	103	338	2.35e-132	elongation factor Tu [Pseudictyota dubia]
+NODE_3_length_747_cov_0.824451:30-745	1937691	388	NODE_3_length_747_cov_0.824451:30-745	QXM17885.1	90.717	237	21	1	3	713	105	340	7.01e-132	translation elongation factor Tu [Chaetoceros laevisporus]
+NODE_3_length_747_cov_0.824451:30-745	2115823	387	NODE_3_length_747_cov_0.824451:30-745	AWT38739.1	90.717	237	21	1	3	713	103	338	1.03e-131	elongation factor Tu [Licmophora sp.]
+NODE_3_length_747_cov_0.824451:30-745	186022	387	NODE_3_length_747_cov_0.824451:30-745	YP_010277011.1	89.873	237	23	1	3	713	103	338	1.98e-131	translation elongation factor Tu [Thalassionema frauenfeldii]
+NODE_3_length_747_cov_0.824451:30-745	59812	387	NODE_3_length_747_cov_0.824451:30-745	YP_009029529.1	91.139	237	20	1	3	713	103	338	2.28e-131	translation elongation factor Tu [Lithodesmium undulatum]
+NODE_3_length_747_cov_0.824451:30-745	2770866	387	NODE_3_length_747_cov_0.824451:30-745	UDP55593.1	91.139	237	20	1	3	713	103	338	2.51e-131	translational elongation factor Tu [Schizostauron trachyderma]
+NODE_3_length_747_cov_0.824451:30-745	210620	386	NODE_3_length_747_cov_0.824451:30-745	YP_009308930.1	90.295	237	22	1	3	713	103	338	4.11e-131	translation elongation factor Tu [Toxarium undulatum]
+NODE_3_length_747_cov_0.824451:30-745	1234821	385	NODE_3_length_747_cov_0.824451:30-745	YP_009496196.1	90.295	237	22	1	3	713	103	338	5.58e-131	elongation factor Tu [Plagiogrammopsis vanheurckii]
+# BLASTX 2.12.0+
+# Query: NODE_5_length_654_cov_0.990826:105-654
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5_length_654_cov_0.990826:105-654	2506492	360	NODE_5_length_654_cov_0.990826:105-654	QCI05877.1	96.703	182	6	0	547	2	195	376	6.40e-122	Translation elongation factor Tu [Dasysiphonia japonica]
+NODE_5_length_654_cov_0.990826:105-654	2007180	357	NODE_5_length_654_cov_0.990826:105-654	YP_009396058.1	95.604	182	8	0	547	2	195	376	1.79e-120	translation elongation factor Tu [Dasya naccarioides]
+NODE_5_length_654_cov_0.990826:105-654	3159	303	NODE_5_length_654_cov_0.990826:105-654	YP_005089880.1	78.571	182	39	0	547	2	190	371	2.80e-99	tufA gene product [Pedinomonas minor]
+NODE_5_length_654_cov_0.990826:105-654	189650	302	NODE_5_length_654_cov_0.990826:105-654	YP_009397300.1	81.319	182	33	1	547	2	190	370	4.47e-99	translation elongation factor Tu [Thuretia quercifolia]
+NODE_5_length_654_cov_0.990826:105-654	131038	301	NODE_5_length_654_cov_0.990826:105-654	YP_009393784.1	81.319	182	33	1	547	2	190	370	8.23e-99	translation elongation factor Tu [Caloglossa beccarii]
+NODE_5_length_654_cov_0.990826:105-654	2822695	301	NODE_5_length_654_cov_0.990826:105-654	QVQ56809.1	80.769	182	34	1	547	2	190	370	1.32e-98	translation elongation factor Tu [Erythrocystis saccata]
+NODE_5_length_654_cov_0.990826:105-654	2774349	301	NODE_5_length_654_cov_0.990826:105-654	MBF2079427.1	77.473	182	40	1	547	2	190	370	1.80e-98	elongation factor Tu [Synechococcales cyanobacterium T60_A2020_003]
+NODE_5_length_654_cov_0.990826:105-654	210852	300	NODE_5_length_654_cov_0.990826:105-654	YP_009399171.1	80.769	182	34	1	547	2	190	370	2.03e-98	translation elongation factor Tu [Taenioma perpusillum]
+NODE_5_length_654_cov_0.990826:105-654	189652	300	NODE_5_length_654_cov_0.990826:105-654	QCI06918.1	80.220	182	35	1	547	2	189	369	2.27e-98	Translation elongation factor Tu [Halydictyon mirabile]
+NODE_5_length_654_cov_0.990826:105-654	324754	300	NODE_5_length_654_cov_0.990826:105-654	YP_009393585.1	81.319	182	33	1	547	2	190	370	4.81e-98	translation elongation factor Tu [Bostrychia simpliciuscula]
+# BLASTX 2.12.0+
+# Query: NODE_6_length_577_cov_1.316239:3-577
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_577_cov_1.316239:3-577	40386	313	NODE_6_length_577_cov_1.316239:3-577	AMY27254.1	100.000	190	0	0	572	3	13	202	2.10e-105	elongation factor tu, partial [Bonnemaisonia asparagoides]
+NODE_6_length_577_cov_1.316239:3-577	1824670	291	NODE_6_length_577_cov_1.316239:3-577	AMY27298.1	89.474	190	20	0	572	3	6	195	1.53e-97	elongation factor tu, partial [Gracilaria sp. LAF7139]
+NODE_6_length_577_cov_1.316239:3-577	1824849	293	NODE_6_length_577_cov_1.316239:3-577	AMY27309.1	88.947	190	21	0	572	3	44	233	8.58e-97	elongation factor tu, partial [Peyssonnelia sp. 3 TS-2016]
+NODE_6_length_577_cov_1.316239:3-577	1824703	290	NODE_6_length_577_cov_1.316239:3-577	AMY27276.1	90.526	190	18	0	572	3	19	208	1.06e-96	elongation factor tu, partial [Schmitzia sp. LAF7026]
+NODE_6_length_577_cov_1.316239:3-577	31471	295	NODE_6_length_577_cov_1.316239:3-577	YP_010198675.1	89.474	190	20	0	572	3	119	308	3.84e-96	translation elongation factor Tu [Gracilaria pacifica]
+NODE_6_length_577_cov_1.316239:3-577	173468	295	NODE_6_length_577_cov_1.316239:3-577	YP_009295921.1	90.526	190	18	0	572	3	119	308	5.26e-96	elongation factor Tu [Schimmelmannia schousboei]
+NODE_6_length_577_cov_1.316239:3-577	172949	295	NODE_6_length_577_cov_1.316239:3-577	YP_009732329.1	89.474	190	20	0	572	3	119	308	6.00e-96	translation elongation factor Tu [Gracilaria textorii]
+NODE_6_length_577_cov_1.316239:3-577	38514	290	NODE_6_length_577_cov_1.316239:3-577	AMY27280.1	90.526	190	18	0	572	3	44	233	1.07e-95	elongation factor tu, partial [Dumontia incrassata]
+NODE_6_length_577_cov_1.316239:3-577	172969;2510791	294	NODE_6_length_577_cov_1.316239:3-577	YP_009346794.1	90.000	190	19	0	572	3	119	308	1.31e-95	elongation factor Tu [Crassa firma]
+NODE_6_length_577_cov_1.316239:3-577	42024	293	NODE_6_length_577_cov_1.316239:3-577	YP_009296330.1	88.947	190	21	0	572	3	119	308	1.50e-95	elongation factor Tu [Sebdenia flabellata]
+# BLASTX 2.12.0+
+# Query: NODE_8_length_475_cov_0.057377:158-439
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_8_length_475_cov_0.057377:158-439	2770866	140	NODE_8_length_475_cov_0.057377:158-439	UDP55593.1	98.925	93	1	0	3	281	84	176	1.84e-37	translational elongation factor Tu [Schizostauron trachyderma]
+NODE_8_length_475_cov_0.057377:158-439	210602	137	NODE_8_length_475_cov_0.057377:158-439	QGW12718.1	98.925	93	1	0	3	281	84	176	2.38e-36	translational elongation factor Tu [Nanofrustulum shiloi]
+NODE_8_length_475_cov_0.057377:158-439	33642	137	NODE_8_length_475_cov_0.057377:158-439	YP_009028977.1	98.925	93	1	0	3	281	84	176	2.87e-36	translation elongation factor Tu [Coscinodiscus radiatus]
+NODE_8_length_475_cov_0.057377:158-439	671091	137	NODE_8_length_475_cov_0.057377:158-439	YP_010241890.1	98.925	93	1	0	3	281	84	176	3.19e-36	translation elongation factor Tu [Coscinodiscus wailesii]
+NODE_8_length_475_cov_0.057377:158-439	1534972	136	NODE_8_length_475_cov_0.057377:158-439	YP_009163677.1	97.849	93	2	0	3	281	84	176	4.53e-36	elongation factor EF1A [Triparma laevis]
+NODE_8_length_475_cov_0.057377:158-439	426630	136	NODE_8_length_475_cov_0.057377:158-439	QXM17362.1	95.699	93	4	0	3	281	84	176	5.42e-36	translation elongation factor Tu [Chaetoceros costatus]
+NODE_8_length_475_cov_0.057377:158-439	446	128	NODE_8_length_475_cov_0.057377:158-439	WP_230306061.1	88.172	93	11	0	3	281	3	95	5.78e-36	GTP-binding protein, partial [Legionella pneumophila]
+NODE_8_length_475_cov_0.057377:158-439	657316	130	NODE_8_length_475_cov_0.057377:158-439	CBL06737.1	90.323	93	9	0	3	281	84	176	5.94e-36	small GTP-binding protein domain [Megamonas hypermegale ART12/1]
+NODE_8_length_475_cov_0.057377:158-439	446	128	NODE_8_length_475_cov_0.057377:158-439	WP_230315200.1	88.172	93	11	0	3	281	14	106	6.16e-36	GTP-binding protein, partial [Legionella pneumophila]
+NODE_8_length_475_cov_0.057377:158-439	1866884	131	NODE_8_length_475_cov_0.057377:158-439	WP_159299555.1	89.247	93	10	0	3	281	84	176	8.14e-36	GTP-binding protein, partial [Spiribacter sp. SSL99]
+# BLASTX 2.12.0+
+# Query: NODE_9_length_448_cov_1.230088:6-436
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nr
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_9_length_448_cov_1.230088:6-436	1144394	285	NODE_9_length_448_cov_1.230088:6-436	AFC37672.1	99.296	142	1	0	428	3	76	217	1.92e-94	elongation factor TU, partial [Ulvella pachypes]
+NODE_9_length_448_cov_1.230088:6-436	1521762	283	NODE_9_length_448_cov_1.230088:6-436	AIF76072.1	99.296	142	1	0	428	3	63	204	4.34e-94	elongation factor Tu, partial [Ulvella islandica]
+NODE_9_length_448_cov_1.230088:6-436	1521762	281	NODE_9_length_448_cov_1.230088:6-436	QIR81840.1	98.592	142	2	0	428	3	40	181	8.62e-94	elongation factor Tu, partial [Ulvella islandica]
+NODE_9_length_448_cov_1.230088:6-436	1143134	282	NODE_9_length_448_cov_1.230088:6-436	AFC37652.1	97.887	142	3	0	428	3	62	203	1.14e-93	elongation factor TU, partial [Ulvella sp. A GP-2012]
+NODE_9_length_448_cov_1.230088:6-436	1144389	282	NODE_9_length_448_cov_1.230088:6-436	AFC37644.1	97.887	142	3	0	428	3	75	216	1.50e-93	elongation factor TU, partial [Ulvella dasycala]
+NODE_9_length_448_cov_1.230088:6-436	1144390	282	NODE_9_length_448_cov_1.230088:6-436	AFC37657.1	97.887	142	3	0	428	3	71	212	1.50e-93	elongation factor TU, partial [Ulvella gigas]
+NODE_9_length_448_cov_1.230088:6-436	1144389	282	NODE_9_length_448_cov_1.230088:6-436	AFC37684.1	97.887	142	3	0	428	3	76	217	1.78e-93	elongation factor TU, partial [Ulvella dasycala]
+NODE_9_length_448_cov_1.230088:6-436	1144389	282	NODE_9_length_448_cov_1.230088:6-436	AFC37683.1	97.887	142	3	0	428	3	76	217	1.86e-93	elongation factor TU, partial [Ulvella dasycala]
+NODE_9_length_448_cov_1.230088:6-436	188560	282	NODE_9_length_448_cov_1.230088:6-436	AFC37678.1	98.592	142	2	0	428	3	70	211	2.32e-93	elongation factor TU, partial [Ulvella operculata]
+NODE_9_length_448_cov_1.230088:6-436	1144397	281	NODE_9_length_448_cov_1.230088:6-436	AFC37648.1	97.183	142	4	0	428	3	72	213	5.50e-93	elongation factor TU, partial [Ulvella ramulosa]
+# BLAST processed 7 queries

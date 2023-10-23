@@ -1,0 +1,76 @@
+# BLASTN 2.12.0+
+# Query: NODE_13_length_385_cov_1.713768:49-363
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_13_length_385_cov_1.713768:49-363	2567908	448	NODE_13_length_385_cov_1.713768:49-363	NC_044758.1	92.357	314	24	0	1	314	9867	10180	2.64e-121	Scytosiphon canaliculatus plastid, complete genome
+NODE_13_length_385_cov_1.713768:49-363	2567908	448	NODE_13_length_385_cov_1.713768:49-363	MF591718.1	92.357	314	24	0	1	314	9867	10180	2.64e-121	Scytosiphon canaliculatus plastid, complete genome
+NODE_13_length_385_cov_1.713768:49-363	74375	431	NODE_13_length_385_cov_1.713768:49-363	AF038004.1	91.401	314	27	0	1	314	1046	733	2.66e-116	Tribonema marinium elongation factor Tu (tufA) gene, chloroplast gene encoding chloroplast protein, partial cds
+NODE_13_length_385_cov_1.713768:49-363	309737	425	NODE_13_length_385_cov_1.713768:49-363	NC_046005.1	91.083	314	28	0	1	314	9948	10261	1.24e-114	Cladosiphon okamuranus plastid, complete genome
+NODE_13_length_385_cov_1.713768:49-363	246121	409	NODE_13_length_385_cov_1.713768:49-363	KU164872.1	90.127	314	31	0	1	314	102564	102251	1.25e-109	Pleurocladia lacustris strain SAG 25.93 chloroplast, complete genome
+NODE_13_length_385_cov_1.713768:49-363	246121	409	NODE_13_length_385_cov_1.713768:49-363	KU164871.1	90.127	314	31	0	1	314	102533	102220	1.25e-109	Pleurocladia lacustris strain Sa2 chloroplast, complete genome
+NODE_13_length_385_cov_1.713768:49-363	2880	403	NODE_13_length_385_cov_1.713768:49-363	MN181444.1	89.809	314	32	0	1	314	60598	60911	5.80e-108	Ectocarpus siliculosus plastid, complete genome
+NODE_13_length_385_cov_1.713768:49-363	169778	392	NODE_13_length_385_cov_1.713768:49-363	MZ156043.1	89.172	314	34	0	1	314	102849	102536	1.26e-104	Arthrothamnus bifidus plastid, complete genome
+NODE_13_length_385_cov_1.713768:49-363	2173147	387	NODE_13_length_385_cov_1.713768:49-363	MZ156036.1	88.854	314	35	0	1	314	102896	102583	5.85e-103	Saccharina subsessilis plastid, complete genome
+NODE_13_length_385_cov_1.713768:49-363	2880	387	NODE_13_length_385_cov_1.713768:49-363	FP102296.1	88.854	314	35	0	1	314	36332	36645	5.85e-103	Ectocarpus siliculosus chloroplast, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_3_length_1386_cov_15.805012:233-1003
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_3_length_1386_cov_15.805012:233-1003	2567908	1024	NODE_3_length_1386_cov_15.805012:233-1003	NC_044758.1	90.838	764	70	0	1	764	9867	10630	0.0	Scytosiphon canaliculatus plastid, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	2567908	1024	NODE_3_length_1386_cov_15.805012:233-1003	MF591718.1	90.838	764	70	0	1	764	9867	10630	0.0	Scytosiphon canaliculatus plastid, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	1403536	1013	NODE_3_length_1386_cov_15.805012:233-1003	NC_046447.1	90.576	764	72	0	1	764	9846	10609	0.0	Scytosiphon promiscuus plastid, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	1403536	1013	NODE_3_length_1386_cov_15.805012:233-1003	MK107985.1	90.576	764	72	0	1	764	9845	10608	0.0	Scytosiphon promiscuus plastid, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	1403536	1013	NODE_3_length_1386_cov_15.805012:233-1003	MK107984.1	90.576	764	72	0	1	764	9846	10609	0.0	Scytosiphon promiscuus plastid, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	27967	1013	NODE_3_length_1386_cov_15.805012:233-1003	MW415415.1	90.576	764	72	0	1	764	9354	10117	0.0	Scytosiphon lomentaria chloroplast, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	27967	1013	NODE_3_length_1386_cov_15.805012:233-1003	NC_057081.1	90.576	764	72	0	1	764	36267	37030	0.0	Scytosiphon lomentaria chloroplast, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	2885	1009	NODE_3_length_1386_cov_15.805012:233-1003	AF545614.1	92.929	693	49	0	78	770	984	292	0.0	Pylaiella littoralis strain CCMP 1907 elongation factor Tu (tufA) gene, partial cds; chloroplast
+NODE_3_length_1386_cov_15.805012:233-1003	698476	1007	NODE_3_length_1386_cov_15.805012:233-1003	NC_038231.1	90.365	768	72	2	1	767	9390	10156	0.0	Endarachne binghamiae plastid, complete genome
+NODE_3_length_1386_cov_15.805012:233-1003	698476	1007	NODE_3_length_1386_cov_15.805012:233-1003	MF460360.1	90.365	768	72	2	1	767	9390	10156	0.0	Endarachne binghamiae plastid, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_4_length_1314_cov_74.507054:341-1257
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_4_length_1314_cov_74.507054:341-1257	209631	1315	NODE_4_length_1314_cov_74.507054:341-1257	NC_042170.1	92.576	916	68	0	1	916	73783	72868	0.0	Acrochaetium secundatum plastid, complete genome
+NODE_4_length_1314_cov_74.507054:341-1257	209631	1315	NODE_4_length_1314_cov_74.507054:341-1257	MH026107.1	92.576	916	68	0	1	916	73783	72868	0.0	Acrochaetium secundatum plastid, complete genome
+NODE_4_length_1314_cov_74.507054:341-1257	1884665	867	NODE_4_length_1314_cov_74.507054:341-1257	NC_031667.1	83.807	914	146	2	1	913	145966	146878	0.0	Liagora brachyclada chloroplast, complete genome, isolate J.0126
+NODE_4_length_1314_cov_74.507054:341-1257	406718	861	NODE_4_length_1314_cov_74.507054:341-1257	NC_031661.1	83.698	914	147	2	1	913	145971	146883	0.0	Liagora harveyana chloroplast, complete genome, isolate
+NODE_4_length_1314_cov_74.507054:341-1257	1699272	839	NODE_4_length_1314_cov_74.507054:341-1257	KT716756.1	83.224	918	150	4	1	916	92414	91499	0.0	Pyropia endiviifolia plastid, complete genome
+NODE_4_length_1314_cov_74.507054:341-1257	60925	833	NODE_4_length_1314_cov_74.507054:341-1257	KT266789.1	83.134	919	149	6	1	916	179721	178806	0.0	Porphyra pulchra plastid, complete genome
+NODE_4_length_1314_cov_74.507054:341-1257	268567	828	NODE_4_length_1314_cov_74.507054:341-1257	NC_031656.1	82.969	916	156	0	1	916	148069	148984	0.0	Dichotomaria marginata chloroplast, complete genome, isolate HV04060
+NODE_4_length_1314_cov_74.507054:341-1257	268573	811	NODE_4_length_1314_cov_74.507054:341-1257	NC_031659.1	82.680	918	155	4	1	916	146814	147729	0.0	Hommersandiophycus borowitzkae chloroplast, complete genome, isolate HV00480
+NODE_4_length_1314_cov_74.507054:341-1257	940129	806	NODE_4_length_1314_cov_74.507054:341-1257	NC_031665.1	82.533	916	160	0	1	916	144842	145757	0.0	Titanophycus setchellii chloroplast, complete genome, isolate J.0604
+NODE_4_length_1314_cov_74.507054:341-1257	2788	797	NODE_4_length_1314_cov_74.507054:341-1257	DQ995189.1	82.667	900	154	2	3	901	347	1245	0.0	Porphyra yezoensis elongation factor Tu (tufA) gene, complete cds; chloroplast
+# BLASTN 2.12.0+
+# Query: NODE_5_length_1199_cov_8.154128:288-1058
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_5_length_1199_cov_8.154128:288-1058	2880	1229	NODE_5_length_1199_cov_8.154128:288-1058	MN181444.1	95.455	770	35	0	1	770	61366	60597	0.0	Ectocarpus siliculosus plastid, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	2880	1223	NODE_5_length_1199_cov_8.154128:288-1058	FP102296.1	95.325	770	36	0	1	770	37100	36331	0.0	Ectocarpus siliculosus chloroplast, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	246121	1018	NODE_5_length_1199_cov_8.154128:288-1058	KU164872.1	90.519	770	73	0	1	770	101796	102565	0.0	Pleurocladia lacustris strain SAG 25.93 chloroplast, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	246121	1018	NODE_5_length_1199_cov_8.154128:288-1058	KU164871.1	90.519	770	73	0	1	770	101765	102534	0.0	Pleurocladia lacustris strain Sa2 chloroplast, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	698476	1003	NODE_5_length_1199_cov_8.154128:288-1058	NC_038231.1	90.234	768	75	0	3	770	10156	9389	0.0	Endarachne binghamiae plastid, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	698476	1003	NODE_5_length_1199_cov_8.154128:288-1058	MF460360.1	90.234	768	75	0	3	770	10156	9389	0.0	Endarachne binghamiae plastid, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	1403536	981	NODE_5_length_1199_cov_8.154128:288-1058	NC_046447.1	89.804	765	78	0	6	770	10609	9845	0.0	Scytosiphon promiscuus plastid, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	1403536	981	NODE_5_length_1199_cov_8.154128:288-1058	MK107985.1	89.804	765	78	0	6	770	10608	9844	0.0	Scytosiphon promiscuus plastid, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	1403536	981	NODE_5_length_1199_cov_8.154128:288-1058	MK107984.1	89.804	765	78	0	6	770	10609	9845	0.0	Scytosiphon promiscuus plastid, complete genome
+NODE_5_length_1199_cov_8.154128:288-1058	2567908	981	NODE_5_length_1199_cov_8.154128:288-1058	NC_044758.1	89.804	765	78	0	6	770	10630	9866	0.0	Scytosiphon canaliculatus plastid, complete genome
+# BLASTN 2.12.0+
+# Query: NODE_6_length_651_cov_0.623616:93-489
+# Database: /cvmfs/bio-test.data.computecanada.ca/content/databases/Core/blast_dbs/2022_03_23/nt
+# Fields: query id, subject tax ids, bit score, query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, subject title
+# 10 hits found
+NODE_6_length_651_cov_0.623616:93-489	983544	481	NODE_6_length_651_cov_0.623616:93-489	CP002825.1	88.804	393	42	2	1	392	2053554	2053945	3.37e-131	Lacinutrix sp. 5H-3-7-4, complete genome
+NODE_6_length_651_cov_0.623616:93-489	1486034	459	NODE_6_length_651_cov_0.623616:93-489	CP019352.1	87.786	393	46	2	1	392	2529894	2529503	1.58e-124	Lacinutrix venerupis strain DOK2-8, complete genome
+NODE_6_length_651_cov_0.623616:93-489	1218801	457	NODE_6_length_651_cov_0.623616:93-489	CP019288.1	88.144	388	40	6	1	385	4807169	4807553	5.68e-124	Kordia antarctica strain IMCC3317 chromosome, complete genome
+NODE_6_length_651_cov_0.623616:93-489	2686366	457	NODE_6_length_651_cov_0.623616:93-489	CP047030.1	87.786	393	44	4	1	391	700647	700257	5.68e-124	Algibacter sp. L3A6 chromosome, complete genome
+NODE_6_length_651_cov_0.623616:93-489	2653681	457	NODE_6_length_651_cov_0.623616:93-489	CP045067.1	87.817	394	42	5	1	391	2350492	2350882	5.68e-124	Lacinutrix sp. WUR7 chromosome, complete genome
+NODE_6_length_651_cov_0.623616:93-489	2686365	451	NODE_6_length_651_cov_0.623616:93-489	CP047029.1	87.532	393	45	4	1	391	2164078	2164468	2.64e-122	Algibacter sp. L1A34 chromosome, complete genome
+NODE_6_length_651_cov_0.623616:93-489	361581	448	NODE_6_length_651_cov_0.623616:93-489	KJ403432.1	87.245	392	50	0	1	392	92	483	3.42e-121	Tenacibaculum discolor strain FSIXSp1 Tuf (tuf) gene, partial cds
+NODE_6_length_651_cov_0.623616:93-489	361581	448	NODE_6_length_651_cov_0.623616:93-489	KJ403427.1	87.245	392	50	0	1	392	92	483	3.42e-121	Tenacibaculum discolor strain YSR-01 Tuf (tuf) gene, partial cds
+NODE_6_length_651_cov_0.623616:93-489	361581	448	NODE_6_length_651_cov_0.623616:93-489	KJ403408.1	87.245	392	50	0	1	392	92	483	3.42e-121	Tenacibaculum discolor strain 269-ITT Tuf (tuf) gene, partial cds
+NODE_6_length_651_cov_0.623616:93-489	361581	442	NODE_6_length_651_cov_0.623616:93-489	KJ403470.1	86.990	392	51	0	1	392	92	483	1.59e-119	Tenacibaculum discolor strain LL04_11.1.1 Tuf (tuf) gene, partial cds
+# BLAST processed 5 queries
