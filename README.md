@@ -366,7 +366,7 @@ Now download the [MAUVE](https://darlinglab.org/mauve/mauve.html) alignment plug
 
 ## Tutorial 3 Distilling Norwegian algal turf read datasets
 
-For this lab, students will review the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The tutorial will cover steps taken to process the following three samples: TTB000601, TTB000606, TTB000611.
+For this lab, students will review the various steps to distill large raw read files to curated BLAST reports for DNA barcode regions, which can be used to interpret species present within the algal turf samples. The tutorial will cover steps taken to process the following three samples: TTB000601, TTB000606, TTB000611. Specimen photos can be found here: https://drive.google.com/drive/folders/1EX7cczCrXq7ODOZHp4ddxP6jAzai07zQ?usp=sharing
 
 |Sample ID | Species | Sampling Location | Lat | Long | Date Sampled | Collector | BioSample Accession | Mitogenome resolved? | Chloroplast resolved? | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
