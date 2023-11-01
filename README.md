@@ -375,7 +375,7 @@ For this lab, students will review the various steps to distill large raw read f
 | TTB000539 | Mededithia microphylla | Hakonsund | 60.17599 | 5.110174 | Aug-5-2022 | T.T. Bringloe, L. LeGall, J. Utge | SRR25569779 | Yes | Yes | NA |
 | TTB000600 | Cladostephus spongiosus | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569773 | No | Yes | NA |
 | TTB000601 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringlo e| SRR25569772 | No | Yes | NA |
-| TTB000605 | Coccotylus brodiei | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569771 | Yes | Yes | NA |
+| TTB000605 | Coccotylus truncatus | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569771 | Yes | Yes | NA |
 | TTB000606 | Ascophyllum nodosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569770 | Yes | Yes | NA |
 | TTB000609 | Gelidium spinosum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569769 | Yes | No | NA |
 | TTB000610 | Chorda filum | Tjongspollen, Station 2 | 59.67424 | 5.233623 | Aug-9-2022 | T.T. Bringloe | SRR25569768 | No | No | NA |
