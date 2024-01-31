@@ -1,4 +1,4 @@
-![image](https://github.com/tbringloe/Bioinformatics-CrashCourse/assets/79611349/3c6e07df-8830-4ac6-9281-fb2c53000d5f)# Basic Introduction to Bioinformatics for Undergraduate Teaching
+# Basic Introduction to Bioinformatics for Undergraduate Teaching
 
 __Main author:__  Trevor T. Bringloe  
 __Affiliation:__  University of New Brunswick (UNB)   
